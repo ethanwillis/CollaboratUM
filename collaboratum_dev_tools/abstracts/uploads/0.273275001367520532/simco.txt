@@ -1,0 +1,867 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Jia, Yanju
+   Liu, Qinghua
+   Goudie, Cheryl A.
+   Simco, Bill A.
+TI Survival, Growth, and Feed Utilization of Pre- and Postmetamorphic
+   American Shad Exposed to Increasing Salinity
+SO NORTH AMERICAN JOURNAL OF AQUACULTURE
+VL 71
+IS 3
+BP 197
+EP 205
+DI 10.1577/A07-095.1
+PD JUL 2009
+PY 2009
+AB The American shad Alosa supidissima is currently in emerging aquaculture
+   species in China, and establishing conditions required for optimal
+   growth will play a key role in future development of American shad
+   Culture. We evaluated the effects of increasing salinity concentrations
+   on survival, growth. and feed utilization of American shad in two
+   separate 30-d experiments. In experiment 1, 25-d-old. premetamorphic
+   fish (mean weight +/- SD = 0.07 +/- 0.04 g) were exposed to 0, 10, 20,
+   and 30-ppt salinity (26-29 degrees C). In experiment 2, 80-d-old.
+   postmetamorphic fish (1.46 +/- 0.52 g) were exposed to 0, 5, 10, 20, and
+   30-ppt salinity (21-26 degrees C). Mortality was markedly higher at
+   salinities of 20 ppt (52% and 74%, respectively. for pre- and
+   postmetarnorphic fish) and 30 ppt (100% and 90%, respectively) than at 0
+   and 5 ppt (< 1%). Specific growth rate (SGR) and feed conversion
+   efficiency (FCE) were highest at 0-ppt salinity for premetamorphic fish
+   (SGR = 8.81% per day; FCE = 1.12) and in 5-ppt salinity for
+   postmetamorphic fish (SGR = 4.59% per day: FCE = 0.87). The SGR and FCE
+   were lowest at 30-ppt salinity, and a significant negative relationship
+   was demonstrated between salinity and SGR and between salinity and FCE.
+   In both experiments. SGR and FCE were positively correlated. Our
+   observations demonstrate that culture of young American shad may be
+   possible all salinities up to 10 ppt, but 0-5-ppt salinity produced the
+   best growth.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1522-2055
+UT WOS:000268504400002
+ER
+
+PT J
+AU Ourth, Donald D.
+   Naffa, Madhu B.
+   Simco, Bill A.
+TI Comparative study of mannose-binding C-type lectin isolated from channel
+   catfish (Ictalurus punctatus) and blue catfish (Ictalurus furcatus)
+SO FISH & SHELLFISH IMMUNOLOGY
+VL 23
+IS 6
+BP 1152
+EP 1160
+DI 10.1016/j.fsi.2007.03.014
+PD DEC 2007
+PY 2007
+AB Mannose-binding C-type lectin (MBL) was isolated from channel catfish
+   (Ictaturus punctatus) NWAC 102 and 103 strains, blue catfish (Ictalurus
+   furcatus) D+B and Rio Grande strains, hybrid catfish (channel catfish
+   female NWAC 103 x blue catfish male D+B) sera, and purified by affinity
+   chromatography from channel catfish Norris strain serum. Reduction of
+   purified channel catfish MBL with 2-ME yielded a single band of 62 kDa
+   by SDS-PAGE and Western blot analysis using guinea pig anti-MBL IgG as
+   primary antibody. Channel catfish NWAC 102 strain, channel catfish NWAC
+   103 strain and hybrid catfish sera had molecular masses of 63 kDa for
+   MBL. Blue catfish (D+B strain) serum MBL had a molecular mass of 66 kDa.
+   Rio Grande blue catfish serum MBL had a molecular mass of 65 kDa. Amino
+   acid composition analysis (mol%) of the affinity-purified channel
+   catfish MBL found a high content of serine present. Functional binding
+   studies of channel catfish and blue catfish MBLs binding to Edwardsiella
+   ictaluri were done using a dot-immunoblot ELISA method. A dot-immunoblot
+   ELISA binding assay was done to compare nine different strains and
+   species of channel catfish and blue catfish for their levels of serum
+   MBL. Blue catfish had higher levels of MBL than did the various strains
+   of channel catfish tested. MBL could be used as a genetic marker for
+   selection of disease resistance in the different strains of catfish used
+   in aquaculture. This study describes the presence of serum MBL in
+   catfish and evidence for a C-type lectin complement pathway of innate
+   immunity. (c) 2007 Elsevier Ltd. All rights reserved.
+TC 10
+ZB 9
+Z8 1
+Z9 11
+SN 1050-4648
+UT WOS:000251472700002
+ER
+
+PT J
+AU Davis, Kenneth B.
+   Goudie, Cheryl A.
+   Simco, Bill A.
+TI Sex genotype and sex phenotype contribute to growth differences between
+   male and female channel catfish
+SO NORTH AMERICAN JOURNAL OF AQUACULTURE
+VL 69
+IS 4
+BP 324
+EP 329
+DI 10.1577/A06-057.1
+PD OCT 2007
+PY 2007
+AB Channel catfish Ictalurus punctatus have an XX female-XY male genotypic
+   system of Sex determination, and male channel catfish grow faster than
+   females. Through selective breeding and appropriately timed hormone
+   administration, we have produced phenotypic male channel catfish with a
+   YY sex genotype and female channel catfish with an XY or YY sex
+   genotype. In this study, we evaluated the relative role of sex genotype
+   and sex phenotype in regulating sexually dimorphic growth in this
+   important aquaculture species. Ten families of genotypic XY male fish
+   were produced by matings of normal XX female fish with YY male fish, and
+   females were produced by hormonal feminization of a subsample from each
+   family. The growth rate and body composition of sibling males and
+   females in ponds where the sexes were maintained together were compared
+   with those in ponds where the sexes were maintained separately.
+   Generally, phenotypic males had higher body weight (15.25% and 11.36%
+   when the sexes were together or separated, respectively), standard
+   length (3.28% and 2.24%, respectively), and condition factor (2.94 and
+   2.65, respectively), while phenotypic females had higher liposomatic
+   index (7.11% and 13.69%, respectively) and dress-out percentage (0.91%
+   and 1.06%, respectively). Statistical differences between the phenotypic
+   sexes were not as consistent as observed in previous studies with normal
+   males and females because growth and body composition differences were
+   enhanced when the sexes were maintained together; however, monosex
+   culture restrained these differences. These results demonstrate that sex
+   genotype and sex phenotype both contribute to the male growth advantage
+   in channel catfish and provide further evidence that monosex male
+   culture would produce an economic gain of about 5% for the industry
+   compared with conventional mixed-sex culture.
+TC 4
+ZB 2
+Z8 0
+Z9 4
+SN 1522-2055
+UT WOS:000251040600006
+ER
+
+PT J
+AU Jia Yan-Ju
+   Chen Yi-Feng
+   Goudie, Cheryl A.
+   Simco, Bill A.
+   Liu Qing-Hua
+TI Potential invasion risk of the introduced American shad Alosa
+   sapidissima to aquatic ecosystem in China
+SO Acta Zoologica Sinica
+VL 53
+IS 4
+BP 625
+EP 629
+PD AUG 2007
+PY 2007
+AB American shad Alosa sapidissima were introduced into China for
+   aquaculture several years ago. Growth and reproduction of American shad
+   maintained exclusively in artificial freshwater culture system were
+   reported in this study. Size of cultured population in this experiment
+   was similar to that of the wild population from the coastal North
+   Carolina, and somewhat higher than that of the wild population from the
+   Delaware River near Lambertville, USA. Two-year-old broodfish spawned
+   naturally in ponds, or were induced to spawn with injections of Ovaprim.
+   Mean fertilization, hatching and seventeen day survival rates of larvae
+   were about 15%, 75% and 54% respectively. These results indicate
+   American shad can be successfully established in artificial freshwater
+   culture system when its favorable living environments are provided.
+   Based on these results and other biological characteristics, it can be
+   concluded that American shad may become a potential invader to the
+   aquatic ecosystem in China when escaping from farms [ Acta Zoologica
+   Sinica 53 (4) : 625 - 629, 2007].
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0001-7302
+UT BIOABS:BACD200700370217
+ER
+
+PT J
+AU Davis, KB
+   Simco, BA
+   Silverstein, JT
+TI Relationship of gonadal development to body size and plasma sex hormone
+   concentrations in female channel catfish
+SO NORTH AMERICAN JOURNAL OF AQUACULTURE
+VL 67
+IS 3
+BP 259
+EP 264
+DI 10.1577/A04-066.1
+PD JUL 2005
+PY 2005
+AB Most channel catfish Ictalurus punctatus do not spawn until age 3, which
+   makes the process of genetic selection for desired characteristics time
+   consuming. A simple method for identifying earlier-maturing fish would
+   speed up the selection process. Two- and three-year-old females (U.S.
+   Department of Agriculture [USDA]-103 strain) were used to correlate body
+   weight and plasma sex hormone concentrations with gonadal development.
+   We also examined the potential of reducing the time to maturation with
+   exogenous estrogen. The USDA-103 females are known to spawn at age 2 in
+   a higher percentage than other strains. The body weight of 2-year-old
+   USDA-103 females ranged from 436 to 884 g, and the gonadosomatic index
+   (GSI) ranged from 0.34% to 6.64%. A population of 2-year-old USDA-103
+   fish that had been hormonally sex-reversed to females (SR103) weighed
+   from 400 to 1,400 g and had GSIs ranging from 1% to 10%. Three-year-old
+   SR103 females weighed from 1,300 to 2,800 g and had GSIs ranging from 2%
+   to 14%. Only about 10% of the 2-year-old SR103 females had GSI values
+   similar to the expected level for fish ready to spawn. Plasma estrogen
+   concentration was a more reliable predictor of GSI than was body weight.
+   Body size was significantly correlated with GSI in 2-year-old USDA-103
+   and SR103 females but not in 3-year-old SR103 fish; plasma estrogen was
+   highly correlated with GSI in fish of both ages. Plasma estrogen,
+   testosterone, and GSI were markedly lower in 2-year-old fish than in
+   3-year-old fish in both populations of USDA females. Oral administration
+   of estrogen to 2-year-old USDA-103 females increased plasma estrogen but
+   did not increase ovarian development.
+TC 2
+ZB 3
+Z8 0
+Z9 3
+SN 1522-2055
+UT WOS:000230772500012
+ER
+
+PT J
+AU Mazik, Patricia M.
+   Simco, Bill A.
+   Parker, Nick C.
+TI Influence of water hardness, salts and MS-222 on survival of phase I
+   striped bass during and after transport.
+SO Proceedings of the Annual Conference Southeastern Association of Fish
+   and Wildlife Agencies
+VL 56
+BP 75
+EP 78
+PD 2002
+PY 2002
+AB Phase I striped bass hauled in varying levels of sodium chloride (NaCl)
+   had significantly higher survival than fish hauled in varying levels of
+   calcium chloride (CaCI2), regardless if the fish came from a hard water
+   or soft water hatchery. The addition of MS-222 to the transport water
+   did not have a beneficial effect on phase I striped bass survival.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0276-7929
+UT ZOOREC:ZOOR14004021336
+ER
+
+PT J
+AU Davis, KB
+   Simco, BA
+   Li, MH
+   Robinson, E
+TI The effect of constant and fluctuating temperatures on the
+   confinement-induced plasma cortisol stress response in channel catfish
+   Ictalurus punctatus
+SO JOURNAL OF THE WORLD AQUACULTURE SOCIETY
+VL 32
+IS 4
+BP 422
+EP 425
+DI 10.1111/j.1749-7345.2001.tb00469.x
+PD DEC 2001
+PY 2001
+AB Initial and confinement-induced changes of plasma cortisol were measured
+   in channel catfish Ictalurus punctatus acclimated to upper and lower
+   constant temperatures for each season, a spring/fall diurnal pattern
+   between 15 and 26 C, and a summer diurnal pattern between 24 and 35 C.
+   In diurnal treatments, temperature changes were achieved in 10 h and
+   held constant for 2 h before reversing the temperature. Fish held in the
+   spring/fall pattern or at a constant temperature of 15 or 26 C revealed
+   no plasma cortisol concentration differences due to acclimation
+   temperature, but hormone concentrations in all groups increased by about
+   4.5 fold following a 2-h confinement. Fish held on a summer pattern had
+   differences in both the initial cortisol samples and those measured
+   after confinement. Acclimation to a constant 35 C resulted in
+   significantly higher initial cortisol concentrations, but these levels
+   did not increase following confinement. The inability of the fish held
+   at 35 C to respond to the confinement was thought to be due to the
+   constant thermal stress, resulting in an inadequate interrenal reserve.
+   Physiological consequences due to the diurnal physiochemical cycling in
+   ponds needs further attention.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0893-8849
+UT WOS:000173185600009
+ER
+
+PT J
+AU Mazik, Patricia M.
+   Simco, Bill A.
+   Parker, Nick C.
+TI Relation of environmental calcium and pH to the stress response of
+   striped bass.
+SO Proceedings of the Annual Conference Southeastern Association of Fish
+   and Wildlife Agencies
+VL 55
+BP 208
+EP 217
+PD 2001
+PY 2001
+AB Striped bass fingerlings (Morone saxatilis) acclimated to hard water
+   (110 mg/liter as calcium carbonate, 41.0 mg/liter as calcium) were
+   exposed for 96 hours at pH 7.7, 6.1, or 4.2 in hard water. In another
+   experiment, striped bass fingerlings acclimated to soft water (32
+   mg/liter as calcium carbonate, 9.5 mg/liter as calcium) were exposed for
+   96 h at pH 7.7, 6.1, or 4.2 in soft water. No mortalities occurred
+   during the experiments. The primary stress response and electrolyte
+   disturbance were less severe in fish acclimated to hard water than in
+   fish acclimated to soft water, suggesting that calcium acclimation
+   history may be an important consideration when stocking striped bass
+   into acidic waters.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0276-7929
+UT ZOOREC:ZOOR13900049362
+ER
+
+PT J
+AU Mazik, Patricia M.
+   Simco, Bill A.
+   Parker, Nick C.
+TI Influence of sodium and calcium chloride on the stress response and
+   survival of striped bass during and after transport from a hard and soft
+   water hatchery.
+SO Proceedings of the Annual Conference Southeastern Association of Fish
+   and Wildlife Agencies
+VL 54
+BP 118
+EP 127
+PD 2000
+PY 2000
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0276-7929
+UT ZOOREC:ZOOR13800035346
+ER
+
+PT J
+AU Davis, KB
+   Simco, BA
+   Li, M
+   Robinson, E
+TI Effect of reduction of supplementary dietary vitamins on the stress
+   response of channel catfish Ictalurus punctatus
+SO JOURNAL OF THE WORLD AQUACULTURE SOCIETY
+VL 29
+IS 3
+BP 319
+EP 324
+DI 10.1111/j.1749-7345.1998.tb00653.x
+PD SEP 1998
+PY 1998
+AB The influence of reduced amounts of supplemental vitamins on the stress
+   response of channel catfish Ictalurus punctatus was determined. Fish
+   were fed diets with reduced levels of supplemental vitamin C, niacin,
+   riboflavin, pantothenic acid, pyridoxine or thiamine, or with reduced
+   amounts of the total vitamin supplement typically added to catfish feed.
+   Fish were confined for 6 h and blood samples taken at 0, 1 and 6 h of
+   confinement and 12 h after release. Plasma chloride and osmotic pressure
+   were consistently stable throughout the experiment and were not
+   influenced by the diet or the stress imposed. Cortisol concentrations
+   were elevated at 1 and 6 h of confinement but recovered to
+   preconfinement concentrations 12 h after release. The cortisol response
+   varied in some of the groups; however, no consistent effects due to the
+   vitamin concentrations were observed. The lack of supplemental vitamins
+   in the food did not impair the ability of the fish to mount or maintain
+   cortisol secretion. The feed ingredients may contain enough vitamins to
+   support cortisol synthesis or the fish may be acquiring sufficient
+   additional vitamins from the pond environment or from intestinal
+   bacteria.
+TC 5
+ZB 4
+Z8 0
+Z9 5
+SN 0893-8849
+UT WOS:000075984200007
+ER
+
+PT J
+AU Patino, R
+   Davis, KB
+   Schoore, JE
+   Uguz, C
+   Strussmann, CA
+   Parker, NC
+   Simco, BA
+   Goudie, CA
+TI Sex differentiation of channel catfish gonads: Normal development and
+   effects of temperature
+SO JOURNAL OF EXPERIMENTAL ZOOLOGY
+VL 276
+IS 3
+BP 209
+EP 218
+DI 10.1002/(SICI)1097-010X(19961015)276:3<209::AID-JEZ5>3.0.CO;2-R
+PD OCT 15 1996
+PY 1996
+AB Channel catfish have an XX female-XY male sex determination system.
+   Although genetic males of this species are readily feminized with
+   exogenous steroid, the pattern of gonadal sex differentiation and the
+   effect of temperature on genetic sex determination are unknown. To
+   document the pattern of gonadal sex differentiation, catfish from a
+   mixed-sex progeny (XX female-XY male cross), known XY males (XX
+   female-YY male cross), and steroid sex-reversed (XY) females were reared
+   at 28 degrees C and collected for histological analysis from Day 7 to
+   Day 90 postfertilization. No signs of gonadal sex differentiation were
+   detected from Day 7 to Day 16. On Day 19, about half the fish from the
+   mixed-sex population as well as the sex-reversed females had gonads with
+   proximal and distal tissue outgrowths. These outgrowths eventually fused
+   to form an ovarian cavity. Germ cell meiosis in these gonads was first
+   detected on Day 22 and growing ovarian follicles were seen at later
+   stages. Thus, ovarian differentiation began about Day 19. Although
+   presumptive testes lose their sensitivity to feminizing steroids about
+   Day 19, the gonads of known males and of putative males from the
+   mixed-sex population showed no clear signs of sex differentiation up to
+   Day 90. Thus, the prolonged temporal dissociation between testicular
+   commitment and differentiation indicates that these two events may be
+   mediated by separate stimuli. To determine the effects of temperature on
+   sex determination, fish of a mixed-sex population were reared at 27
+   degrees C until Day 10; at 20 degrees, 27 degrees, or 34 degrees C from
+   Day 10 to Day 24; and then at 27 degrees C until Day 102 when sex ratios
+   and gonadal histology were determined. The sex ratio was significantly
+   skewed toward females in fish treated at 34 degrees C (1 male:1.68
+   female; P < 0.01) but no effects were seen at 20 degrees or 27 degrees
+   C. This observation suggests that genetic and temperature-dependent
+   mechanisms of sex determination are both functional in channel catfish
+   and that this phenomenon is more widespread in fishes than previously
+   believed. The testes of the Day 102 males examined had developed
+   positive histological signs of sex differentiation, suggesting that
+   testicular formation in channel catfish normally starts between Day 90
+   and 102. (C) 1996 Wiley-Liss, Inc.*
+TC 64
+ZB 63
+Z8 12
+Z9 78
+SN 0022-104X
+UT WOS:A1996VR07900005
+ER
+
+PT J
+AU Liu, QH
+   Goudie, CA
+   Simco, BA
+   Davis, KB
+   Morizot, DC
+TI Isozyme expression and gene-centromere distances in diploid and triploid
+   hybrid catfish
+SO TRANSACTIONS OF THE AMERICAN FISHERIES SOCIETY
+VL 125
+IS 1
+BP 56
+EP 65
+DI 10.1577/1548-8659(1996)125<0056:IEAGCD>2.3.CO;2
+PD JAN 1996
+PY 1996
+AB Allozyme expression of 14 loci was studied in diploid channel catfish
+   Ictalurus punctatus, blue catfish I. furcatus, and diploid and triploid
+   hybrid catfish (channel catfish X blue catfish). This allowed
+   appropriate interpretation of allozyme expression and estimates of
+   gene-centromere distances in triploid hybrid catfish and contributed to
+   genetic characterization of the commercially important ictalurid
+   catfishes. Five polymorphic loci in the parental female channel catfish
+   were used to confirm the retention of an extra diagnostic maternal
+   allele in triploid offspring. Fidelity of gene dosage and allozyme
+   expression of three parental alleles were found at 13 of 14 loci of
+   triploid progeny; however, expression of phosphoglucomutase (PGM) in 174
+   and 197 triploid hybrids was similar to that of diploid hybrids.
+   Electrophoretic variation for PGM was observed when different buffers
+   were used, indicating nongenetic alteration of expression. Two
+   polymorphic loci in triploid hybrid catfish provided new gene-centromere
+   distances of 14 centimorgans (cM) for aspartate aminotransferase (mAAT*)
+   and 45 cM for glucose-6-phosphate isomerase (GPI-A*). No differences
+   were found in recombination rates of isocitrate dehydrogenase (IDHP*)
+   and peptidase-5 (PEPS-l*) loci of triploid hybrids at different ages.
+TC 6
+ZB 4
+Z8 1
+Z9 7
+SN 0002-8487
+UT WOS:A1996TP35000006
+ER
+
+PT J
+AU Goudie, CA
+   Liu, QH
+   Simco, BA
+   Davis, KB
+TI Genetic relationship of growth, sex and glucosephosphate isomerase-B
+   phenotypes in channel catfish (Ictalurus punctatus)
+SO AQUACULTURE
+VL 138
+IS 1-4
+BP 119
+EP 124
+DI 10.1016/0044-8486(95)01077-7
+PD DEC 15 1995
+PY 1995
+AB Growth of fish has been associated with the phenotypes of specific
+   biochemical genetic loci, although the correlation of growth with
+   sex-specific loci has not been routinely studied, In a previous study in
+   channel catfish (Ictalurus punctatus), glucose phosphate isomerase-B
+   (GPI-B) was linked with the sex-determining gene (SDG) with a
+   recombination frequency of 15.2%. Growth performance related to sex and
+   GPI-B phenotypes was investigated in five experimental matings of
+   channel catfish, The association of sex and GPI-B with growth,
+   differences in growth among GPI-B phenotypes, and the degree of linkage
+   with growth between sex and GPI-B were evaluated by ANOVA followed by
+   Duncan's Multiple Range Test (P < 0.05). Significant growth differences
+   were found between males and females in all families examined; males
+   outweighed females by 36%, confirming observations from earlier studies.
+   The phenotypes of GPI-B were also associated with growth; however,
+   heterozygotes at GPI-B exhibited higher relative weight than homozygotes
+   only when the paternal parent was heterozygous, indicating that the
+   heterozygosity of this allozyme did not directly induce the observed
+   growth advantage. No growth advantage of heterozygosity in GPI-B was
+   observed when recombination occurred between GPI-B and SDG; male and
+   female recombinants had similar or lower relative weights compared to
+   offspring with parental genotypes. These data indicate that sex is more
+   tightly linked with growth-related gene(s) than GPI-B phenotypes, and no
+   evidence supported direct involvement of GPI-B in growth of channel
+   catfish.
+TC 4
+ZB 3
+Z8 2
+Z9 6
+SN 0044-8486
+UT WOS:A1995TP12900011
+ER
+
+PT J
+AU GOUDIE, CA
+   SIMCO, BA
+   DAVIS, KB
+   LIU, QH
+TI PRODUCTION OF GYNOGENETIC AND POLYPLOID CATFISH BY PRESSURE-INDUCED
+   CHROMOSOME SET MANIPULATION
+SO AQUACULTURE
+VL 133
+IS 3-4
+BP 185
+EP 198
+DI 10.1016/0044-8486(94)00367-W
+PD JUN 15 1995
+PY 1995
+AB Channel catfish (Ictalurus punctatus) eggs fertilized with sperm from
+   blue catfish (I.furcatus) or channel catfish (60 or 90 s UV-irradiated,
+   0.08 or 0.12 J/cm(2), respectively; 20-30% motility) were subjected to
+   early hydrostatic pressure (5 min post-fertilization; 8000 psi; 3 min
+   duration) to produce meiotic gynogens or late hydrostatic pressure (90
+   min post-fertilization) to produce mitotic gynogens. Polyploid hybrid
+   catfish (I.punctatus X I.furcatus) were produced using eggs fertilized
+   with untreated sperm followed by pressure treatments. Eggs fertilized
+   with irradiated sperm (putative haploids) exhibited slow and abnormal
+   development, and did not survive to hatch. Pressure treatments reduced
+   the frequency of normal development at blastula, neurula and tailbud
+   stages compared with stripped controls, Relative survival at 1.5 months
+   was 2% for meiotic and 0.2% for mitotic gynogens, and 66% for triploid
+   and 8% for tetraploid groups, compared with 27% survival of stripped
+   controls. Sex ratios varied among families in hybrid groups but averaged
+   close to 1:1 male:female, whereas offspring in gynogenetic families were
+   all female, Particle size analysis of erythrocyte nuclear volumes
+   indicated 91-100% triploidy induction, but only 4% tetraploidy
+   induction, Although the numbers of gynogenetic channel catfish produced
+   were small, the more than 500 viable offspring surviving represent
+   foundation broodstock to facilitate genetic improvement strategies in
+   this commercially important species.
+TC 42
+ZB 40
+Z8 7
+Z9 50
+SN 0044-8486
+UT WOS:A1995RG04200002
+ER
+
+PT J
+AU Chung, Kin-Thom
+   Zhao, Guojing
+   Stevens., Edward, Jr.
+   Simco, Bill A.
+   Wei, C. I.
+TI Growth inhibition of selected aquatic bacteria by tannic acid and
+   related compounds
+SO Journal of Aquatic Animal Health
+VL 7
+IS 1
+BP 46
+EP 49
+DI 10.1577/1548-8667(1995)007<0046:GIOSAB>2.3.CO;2
+PD 1995
+PY 1995
+AB Tannic acid, propyl gallate, methyl gallate, and gallic acid were tested
+   for their inhibitory effects on selected aquatic microorganisms by the
+   well assay technique. Tannic acid, propyl gallate, and methyl gallate in
+   deionized water inhibited the growth of Aeromonas hydrophila, A. sobria,
+   Edwardsiella ictaluri, E. tarda, Pseudomonas fluorescens, and
+   Escherichia coli, but gallic acid did not. When 500-mu-g/mL
+   concentrations of these four compounds were tested in sterilized fish
+   pond water at pH 7.0 and with a low bacterial inoculum of 10-3-10-4
+   colony-forming units (CFU) per milliliter, they inhibited the growth of
+   P. fluorescens and (except for tannic acid) E. coli. Pseudomonas
+   fluorescens inoculated at 10-3-10-4 CFU/mL in pond water was inhibited
+   by methyl gallate, propyl gallate, and tannic acid concentrations as low
+   as 50 mu-g/mL, but a gallic acid contraction of 100 mu-g/mL was required
+   for inhibition. Escherichia coli was inhibited by methyl gallate and
+   propyl gallate at 250 mu-g/mL and by gallic acid at 500 mu-g/mL, but it
+   was not inhibited by tannic acid at concentrations up to 500 mu-g/mL in
+   water of pH 7.0. Tannic acid (500 mu-g/mL) did inhibit E. coli growth at
+   pH 4.5.
+TC 19
+ZB 16
+Z8 0
+Z9 19
+SN 0899-7659
+UT BIOABS:BACD199598222100
+ER
+
+PT J
+AU Schoore, Jerolyn E.
+   Simco, Bill A.
+   Davis, Kenneth B.
+TI Responses of blue catfish and channel catfish to environmental nitrite
+SO Journal of Aquatic Animal Health
+VL 7
+IS 4
+BP 304
+EP 311
+DI 10.1577/1548-8667(1995)007<0304:ROBCAC>2.3.CO;2
+PD 1995
+PY 1995
+AB In nitrite-exposure experiments, percent methemoglobin, plasma nitrite
+   concentration, and plasma chloride ion concentration were compared
+   between channel catfish Ictalurus punctatus and blue catfish L. furcatus
+   exposed to sublethal levels of nitrite for 48 h at 25 degree C. In
+   nitrite-recovery experiments, fish exposed to elevated environmental
+   nitrite for 12 h were transferred to freshwater, and blood
+   characteristics were monitored during the 24-h recovery period. Blue
+   catfish appeared to be more resistant to environmental nitrite than
+   channel catfish. Methemoglobin levels (percent of hemoglobin in
+   methemoglobin form) were significantly lower in blue catfish than in
+   channel catfish. Maximum plasma nitrite concentrations were 137 mg
+   NO-2-/L plasma in blue catfish and 164 mg NO-2-/L plasma in channel
+   catfish. Percent methemoglobin and plasma nitrite concentration were
+   closely correlated. Plasma chloride decreased initially with exposure to
+   nitrite but quickly returned to control levels. Blue catfish exposed to
+   nitrite at 10 degree C required 1 week to recover when placed in
+   nitrite-free water. The methemoglobin reductase enzyme apparently
+   functioned at a slow rate in fish acclimated to cold temperatures.
+TC 8
+ZB 8
+Z8 0
+Z9 10
+SN 0899-7659
+UT BIOABS:BACD199698677743
+ER
+
+PT J
+AU GOUDIE, CA
+   SIMCO, BA
+   DAVIS, KB
+   CARMICHAEL, GJ
+TI GROWTH OF CHANNEL CATFISH IN MIXED-SEX AND MONOSEX POND CULTURE
+SO AQUACULTURE
+VL 128
+IS 1-2
+BP 97
+EP 104
+DI 10.1016/0044-8486(94)90105-8
+PD DEC 1 1994
+PY 1994
+AB Growth of male and female channel catfish (Ictalurus punctatus) was
+   monitored for 6 months in triplicate 0.04-ha ponds (7500 fish/ha)
+   stocked with mixed sexes (60-65% male), monosex males (90-98% male) or
+   monosex females (98-100% female).  Average weight and length and total
+   weight were not different among treatment groups at any of the monthly
+   samples.  Harvest size of males was similar in ponds stocked with mixed
+   sexes (mean +/- s.e.; 579 +/- 10 g and 324 +/- 2 mm, n = 184), monosex
+   males (596 +/- 9 g and 326 +/- 2 mm, n = 282) and monosex females (607
+   +/- 48 g and 333 +/- 6 mm, n = 3), parallel to the pattern observed for
+   females in ponds stocked with mixed sexes (474 +/- 10 g and 305 +/- 2
+   mm, n = 116), monosex males (458 +/- 21 g and 302 +/- 5 mm, n = 18) and
+   monosex females (494 +/- 7 g and 311 +/- 1 mm, n = 297).  Males were
+   significantly heavier and longer than females in ponds with mixed sexes
+   and with monosex males, but females and the small number of males in
+   monosex female ponds were not statistically different in size.  Feed
+   conversion efficiencies were similar among treatment groups at each
+   monthly sample, but the overall average for ponds with monosex males
+   (0.743 +/- 0.01) was significantly higher than ponds with mixed sexes
+   (0.670 +/- 0.02) and monosex females (0.676 +/- 0.01).  Intrinsic growth
+   patterns for both sexes were retained in monosex and mixed sex culture,
+   demonstrating that the superior growth of males has a genetic component
+   and is not due simply to more aggressive feeding behavior.  The average
+   weight of channel catfish harvested from monosex male ponds was about
+   8.5% higher than fish in mixed sex ponds and 15% higher than fish in
+   monosex female ponds, suggesting that culture of monosex male channel
+   catfish could provide an economic benefit.
+TC 9
+ZB 8
+Z8 0
+Z9 9
+SN 0044-8486
+UT WOS:A1994PT67200010
+ER
+
+PT J
+AU Goudie, Cheryl A.
+   Tiersch, Terrence R.
+   Simco, Bill A.
+   Davis, Kenneth B.
+   Qinghua Liu
+TI Early growth and morphology among hybrids of ictalurid catfishes.
+SO Journal of Applied Aquaculture
+VL 3
+IS 3-4
+BP 235
+EP 256
+PD 1993(1994)
+PY 1994
+TC 7
+ZB 4
+Z8 0
+Z9 7
+SN 1045-4438
+UT ZOOREC:ZOOR13100061159
+ER
+
+PT B
+AU Goudie, Cheryl A.
+   Davis, Kenneth B.
+   Simco, Bill A.
+BE MacKinlay, Don D.
+TI Production of monosex populations: the channel catfish model.
+SO High performance fish: proceedings of an international fish physiology
+   symposium held at the University of British Columbia in Vancouver,
+   Canada, July 16-21, 1994.
+BP 150
+EP 155
+PD 1994
+PY 1994
+TC 2
+ZB 1
+Z8 0
+Z9 2
+BN 0-9698631-0-1
+UT ZOOREC:ZOOR13400025552
+ER
+
+PT B
+AU Mazik, Patricia M.
+   Simco, Bill A.
+BE MacKinlay, Don D.
+TI The effects of size, water hardness, salt levels and MS-222 on the
+   survival and stress response in striped bass (Morone saxatilis).
+SO High performance fish: proceedings of an international fish physiology
+   symposium held at the University of British Columbia in Vancouver,
+   Canada, July 16-21, 1994.
+BP 425
+EP 430
+PD 1994
+PY 1994
+TC 1
+ZB 1
+Z8 0
+Z9 1
+BN 0-9698631-0-1
+UT ZOOREC:ZOOR13400025586
+ER
+
+PT J
+AU GOUDIE, CA
+   SIMCO, BA
+   DAVIS, KB
+   CARMICHAEL, GJ
+TI SIZE GRADING MAY ALTER SEX-RATIOS OF FINGERLING CHANNEL CATFISH
+SO PROGRESSIVE FISH-CULTURIST
+VL 55
+IS 1
+BP 9
+EP 15
+DI 10.1577/1548-8640(1993)055<0009:SGMASR>2.3.CO;2
+PD JAN 1993
+PY 1993
+AB The influence of size grading on sex ratios and growth was evaluated for
+   small (0.2-4.0 g) channel catfish (Ictalurus punctatus). Channel catfish
+   from 15 families were ungraded or were graded into two or three
+   size-groups by mean of bar graders with 0.40-0.99-cm slot widths. The 57
+   groups obtained were reared separately for 3-4 months in 150-L
+   fiberglass tanks. Weight, length, and sex were then determined on up to
+   100 fish per group. The frequency of males from all families was 51.5%;
+   although progeny from individual families varied from 45.1 to 56.0%
+   males, the frequencies were not different from the expected 1:1 male:
+   female ratio. Males usually were preferentially selected (mean +/- SD,
+   65.1 +/- 3.5%) by a grader with a slot width of 0.91 cm, which retained
+   the largest fish in a population; graders with smaller slot widths did
+   not consistently affect the sex distribution. Harvest size of
+   fingerlings was variable and was influenced by initial weights and
+   densities; family-by-grader interactions were significant (P
+   less-than-or-equal-to 0.05). Sexually dimorphic growth was observed in
+   19 of 57 tanks, and in those instances males were always larger than
+   females. Variances for weight and length between sexes were different in
+   less than 10% of the tanks, and the magnitude of the variance
+   differences was significantly influenced by families. These results
+   suggest that grading fingerlings as small as 3 g can affect sex ratios
+   and that channel catfish families may be selected to enhance or decrease
+   sex-related growth differences.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0033-0779
+UT WOS:A1993LG66600002
+ER
+
+PT J
+AU Goudie, Cheryl A.
+   Simco, Bill A.
+   Davis, Kenneth B.
+   Parker, Nick D.
+TI Reproductive performance of pigmented and albino female channel catfish
+   induced to spawn with HCG or ovaprim
+SO Journal of the World Aquaculture Society
+VL 23
+IS 2
+BP 138
+EP 145
+DI 10.1111/j.1749-7345.1992.tb00762.x
+PD 1992
+PY 1992
+AB Reproductive performance of albino and pigmented channel catfish
+   (Ictalurus punctatus) females was compared when spawning was induced
+   with HCG (human chorionic gonadotropin) or Ovaprim-3 (domperidone and
+   (d-Ala-6, Pro-9 NEt)-luteinizing hormone-releasing hormone). In 1985,
+   only HCG was used to induce spawning. Albino females required more
+   injections, had a longer latency period from time of first injection to
+   spawning, and had lower spawning success (30%) than pigmented females
+   (77%). No differences were observed between albino and pigmented females
+   for time-of-day of spawning, number of eggs obtained by manual
+   stripping, and number of eggs/kg body weight. In 1988, HCG, Ovaprim, and
+   saline (control) were used to induce spawning. HCG induced spawning in
+   80% of albino and 71% of pigmented females. Ovaprim induced 67% of
+   pigmented females to spawn, but only 2 of 5 albino females spawned. One
+   of four pigmented females injected with saline spawned. Albino females
+   yielded 40-50% fewer eggs/kg body weight than pigmented females. Other
+   performance characteristics for albino and pigmented females were
+   similar whether injected with HCG or Ovaprim. High temperatures
+   encountered during the 1985 spawning season may have had a differential
+   effect on albino and pigmented fish and may account for some differences
+   in spawning success.
+TC 13
+ZB 10
+Z8 0
+Z9 13
+SN 0893-8849
+UT BIOABS:BACD199395014866
+ER
+
+EF

@@ -1,0 +1,1586 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Roy, Sujoy
+   Heinrich, Kevin
+   Vinhthuy Phan
+   Berry, Michael W.
+   Homayouni, Ramin
+TI Latent Semantic Indexing of PubMed abstracts for identification of
+   transcription factor candidates from microarray derived gene sets
+SO BMC BIOINFORMATICS
+VL 12
+AR S19
+DI 10.1186/1471-2105-12-S10-S19
+SU 10
+PD OCT 18 2011
+PY 2011
+AB Background: Identification of transcription factors (TFs) responsible
+   for modulation of differentially expressed genes is a key step in
+   deducing gene regulatory pathways. Most current methods identify TFs by
+   searching for presence of DNA binding motifs in the promoter regions of
+   co-regulated genes. However, this strategy may not always be useful as
+   presence of a motif does not necessarily imply a regulatory role.
+   Conversely, motif presence may not be required for a TF to regulate a
+   set of genes. Therefore, it is imperative to include functional
+   (biochemical and molecular) associations, such as those found in the
+   biomedical literature, into algorithms for identification of putative
+   regulatory TFs that might be explicitly or implicitly linked to the
+   genes under investigation.
+   Results: In this study, we present a Latent Semantic Indexing (LSI)
+   based text mining approach for identification and ranking of putative
+   regulatory TFs from microarray derived differentially expressed genes
+   (DEGs). Two LSI models were built using different term weighting schemes
+   to devise pair-wise similarities between 21,027 mouse genes annotated in
+   the Entrez Gene repository. Amongst these genes, 433 were designated TFs
+   in the TRANSFAC database. The LSI derived TF-to-gene similarities were
+   used to calculate TF literature enrichment p-values and rank the TFs for
+   a given set of genes. We evaluated our approach using five different
+   publicly available microarray datasets focusing on TFs Rel, Stat6,
+   Ddit3, Stat5 and Nfic. In addition, for each of the datasets, we
+   constructed gold standard TFs known to be functionally relevant to the
+   study in question. Receiver Operating Characteristics (ROC) curves
+   showed that the log-entropy LSI model outperformed the tf-normal LSI
+   model and a benchmark co-occurrence based method for four out of five
+   datasets, as well as motif searching approaches, in identifying putative
+   TFs.
+   Conclusions: Our results suggest that our LSI based text mining approach
+   can complement existing approaches used in systems biology research to
+   decipher gene regulatory networks by providing putative lists of ranked
+   TFs that might be explicitly or implicitly associated with sets of DEGs
+   derived from microarray experiments. In addition, unlike motif searching
+   approaches, LSI based approaches can reveal TFs that may indirectly
+   regulate genes.
+CT 8th Annual Conference of the
+   MidSouth-Computational-Biology-and-Bioinformatics-Society (MCBIOS)
+CY APR 01-02, 2011
+CL Coll Stn, TX
+SP MidSouth Computat Biol & Bioinformat Soc (MCBIOS)
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1471-2105
+UT WOS:000303933600019
+ER
+
+PT J
+AU Rouchka, Eric C.
+   Flight, Robert M.
+   Homayouni, Ramin
+TI Proceedings of the Tenth Annual UT-ORNL-KBRIN Bioinformatics Summit 2011
+   INTRODUCTION
+SO BMC BIOINFORMATICS
+VL 12
+AR A1
+DI 10.1186/1471-2105-12-S7-A1
+SU 7
+PD AUG 5 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000303931700001
+ER
+
+PT J
+AU Vadlamudi, Laasya
+   Jones, Lynn A.
+   Homayouni, Ramin
+TI ColonyTrak: a web tool and database system for managing experimental
+   animal models
+SO BMC BIOINFORMATICS
+VL 12
+AR A11
+DI 10.1186/1471-2105-12-S7-A11
+SU 7
+PD AUG 5 2011
+PY 2011
+CT 10th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY APR 01-03, 2011
+CL Univ Memphis, Memphis, TN
+HO Univ Memphis
+SP Univ Tennessee (UT); Oak Ridge Natl Lab (ORNL); Kentucky Biomed Res
+   Infrastructure Network (KBRIN)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000303931700012
+ER
+
+PT J
+AU Lee, Sangmin
+   Xu, Lijing
+   Shin, Yoojin
+   Gardner, Lidia
+   Hartzes, Anastasia
+   Dohan, F. Curtis
+   Raine, Cedric
+   Homayouni, Ramin
+   Levin, Michael C.
+TI A potential link between autoimmunity and neurodegeneration in
+   immune-mediated neurological disease
+SO JOURNAL OF NEUROIMMUNOLOGY
+VL 235
+IS 1-2
+BP 56
+EP 69
+DI 10.1016/j.jneuroim.2011.02.007
+PD JUN 2011
+PY 2011
+AB Multiple sclerosis (MS) patients make antibodies to heterogeneous
+   nuclear ribonuclear protein A1 (hnRNP-A1), a nucleocytoplasmic protein.
+   We hypothesized this autoimmune reaction might contribute to
+   neurodegeneration. Antibodies from MS patients reacted with
+   hnRNP-A1-'M9', its nuclear translocation sequence. Transfection of
+   anti-M9 antibodies into neurons resulted in neuronal injury and changes
+   in transcripts related to hnRNP-A1 function. Importantly, RNA levels for
+   the spinal paraplegia genes (SPGs) decreased. Changes in SPG RNA levels
+   were confirmed in neurons purified from MS brains. Also, we show
+   molecular interactions between spastin (the encoded protein of SPG4) and
+   hnRNP-A1. These data suggest a link between autoimmunity, clinical
+   phenotype and neurodegeneration in MS. Published by Elsevier B.V.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0165-5728
+UT WOS:000292665000008
+ER
+
+PT J
+AU Xu, Lijing
+   Furlotte, Nicholas
+   Lin, Yunyue
+   Heinrich, Kevin
+   Berry, Michael W.
+   George, Ebenezer O.
+   Homayouni, Ramin
+TI Functional Cohesion of Gene Sets Determined by Latent Semantic Indexing
+   of PubMed Abstracts
+SO PLOS ONE
+VL 6
+IS 4
+AR e18851
+DI 10.1371/journal.pone.0018851
+PD APR 14 2011
+PY 2011
+AB High-throughput genomic technologies enable researchers to identify
+   genes that are co-regulated with respect to specific experimental
+   conditions. Numerous statistical approaches have been developed to
+   identify differentially expressed genes. Because each approach can
+   produce distinct gene sets, it is difficult for biologists to determine
+   which statistical approach yields biologically relevant gene sets and is
+   appropriate for their study. To address this issue, we implemented
+   Latent Semantic Indexing (LSI) to determine the functional coherence of
+   gene sets. An LSI model was built using over 1 million Medline abstracts
+   for over 20,000 mouse and human genes annotated in Entrez Gene. The
+   gene-to-gene LSI-derived similarities were used to calculate a
+   literature cohesion p-value (LPv) for a given gene set using a Fisher's
+   exact test. We tested this method against genes in more than 6,000
+   functional pathways annotated in Gene Ontology (GO) and found that
+   approximately 75% of gene sets in GO biological process category and 90%
+   of the gene sets in GO molecular function and cellular component
+   categories were functionally cohesive (LPv < 0.05). These results
+   indicate that the LPv methodology is both robust and accurate.
+   Application of this method to previously published microarray datasets
+   demonstrated that LPv can be helpful in selecting the appropriate
+   feature extraction methods. To enable real-time calculation of LPv for
+   mouse or human gene sets, we developed a web tool called Gene-set
+   Cohesion Analysis Tool (GCAT). GCAT can complement other gene set
+   enrichment approaches by determining the overall functional cohesion of
+   data sets, taking into account both explicit and implicit gene
+   interactions reported in the biomedical literature.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1932-6203
+UT WOS:000289505600038
+ER
+
+PT J
+AU Caudle, Kelly E.
+   Barker, Katherine S.
+   Wiederhold, Nathan P.
+   Xu, Lijing
+   Homayouni, Ramin
+   Rogers, P. David
+TI Genomewide Expression Profile Analysis of the Candida glabrata Pdr1
+   Regulon
+SO EUKARYOTIC CELL
+VL 10
+IS 3
+BP 373
+EP 383
+DI 10.1128/EC.00073-10
+PD MAR 2011
+PY 2011
+AB The ABC transporters Candida glabrata Cdr1 (CgCdr1), CgPdh1, and CgSnq2
+   are known to mediate azole resistance in the pathogenic fungus C.
+   glabrata. Activating mutations in CgPDR1, a zinc cluster transcription
+   factor, result in constitutive upregulation of these ABC transporter
+   genes but to various degrees. We examined the genomewide gene expression
+   profiles of two matched azole-susceptible and -resistant C. glabrata
+   clinical isolate pairs. Of the differentially expressed genes identified
+   in the gene expression profiles for these two matched pairs, there were
+   28 genes commonly upregulated with CgCDR1 in both isolate sets including
+   YOR1, LCB5, RTA1, POG1, HFD1, and several members of the FLO gene family
+   of flocculation genes. We then sequenced CgPDR1 from each susceptible
+   and resistant isolate and found two novel activating mutations that
+   conferred increased resistance when they were expressed in a common
+   background strain in which CgPDR1 had been disrupted. Microarray
+   analysis comparing these reengineered strains to their respective parent
+   strains identified a set of commonly differentially expressed genes,
+   including CgCDR1, YOR1, and YIM1, as well as genes uniquely regulated by
+   specific mutations. Our results demonstrate that while CgPdr1 activates
+   a broad repertoire of genes, specific activating mutations result in the
+   activation of discrete subsets of this repertoire.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1535-9778
+UT WOS:000287916100010
+ER
+
+PT J
+AU Tjioe, Elina
+   Berry, Michael W.
+   Homayouni, Ramin
+TI Discovering gene functional relationships using FAUN (Feature Annotation
+   Using Nonnegative matrix factorization)
+SO BMC BIOINFORMATICS
+VL 11
+AR S14
+DI 10.1186/1471-2105-11-S6-S14
+SU 6
+PD OCT 7 2010
+PY 2010
+AB Background: Searching the enormous amount of information available in
+   biomedical literature to extract novel functional relationships among
+   genes remains a challenge in the field of bioinformatics. While numerous
+   (software) tools have been developed to extract and identify gene
+   relationships from biological databases, few effectively deal with
+   extracting new (or implied) gene relationships, a process which is
+   useful in interpretation of discovery-oriented genome-wide experiments.
+   Results: In this study, we develop a Web-based bioinformatics software
+   environment called FAUN or Feature Annotation Using Nonnegative matrix
+   factorization (NMF) to facilitate both the discovery and classification
+   of functional relationships among genes. Both the computational
+   complexity and parameterization of NMF for processing gene sets are
+   discussed. FAUN is tested on three manually constructed gene document
+   collections. Its utility and performance as a knowledge discovery tool
+   is demonstrated using a set of genes associated with Autism.
+   Conclusions: FAUN not only assists researchers to use biomedical
+   literature efficiently, but also provides utilities for knowledge
+   discovery. This Web-based software environment may be useful for the
+   validation and analysis of functional associations in gene subsets
+   identified by high-throughput experiments.
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 1471-2105
+UT WOS:000290216600014
+ER
+
+PT J
+AU Cashion, Ann
+   Thomas, Fridtjof
+   Xu, Lijing
+   Homayouni, Ramin
+TI Differential Transcript Expression Associated With Weight Gain During
+   the First 6 Months Following Kidney Transplantation
+SO OBESITY
+VL 18
+BP S140
+EP S140
+SU 2
+PD OCT 2010
+PY 2010
+CT 28th Annual Scientific Meeting of the Obesity
+CY OCT 08-12, 2010
+CL San Diego, CA
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1930-7381
+UT WOS:000283811500423
+ER
+
+PT J
+AU Viangteeravat, Teeradache
+   Brooks, Ian M.
+   Vuthipadadon, Somchan
+   Kuscu, Emin
+   Nagisetty, Naga
+   Smith, Ebony
+   Homayouni, Ramin
+   McDonald, Chanchai S.
+TI Slim-Prim: an integrated data system for clinical and translational
+   research
+SO BMC BIOINFORMATICS
+VL 11
+AR P5
+DI 10.1186/1471-2105-11-S4-P5
+SU 4
+PD JUL 23 2010
+PY 2010
+CT 9th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY MAR 19-21, 2010
+CL Cadiz, KY
+SP Univ Texas; Oak Ridge Natl Lab; Kentucky Biomed Res Infrastructure
+   Network
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000281439400014
+ER
+
+PT J
+AU Tummala, Hemachand
+   Li, Xiaofan
+   Homayouni, Ramin
+TI The histaminergic tuberomammillary nucleus is critical for motivated
+   arousal
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+VL 31
+IS 11
+BP 1926
+EP 1934
+DI 10.1111/j.1460-9568.2010.07248.x
+PD JUN 2010
+PY 2010
+AB Obtaining food, shelter or water, or finding a mating partner are
+   examples of motivated behaviors, which are essential to preserve the
+   species. The full expression of such behaviors requires a high but
+   optimal arousal state. We tested the idea that tuberomammillary nucleus
+   (TMN) histamine neurons are crucial to generate such motivated arousal,
+   using a model of the appetitive phase of feeding behavior. Hungry rats
+   enticed with food within a wire mesh box showed intense goal-directed
+   motor activity aimed at opening the box, an increase in core
+   temperature, a fast histamine release in the hypothalamus and an early
+   increase in Fos immunoreactivity in TMN and cortical neurons. Enticing
+   with stronger-tasting food induced stronger motor, temperature and Fos
+   immunoreactivity brain responses than ordinary food pellets. TMN lesion
+   greatly decreased all of those responses. We conclude that histamine
+   neurons increase arousal and vegetative activity, allowing the normal
+   unfolding of voluntary, goal-directed behavior such as obtaining food.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0953-816X
+UT WOS:000278519800002
+ER
+
+PT J
+AU Lee, Sangmin
+   Xu, Lijing
+   Shin, Yoojin
+   Gardner, Lidia
+   Hertzes, Anastasia
+   Roberts, Michele
+   Dohan, F. Curtis
+   Raine, Cedric S.
+   Homayouni, Ramin
+   Levin, Michael C.
+TI A Link between Autoimmunity and Neurodegeneration in Multiple Sclerosis
+SO NEUROLOGY
+VL 74
+IS 9
+BP A315
+EP A316
+SU 2
+PD MAR 2 2010
+PY 2010
+CT 62nd Annual Meeting of the American-Academy-of-Neurology
+CY APR 10-17, 2010
+CL Toronto, CANADA
+SP Amer Acad Neurol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0028-3878
+UT WOS:000275274001463
+ER
+
+PT B
+AU Xu, Lijing
+   Homayouni, Ramin
+   Furlotte, Nicholas A.
+   Heinrich, Kevin E.
+   George, E. Olusegun
+   Berry, Michael W.
+BE Chen, J
+   Chen, X
+   Ely, J
+   HakkaniTr, D
+   He, J
+   Hsu, HH
+TI Gene-set Cohesion Analysis Tool (GCAT): a Literature Based Web Tool for
+   Calculating Functional Cohesiveness of Gene Groups
+SO BIBMW: 2009 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND
+   BIOMEDICINE WORKSHOP
+BP 342
+EP 342
+PD 2009
+PY 2009
+AB Numerous algorithms exist for producing gene sets from high-throughput
+   genomic and proteomic technologies. However, analysis of the functional
+   significance of these groups of genes or proteins remains a big
+   challenge. We developed a web based system called Gene-set cohesion
+   analysis tool (GCAT) for estimating the significance level of the
+   functional cohesion of a given gene set. The method utilizes Latent
+   Semantic Indexing (LSI) derived gene-gene literature similarities to
+   determine if the functional coherence of a gene set is statistically
+   significant compared to that expected by chance. The robustness of the
+   method was determined by evaluating the functional cohesion for over
+   6000 Gene Ontology categories. Here, we demonstrate the utility of GCAT
+   for analysis of microarray data from previously published experiments in
+   which embryonic fibroblasts were treated with interferon. Using GCAT, we
+   found the highest literature cohesion p-value (p = 1.37E-63)
+   corresponded to a set of genes that were differentially regulated >
+   2-fold and had a t-test p-value < 0.05, compared to genes that were only
+   changed > 2-fold (literature p-value = 2.2E-44) or had a p-value < 0.05
+   (literature p-value = 6.0E-32). As a control, genes that were changed
+   less than 2-fold or had a p-value > 0.05 did not show a significant
+   literature cohesion. These results demonstrate that GCAT can provide an
+   objective literature-based measure to evaluate the biological
+   significance of gene sets identified by different criterions. GCAT is
+   available at http://motif.memphis.edu/gcat/.
+CT IEEE International Conference on Bioinformatics and Biomedicine Workshop
+   (BIBMW 2009)
+CY NOV 01-04, 2009
+CL Washington, DC
+SP IEEE
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN 978-1-4244-5120-3
+UT WOS:000274329200066
+ER
+
+PT J
+AU Roy, Sujoy
+   Xu, Lijing
+   Homayouni, Ramin
+TI LSI based framework to predict gene regulatory information
+SO BMC BIOINFORMATICS
+VL 10
+AR A5
+DI 10.1186/1471-2105-10-S7-A5
+PD 2009
+PY 2009
+CT 8th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY MAR 20-22, 2009
+CL Pikeville, TN
+SP Univ Tennessee; Oak Ridge Natl Lab; Kentucky Biomed Res Infrastruct
+   Network
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000267524000007
+ER
+
+PT J
+AU Viangteeravat, Teeradache
+   Brooks, Ian
+   Vuthipadadon, Somchan
+   Huang, Eunice
+   Smith, Ebony
+   Homayouni, Ramin
+   McDonald, Chanchai
+TI Slim-Prim: an integrated data system for clinical and translational
+   research
+SO BMC BIOINFORMATICS
+VL 10
+AR A11
+DI 10.1186/1471-2105-10-S7-A11
+PD 2009
+PY 2009
+CT 8th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY MAR 20-22, 2009
+CL Pikeville, TN
+SP Univ Tennessee; Oak Ridge Natl Lab; Kentucky Biomed Res Infrastruct
+   Network
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 1471-2105
+UT WOS:000267524000013
+ER
+
+PT J
+AU Yeasin, Mohammed
+   Malempati, Haritha
+   Homayouni, Ramin
+   Sorower, Mohammad Shahed
+TI A systematic study on latent semantic analysis model parameters for
+   mining biomedical literature
+SO BMC BIOINFORMATICS
+VL 10
+AR A6
+DI 10.1186/1471-2105-10-S7-A6
+PD 2009
+PY 2009
+CT 8th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY MAR 20-22, 2009
+CL Pikeville, TN
+SP Univ Tennessee; Oak Ridge Natl Lab; Kentucky Biomed Res Infrastruct
+   Network
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000267524000008
+ER
+
+PT J
+AU Lu, Lu
+   Wei, Lai
+   Peirce, Jeremy L.
+   Wang, Xusheng
+   Zhou, Jianhua
+   Homayouni, Ramin
+   Williams, Robert W.
+   Airey, David C.
+TI Using gene expression databases for classical trait QTL candidate gene
+   discovery in the BXD recombinant inbred genetic reference population:
+   Mouse forebrain weight
+SO BMC GENOMICS
+VL 9
+AR 444
+DI 10.1186/1471-2164-9-444
+PD SEP 25 2008
+PY 2008
+AB Background: Successful strategies for QTL gene identification benefit
+   from combined experimental and bioinformatic approaches. Unique design
+   aspects of the BXD recombinant inbred line mapping panel allow use of
+   archived gene microarray expression data to filter likely from unlikely
+   candidates. This prompted us to propose a simple five-filter protocol
+   for candidate nomination. To filter more likely from less likely
+   candidates, we required candidate genes near to the QTL to have mRNA
+   abundance that correlated with the phenotype among the BXD lines as well
+   as differed between the parental lines C57BL/6J and DBA/2J. We also
+   required verification of mRNA abundance by an independent method, and
+   finally we required either differences in protein levels or confirmed
+   DNA sequence differences.
+   Results: QTL mapping of mouse forebrain weight in 34 BXD RI lines found
+   significant association on chromosomes 1 and 11, with each C57BL/6J
+   allele increasing weight by more than half a standard deviation. The
+   intersection of gene lists that were within +/- 10 Mb of the strongest
+   associated location, that had forebrain mRNA abundance correlated with
+   forebrain weight among the BXD, and that had forebrain mRNA abundance
+   differing between C57BL/6J and DBA/2J, produced two candidates, Tnni1
+   (troponin 1) and Asb3 (ankyrin repeat and SOCS box-containing protein
+   3). Quantitative RT-PCR confirmed the direction of an increased
+   expression in C57BL/6J genotype over the DBA/2J genotype for both genes,
+   a difference that translated to a 2-fold difference in Asb3 protein.
+   Although Tnni1 protein differences could not be confirmed, a 273 bp
+   indel polymorphism was discovered 1 Kb upstream of the transcription
+   start site.
+   Conclusion: Delivery of well supported candidate genes following a
+   single quantitative trait locus mapping experiment is difficult.
+   However, by combining available gene expression data with QTL mapping,
+   we illustrated a five-filter protocol that nominated Asb3 and Tnni1 as
+   candidates affecting increased mouse forebrain weight. We recommend our
+   approach when (1) investigators are working with phenotypic differences
+   between C57BL/6J and DBA/2J, and (2) gene expression data are available
+   on http://www.genenetwork.org that relate to the phenotype of interest.
+   Under these circumstances, measurement of the phenotype in the BXD lines
+   will likely also deliver excellent candidate genes.
+TC 8
+ZB 8
+Z8 0
+Z9 8
+SN 1471-2164
+UT WOS:000260677600001
+ER
+
+PT J
+AU Wei, Lai
+   Fan, Meiyun
+   Xu, Lijing
+   Heinrich, Kevin
+   Berry, Michael W.
+   Homayouni, Ramin
+   Pfeffer, Lawrence M.
+TI Bioinformatic analysis reveals cRel as a regulator of a subset of
+   interferon-stimulated genes
+SO JOURNAL OF INTERFERON AND CYTOKINE RESEARCH
+VL 28
+IS 9
+BP 541
+EP 551
+DI 10.1089/jir.2007.0136
+PD SEP 2008
+PY 2008
+AB Interferons (IFNs) are critical to the host innate immune response by
+   inducing the expression of a family of early response genes, denoted as
+   IFN-stimulated genes (ISGs). The role of tyrosine phosphorylation of
+   STAT proteins in the transcription activation of ISGs is
+   well-documented. Recent studies have indicated that other transcription
+   factors (TFs) are likely to play a role in regulating ISG expression.
+   Here, we describe a novel integrative approach that combines gene
+   expression profiling, promoter sequence analysis, and literature mining
+   to screen candidate regulatory factors in the IFN signal transduction
+   pathway. Application of this method identified the nuclear factor kappa
+   B (NF kappa B) protein, cRel, as a candidate regulatory factor for a
+   subset of ISGs in mouse embryo fibroblasts. Chromatin
+   immunoprecipitation (ChIP) and real-time PCR assays confirmed that cRel
+   directly binds to the promoters of several ISGs, including Cxcl10,
+   Isg15, Gbp2, Ifit3, and Ifi203, and regulates their expression. Thus,
+   our studies identify cRel as an important TF for ISGs, and validate the
+   approach of using Latent Semantic Indexing (LSI)-based methods to
+   identify regulatory factors from microarray data.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 1079-9907
+UT WOS:000259450000002
+ER
+
+PT J
+AU Barker, Katherine S.
+   Park, Hyunsook
+   Phan, Quynh T.
+   Xu, Lijing
+   Homayouni, Ramin
+   Rogers, P. David
+   Filler, Scott G.
+TI Transcriptome profile of the vascular endothelial cell response to
+   Candida albicans
+SO JOURNAL OF INFECTIOUS DISEASES
+VL 198
+IS 2
+BP 193
+EP 202
+DI 10.1086/589516
+PD JUL 15 2008
+PY 2008
+AB Background. During hematogenously disseminated candidiasis, bloodborne
+   Candida albicans interacts with vascular endothelial cells (ECs), which
+   have the capacity to influence the local inflammatory response to this
+   organism.
+   Methods. To elucidate the EC response to C. albicans, we determined the
+   transcriptional profile of ECs infected with wild-type C. albicans
+   strain SC5314 and a hypovirulent cph1 Delta/cph1 Delta efg1 Delta/efg1
+   Delta mutant, CAN34. These EC responses were also compared to our
+   previously published data on the response of the macrophage-like THP-1
+   cell line to C. albicans.
+   Results. Infection with strain SC5314 induced upregulation of EC genes
+   involved in chemotaxis, stress response, angiogenesis, and inhibition of
+   apoptosis. Infection with CAN34 induced weaker expression of fewer
+   genes. The angiogenic and anti-apoptotic response of ECs to C. albicans
+   did not occur in THP-1 cells. However, there was upregulation of CCL3
+   and CCL4 expression in both cell types. Because CCR5 is the receptor for
+   CCL3 and CCL4, we tested the susceptibility of CCR5(-/-) mice to
+   disseminated candidiasis. The survival and renal fungal burden of the
+   CCR5(-/-) mice were similar to that of wild-type control mice.
+   Conclusions. ECs respond significantly differently to infection with C.
+   albicans, compared with THP-1 cells. CCR5 is dispensable for the host
+   defense against disseminated candidiasis in immunocompetent mice.
+TC 8
+ZB 6
+Z8 0
+Z9 8
+SN 0022-1899
+UT WOS:000257320400007
+ER
+
+PT J
+AU Dunkel, Nico
+   Liu, Teresa T.
+   Barker, Katherine S.
+   Homayouni, Ramin
+   Morschhaeuser, Joachim
+   Rogers, P. David
+TI A gain-of-function mutation in the transcription factor Upc2p causes
+   Upregulation of ergosterol biosynthesis genes and increased Fluconazole
+   resistance in a clinical Candida albicans isolate
+SO EUKARYOTIC CELL
+VL 7
+IS 7
+BP 1180
+EP 1190
+DI 10.1128/EC.00103-08
+PD JUL 2008
+PY 2008
+AB In the pathogenic yeast Candida albicans, the zinc cluster transcription
+   factor Upc2p has been shown to regulate the expression of ERG11 and
+   other genes involved in ergosterol biosynthesis upon exposure to azole
+   antifungals. ERG11 encodes lanosterol demethylase, the target enzyme of
+   this antifungal class. Overexpression of UPC2 reduces azole
+   susceptibility, whereas its disruption results in hypersusceptibility to
+   azoles and reduced accumulation of exogenous sterols. Overexpression of
+   ERG11 leads to the increased production of lanosterol demethylase, which
+   contributes to azole resistance in clinical isolates of C. albicans, but
+   the mechanism for this has yet to be determined. Using genome-wide gene
+   expression profiling, we found UPC2 and other genes involved in
+   ergosterol biosynthesis to be coordinately upregulated with ERG11 in a
+   fluconazole-resistant clinical isolate compared with a matched
+   susceptible isolate from the same patient. Sequence analysis of the UPC2
+   alleles of these isolates revealed that the resistant isolate contained
+   a single-nucleotide substitution in one UPC2 allele that resulted in a
+   G648D exchange in the encoded protein. Introduction of the mutated
+   allele into a drug-susceptible strain resulted in constitutive
+   upregulation of ERG11 and increased resistance to fluconazole. By
+   comparing the gene expression profiles of the fluconazole-resistant
+   isolate and of strains carrying wild-type and mutated UPC2 alleles, we
+   identified target genes that are controlled by Upc2p. Here we show for
+   the first time that a gain-of-function mutation in UPC2 leads to the
+   increased expression of ERG11 and imparts resistance to fluconazole in
+   clinical isolates of C. albicans.
+TC 44
+ZB 44
+Z8 2
+Z9 46
+SN 1535-9778
+UT WOS:000258666400011
+ER
+
+PT J
+AU Levin, Michael C.
+   Lee, Sangmin
+   Yoojin, Shin
+   Homayouni, Ramin
+TI Neuron-specific Autoantibodies cause neurodegeneration and changes in
+   gene expression that correlate with neural systems selectively damaged
+   in tropical neurological disease
+SO NEUROLOGY
+VL 70
+IS 11
+BP A251
+EP A251
+SU 1
+PD MAR 11 2008
+PY 2008
+CT 6th Annual Meeting of the American-Academy-of-Neurology
+CY APR 12-19, 2008
+CL Chicago, IL
+SP Amer Acad Neurol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0028-3878
+UT WOS:000257197201350
+ER
+
+PT J
+AU Tjioe, Elina
+   Berry, Michael
+   Homayouni, Ramin
+   Heinrich, Kevin
+TI Using a literature-based NMF model for discovering gene functional
+   relationships
+SO BMC BIOINFORMATICS
+VL 9
+AR P1
+DI 10.1186/1471-2105-9-S7-P1
+SU 7
+PD 2008
+PY 2008
+CT 7th Annual University of Tennessee/Oak Ridge Nnational
+   Laboratory/Kentucky-Biomedical-Research-Infrastructure-Network
+   Bioinformatics Meeting
+CY MAR 28-30, 2008
+CL Cadiz, KY
+SP Univ Tennessee; Oak ridge Natl Lab; Kentucky Bioinformat Network
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000259024200003
+ER
+
+PT B
+AU Tjioe, Elina
+   Berry, Michael
+   Homayouni, Ramin
+BE Chen, Y
+   He, J
+   Reddy, CK
+   Yang, J
+   Yoo, I
+   Zhang, X
+   Gao, J
+   Huang, Y
+   Song, M
+   Yang, J
+   Wu, Z
+TI Using a Literature-based NMF Model for Discovering Gene Functional
+   Relationships
+SO 2008 IEEE INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICINE
+   WORKSHOPS, PROCEEDINGS
+BP 185
+EP 192
+DI 10.1109/BIBMW.2008.4686234
+PD 2008
+PY 2008
+AB The rapid growth of the biomedical literature and genomic information
+   presents a major challenge for determining the functional relationships
+   among genes. In this study, we develop a Web-based bioinformatics
+   software environment called FAUN or Feature Annotation Using Nonnegative
+   matrix factorization (NMF) to facilitate both the discovery and
+   classification of functional relationships among genes. Both the
+   computational complexity and parameterization of NAIF for processing
+   gene sets are discussed. We tested FAUN on three manually constructed
+   gene document collections, and then used it to analyze several
+   microarray-derived gene sets obtained from studies of the developing
+   cerebellum in normal and mutant mice. FAUN provides utilities for
+   collaborative knowledge discovery and identification of new gene
+   relationships from text streams and repositories (e.g., MEDLINE). It is
+   particularly useful for the validation and analysis of gene associations
+   suggested by microarray experimentation.
+CT IEEE International Conference on Bioinformatics and Biomedicine
+CY NOV 03-05, 2008
+CL Philadelphia, PA
+SP IEEE
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN 978-1-4244-2890-8
+UT WOS:000262067000034
+ER
+
+PT J
+AU Liu, Teresa T.
+   Znaidi, Sadri
+   Barker, Katherine S.
+   Xu, Lijing
+   Homayouni, Ramin
+   Saidane, Saloua
+   Morschhauser, Joachim
+   Nantel, Andre
+   Raymond, Martine
+   Rogers, P. David
+TI Genome-wide expression and location analyses of the Candida albicans
+   Tac1p regulon
+SO EUKARYOTIC CELL
+VL 6
+IS 11
+BP 2122
+EP 2138
+DI 10.1128/FC.00327-07
+PD NOV 2007
+PY 2007
+AB A major mechanism of azole resistance in Candida albicans is
+   overexpression of the genes encoding the ATP binding cassette
+   transporters Cdr1p and Cdr2p due to gain-of-function mutations in Tac1p,
+   a transcription factor of the zinc cluster family. To identify the Tac1p
+   regulon, we analyzed four matched sets of clinical isolates representing
+   the development of CDR1 - and CDR2-mediated azole resistance by using
+   gene expression profiling. We identified 31 genes that were consistently
+   up-regulated with CDR1 and CDR2, including TACI itself, and 12
+   consistently down-regulated genes. When a resistant strain deleted for
+   TACI was examined similarly, expression of almost all of these genes
+   returned to levels similar to those in the matched azole-susceptible
+   isolate. Using genome-wide location (ChIP-chip) analysis (a procedure
+   combining chromatin immunoprecipitation with hybridization to DNA
+   intergenic microarrays), we found 37 genes whose promoters were bound by
+   Tac1p in vivo, including CDR1 and CDR2. Sequence analysis identified
+   nine new genes whose promoters contain the previously reported Tac1p
+   drug-responsive element (CGGN(4)CGG), including TAC1 In total, there
+   were eight genes whose expression was modulated in the four
+   azole-resistant clinical isolates in a TACI-dependent manner and whose
+   promoters were bound by Tac1p, qualifying them as direct Tac1p targets:
+   CDR1, CDR2, GPX1 (putative glutathione peroxidase), LCB4 (putative
+   sphingosine kinase), RTA3 (putative phospholipid flippase), and
+   orf19.1887 (putative lipase), as well as IFU5 and orf19.4898 of unknown
+   function. Our results show that Tac1p binds under nonactivating
+   conditions to the promoters of its targets, including to its own
+   promoter. They also suggest roles for Tac1p in regulating lipid
+   metabolism (mobilization and trafficking) and oxidative stress response
+   in C. albicans.
+TC 34
+ZB 31
+Z8 2
+Z9 37
+SN 1535-9778
+UT WOS:000251410200020
+ER
+
+PT J
+AU Morschhaeuser, Joachim
+   Barker, Katherine S.
+   Liu, Teresa T.
+   Blass-Warmuth, Julia
+   Homayouni, Ramin
+   Rogers, P. David
+TI The transcription factor Mrr1p controls expression of the MDR1 efflux
+   pump and mediates multidrug resistance in Candida albicans
+SO PLOS PATHOGENS
+VL 3
+IS 11
+BP 1603
+EP 1616
+AR e164
+DI 10.1371/journal.ppat.0030164
+PD NOV 2007
+PY 2007
+AB Constitutive overexpression of the MDR1 ( multidrug resistance) gene,
+   which encodes a multidrug efflux pump of the major facilitator
+   superfamily, is a frequent cause of resistance to fluconazole and other
+   toxic compounds in clinical Candida albicans strains, but the mechanism
+   of MDR1 upregulation has not been resolved. By genome-wide gene
+   expression analysis we have identified a zinc cluster transcription
+   factor, designated as MRR1 ( multidrug resistance regulator), that was
+   coordinately upregulated with MDR1 in drug-resistant, clinical C.
+   albicans isolates. Inactivation of MRR1 in two such drug-resistant
+   isolates abolished both MDR1 expression and multidrug resistance.
+   Sequence analysis of the MRR1 alleles of two matched drug-sensitive and
+   drug-resistant C. albicans isolate pairs showed that the resistant
+   isolates had become homozygous for MRR1 alleles that contained single
+   nucleotide substitutions, resulting in a P683S exchange in one isolate
+   and a G997V substitution in the other isolate. Introduction of these
+   mutated alleles into a drug-susceptible C. albicans strain resulted in
+   constitutive MDR1 overexpression and multidrug resistance. By comparing
+   the transcriptional profiles of drug-resistant C. albicans isolates and
+   mrr1 Delta mutants derived from them and of C. albicans strains carrying
+   wild-type and mutated MRR1 alleles, we defined the target genes that are
+   controlled by Mrr1p. Many of the Mrr1p target genes encode
+   oxidoreductases, whose upregulation in fluconazole-resistant isolates
+   may help to prevent cell damage resulting from the generation of toxic
+   molecules in the presence of fluconazole and thereby contribute to drug
+   resistance. The identification of MRR1 as the central regulator of the
+   MDR1 efflux pump and the elucidation of the mutations that have occurred
+   in fluconazole-resistant, clinical C. albicans isolates and result in
+   constitutive activity of this trancription factor provide detailed
+   insights into the molecular basis of multidrug resistance in this
+   important human fungal pathogen.
+TC 59
+ZB 57
+Z8 4
+Z9 63
+SN 1553-7366
+UT WOS:000251310300007
+ER
+
+PT J
+AU LeDoux, Mark S.
+   Xu, Lijing
+   Xiao, Fianfeng
+   Ferrell, Brett
+   Menkes, Daniel L.
+   Homayouni, Ramin
+TI Murine central and peripheral nervous system transcriptomes: Comparative
+   gene expression
+SO BRAIN RESEARCH
+VL 1107
+BP 24
+EP 41
+DI 10.1016/j.brainres.2006.05.101
+PD AUG 30 2006
+PY 2006
+AB The central and peripheral nervous systems exhibit significant
+   embryological, morphological, and functional differences. Moreover, the
+   pathology of most acquired and hereditary neurological diseases
+   preferentially targets specific components of the nervous system. In
+   order to test the hypothesis that central and peripheral neural
+   transcriptomes show fundamental quantitative differences, Affymetrix
+   GeneChip (R) expression arrays were used to compare murine lumbar spinal
+   cord (SC) and dorsal root ganglion (DRG) gene expression. As the crucial
+   component of a novel technique to preserve RNA integrity, mice were
+   perfusion-fixed with RNAlater (TM) before the SC and DRG were harvested.
+   As per Affymetrix terminology, a total of 111 transcripts were present
+   (P) on all DRG arrays, absent (A) on all SC arrays, and demonstrated at
+   least 10-fold greater expression in DRG than in SC. Conversely, a total
+   of 112 transcripts were present on all SC arrays, absent on all DRG
+   arrays, and showed at least 10-fold greater expression in SC than in
+   DRG. For a subset of transcripts, quantitative real-time RT-PCR was used
+   to corroborate and validate microarray results. Among those genes
+   enriched in DRG, many belonged to a few distinct functional classes:
+   G-protein coupled receptor-protein signaling pathways, potassium
+   transport, sodium transport, sensory perception, and cell-surface
+   receptor-linked signal transduction. In contrast, genes associated with
+   synaptic transmission, organic acid transport, neurotransmitter
+   transport, and circulation were enriched in SC. Notably, the majority of
+   genes causally associated with hereditary neuropathies were highly
+   enriched in DRG. These differential neural gene expression profiles
+   provide a robust framework for future molecular and genetic studies of
+   neuropathy and SC diseases. (c) 2006 Elsevier B.V. All rights reserved.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0006-8993
+UT WOS:000240481200003
+ER
+
+PT J
+AU Vermitsky, John-Paul
+   Earhart, Kelly D.
+   Smith, W. Lamar
+   Homayouni, Ramin
+   Edlind, Thomas D.
+   Rogers, P. David
+TI Pdr1 regulates multidrug resistance in Candida glabrata: gene disruption
+   and genome-wide expression studies
+SO MOLECULAR MICROBIOLOGY
+VL 61
+IS 3
+BP 704
+EP 722
+DI 10.1111/j.1365-2958.2006.05235.x
+PD AUG 2006
+PY 2006
+AB Candida glabrata emerged in the last decade as a common cause of mucosal
+   and invasive fungal infection, in large part due to its intrinsic or
+   acquired resistance to azole antifungals such as fluconazole. In C.
+   glabrata clinical isolates, the predominant mechanism behind azole
+   resistance is upregulated expression of multidrug transporter genes CDR1
+   and PDH1. We previously reported that azole-resistant mutants (MIC >= 64
+   mu g ml(-1)) of strain 66032 (MIC = 16 mu g ml(-1)) similarly show
+   coordinate CDR1-PDH1 upregulation, and in one of these (F15) a putative
+   gain-of-function mutation was identified in the single homologue of
+   Saccharomyces cerevisiae transcription factors Pdr1-Pdr3. Here we show
+   that disruption of C. glabrata PDR1 conferred equivalent fluconazole
+   hypersensitivity (MIC = 2 mu g ml(-1)) to both F15 and 66032 and
+   eliminated both constitutive and fluconazole-induced CDR1-PDH1
+   expression. Reintroduction of wild-type or F15 PDR1 fully reversed these
+   effects; together these results demonstrate a role for this gene in both
+   acquired and intrinsic azole resistance. CDR1 disruption had a partial
+   effect, reducing fluconazole trailing in both strains while restoring
+   wild-type susceptibility (MIC = 16 mu g ml(-1)) to F15. In an
+   azole-resistant clinical isolate, PDR1 disruption reduced azole MICs
+   eight- to 64-fold with no effect on sensitivity to other antifungals. To
+   extend this analysis, C. glabrata microarrays were generated and used to
+   analyse genome-wide expression in F15 relative to its parent. Homologues
+   of 10 S. cerevisiae genes previously shown to be Pdr1-Pdr3 targets were
+   upregulated (YOR1, RTA1, RSB1, RPN4, YLR346c and YMR102c along with
+   CDR1, PDH1 and PDR1 itself) or downregulated (PDR12); roles for these
+   genes include small molecule transport and transcriptional regulation.
+   However, expression of 99 additional genes was specifically altered in
+   C. glabrata F15; their roles include transport (e.g. QDR2, YBT1), lipid
+   metabolism (ATF2, ARE1), cell stress (HSP12, CTA1), DNA repair (YIM1,
+   MEC3) and cell wall function (MKC7, MNT3). These azole
+   resistance-associated changes could affect C. glabrata tissue-specific
+   virulence; in support of this, we detected differences in F15 oxidant,
+   alcohol and weak acid sensitivities. C. glabrata provides a promising
+   model for studying the genetic basis of multidrug resistance and its
+   impact on virulence.
+TC 46
+ZB 42
+Z8 1
+Z9 49
+SN 0950-382X
+UT WOS:000238837900013
+ER
+
+PT J
+AU Bao, Lei
+   Wei, Lai
+   Peirce, Jeremy L.
+   Homayouni, Ramin
+   Li, Hongqiang
+   Zhou, Mi
+   Chen, Hao
+   Lu, Lu
+   Williams, Robert W.
+   Pfeffer, Lawrence M.
+   Goldowitz, Dan
+   Cui, Yan
+TI Combining gene expression QTL mapping and phenotypic spectrum analysis
+   to uncover gene regulatory relationships
+SO MAMMALIAN GENOME
+VL 17
+IS 6
+BP 575
+EP 583
+DI 10.1007/s00335-005-0172-2
+PD JUN 2006
+PY 2006
+AB Gene expression QTL (eQTL) mapping can suggest candidate regulatory
+   relationships between genes. Recent advances in mammalian phenotype
+   annotation such as mammalian phenotype ontology (MPO) enable systematic
+   analysis of the phenotypic spectrum subserved by many genes. In this
+   study we combined eQTL mapping and phenotypic spectrum analysis to
+   predict gene regulatory relationships. Five pairs of genes with similar
+   phenotypic effects and potential regulatory relationships suggested by
+   eQTL mapping were identified. Lines of evidence supporting some of the
+   predicted regulatory relationships were obtained from biological
+   literature. A particularly notable example is that promoter sequence
+   analysis and real-time PCR assays support the predicted regulation of
+   protein kinase C epsilon (Prkce) by cAMP responsive element binding
+   protein 1 (Creb1). Our results show that the combination of gene eQTL
+   mapping and phenotypic spectrum analysis may provide a valuable approach
+   to uncovering gene regulatory relations underlying mammalian phenotypes.
+TC 10
+ZB 9
+Z8 0
+Z9 10
+SN 0938-8990
+UT WOS:000238362300013
+ER
+
+PT J
+AU Wei, L
+   Sandbulte, MR
+   Thomas, PG
+   Webby, RJ
+   Homayouni, R
+   Pfeffer, LM
+TI NF kappa B negatively regulates interferon-induced gene expression and
+   anti-influenza activity
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 281
+IS 17
+BP 11678
+EP 11684
+DI 10.1074/jbc.M513286200
+PD APR 28 2006
+PY 2006
+AB Interferons (IFNs) are antiviral cytokines that selectively regulate
+   gene expression through several signaling pathways including nuclear
+   factor kappa B (NF kappa B). To investigate the specific role of NF
+   kappa B in IFN signaling, we performed gene expression profiling after
+   IFN treatment of embryonic fibroblasts derived from normal mice or mice
+   with targeted deletion of NF kappa B p50 and p65 genes. Interestingly,
+   several antiviral and immunomodulatory genes were induced higher by IFN
+   in NF kappa B knock-out cells. Chromatin immunoprecipitation experiments
+   demonstrated that NF kappa B was basally bound to the promoters of these
+   genes, while IFN treatment resulted in the recruitment of STAT1 and
+   STAT2 to these promoters. However, in NF kappa B knock-out cells IFN
+   induced STAT binding as well as the binding of the IFN regulatory
+   factor-1 (IRF1) to the IFN-stimulated gene (ISG) promoters. IRF1 binding
+   closely correlated with enhanced gene induction. Moreover, NF kappa B
+   suppressed both antiviral and immunomodulatory actions of IFN against
+   influenza virus. Our results identify a novel negative regulatory role
+   of NF kappa B in IFN-induced gene expression and biological activities
+   and suggest that modulating NF kappa B activity may provide a new avenue
+   for enhancing the therapeutic effectiveness of IFN.
+TC 52
+ZB 47
+Z8 3
+Z9 56
+SN 0021-9258
+UT WOS:000236988100031
+ER
+
+PT J
+AU Li, XF
+   Burklen, T
+   Yuan, XL
+   Schlattner, U
+   Desiderio, DM
+   Wallimann, T
+   Homayouni, R
+TI Stabilization of ubiquitous mitochondrial creatine kinase preprotein by
+   APP family proteins
+SO MOLECULAR AND CELLULAR NEUROSCIENCE
+VL 31
+IS 2
+BP 263
+EP 272
+DI 10.1016/j.mcn.2005.09.015
+PD FEB 2006
+PY 2006
+AB Amyloid precursor protein (APP) is involved in the pathogenesis of
+   Alzheimer's disease (AD). However, the physiological role of APP and its
+   family members is still unclear. To gain insights into APP function, we
+   used a proteomic approach to identify APP interacting proteins. We
+   report here for the first time a direct interaction between the
+   C-terminal region of APP family proteins and ubiquitous mitochondrial
+   creatine kinase (uMtCK). This interaction was confirmed in vitro as well
+   as in cultured cells and in brain. Interestingly, expression of
+   full-length and C-terminal domain of APP family proteins stabilized
+   uMtCK preprotein in cultured cells. Our data suggest that APP may
+   regulate cellular energy levels and mitochondrial function via a direct
+   interaction and stabilization of uMtCK. (c) 2005 Elsevier Inc. All
+   rights reserved.
+TC 9
+ZB 9
+Z8 1
+Z9 11
+SN 1044-7431
+UT WOS:000235601400008
+ER
+
+PT J
+AU Burklen, Tanja S.
+   Schlattner, Uwe
+   Homayouni, Ramin
+   Gough, Kathleen
+   Rak, Margaret
+   Szeghalmi, Adriana
+   Wallimann, Theo
+TI The creatine kinase/creatine connection to Alzheimer's disease: CK
+   inactivation, APP-CK complexes, and focal creatine deposits
+SO JOURNAL OF BIOMEDICINE AND BIOTECHNOLOGY
+AR 35936
+DI 10.1155/JBB/2006/35936
+PD 2006
+PY 2006
+AB Cytosolic brain-type creatine kinase (BB-CK), which is coexpressed with
+   ubiquitous mitochondrial uMtCK, is significantly inactivated by
+   oxidation in Alzheimer's disease (AD) patients. Since CK has been shown
+   to play a fundamental role in cellular energetics of the brain, any
+   disturbance of this enzyme may exasperate the AD disease process.
+   Mutations in amyloid precursor protein (APP) are associated with early
+   onset AD and result in abnormal processing of APP, and accumulation of A
+   beta peptide, the main constituent of amyloid plaques in AD brain.
+   Recent data on a direct interaction between APP and the precursor of
+   uMtCK support an emerging relationship between AD, cellular energy
+   levels, and mitochondrial function. In addition, recently discovered
+   creatine (Cr) deposits in the brain of transgenic AD mice, as well as in
+   the hippocampus from AD patients, indicate a direct link between
+   perturbed energy state, Cr metabolism, and AD. Here, we review the roles
+   of Cr and Cr-related enzymes and consider the potential value of
+   supplementation with Cr, a potent neuroprotective substance. As a
+   hypothesis, we consider whether Cr, if given at an early time point of
+   the disease, may prevent or delay the course of AD-related
+   neurodegeneration.
+TC 18
+ZB 18
+Z8 0
+Z9 20
+SN 1110-7243
+UT WOS:000242092500001
+ER
+
+PT J
+AU Liu, TT
+   Lee, REB
+   Barker, KS
+   Lee, RE
+   Wei, L
+   Homayouni, R
+   Rogers, PD
+TI Genome-wide expression profiling of the response to azole, polyene,
+   echinocandin, and pyrimidine antifungal agents in Candida albicans
+SO ANTIMICROBIAL AGENTS AND CHEMOTHERAPY
+VL 49
+IS 6
+BP 2226
+EP 2236
+DI 10.1128/ac.49.6.2226-2236.2005
+PD JUN 2005
+PY 2005
+AB Antifungal agents exert their activity through a variety of mechanisms,
+   some of which are poorly understood. We examined changes in the gene
+   expression profile of Candida albicans following exposure to
+   representatives of the four currently available classes of antifungal
+   agents used in the treatment of systemic fungal infections. Ketoconazole
+   exposure increased expression of genes involved in lipid, fatty acid,
+   and sterol metabolism, including NCP1, MCR1, CYB5, ERG2, ERG3, ERG10,
+   ERG25, ERG251, and that encoding the azole target, ERG11. Ketoconazole
+   also increased expression of several genes associated with azole
+   resistance, including CDR1, CDR2, IFD4, DDR48, and RTA3. Amphotericin B
+   produced changes in the expression of genes involved in small-molecule
+   transport (ENA21), and in cell stress (YHB1, CTA1, AOX1, and SOD2). Also
+   observed was decreased expression of genes involved in ergosterol
+   biosynthesis, including ERG3 and ERG11. Caspofungin produced changes in
+   expression of genes encoding cell wall maintenance proteins, including
+   the &beta;-1,3-glucan synthase subunit GSL22, as well as PHR1, ECM21,
+   ECM33, and FEN12. Flucytosine increased the expression of proteins
+   involved in purine and pyrimidine biosynthesis, including YNK1, FUR1,
+   and that encoding its target, CDC21. Real-time reverse transcription-PCR
+   was used to confirm microarray results. Genes responding similarly to
+   two or more drugs were also identified. These data shed new light on the
+   effects of these classes of antifungal agents on C. albicans.
+TC 120
+ZB 117
+Z8 6
+Z9 133
+SN 0066-4804
+UT WOS:000229521600009
+ER
+
+PT J
+AU Homayouni, R
+   Heinrich, K
+   Wei, L
+   Berry, MW
+TI Gene clustering by Latent Semantic Indexing of MEDLINE abstracts
+SO BIOINFORMATICS
+VL 21
+IS 1
+BP 104
+EP 115
+DI 10.1093/bioinformatics/bth464
+PD JAN 1 2005
+PY 2005
+AB Motivation: A major challenge in the interpretation of high-throughput
+   genomic data is understanding the functional associations between genes.
+   Previously, several approaches have been described to extract gene
+   relationships from various biological databases using term-matching
+   methods. However, more flexible automated methods are needed to identify
+   functional relationships (both explicit and implicit) between genes from
+   the biomedical literature. In this study, we explored the utility of
+   Latent Semantic Indexing (LSI), a vector space model for information
+   retrieval, to automatically identify conceptual gene relationships from
+   titles and abstracts in MEDLINE citations.
+   Results: We found that LSI identified gene-to-gene and keyword-to-gene
+   relationships with high average precision. In addition, LSI identified
+   implicit gene relationships based on word usage patterns in the gene
+   abstract documents. Finally, we demonstrate here that pairwise distances
+   derived from the vector angles of gene abstract documents can be
+   effectively used to functionally group genes by hierarchical clustering.
+   Our results provide proof-of-principle that LSI is a robust automated
+   method to elucidate both known (explicit) and unknown (implicit) gene
+   relationships from the biomedical literature. These features make LSI
+   particularly useful for the analysis of novel associations discovered in
+   genomic experiments.
+TC 55
+ZB 38
+Z8 0
+Z9 59
+SN 1367-4803
+UT WOS:000226188800012
+ER
+
+PT J
+AU Pfeffer, LM
+   Kim, JG
+   Pfeffer, SR
+   Carrigan, DJ
+   Baker, DP
+   Wei, L
+   Homayouni, R
+TI Role of nuclear factor-kappa B in the antiviral action of interferon and
+   interferon-regulated gene expression
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 279
+IS 30
+BP 31304
+EP 31311
+DI 10.1074/jbc.M308975200
+PD JUL 23 2004
+PY 2004
+AB Interferons (IFNs) play critical roles in host defense by modulating the
+   expression of various genes via tyrosine phosphorylation of STAT
+   transcription factors. IFN-alpha/beta activates another important
+   transcription factor, nuclear factor-kappaB (NF-kappaB), but its role in
+   IFN-mediated activity is poorly understood. Sensitivity to the antiviral
+   and gene-inducing effects of IFN was examined in normal fibroblasts and
+   in NF-kappaB knockout fibroblasts from p50- and p65-null mice. Antiviral
+   assays demonstrated that NF-kappaB knockout fibroblasts were sensitized
+   to the antiviral action of IFN. Moreover, analysis of IFN-stimulated
+   gene expression by real-time PCR demonstrated selective effects of
+   NF-kappaB on gene expression. Our results demonstrate that a subset of
+   IFN-stimulated genes is regulated through an NF-kappaB-dependent pathway
+   and that NF-kappaB may regulate the sensitivity of cells to IFN-mediated
+   antiviral activity.
+TC 24
+ZB 23
+Z8 1
+Z9 25
+SN 0021-9258
+UT WOS:000222726800050
+ER
+
+PT J
+AU Homayouni, R
+   Magdaleno, S
+   Keshvara, L
+   Rice, DS
+   Curran, T
+TI Interaction of disabled-1 and the GTPase activating protein Dab2IP in
+   mouse brain
+SO MOLECULAR BRAIN RESEARCH
+VL 115
+IS 2
+BP 121
+EP 129
+DI 10.1016/S0169-328X(03)00176-1
+PD JUL 23 2003
+PY 2003
+AB The Reelin signaling pathway controls neuronal positioning during
+   mammalian brain development by binding to the very low density
+   lipoprotein receptor and apolipoprotein E receptor-2, and signaling
+   through the intracellular adapter protein Disabled-1 (Dab1). To identify
+   new components in the Reelin signaling pathway, we used a yeast
+   two-hybrid screen to select Dab1-interacting proteins. Here, we report
+   the characterization of a new mouse Dab1l-interacting protein that is
+   orthologous to rat Dab2IP, a Ras-GTPase activating protein previously
+   shown to bind to Dab2/DOC. The interaction of Dab1 and Dab2IP was
+   confirmed in biochemical assays and by co-immunoprecipitation from brain
+   lysates. The site of interaction between Dab1 and Dab2IP was narrowed to
+   the Dab1-PTB domain and the NPxY motif in Dab2IP. The deduced amino acid
+   sequence of mouse Dab2IP encompasses 1208 residues containing several
+   protein interaction motifs as well as a Ras-like GAP-related domain.
+   Northern blot analysis revealed at least two isoforms of Dab2IP mRNA in
+   the brain, both of which exhibited increased expression during
+   development. In situ hybridization analyses indicated that Dab2IP mRNA
+   is diffusely expressed throughout the developing and the adult brain.
+   Using a polyclonal antiserum specific for Dab2IP, we observed protein
+   expression in the soma and processes of neurons in a variety of brain
+   structures, including the developing cerebral cortex. Our findings
+   suggest that Dab2IP may function as a downstream effector in the Reelin
+   signaling pathway that influences Ras signaling during brain
+   development. (C) 2003 Elsevier B.V. All rights reserved.
+TC 10
+ZB 8
+Z8 0
+Z9 10
+SN 0169-328X
+UT WOS:000184847300004
+ER
+
+PT J
+AU Homayouni, R
+   Rice, DS
+   Curran, T
+TI Disabled-1 interacts with a novel developmentally regulated
+   protocadherin
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 289
+IS 2
+BP 539
+EP 547
+DI 10.1006/bbrc.2001.5998
+PD NOV 30 2001
+PY 2001
+AB Disabled-1 (Dab1) is an intracellular adapter protein that mediates the
+   effect of Reelin on neuronal migration and cell positioning during
+   mammalian brain. development. To identify components of the Reelin-Dab1
+   signaling pathway, we searched for proteins that interact with Dab1
+   using a yeast two-hybrid strategy. We found that the Dab1
+   phosphotyrosine binding (PTB) domain interacts with a novel
+   protocadherin, orthologous to human protocadherin 18. Mouse Pcdh18
+   (mPcdh18), which consists of four exons similar to other protocadherin
+   family members, maps to chromosome 3. The deduced amino acid sequence of
+   mPcdh18 contains six extracellular cadherin motifs, a single
+   transmembrane region, and a large intracellular domain. The site of Dab1
+   interaction was localized to the C-terminal 243 residues of mPcdh18.
+   Expression analyses revealed that mPcdh18 is present in a variety of
+   tissues in the embryo, but in adult mice it is primarily expressed in
+   lung and kidney. In embryonic brain, mPcdhl8 expression is temporally
+   and spatially regulated. Our results indicate that mPcdhl8 participates
+   in signaling pathways involving PTB-containing proteins and suggest that
+   it may play a role during brain development. (C) 2001 Elsevier Science.
+TC 30
+ZB 27
+Z8 3
+Z9 31
+SN 0006-291X
+UT WOS:000172607900035
+ER
+
+PT J
+AU Homayouni, R
+   Curran, T
+TI Cortical development: Cdk5 gets into sticky situations
+SO CURRENT BIOLOGY
+VL 10
+IS 9
+BP R331
+EP R334
+DI 10.1016/S0960-9822(00)00459-0
+PD MAY 4 2000
+PY 2000
+AB Cyclin-dependent kinase 5 (Cdk5) is much more than its name implies; it
+   plays a role in neuronal migration, neurite outgrowth and degeneration.
+   Recent evidence suggests that Cdk5 regulates neuronal adhesion and
+   cytoskeletal dynamics.
+TC 32
+ZB 29
+Z8 2
+Z9 34
+SN 0960-9822
+UT WOS:000088978300006
+ER
+
+PT J
+AU D'Arcangelo, G
+   Homayouni, R
+   Keshvara, L
+   Rice, DS
+   Sheldon, M
+   Curran, T
+TI Reelin is a ligand for lipoprotein receptors
+SO NEURON
+VL 24
+IS 2
+BP 471
+EP 479
+DI 10.1016/S0896-6273(00)80860-0
+PD OCT 1999
+PY 1999
+AB A signaling pathway involving the extracellular protein Reelin and the
+   intracellular adaptor protein Disabled-1 (Dab1) controls cell
+   positioning during mammalian brain development. Here, we demonstrate
+   that Reelin binds directly to lipoprotein receptors, preferably the very
+   low-density lipoprotein receptor (VLDLR) and apolipoprotein E receptor 2
+   (ApoER2). Binding requires calcium, and it is inhibited in the presence
+   of apoE. Furthermore, the CR-50 monoclonal antibody, which inhibits
+   Reelin function, blocks the association of Reelin with VLDLR. After
+   binding to VLDLR on the cell surface, Reelin is internalized into
+   vesicles. In dissociated neurons, apoE reduces the level of
+   Reelin-induced tyrosine phosphorylation of Dab1. These data suggest that
+   Reelin directs neuronal migration by binding to VLDLR and ApoER2.
+TC 429
+ZB 403
+Z8 0
+Z9 442
+SN 0896-6273
+UT WOS:000083423700021
+ER
+
+PT J
+AU Homayouni, R
+   Rice, DS
+   Sheldon, M
+   Curran, T
+TI Disabled-1 binds to the cytoplasmic domain of amyloid precursor-like
+   protein 1
+SO JOURNAL OF NEUROSCIENCE
+VL 19
+IS 17
+BP 7507
+EP 7515
+PD SEP 1 1999
+PY 1999
+AB Disruption of the disabled-1 gene (Dab1) results in aberrant migration
+   of neurons during development and disorganization of laminar structures
+   throughout the brain. Dab1 is thought to function as an adapter molecule
+   in signal transduction processes. It contains a protein-interaction (PI)
+   domain similar to the phosphotyrosine-binding domain of the Shc
+   oncoprotein, it is phosphorylated by the Src protein tyrosine kinase,
+   and it binds to SH2 domains in a phosphotyrosine-dependent manner. To
+   investigate the function of Dab1, we searched for binding proteins using
+   the yeast two-hybrid system. We found that the PI domain of Dab1
+   interacts with the amyloid precursor-like protein 1 (APLP1). The
+   association of Dab1 with APLP1 was confirmed in biochemical assays, and
+   the site of interaction was localized to a cytoplasmic region of APLP1
+   containing the amino acid sequence motif Asn-Pro-x-Tyr (NPxY). NPxY
+   motifs are involved in clathrin-mediated endocytosis, and they have been
+   shown to bind to PI domains present in several proteins. This region of
+   APLP1 is conserved among all members of the amyloid precursor family of
+   proteins. Indeed, we found that Dab1 also interacts with amyloid
+   precursor protein (APP) and APLP2 in biochemical association
+   experiments. In transiently transfected cells, Dab1 and APLP1
+   colocalized in membrane ruffles and vesicular structures. Cotransfection
+   assays in cultured cells indicated that APP family members increased
+   serine phosphorylation of Dab1. Dab1 and APLP1 are expressed in similar
+   cell populations in developing and adult brain tissue. These results
+   suggest that Dab1 may function, at least in part, through association
+   with APLP1 in the brain.
+TC 134
+ZB 125
+Z8 2
+Z9 139
+SN 0270-6474
+UT WOS:000082442600030
+ER
+
+EF

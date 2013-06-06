@@ -1,0 +1,1862 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Gao, Tian-Gang
+   Wang, Wei
+   Bayer, Randall J.
+   Li, De-Zhu
+TI Systematic position of the enigmatic genus Sheareria
+   (Asteraceae)-evidence from molecular, morphological and cytological data
+SO TAXON
+VL 58
+IS 3
+BP 769
+EP 780
+PD AUG 2009
+PY 2009
+AB The systematic position of the monoecious rheophyte, Sheareria
+   (Asteraceae), a genus endemic to China, has been long disputed and never
+   rigorously examined. In this study, two molecular datasets (trnL-F,
+   ITS), Plus morphological and cytological characters, were used to assess
+   the systematic position of Sheareria. The broader phylogenetic analyses
+   based on the trnL-F data placed Sheareria in the tribe Astereae with
+   strong support. This placement was also supported by the lanceolate
+   style, "Asteroid type" ligule epidermis, yellow anthers, green achenes,
+   and basic chromosome number of x = 9. Analysis of the tribe Astereae
+   based oil the ITS dataset showed that Sheareria and three East Asian
+   genera (Kalimeris, Aster, Rhynchospermum) formed a strongly Supported
+   clade characterized by flat, 2-ribbed, glandular disc achenes. Detailed
+   morphological comparisons indicate that Sheareria is more similar to
+   Kalimeris than to Rhynchospermum. Within this clade, Sheareria is
+   distinguished from other genera by its monoecious breeding system (vs.
+   gynomonoecious). Based on fossil and geological evidence, the
+   development of monoecy in Sheareria is discussed. Within Sheareria, only
+   one species, S. nana, is recognized; S. leshanensis, a newly described
+   species, is placed in synonymy.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0040-0262
+UT WOS:000269774900007
+ER
+
+PT J
+AU Bayer, Randall J.
+   Mabberley, David J.
+   Morton, Cynthia
+   Miller, Cathy H.
+   Sharma, Ish K.
+   Pfeil, Bernard E.
+   Rich, Sarah
+   Hitchcock, Roberta
+   Sykes, Steve
+TI A MOLECULAR PHYLOGENY OF THE ORANGE SUBFAMILY (RUTACEAE: AURANTIOIDEAE)
+   USING NINE CPDNA SEQUENCES
+SO AMERICAN JOURNAL OF BOTANY
+VL 96
+IS 3
+BP 668
+EP 685
+DI 10.3732/ajb.0800341
+PD MAR 2009
+PY 2009
+AB The breeding of new, high-quality citrus cultivars depends on dependable
+   information about the relationships of taxa within the tribe Citreae;
+   therefore, it is important to have a well-supported phylogeny of the
+   relationships between species not only to advance breeding strategies,
+   but also to advance conservation strategies for the wild taxa. The
+   recent history of the systematics of Citrus (Rutaceae: Aurantioideae)
+   and its allies, in the context of Rutaceae taxonomy as a whole, is
+   reviewed. The most recent classification is tested using nine cpDNA
+   sequence regions in representatives of all genera of the subfam.
+   Aurantioideae (save Limnocitrus) and numerous species and hybrids
+   referred to Citrus s.l. Aurantioideae are confirmed as monophyletic.
+   Within Aurantioideae, tribe Clauseneae are not monophyletic unless
+   Murraya s.s. and Merrillia are removed to Aurantieae. Within tribe
+   Aurantieae, the three traditionally recognized subtribes are not
+   monophyletic. Triphasiinae is not monophyletic unless Oxanthera is
+   returned to Citrus (Citrinae). Balsamocitrinae is polyphyletic.
+   Feroniella, traditionally considered allied closely to Limonia
+   (=Feronia), is shown to be nested in Citrus. The proposed congenericity
+   of Severinia and Atalantia is confirmed. The most recent circumscription
+   of Citrus is strongly supported by this analysis, with hybrids appearing
+   with their putative maternal parents. The genus was resolved into two
+   clades, one comprising wild species from New Guinea, Australia, and New
+   Caledonia (formerly Clymenia, Eremocitrus, Microcitrus, Oxanthera), but
+   surprisingly also Citrus medica, traditionally believed to be native in
+   India. The second clade is largely from the Asian mainland (including
+   species formerly referred to Fortunella and Poncirus).
+TC 26
+ZB 27
+Z8 2
+Z9 32
+SN 0002-9122
+UT WOS:000264059000012
+ER
+
+PT J
+AU Havill, Nathan P.
+   Campbell, Christopher S.
+   Vining, Thomas F.
+   LePage, Ben
+   Bayer, Randall J.
+   Donoghue, Michael J.
+TI Phylogeny and biogeography of Tsuga (Pinaceae) inferred from nuclear
+   ribosomal ITS and chloroplast DNA sequence data
+SO SYSTEMATIC BOTANY
+VL 33
+IS 3
+BP 478
+EP 489
+DI 10.1600/036364408785679770
+PD JUL-SEP 2008
+PY 2008
+AB Hemlock, Tsuga (Pinaceae), has a disjunct distribution in North America
+   and Asia. To examine the biogeographic history of Tsuga, phylogenetic
+   relationships among multiple accessions of all nine species were
+   inferred using chloroplast DNA sequences and multiple cloned sequences
+   of the nuclear ribosomal ITS region. Analysis of chloroplast and ITS
+   sequences resolve a clade that includes the two western North American
+   species, T. heterophylla and T. mertensiana, and a clade of Asian
+   species within which one of the eastern North American species, T.
+   caroliniona, is nested. The other eastern North American species, T.
+   canadensis, is sister to the Asian clade. Tsuga chinensis from Taiwan
+   did not group with T. chinensis from mainland China, and T. sieboldii
+   from Ullung Island did not group with T. sieboldii from Japan suggesting
+   that the taxonomic status of these distinct populations should be
+   reevaluated. The Himalayan species, T. dumosa, was in conflicting
+   positions in the chloroplast and ITS trees, suggesting that it may be of
+   hybrid origin. Likelihood-based biogeographic inference with divergence
+   time estimates infers an Eocene basal crown group diversification and
+   all initial widespread circumpolar distribution with subsequent
+   vicariance and extinction events leading to the Current disjunct
+   distribution.
+TC 12
+ZB 13
+Z8 2
+Z9 14
+SN 0363-6445
+UT WOS:000258744600002
+ER
+
+PT J
+AU Yulita, KS
+   Bayer, RJ
+   West, JG
+TI Molecular phylogenetic study of Hopea and Shorea (Dipterocarpaceae):
+   Evidence from the trnL-trnF and internal transcribed spacer regions
+SO PLANT SPECIES BIOLOGY
+VL 20
+IS 3
+BP 167
+EP 182
+DI 10.1111/j.1442-1984.2005.00136.x
+PD DEC 2005
+PY 2005
+AB Hopea and Shorea are economically important timber tree genera
+   distributed throughout South-East Asia. The taxonomic limits of these
+   genera are problematic. Molecular phylogenies of Hopea and Shorea were
+   inferred using two non-coding regions of chloroplast (trnL-trnF) and
+   nuclear ribosomal (internal transcribed spacer) DNA. The inferred
+   phylogenetic relationships between Hopea and Shorea indicate that Shorea
+   is paraphyletic and that Hopea is potentially monophyletic (particularly
+   section Drijobalanoides). The inferred groupings within Shorea are very
+   similar to a previous classification based on timber characteristics.
+   The present study also identified four anomalous taxa, whose
+   phylogenetic positions and taxonomic status require further
+   investigation.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0913-557X
+UT WOS:000234264600001
+ER
+
+PT J
+AU Anderberg, AA
+   Eldenas, P
+   Bayer, RJ
+   Englund, M
+TI Evolutionary relationships in the Asteraceae tribe Inuleae (incl.
+   Plucheeae) evidenced by DNA sequences of ndhF; with notes on the
+   systematic positions of some aberrant genera
+SO ORGANISMS DIVERSITY & EVOLUTION
+VL 5
+IS 2
+BP 135
+EP 146
+DI 10.1016/j.ode.2004.10.015
+PD 2005
+PY 2005
+AB The phylogenetic relationships between the tribes Inuleae sensu stricto
+   and Plucheeae are investigated by analysis of sequence data from the
+   cpDNA gene ndhF. The delimitation between the two tribes is elucidated,
+   and the systematic positions of a number of genera associated with these
+   groups, i.e. genera with either aberrant morphological characters or a
+   debated systematic position, are clarified. Together, the Inuleae and
+   Plucheeae form a monophyletic group in which the majority of genera of
+   Inuleae s.str. form one clade, and all the taxa from the Plucheeae
+   together with the genera Antiphiona, Calostephane, Geigeria, Ondetia,
+   Pechuel-loeschea, Pegolettia, and Iphionopsis from Inuleae s.str. form
+   another. Members of the Plucheeae are nested with genera of the Inuleae
+   s.str., and support for the Plucheeae clade is weak. Consequently, the
+   latter cannot be maintained and the two groups are treated as one tribe,
+   Inuleae, with the two subtribes Inulinae and Plucheinae. The genera
+   Asteriscus, Chrysophthaltmum, Inula, Laggera, Pentanema, Pluchea, and
+   Pulicaria are demonstrated to be non-monophyletic. Craystylis and
+   Iphionopsis are found to belong to the same clade as the taxa of the
+   former Plucheeae. Caesulia is shown to be a close relative of Duhaldea
+   and Blumea of the Inuleae-Intilinae. The genera Callilepis and
+   Zoutpansbergia belong to the major clade of the family that includes the
+   tribes Heliantheae sensu lato and Inuleae (Incl. Plucheeae), but their
+   exact position remains unresolved. The genus Gymnarrhena is not part of
+   the Inuleae, but is either part of the unresolved basal complex of the
+   paraphyletic Cichorioideae, or sister to the entire Asteroideae. (c)
+   2005 Gesellschaft fur Biologische Systematik. Published by Elsevier
+   Gmbh. All rights reserved.
+TC 14
+ZB 17
+Z8 0
+Z9 19
+SN 1439-6092
+UT WOS:000230201100005
+ER
+
+PT J
+AU Funk, Vicki A.
+   Bayer, Randall J.
+   Keeley, Sterling
+   Chan, Raymund
+   Watson, Linda
+   Gemeinholzer, Birgit
+   Schilling, Edward
+   Panero, Jose L.
+   Baldwin, Bruce G.
+   Garcia-Jacas, Nuria
+   Susanna, Alfonso
+   Jansen, Robert K.
+TI Everywhere but Antarctica: Using a supertree to understand the diversity
+   and distribution of the Compositae
+SO Kongelige Danske Videnskabernes Selskab Biologiske Skrifter
+VL 55
+BP 343
+EP 374
+PD 2005
+PY 2005
+AB One of every 10 flowering plant species is in the family Compositae.
+   With ca. 24,000-30,000 species in 1600-1700 genera and a distribution
+   that is global except for Antarctica, it is the most diverse of all
+   plant families. Although clearly monophyletic, there is a great deal of
+   diversity among the members: habit varies from annual and perennial
+   herbs to shrubs, vines, or trees, and species grow in nearly every type
+   of habitat from lowland forests to the high alpine fell fields, though
+   they are most. common in open areas. Some are well-known weeds, but most
+   species have restricted distributions, and members of this family are
+   often important components of 'at risk' habitats as in the Cape Floral
+   Kingdom or the Hawaiian Islands. The sub-familial classification and
+   ideas about major patterns of evolution and diversification within the
+   family remained largely unchanged from Bentham through Cronquist.
+   Recently obtained data, both morphological and molecular, have allowed
+   us to examine the distribution and evolution of the family in a way that
+   was never before possible. It is now known that the tribe formerly
+   thought to be ancestral (Heliantheae s. l.) is actually nested high in
+   the phylogeny while one previously thought to be in a derived position
+   (Mutisieae s. L) is basal. Likewise, tribes previously thought to be
+   closely related, Eupatorieae and Vernonieae, are now widely separated,
+   and the Cardueae (thistles) are embedded in the African Mutisieae clade.
+   The results of recent broad-scale molecular studies of the tribes, both
+   published and unpublished, were used to produce a supertree formed by
+   linking the respective trees together. By examining the distribution of
+   the terminal taxa on the phylogeny using parsimony analysis with
+   optimization and ancestral areas analysis, a biogeographic pattern
+   emerges. Basal lineages of the family as well as the sister group
+   Calyceraceae, are all South American and mostly southern South American,
+   and it appears incontrovertible that the origin of extant members of the
+   Compositae was in southern South America. Although numerous, these basal
+   clades represent only a small percentage of the diversity in the family.
+   A subsequent radiation in Africa gave rise to most of the tribes we know
+   today. The African radiation was followed by the movement of individual
+   clades into Asia and Eurasia as well as Australia. Finally, there was a
+   North American origin and diversification of the Heliantheae s. l. that
+   involved repeated incursions into Mexico and South America. The South
+   American radiation followed by the African explosion might suggest a
+   Gondwanan origin for the family, but the few data that exist from pollen
+   records and geology seem to indicate a more recent origin for the
+   family. The existence of the monotypic genus Hecastocleis, endemic to
+   the mountains of Nevada and Death Valley, inserts a North American taxon
+   in between the South American and African radiations which might
+   indicate long distance dispersal, or a North American or even an Asian
+   presence in between South America and Africa. Also of interest is the
+   geographic origin of the ancestor of the Heliantheae s. l. clade. The
+   sister-group to the western hemisphere clade Heliantheae s. L is the
+   small tribe Athroismeae, a group of three genera from eastern tropical
+   Africa, leaving a unknown area, possibly Asia, between Africa and
+   western North America. This global picture of the Compositae provides a
+   framework for studies in morphology and clearly indicates the need for
+   future molecular and morphological studies.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0366-3612
+UT BIOABS:BACD200600231796
+ER
+
+PT J
+AU Chandler, Gregory T.
+   Bayer, Randall J.
+   Gilmore, Simon R.
+TI Oxylobium/Gastrolobium (Fabaceae: Mirbelieae) conundrum: Further studies
+   using molecular data and a reappraisal of morphological characters.
+SO Plant Species Biology
+VL 18
+IS 2-3
+BP 91
+EP 101
+DI 10.1111/j.1442-1984.2003.00094.x
+PD December 2003
+PY 2003
+AB A molecular phylogeny of Oxylobium, Gastrolobium and related genera,
+   including Brachysema, Jansonia, Nemcia and Podolobium, is presented. The
+   study was conducted using five molecular regions and 48 taxa, utilizing
+   chloroplast DNA (the trnK 5' intron, psbA/trnH intergenic spacer, trnL
+   intron and adjacent trnL/trnF intergenic spacer) and nuclear ribosomal
+   DNA (ETS and ITS) markers. Oxylobium is shown to be polyphyletic, while
+   Gastrolobium is paraphyletic, containing within it the genera
+   Brachysema, Jansonia and Nemcia, as well as Oxylobium lineare. This
+   concurs with a previous molecular analysis and the results of the two
+   analyses are compared. Morphological traits, such as subtending bracts,
+   ovule number and fluoroacetate content, are shown to be homoplastic and
+   suites of characters for defining the different genera using different
+   morphological characters are presented. Our results support a recent
+   monograph that expands Gastrolobium to include Brachysema, Jansonia,
+   Nemcia and Oxylobium lineare. This revision leaves Oxylobium and
+   Podolobium occurring exclusively in eastern Australia, while
+   Gastrolobium occurs almost exclusively in south-western Australia, with
+   only two species, G. brevipes and G. grandiflorum, occurring outside
+   this area.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0913-557X
+UT BIOABS:BACD200400178359
+ER
+
+PT J
+AU Miller, JT
+   Grimes, JW
+   Murphy, DJ
+   Bayer, RJ
+   Ladiges, PY
+TI A phylogenetic analysis of the Acacieae and Ingeae (Mimosoideae :
+   Fabaceae) based on trnK, matK, psbA-trnH, and trnL/trnF sequence data
+SO SYSTEMATIC BOTANY
+VL 28
+IS 3
+BP 558
+EP 566
+PD JUL-SEP 2003
+PY 2003
+AB A phylogenetic analysis of exemplars of Acacieae, Ingeae, and some
+   Mimoseae, based on trnK, matK, psbA-trnH, and trnL/trnF sequence data,
+   is presented. The results support other recent studies in showing that
+   neither the Ingeae nor Acacieae is monophyletic. Some subgenera of
+   Acacia, specifically subgenera Acacia and Phyllodineae, are
+   monophyletic, but subg. Acacia is in a basal polychotomy with various
+   members of Mimoseae and a large clade with the other members of Ingeae
+   and Acacieae. Acacia subg. Phyllodineae is sister group to members of
+   the Ingeae. Both the Ingeae and Acacia subg. Aculeiferum are
+   paraphyletic.
+TC 36
+ZB 38
+Z8 0
+Z9 39
+SN 0363-6445
+UT WOS:000184845900009
+ER
+
+PT J
+AU Murphy, DJ
+   Miller, JT
+   Bayer, RJ
+   Ladiges, PY
+TI Molecular phylogeny of Acacia subgenus Phyllodineae (Mimosoideae :
+   Leguminosae) based on DNA sequences of the internal transcribed spacer
+   region
+SO AUSTRALIAN SYSTEMATIC BOTANY
+VL 16
+IS 1
+BP 19
+EP 26
+DI 10.1071/SB01042
+PD MAR 25 2003
+PY 2003
+AB The largest monophyletic group within Acacia is subgenus Phyllodineae,
+   with more than 950 predominately Australian species, the majority
+   characterised by adult foliage consisting of phyllodes. Molecular
+   sequence data from the internal transcribed spacers (ITS) of the nuclear
+   ribosomal DNA repeat were used to investigate the monophyly of seven
+   sections within the subgenus. A nested PCR approach was used to amplify
+   the ITS region. Fifty-one species representative of all sections were
+   sequenced together with one outgroup taxon Lysiloma divaricata (Ingeae).
+   Phylogenetic parsimony analysis suggested that there are two main clades
+   within Phyllodineae but that only one section, Lycopodiifoliae, is
+   apparently monophyletic. In one of the main clades, Lycopodifoliae is
+   related to some taxa in sections Alatae and Pulchellae and some members
+   of section Phyllodineae. In the second main clade, sections Juliflorae,
+   Plurinerves and Botrycephalae cluster with other members of section
+   Phyllodineae. The two sections that are characterised by bipinnate
+   foliage, Botrycephalae and Pulchellae, are nested within phyllodinous
+   clades, indicating that at least two separate reversals to bipinnate
+   leaves have occurred. Botrycephalae is paraphyletic with respect to taxa
+   from section Phyllodineae that have uninerved phyllodes and racemose
+   inflorescences.
+TC 28
+ZB 27
+Z8 0
+Z9 29
+SN 1030-1887
+UT WOS:000181770000003
+ER
+
+PT J
+AU Miller, JT
+   Bayer, RJ
+TI Molecular phylogenetics of Acacia subgenera Acacia and Aculeiferum
+   (Fabaceae : Mimosoideae), based on the chloroplast matK coding sequence
+   and flanking trnK intron spacer regions
+SO AUSTRALIAN SYSTEMATIC BOTANY
+VL 16
+IS 1
+BP 27
+EP 33
+DI 10.1071/SB01035
+PD MAR 25 2003
+PY 2003
+AB The genus Acacia is subdivided into the following three subgenera: subg.
+   Acacia, subg. Aculeiferum and the predominantly Australian subg.
+   Phyllodineae. Morphological and molecular studies have suggested that
+   the tribe Acacieae and genus Acacia are artificial and have a close
+   affinity to the tribe Ingeae. Sequence analysis of the chloroplast trnK
+   intron, including the matK coding region and flanking non-coding
+   regions, were undertaken to examine taxon relationships within Acacia
+   subgenera Acacia and Aculeiferum. Subgenus Acacia is monophyletic while
+   subgenus Aculeiferum is paraphyletic. Within the subgenera, major
+   divisions are found based on biogeography, New World versus
+   African-Asian taxa. These data suggest that characters such as
+   inflorescence and prickle and/or stipule type are polymorphic and
+   homoplasious in cladistic analyses within the subgenera.
+TC 21
+ZB 22
+Z8 0
+Z9 23
+SN 1030-1887
+UT WOS:000181770000004
+ER
+
+PT J
+AU Andrew, RL
+   Miller, JT
+   Peakall, R
+   Crisp, MD
+   Bayer, RJ
+TI Genetic, cytogenetic and morphological patterns in a mixed mulga
+   population: evidence for apomixis
+SO AUSTRALIAN SYSTEMATIC BOTANY
+VL 16
+IS 1
+BP 69
+EP 80
+DI 10.1071/SB01043
+PD MAR 25 2003
+PY 2003
+AB The mulga complex (Acacia aneura and closely related taxa) is a
+   widespread group that is dominant in much of arid Australia. The group
+   is taxonomically difficult, due to a complex interaction of sympatry and
+   putative hybridisation between the major species, geographic variation
+   within species and sympatric variation within A. aneura. Mulga is highly
+   variable in a wide range of vegetative and reproductive characters and
+   it is not unusual to find five or six distinct forms growing side by
+   side. The aim of this project was to gain a better understanding of the
+   relationships among mulga species and A. aneura varieties, as well as
+   the maintenance of this variation. A single site in the Northern
+   Territory, containing A. ayersiana, A. minyura and two varieties of A.
+   aneura, was sampled intensively. Six morphotypes were observed in the
+   field and five were strongly supported by morphometric analysis.
+   Although the mulga complex is generally tetraploid (2n = 52), triploid
+   (2n = 39) and pentaploid (2n = 65) seedlings were produced in the study
+   population. Microsatellite primers developed for A. mangium (sect.
+   Juliflorae) were amplified in individuals of each morphotype, resulting
+   in genetic marker patterns consistent with polyploidy. Genetic and
+   morphometric distances were correlated and differences between
+   morphotypes account for 63% of the total genetic variation (phiPT =
+   0.63, P < 0.001). Allele sequences confirmed the presence of genuine
+   heterozygosity and clonality was suggested by the low genotypic
+   diversity and the lack of allele segregation. Seedlings had identical
+   genotypes to the maternal plants and polyembryony was observed in each
+   taxon, consistent with apomictic reproduction. Both apomixis and ploidy
+   level variation may restrict gene flow among morphotypes, playing a role
+   in the maintenance of morphological diversity at the study site. The
+   success of the group in arid and semi-arid Australia may also be due, in
+   part, to these factors.
+TC 17
+ZB 19
+Z8 0
+Z9 19
+SN 1030-1887
+UT WOS:000181770000009
+ER
+
+PT J
+AU Miller, JT
+   Andrew, R
+   Bayer, RJ
+TI Molecular phylogenetics of the Australian acacias of subg. Phyllodineae
+   (Fabaceae : Mimosoideae) based on the trnK intron
+SO AUSTRALIAN JOURNAL OF BOTANY
+VL 51
+IS 2
+BP 167
+EP 177
+DI 10.1071/BT01099
+PD 2003
+PY 2003
+AB With over 960 species, Acacia is the largest genus of plants in
+   Australia with all but nine of these species classified as subgenus
+   Phyllodineae. DNA sequences for the chloroplast trnK region were
+   sequenced for over 100 species to test sectional classification and
+   survey species relationships within this subgenus. Only one of the seven
+   recognised sections was found to be monophyletic; however, the close
+   relationship of sect. Botrycephalae to certain racemose, uninerved
+   species of sect. Phyllodineae is confirmed. Support is found for an
+   expanded version of Vassal's Pulchelloidea, with the addition of sect.
+   Lycopodiifoliae and several members of sect. Phyllodineae. These
+   species, while morphologically distinct in adult foliage, possess
+   similar seedling characteristics. The multinerved species are
+   unresolved, indicating a rapid morphological radiation with little
+   chloroplast sequence divergence among these species. The low levels of
+   sequence divergence, large numbers of morphological species groups and
+   the adaptive radiation of the group are discussed.
+TC 18
+ZB 19
+Z8 0
+Z9 19
+SN 0067-1924
+UT WOS:000182136600005
+ER
+
+PT J
+AU Chandler, GT
+   Crisp, MD
+   Cayzer, LW
+   Bayer, RJ
+TI Monograph of Gastrolobium (Fabaceae : Mirbelieae)
+SO AUSTRALIAN SYSTEMATIC BOTANY
+VL 15
+IS 5
+BP 619
+EP 739
+DI 10.1071/SB01010
+PD OCT 31 2002
+PY 2002
+AB A taxonomic revision with full descriptions and key are presented for
+   the 109 known species of Gastrolobium, including 29 new species
+   described here for the first time. Brachysema, Jansonia and Nemcia are
+   formally placed into Gastrolobium and new combinations have been made
+   where necessary. Included in the revision are full taxonomic
+   descriptions for all species, full synonymies, literature references for
+   original publications, typification, including selection of lectotypes
+   where necessary, distributions complete with maps, and taxonomic and
+   nomenclatural notes. New taxa described herein are G. acrocaroli, G.
+   aculeatum, G. alternifolium, G. congestum, G. crispatum, G. cruciatum,
+   G. cyanophyllum, G. diabolophyllum, G. discolor, G. elegans, G.
+   euryphyllum, G. ferrugineum, G. glabratum, G. hians, G. humile, G.
+   involutum, G. melanopetalum, G. mondurup, G. musaceum, G. nudum, G.
+   nutans, G. reflexum, G. rhombifolium, G. semiteres, G. tenue, G.
+   tergiversum, G. venulosum, G. whicherensis and G. wonganensis.
+TC 8
+ZB 7
+Z8 0
+Z9 9
+SN 1030-1887
+UT WOS:000178910200002
+ER
+
+PT J
+AU Bayer, RJ
+   Greber, DG
+   Bagnall, NH
+TI Phylocreny of Australian Gnaphalieae (Asteraceae) based on cloroplast
+   and nuclear sequences, the trnL intron, trnL/trnF Intergenic spacer,
+   matK, and ETS
+SO SYSTEMATIC BOTANY
+VL 27
+IS 4
+BP 801
+EP 814
+PD OCT-DEC 2002
+PY 2002
+AB The Gnaphalieae are a group of sunflowers that have their greatest
+   diversity in South America, Southern Africa, and Australia. The
+   objective of this study was to reconstruct a phylogeny of the Australian
+   Gnaphalieae using sequence data from the trnL intron, trnL/trnF
+   intergenic spacer, matK, and ETS. Included in this investigation are the
+   Australian genera of the Gnaphalieae from the subtribes Cassiniinae,
+   Gnaphaliinae, Angianthinae, and Loricariinae, and one to four genera
+   from all tribes of the subfamily Asteroideae to serve as outgroups.
+   Results indicate that the subtribes Angianthinae and Cassinimae are
+   non-monophyletic as currently circumscribed. There is also some evidence
+   to suggest that the genera Asteridea, Craspedia, Hyalosperma, Millotia,
+   and Podolepis are monophyletic, whereas Calocephalus, Gnephosis,
+   Myriocephalus pro parte, Ozothamnus, Siloxerus, Trichanthodium, and
+   Xerochrysum are non-monophyletic. A group of perennial shrubs and alpine
+   cushion plants from southeastern Australia dominates the clade at the
+   base of the Gnaphalieae. The more derived clades contain primarily
+   herbaceous annual taxa, mainly from western Australia. Based on our
+   results, it seems likely that initial colonization and diversification
+   of the Australian Gnaphalieae occurred in the Bassian Floristic region
+   in eastern New South Wales, Victoria, and Tasmania. Following
+   diversification in eastern Australia, concurrent with the increasing
+   aridity over the entire continent during the Miocene, a massive
+   radiation in the Gnaphalieae occurred into the and zone of South
+   Australia and Western Australia.
+TC 39
+ZB 45
+Z8 0
+Z9 46
+SN 0363-6445
+UT WOS:000179681000014
+ER
+
+PT J
+AU Les, DH
+   Moody, ML
+   Jacobs, SWL
+   Bayer, RJ
+TI Systematics of seagrasses (Zosteraceae) in Australia and New Zealand
+SO SYSTEMATIC BOTANY
+VL 27
+IS 3
+BP 468
+EP 484
+PD JUL-SEP 2002
+PY 2002
+AB Previous taxonomic treatments of the family Zosteraceae in Australia/New
+   Zealand hake recognized Heterozostera tasmanica (monotypic) and four
+   Zostera species all belonging to subgenus Zosterella: Z capricorni, Z.
+   muelleri, Z. mucronata, Z. novazelandica, Zostera has always been
+   taxonomically problematic in Australia, where researchers, have
+   expressed difficulty with species recognition due to vague or
+   inconsistent morphological characters There also has been a lack of
+   agreement on generic (notably the distinctness of Heterozostera) and
+   subgeneric delimitation, Recent anatomical, developmental, and molecular
+   studies urge a reevaluation of relationship, in the family, To clarify
+   the taxonomy Of Zosteraceae, we investigated interspecific phylogenetic
+   relationships focusing on Australian species, of subgenus Zosterella, We
+   examined material comprising all genera of Zosteraceae (Heterozostera,
+   Nanozostera, Phyllospadix, Zostera), six/seven species of Zostera
+   subgenus Zosterella (including all Australian/New Zealand species), and
+   one Of four species of Zostera subgenus Zostera. We conducted
+   phylogenetic analyses of morphological data and DNA sequences from
+   nuclear (ITS) and plastid (trnK intron, rbcL) genomes. Our results
+   indicate two major clades (highly divergent at both morphological and
+   molecular levels) and two subclades (with low morphological and
+   molecular divergence) within Zosteraceae, Little morphological and
+   molecular variation was observed among representatives within the clade
+   of Australian/New, Zealand members Of subgenus Zosterella, and none
+   provided cladistic support for taxa recognized formerly as separate
+   species, We recommend that Zosteraceae comprise two genera
+   (Phyllospadix, Zostera) with the latter subdivided into three subgenera
+   (Zostera, Zosterella, Heterozostera). Furthermore, Australian/New
+   Zealand representatives of Zostera subgenus Zosterella should be merged
+   within a single species (Z. capricorni) to reflect the inability of
+   morphological or molecular data to effectively. delimit additional
+   species in this group.
+TC 36
+ZB 40
+Z8 2
+Z9 42
+SN 0363-6445
+UT WOS:000178029300003
+ER
+
+PT J
+AU Bayer, RJ
+   Cross, EW
+TI A reassessment of tribal affinities of the enigmatic genera Printzia and
+   Isoetopsis (Asteraceae), based on three chloroplast sequences
+SO AUSTRALIAN JOURNAL OF BOTANY
+VL 50
+IS 6
+BP 677
+EP 686
+DI 10.1071/BT01108
+PD 2002
+PY 2002
+AB The tribal affinities of two dubiously placed genera of the Asteraceae,
+   Printzia and Isoetopsis, were assessed by using three chloroplast DNA
+   sequences, the trnL/F spacer, the trnL intron and the matK coding
+   region. The outgroup was represented by two species of the tribe
+   Barnadesieae, whereas one to six genera (43 species including Printzia
+   and Isoetopsis) of the tribes of the Asteroideae [Anthemideae (six
+   genera), Astereae (five) Calenduleae (two), Gnaphalieae (six),
+   Heliantheae s.l. (five), Inuleae s.str. (three), Plucheeae (two),
+   Senecioneae (four)] and Cichorioideae [Arctotideae (one), Cardueae
+   (two), Lactuceae (two), Liabeae (one), Mutisieae (one), Vernonieae
+   (one)] were chosen as the ingroup. Phylogenetic analysis indicates that
+   both Printzia and Isoetopsis have a strong affinity with members of the
+   tribe Astereae. At some point in their taxonomic history, both genera
+   had been placed in this tribe and there are good morphological and
+   chemical characters that justify this placement.
+TC 3
+ZB 5
+Z8 0
+Z9 5
+SN 0067-1924
+UT WOS:000179495600002
+ER
+
+PT J
+AU Chandler, GT
+   Bayer, RJ
+   Crisp, MD
+TI A molecular phylogeny of the endemic Australian genus Gastrolobium
+   (Fabaceae : Mirbelieae) and allied genera using chloroplast and nuclear
+   markers
+SO AMERICAN JOURNAL OF BOTANY
+VL 88
+IS 9
+BP 1675
+EP 1687
+DI 10.2307/3558413
+PD SEP 2001
+PY 2001
+AB Gastrolobium (Fabaceae: Mirbelieae) is an endemic Australian genus that
+   produces toxic sodium monofluoroacetate. A phylogenetic reconstruction
+   of Gastrolobium and the related genera Brachysema, Callistachys,
+   Jansonia, Nemcia, Oxylobium, and Podolobium is presented, using sequence
+   data from three regions-the psbA-trnH intergenic spacer and the trnK 5'
+   intron from chloroplast DNA and the 3' end of the external transcribed
+   spacer (ETS) from nuclear ribosomal DNA. Gastrolobium is shown to be
+   paraphyletic, with Brachysema, Jansonia, Nemcia, and Oxylobium lineare
+   nesting within it, and Nemcia is shown to be polyphyletic within
+   Gastrolobium. Past key morphological characters, such as fluoroacetate
+   content and characters associated with pollination syndrome, are shown
+   to be homoplastic, with fluoroacetate possibly a plesiomorphic condition
+   lost in more derived species. Podolobium is also shown to be
+   polyphyletic, with the P. ilicifolium group sister to Gastrolobium and
+   the P. alpestre group sister to Callistachys, a member of the Oxylobium
+   group. It is recommended that Gastrolobium be expanded to include
+   Brachysema, Jansonia, Nemcia, and Oxylobium lineare, while further work
+   is required to test the sister-group relationship between Podolobium
+   s.s. (sensu stricto) and Gastrolobium.
+TC 26
+ZB 24
+Z8 0
+Z9 27
+SN 0002-9122
+UT WOS:000171069600018
+ER
+
+PT J
+AU Miller, JT
+   Bayer, RJ
+TI Molecular phylogenetics of Acacia (Fabaceae : Mimosoideae) based on the
+   chloroplast matK coding sequence and flanking trnK intron spacer regions
+SO AMERICAN JOURNAL OF BOTANY
+VL 88
+IS 4
+BP 697
+EP 705
+DI 10.2307/2657071
+PD APR 2001
+PY 2001
+AB The tribe Acacieae (Fabaceae: Mimosoideae) contains two genera, the
+   monotypic African Faidherbia and the pantropical Acacia, which comprise
+   about 1200 species with over 950 confined to Australia. iis currently
+   recognized, the genus Acacia is subdivided into three subgenera: subg.
+   Acacia, subg. Aculeiferum, and the predominantly Australian subg.
+   Phyllodineae. Morphological studies have suggested the tribe Acacieae
+   and genus Acacia are artificial and have a close affinity to the tribe
+   Ingeae. Based on available data there is no consensus on whether Acacia
+   should be subdivided. Sequence analysis of the chloroplast trnK intron,
+   including the matK coding region and flanking noncoding regions,
+   indicate that neither the tribe Acacieae nor the genus Acacia are
+   monophyletic. Two subgenera are monophyletic: section Filicinae of
+   subgenus Aculeiferum does not group with taxa of the subgenus. Section
+   Filicinae, eight Ingeae genera, and Faidherbia form a weakly supported
+   paraphyletic grade with respect to subg. Phyllodineae. Acacia subg.
+   Aculeiferum (s. s.) is sister to the grade. These data suggest that
+   characters currently used to differentiate taxa at the tribal, generic,
+   and subgeneric levels are polymorphic and homoplasious in cladistic
+   analyses.
+TC 47
+ZB 45
+Z8 1
+Z9 50
+SN 0002-9122
+UT WOS:000168111200019
+ER
+
+PT J
+AU Bayer, Randall J.
+TI Xerochrysum Tzvelev, a pre-existing generic name for Bracteantha Anderb.
+   and Haegi (Asteraceae: Gnaphalieae)
+SO Kew Bulletin
+VL 56
+IS 4
+BP 1013
+EP 1015
+DI 10.2307/4119317
+PD 2001
+PY 2001
+AB As a result of the recircumscription of Helichrysum Mill. by A.
+   Anderberg and others, many species in that genus have been transferred
+   to a number of segregate genera. In 1991, Bracteantha Anderb. and Haegi,
+   was proposed to accommodate five Australian species of the former
+   Helichrysum. However, Xerochrysum Tzvelev (1990), has nomenclatural
+   priority over Bracteantha, and the following new combinations are
+   proposed: Xerochrysum bicolor (Lindl.) R. J. Bayer, Xerochrysum palustre
+   (Flann) R. J. Bayer, Xerochrysum papillosum (Labill.) R. J. Bayer,
+   Xerochrysum subundulatum (Sch. Bip.) R. J. Bayer, and Xerochrysum
+   viscosum (DC.) R. J. Bayer.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0075-5974
+UT BIOABS:BACD200200300553
+ER
+
+PT J
+AU Chandler, Gregory T.
+   Bayer, Randall J.
+TI Phylogenetic placement of the enigmatic Western Australian genus
+   Emblingia based on rbcL sequences
+SO Plant Species Biology
+VL 15
+IS 1
+BP 67
+EP 72
+DI 10.1046/j.1442-1984.2000.00024.x
+PD April, 2000
+PY 2000
+AB Assignment of the enigmatic Australian genus Emblingia to a particular
+   family or order has been difficult. Informative morphological characters
+   have not as yet been found to place Emblingia conclusively into a
+   family, though it does share a number of attributes with the Capparaceae
+   and Resedaceae. As a result, in the past it has been put in various
+   families (Capparaceae, Sapindaceae, Goodeniaceae and Polygalaceae),
+   representing a number of orders, as well as in its own family, the
+   Emblingiaceae. The current molecular study, using rbcL, shows strong
+   support for the placement of Emblingia within the Brassicales, and
+   possibly sister to the Resedaceae. Further morphological and molecular
+   studies within the Brassicales are needed before finalizing the familial
+   placement of this genus. At this time, we consider treatment of
+   Emblingia as a monotypic family, Emblingiaceae, within the order
+   Brassicales the most satisfactory solution.
+TC 7
+ZB 8
+Z8 0
+Z9 8
+SN 0913-557X
+UT BIOABS:BACD200000317283
+ER
+
+PT J
+AU Bayer, RJ
+   Puttock, CF
+   Kelchner, SA
+TI Phylogeny of South African Gnaphalieae (Asteraceae) based on two
+   noncoding chloroplast sequences
+SO AMERICAN JOURNAL OF BOTANY
+VL 87
+IS 2
+BP 259
+EP 272
+DI 10.2307/2656914
+PD FEB 2000
+PY 2000
+AB The Gnaphalieae are a group of sunflowers that have their greatest
+   diversity in South America, Southern Africa, and Australia. The
+   objective of this study was to reconstruct a phylogeny of the South
+   African Gnaphalieae using sequence data from two noncoding chloroplast
+   DNA sequences, the trnL intron and trnL/trnF intergenic spacer. Included
+   in this investigation are the genera of the Gnaphalieae from the African
+   basal groups, members of the subtribes Cassiniinae, Gnaphaliinae, and
+   Relhaniinae, and African representatives from the large Old World genus
+   Helichrysum. Results indicate that two Gnaphaloid genera, Printzia and
+   Callilepis, should be excluded from the Gnaphalieae. In most trees the
+   Relhaniinae s.s. (sensu stricto) and some of the basal taxa comprise a
+   clade that is sister to the remainder of the tribe Gnaphalieae. The
+   Relhaniinae, which are restricted to Africa, are not a monophyletic
+   group as presently circumscribed, nor are the South African members of
+   Helichrysum, the Cassiniinae and Gnaphaliinae. There is general
+   agreement between our molecular analysis and that of morphology,
+   particularly in the terminal branches of the trees.
+TC 41
+ZB 46
+Z8 5
+Z9 49
+SN 0002-9122
+UT WOS:000085395200014
+ER
+
+PT J
+AU Bayer, Randall J.
+TI Observations on the morphology and geographic range of Antennaria dioca
+   (L.) Gaertn. (Asteraceae: Gnaphalieae)
+SO Madrono
+VL 46
+IS 4
+BP 205
+EP 207
+PD October-December, 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0024-9637
+UT BIOABS:BACD200000358185
+ER
+
+PT J
+AU Starr, JR
+   Bayer, RJ
+   Ford, BA
+TI The phylogenetic position of Carex section Phyllostachys and its
+   implications for phylogeny and subgeneric circumscription in Carex
+   (Cyperaceae)
+SO AMERICAN JOURNAL OF BOTANY
+VL 86
+IS 4
+BP 563
+EP 577
+DI 10.2307/2656818
+PD APR 1999
+PY 1999
+AB Wide speculation surrounds the origin and phylogenetic relationships of
+   the most highly reduced sections in the genus Carer. In order to gain a
+   better understanding of phylogeny in Cares the relationship of the
+   reduced sect. Phyllostachys to 12 putatively related sections,
+   representing all four subgenera (Primocarex, Indocarex, Cares Vignea),
+   was inferred from sequences of the ITS (internal transcribed spacer)
+   region of nrDNA. Phylogenetic reconstructions identified two main
+   clades: (1) a "compound" clade composed of sections from subg.
+   Indocarex, Primocarex, and a portion of subg. Carer, and (2) a "reduced"
+   clade consisting of sections from subg. Carer (Phyllostachys) and
+   Primocarex (Filifoliae and Firmiculmes). Subgenus Indocarex was
+   paraphyletic within the "compound" clade supporting classifications that
+   have merged it within a wider subg. Indocarex/Carex/Primocarex line.
+   Subgenus Primocarex was polyphyletic. This result was consistent with
+   theories that extreme reduction has occurred along several different
+   evolutionary lines in Carer. Phylogenetic theories inferred from the
+   presence or abnormal growth of the rachilla were not supported by tree
+   topologies. Difficult sectional circumscriptions, such as the separation
+   of sections Laxiflorae and Careyanae, were strongly upheld by sequence
+   data. The ITS region is an effective tool for defining sectional limits
+   and for estimating relationships among sections in Carer, but does not
+   provide enough phylogenetic information to fully resolve relationships
+   below the sectional level.
+TC 35
+ZB 47
+Z8 1
+Z9 47
+SN 0002-9122
+UT WOS:000079792500014
+ER
+
+PT J
+AU Ainouche, AK
+   Bayer, RJ
+TI Phylogenetic relationships in Lupinus (Fabaceae : Papilionoideae) based
+   on internal transcribed spacer sequences (ITS) of nuclear ribosomal DNA
+SO AMERICAN JOURNAL OF BOTANY
+VL 86
+IS 4
+BP 590
+EP 607
+DI 10.2307/2656820
+PD APR 1999
+PY 1999
+AB Internal transcribed spacer (ITS) sequences of nuclear ribosomal DNA
+   from 44 taxa of the genus Lupinus and five outgroup taxa were used for
+   phylogenetic analysis. Lupinus appears as a strongly supported
+   monophyletic genus, which is unambiguously part of the Genisteae. The
+   lupines are distributed into five main clades in general accordance with
+   their geographical origin. In the Old World, almost all the recognized
+   taxonomic units are well resolved. The ITS data reveal an unexpectedly
+   close relationship between the diverse sections Angustifoli and Lutei.
+   The TTS results suggest a geographical division between the western New
+   World lupines and the eastern ones. They also indicate the presence of
+   some moderately to strongly supported groups of taxa, such as the
+   Microcarpi-Pusilli group, the L. spariflorus-L. arizonicus group, the L.
+   mexicanus-L. elegans group in the western New World, and the notable L.
+   multiflorus-L. paraguariensis group in the eastern New World. The latter
+   group strongly suggests that the eastern South American compound- and
+   simple-leaved perennial lupines derive from a common ancestor. However.
+   apart fi om some exceptions, relationships within the genus still remain
+   largely unresolved based on ITS data. The lack of resolution at the base
+   of the genus is suggestive of a rapid initial radiation of the lupines
+   subsequent to the dispersal of their common ancestor. Relative rate
+   tests demonstrate the presence of rate heterogeneity of ITS sequences
+   within Lupinus. In marry pairwise comparisons between tars, substitution
+   rate inequalities are correlated with the habit (annual, perennial),
+   suggesting some role for the generation time effects in the evolutionary
+   history of lupines.
+TC 64
+ZB 63
+Z8 0
+Z9 66
+SN 0002-9122
+UT WOS:000079792500016
+ER
+
+PT J
+AU Ainouche, ML
+   Bayer, RJ
+   Gourret, JP
+   Defontaine, A
+   Misset, MT
+TI The allotetraploid invasive weed Bromus hordeaceus L. (Poaceae): Genetic
+   diversity, origin and molecular evolution
+SO FOLIA GEOBOTANICA
+VL 34
+IS 4
+BP 405
+EP 419
+DI 10.1007/BF02914919
+PD 1999
+PY 1999
+AB Bromus hordeaceus (section Bromus, Poaceae), a predominantly
+   self-fertilizing tetraploid (2n=28), is an annual weed native to the
+   Mediterranean Basin, which now has a world-wide distribution. High
+   morphological variation led to the recognition of four subspecies, three
+   of which correlated with habitat-type. We examined genetic diversity at
+   enzyme loci in 15 populations from the Mediterranean and the Atlantic
+   region. Although sampled over a larger range of ecological and
+   geographical conditions, the North-African populations appeared less
+   genetically differentiated than populations from Brittany, suggesting
+   higher levels of gene flow among the first ones (Nm = 3.756 and 1.066
+   respectively). No genetic differentiation was encountered among the four
+   subspecies. The populations were homozygous at homologous loci,
+   suggesting high rates of selfing, but they frequently exhibited fixed
+   intergenomic heterozygosity. The meiotic chromosome behaviour and
+   disomic inheritance encountered are in accordance with the previously
+   proposed allopolyploid origin of the species. The diploids B. arvensis
+   and B. scoparius have been previously implicated in the parentage of B.
+   hordeaceus on the basis of morphology and serology. We compared B.
+   hordeaceus with related diploid species belonging to the same section
+   (section Bromus) using different sources of data (flow cytometry,
+   karyotypes, RAPD and DNA sequences). Molecular phylogeny based on
+   internal transcribed spacer sequences of nuclear ribosomal genes
+   provided the first clear scheme of relationships among monogenomic
+   species of the section. A new hypothesis is proposed concerning the
+   origin of B. hordeaceus: We found that it diverged earlier than all
+   other species of section Bromus excluding the diploid B. caroli-henrici
+   which is basal in this group. The 13 autapomorphies accumulated by B.
+   hordeaceus, and the absence of intra-individual sequence heterogeneity
+   are also consistent with the relatively ancient origin of the species
+   within the section.
+TC 12
+ZB 15
+Z8 0
+Z9 17
+SN 0015-5551
+UT WOS:000085966900002
+ER
+
+PT J
+AU Cherniawsky, DM
+   Bayer, RJ
+TI Systematics of North American Petasites (Asteraceae : Senecioneae). III.
+   A taxonomic revision
+SO CANADIAN JOURNAL OF BOTANY-REVUE CANADIENNE DE BOTANIQUE
+VL 76
+IS 12
+BP 2061
+EP 2075
+PD DEC 1998
+PY 1998
+AB Petasites Mill. (Asteraceae: Senecioneae) is a taxonomically difficult
+   genus of polygamodioecious, perennial herbs with a widespread
+   distribution across North America. As many as 10 species and as few as
+   two species (Petasites sagittatus (Banks ex Pursh) A. Gray and Petasites
+   frigidus (L.) Fries with three varieties), with one hybrid taxon, have
+   been recognized previously. Considerable taxonomic controversy has
+   surrounded the genus as a result of a conservative floral morphology and
+   a high degree of polymorphism in leaf morphology. Additionally, a number
+   of intergrading leaf forms among those with rather consistent taxonomic
+   characteristics across various treatments have contributed to the
+   taxonomic ambivalence surrounding Petasites. Our taxonomic revision of
+   North American Petasites is based on results obtained from recent
+   multivariate morphometric and isozyme analyses. These data have
+   indicated that taxa of Petasites are not sufficiently differentiated,
+   morphologically or isozymically, from one another to warrant the
+   recognition of separate species. Therefore, Petasites is circumscribed
+   as a single species containing three varietal taxa and one hybrid taxon
+   between two of the varieties. Although our circumscription of P.
+   sagittatus is in accordance with most previous circumscriptions. we have
+   removed it from the rank of species to varietal status under P.
+   frigidus. The new combination Petasites frigidus var. sagittatus (Banks
+   ex Pursh) Cherniawsky is proposed. Subsequent to the new status of one
+   of its parental taxa (P. frigidus var. sagittatus), the new combination
+   for Petasites xvitifolius (Greene) Bogle is proposed: Petasites frigidus
+   var. xvitifolius (Greene) Cherniawsky. The three entities of the
+   frigidus complex are united under one polymorphic taxon, P, frigidus
+   var, frigidus and the circumscription and name of Petasites frigidus
+   vat. palmatus (Ait.) Cronq, is in accordance with previous authors. A
+   complete list of synonymy and a key to the taxa of Petasites is
+   presented together with distribution maps.
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0008-4026
+UT WOS:000081235800009
+ER
+
+PT J
+AU Goffinet, B
+   Bayer, RJ
+   Vitt, DH
+TI Circumscription and phylogeny of the Orthotrichales (Bryopsida) inferred
+   from rbcL sequence analyses
+SO AMERICAN JOURNAL OF BOTANY
+VL 85
+IS 9
+BP 1324
+EP 1337
+DI 10.2307/2446642
+PD SEP 1998
+PY 1998
+AB The affinities as well as the circumscription of the Orthotrichaceae
+   (Bryopsida), one of the most diverse families of mosses, have been the
+   focus of a controversy for much of the last century. We obtained rbcL
+   sequences for 37 arthrodontous mosses, including 27 taxa of the
+   Orthotrichales. The sequences were analyzed using maximum parsimony and
+   neighbor joining in order to (1) test the monophyly of the
+   Orthotrichales and the Orthotrichaceae; (2) determine their phylogenetic
+   relationships; and (3) test the current subfamilial classification
+   within the Orthotrichaceae. Both analyses suggest that the
+   Orthotrichales are polyphyletic. The Erpodiaceae and the
+   Rhachitheciaceae as well as Amphidium and Drummondia, two genera of the
+   Orthotrichaceae, are shown to be of haplolepideous affinity. The
+   Splachnales, the Bryales sensu late, and the Orthotrichales form a
+   monophyletic clade sister to the Haplolepideae. Both neighbor joining
+   and maximum parsimony also suggest that the Orthotrichaceae are composed
+   of two major lineages dominated either by acrocarpous or cladocarpous
+   taxa. The monophyly of the family is, however, only well supported by
+   Tamura's distances. The genera Macrocoma, Macromitrium, Orthotrichum,
+   Ulota, and Zygodon all appear to be artificial assemblages. This study
+   illustrates the contribution of rbcL sequence data to bryophyte
+   systematics and, particularly, in determining the affinities of taxa
+   lacking a peristome, whose characters are central to the classification
+   of mosses.
+TC 51
+ZB 50
+Z8 3
+Z9 55
+SN 0002-9122
+UT WOS:000076063900015
+ER
+
+PT J
+AU Cherniawsky, DM
+   Bayer, RJ
+TI Systematics of North American Petasites (Asteraceae : Senecioneae). II.
+   Isozyme analysis and population genetic structure
+SO CANADIAN JOURNAL OF BOTANY-REVUE CANADIENNE DE BOTANIQUE
+VL 76
+IS 8
+BP 1476
+EP 1487
+PD AUG 1998
+PY 1998
+AB Petasites Mill. (Asteraceae: Senecioneae) is a genus of diploid,
+   perennial, clonal herbs with a widespread distribution across North
+   America. Because of the low variability in floral morphology and high
+   diversity in leaf morphology, considerable taxonomic confusion surrounds
+   the genus. Petasites is generally recognized in North America by five
+   ill-defined native taxa and two introduced species. Enzyme
+   electrophoresis was conducted to assess the genetic variation in
+   Petasites and obtain an understanding of the evolutionary relationships
+   within the genus. Results show divergence at isozyme loci is not
+   associated with morphological divergence. The mean number of alleles per
+   locus and proportion of polymorphic loci are comparable with plants with
+   similar life-history traits: however, levels of heterozygosity ranged
+   substantially. Although there is a weak, negative association between
+   geographical distance and genetic identity, this is not concordant with
+   morphological differences. Typical of clonal species, genetic identities
+   of Petasites are mon comparable with selfing plants than with other
+   diploid, outcrossing perennials. Petasites also maintains a level of
+   genetic diversity that is similar to other clonal plants and exhibits
+   high levels of differentiation among its populations. This study
+   provides the first contribution to the population genetic structure of
+   Petasites. The relatively high values of genetic identities between the
+   different taxa of Petasites and the similarity in isozymes and
+   chromosome number indicates a rapid and recent origin in North America.
+   These data, in accordance with the close morphological associations of
+   the four taxa in Petasites, suggest the recognition of one species only,
+   Petasites frigidus.
+TC 4
+ZB 5
+Z8 1
+Z9 5
+SN 0008-4026
+UT WOS:000080814500017
+ER
+
+PT J
+AU Bayer, RJ
+   Starr, JR
+TI Tribal phylogeny of the Asteraceae based on two non-coding chloroplast
+   sequences, the trnL intron and trnL/trnF intergenic spacer
+SO ANNALS OF THE MISSOURI BOTANICAL GARDEN
+VL 85
+IS 2
+BP 242
+EP 256
+DI 10.2307/2992008
+PD 1998
+PY 1998
+AB Asteraceae are the largest family of dicotyledonous plants and have long
+   been known for their taxonomic complexity. The ubiquitous parallelisms
+   in morphology within the family have made phylogenetic reconstruction
+   and tribal circumscription an area of long debate. In this study we
+   explored the utility of using two relatively short non-coding
+   chloroplast DNA sequences, the trnL intron and trnL/trnF intergenic
+   spacer, to resolve phylogenetic relationships among the tribes. The
+   results of the phylogenetic analysis produced trees that are
+   topologically congruent with prior phylogenetic hypotheses based on both
+   morphological and molecular data sets. The Asteroideae are a
+   monophyletic group, but the Cichorioideae are paraphyletic. The primary
+   clades of the Cichorioideae are the Mutisieae-Cardueae,
+   Liabeae-Vernonieae, and of the Asteroideae, the Inuleae-Plucheeae,
+   Astereae-Anthemideae, Senecioneae-Gnaphalieae, and the helianthoid clade
+   (Helenieae, Heliantheae s. str., and Eupatorieae). The Inuleae-Plucheeae
+   clade is sister to the remainder of the Asteroideae, and the paraphyly
+   of the Inuleae s.l. (Gnaphalieae, Inuleae s. str., and Plucheeae) is
+   firmly supported by our analysis. Our study illustrates the utility of
+   the trnL intron and trnL/F intergenic spacer for resolving relationships
+   among tribes of the Asteraceae. Using approximately 874 bp, we were able
+   to produce a phylogeny of comparable resolution to phylogenies based on
+   well-known coding regions such as rbcL and ndhF. For phylogenetic
+   inference at the family level the trnL intron and trnL/F spacer provide
+   similar levels of resolution to longer coding sequences (e.g., rbcL,
+   ndhF), while having the advantage of being much easier io amplify and
+   sequence due to their short lengths and universal primers. The numerous
+   insertions and deletions commonly found in this region are easily
+   aligned and are phylogenetically informative, thus adding considerably
+   to the information content per base pair sequenced.
+TC 93
+ZB 93
+Z8 8
+Z9 104
+SN 0026-6493
+UT WOS:000075782200003
+ER
+
+PT J
+AU Cherniawsky, DM
+   Bayer, RJ
+TI Systematics of North American Petasites (Asteraceae : Senecioneae). I.
+   Morphometric analyses
+SO CANADIAN JOURNAL OF BOTANY-REVUE CANADIENNE DE BOTANIQUE
+VL 76
+IS 1
+BP 23
+EP 36
+PD JAN 1998
+PY 1998
+AB Petasites Mill. (Asteraceae: Senecioneae) is a taxonomically difficult
+   genus of polygamodioecious, perennial clonal herbs distributed across
+   Canada, Alaska, and the northern contiguous United States. The taxonomic
+   confusion surrounding the genus is reflected in the ambiguity of the
+   various classification systems currently used. As many as ten species
+   and as few as two species have been recognized (Petasites sagittatus
+   (Banks ex Pursh) Gray and Petasites frigidurs (L.) Fries with three
+   varieties), in addition to one hybrid taxon. To determine if discrete
+   groups could be recognized according to a combination of vegetative and
+   (or) reproductive characters and thereby clarify the phenetic
+   relationships among the taxa of Petasites, morphological data were
+   subjected to principal components and discriminant analyses. Particular
+   emphasis was placed on P. frigidus var. frigidus, P. frigidus var.
+   nivalis sensu Bogle, and the purported hybrid between these taxa, which
+   exhibits an intermediate morphology (the frigidus complex).
+   Additionally, the specific status of P. sagittatus was investigated.
+   Evidence obtained from multivariate morphometric analyses indicates that
+   North American Petasites is comprised of four closely related
+   polymorphic entities. While morphological variation among different taxa
+   of Pelasites is continuous for most reproductive characters, leaf
+   characters were determined to be the most taxonomically discriminating.
+   The entities of the frigidus complex form a cohesive group somewhat
+   distinct from the other taxa. The morphological differentiation between
+   P. sagittatus and other taxa of Petasites is not considered sufficient
+   to warrant recognition of specific status. Therefore, we recommend that
+   only one polymorphic species of Petasites in North America be recognized
+   (P. frigidus with three varieties) in addition to one hybrid taxon
+   originating from a cross between two of the varieties.
+TC 8
+ZB 7
+Z8 0
+Z9 8
+SN 0008-4026
+UT WOS:000073021500003
+ER
+
+PT J
+AU Ainouche, ML
+   Bayer, RJ
+TI On the origins of the tetraploid Bromus species (section Bromus,
+   Poaceae): insights from internal transcribed spacer sequences of nuclear
+   ribosomal DNA
+SO GENOME
+VL 40
+IS 5
+BP 730
+EP 743
+DI 10.1139/g97-796
+PD OCT 1997
+PY 1997
+AB The internal transcribed spacer (ITS) region of nuclear ribosomal DNA
+   from 22 diploid and tetraploid annual Bromus species of section Bromus
+   (Poaceae) and three species belonging to other Bromus sections, Bromus
+   catharticus (section Ceratochloa), Bromus anomalus (section Pnigma), and
+   Bromus sterilis (section Genea), were investigated by PCR amplification
+   and direct sequencing. The length of the ITS-1 region varied from 215 to
+   218 bp, and that of the ITS-2 region from 215 to 216 bp, in the species
+   analyzed. ITS-1 was more variable and provided more informative sites
+   (49) than ITS-2 (32). No variation was encountered within species. In
+   pairwise comparison among species of section Bromus, sequence divergence
+   ranged from 0.0 to 8.0% for the combined ITS-1 and ITS-2 regions.
+   Parsimony analysis using Avena longiglumis and Hordeum vulgare as
+   outgroups resulted in well-resolved phylogenetic trees and showed that
+   section Bromus is monophyletic according to the species analyzed outside
+   of the section. The analysis clarified the phylogenetic relationships
+   among monogenomic (diploid) species. Introduction of the allotetraploid
+   species did not change the general topology of the trees obtained using
+   only the diploid species. Although some tetraploid-diploid species
+   relationships will have to be clarified with faster evolving markers,
+   the ITS sequences are shown to be useful for assessing evolutionary
+   relationships among closely related Bromus species, as well as for
+   clarifying taxonomic problems in previously controversial cases (e.g.,
+   Bromus alopecuros and Bromus caroli-henrici). New hypotheses are
+   proposed concerning the origin of several allotetraploid species. For
+   example, it is shown that the tetraploid Bromus hordeaceus diverged
+   earlier than all other species of section Bromus, excluding the diploid
+   B. caroli-henrici, which is found to be basal in this group. The
+   tetraploid Bromus arenarius, which was considered a hybrid between
+   sections Bromus and Genea, and the tetraploid Bromus adoensis are sister
+   taxa within section Bromus; they belong in a weakly differentiated clade
+   with the diploids Bromus brachystachys, Bromus japonicus, Bromus
+   squarrosus, Bromus arvensis, and Bromus intermedius.
+TC 49
+ZB 53
+Z8 18
+Z9 75
+SN 0831-2796
+UT WOS:A1997YC80300020
+ER
+
+PT J
+AU Goffinet, B
+   Bayer, RJ
+TI Characterization of mycobionts of photomorph pairs in the Peltigerineae
+   (lichenized ascomycetes) based on internal transcribed spacer sequences
+   of the nuclear ribosomal DNA
+SO FUNGAL GENETICS AND BIOLOGY
+VL 21
+IS 2
+BP 228
+EP 237
+DI 10.1006/fgbi.1997.0977
+PD APR 1997
+PY 1997
+AB The ''one fungus-two photomorphs'' hypothesis suggests that certain
+   lichenized fungi can establish a symbiotic relationship with either a
+   eukaryotic or a prokaryotic photobiont. Such pairs of photomorphs are
+   well know from cephalodiate Peltigerineae. Using an ascomycete-specific
+   primer we amplified the internal transcribed spacer region of the nrDNA
+   repeat of the mycobiont from total ''lichen DNA'' extracts of Peltigera
+   malacea, photomorphs of P. aphthosa, P. britannica, and P. leucophlebia,
+   Nephroma expallidum, and photomorphs of N. arcticum. Comparisons of 5.8S
+   sequences suggest that the sequences obtained belong to the mycobiont
+   and thus, that the ascomycete-specific primer is adequate for amplifying
+   fungal DNA from total lichen-DNA extracts. The strict identity of
+   nucleotide sequences of the internal transcribed spacer region of the
+   nrDNA repeat between joined-photomorphs supports the one fungus-two
+   photomorphs hypothesis. Photomorphs may thus primarily reflect
+   phenotypic plasticity of photomorphic fungi in response to changing
+   environmental conditions. The cyanomorph recently reported for P.
+   leucophlebia is shown to be based on a misidentified specimen of P.
+   aphthosa. Comparisons of the ITS sequences further supports recognizing
+   P. aphthosa, P. britannica, and P. leucophlebia at the species rather
+   than the infraspecific level. (C) 1997 Academic Press.
+TC 36
+ZB 36
+Z8 0
+Z9 37
+SN 1087-1845
+UT WOS:A1997XH94900008
+ER
+
+PT J
+AU Bayer, Randall J.
+TI Antennaria rosea (Asteraceae) - a model group for the study of the
+   evolution of polyploid agamic complexes
+SO Opera Botanica
+VL 0
+IS 132
+BP 53
+EP 65
+PD 1997
+PY 1997
+AB Antennaria (Asteraceae: Gnaphalieae) is useful as a tool for studying
+   polyploid agamic complexes because both polyploidy and agamospermy are
+   widespread in this genus. They are dioecious, perennial herbs that occur
+   throughout temperate and arctic regions of the northern hemisphere, with
+   the major center of diversity in the Rocky Mountains of North America.
+   The diploids are morphologically well-defined and usually have rather
+   restricted geographic ranges. The five polyploid complexes in the genus
+   differ considerably from one another with respect to ploidy levels,
+   morphological variation and reproductive modes. The triploid/tetraploid
+   gametophytic apomict, A. rosea, is one of the most thoroughly examined
+   complexes in the genus and it is used to illustrate the evolution of a
+   typical Antennaria polyploid agamic complex The A. rosea polyploid
+   complex has a wider geographic range and possibly greater ecological
+   amplitude than its diploid progenitors and is the result of multiple
+   hybrid origin from among as many as eight sexual diploid species. The
+   diploids gave rise to A. rosea through the processes of interspecific
+   hybridization and backcrossing among themselves and probably through
+   hybridization with facultatively sexual apomicts. The agamic complexes,
+   including A. rosea, may be morphologically confluent with one another
+   because they share sexual progenitors.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0078-5237
+UT BIOABS:BACD199800033140
+ER
+
+PT J
+AU Purdy, BG
+   Bayer, RJ
+TI Genetic variation in populations of the endemic Achillea millefolium ssp
+   megacephala from the Athabasca sand dunes and the widespread ssp
+   lanulosa in western North America
+SO CANADIAN JOURNAL OF BOTANY-REVUE CANADIENNE DE BOTANIQUE
+VL 74
+IS 7
+BP 1138
+EP 1146
+PD JUL 1996
+PY 1996
+AB As part of an analysis of genetic diversity in endemic taxa of the
+   Athabasca sand dunes in northern Saskatchewan, Canada, genetic variation
+   was examined by starch gel electrophoresis in six populations of the
+   endemic Achillea millefolium ssp. megacephala, and 13 populations of the
+   closely related widespread taxon, A. millefolium ssp. lanulosa. Endemic
+   populations had more alleles per locus, a higher percentage of
+   polymorphic loci, and greater genetic diversity than did populations of
+   the widespread taxon. At polymorphic loci, total gene diversity was
+   comparable in both taxa, although within-population gene diversity was
+   higher in the endemic taxon. Population differentiation (G(ST)) was
+   considerably lower in ssp. megacephala than in ssp. lanulosa, although
+   G(ST) values were reduced when the parameter was calculated separately
+   for geographic subdivisions of the widespread taxon. Our results differ
+   from previous studies in which the endemic is typically depauperate of
+   genetic variation relative to related widespread species. We suggest
+   that obligate sexual reproduction and the absence of long-term asexual
+   reproduction may be one of a number of factors that help populations of
+   ssp. megacephala maintain higher levels of genetic variation on the
+   Athabasca sand dunes.
+TC 27
+ZB 27
+Z8 0
+Z9 29
+SN 0008-4026
+UT WOS:A1996UY56300017
+ER
+
+PT J
+AU Bayer, RJ
+   Soltis, DE
+   Soltis, PS
+TI Phylogenetic inferences in Antennaria (Asteraceae: Gnaphalieae:
+   Cassiniinae) based on sequences from nuclear ribosomal DNA internal
+   transcribed spacers (ITS)
+SO AMERICAN JOURNAL OF BOTANY
+VL 83
+IS 4
+BP 516
+EP 527
+DI 10.2307/2446220
+PD APR 1996
+PY 1996
+AB The phylogenetic relationships among sexually reproducing species of
+   Antennaria (Asteraceae) are poorly understood. An earlier cladistic
+   analysis based on morphology did not fully resolve the phylogeny of
+   these taxa and therefore a different approach using molecular data was
+   explored. The internal transcribed spacer regions (ITS-1 and ITS-2) of
+   nuclear ribosomal DNA were sequenced for 30 species of Antennaria and
+   one species from each of the outgroup genera Anaphalis, Ewartia,
+   Leontopodium and Pseudognaphalium. The ITS-1 sequence in Antennaria
+   ranged from 253 to 260 base pairs (bp) in length, and the proportion of
+   nucleotide differences between pairs of species of Antennaria ranged
+   from 1 to 14%. For ITS-2, the divergence between pairs of species of
+   Antennaria ranged from 0 to 8%. ITS-2 is shorter than ITS-1, ranging
+   from 213 to 219 bp. Phylogenetic analysis indicates that, relative to
+   the outgroups included, Antennaria is a well-supported monophyletic
+   group. Based on the genera surveyed, Leontopodium appears to be the
+   sister genus of Antennaria. The general topology of the molecular trees
+   agrees with that based on previous morphological analyses and indicates
+   that Antennaria is composed of six clades of equal rank corresponding to
+   the traditionally recognized informal groups, the Geyerine, Argenteae,
+   Arcuatae, Dimorphae, Pulcherrimae, and Catipes. Sequence and
+   morphological data indicate that the Alpinae and Dioicae are unnatural,
+   polyphyletic units that should be abandoned and redefined as the
+   monophyletic Catipes group. Phylogenetic analysis of ITS sequences also
+   suggests the dissociation of A. stenophylla from the Dimorphae, where it
+   is traditionally placed, and its affiliation with the Argenteae, as well
+   as the placement of A. arcuata in its own group.
+TC 44
+ZB 49
+Z8 0
+Z9 52
+SN 0002-9122
+UT WOS:A1996UH18600011
+ER
+
+PT J
+AU Bayer, RJ
+   Hufford, L
+   Soltis, DE
+TI Phylogenetic relationships in Sarraceniaceae based on rbcL and ITS
+   sequences
+SO SYSTEMATIC BOTANY
+VL 21
+IS 2
+BP 121
+EP 134
+DI 10.2307/2419743
+PD APR-JUN 1996
+PY 1996
+AB Sarraceniaceae, a New World family of carnivorous plants, consist of
+   Sarracenia, Heliamphora, and the monotypic Darlingtonia. Despite
+   extensive interest in these plants, few explicit phylogenetic hypotheses
+   are available for the family. We investigate phylogenetic relationships
+   in the family using sequences of the internal transcribed spacer regions
+   of nuclear ribosomal DNA (ITS) and of the chloroplast gene rbcL. One
+   representative of each genus was sequenced for rbcL, whereas
+   representatives of all species in the family, except for H. heterodoxa
+   and H. ionasii, were sequenced for ITS. Both the ITS- and rbcl-based
+   phylogenies demonstrate that Sarracenia and Heliamphora form a
+   monophyletic group that is the sister group of Darlingtonia. Sarracenia
+   and Heliamphora are each well supported monophyletic genera. In our
+   restricted sampling of Heliamphora, H. nutans is the sister of H. minor
+   and H. tatei. Our results provide little resolution of relationships
+   among species of Sarracenia, but identify one dade that consists of all
+   species except S. alata. Within this clade are two smaller clades
+   comprising:-1) S. purpurea and S. leucophylla,-and-2) S. flava, S.
+   minor, and S. psittacina.
+TC 39
+ZB 41
+Z8 0
+Z9 41
+SN 0363-6445
+UT WOS:A1996VV40600002
+ER
+
+PT J
+AU PURDY, BG
+   BAYER, RJ
+TI ALLOZYME VARIATION IN THE ATHABASCA SAND DUNE ENDEMIC, SALIX SILICICOLA,
+   AND THE CLOSELY-RELATED WIDESPREAD SPECIES, S-ALAXENSIS
+SO SYSTEMATIC BOTANY
+VL 20
+IS 2
+BP 179
+EP 190
+DI 10.2307/2419448
+PD APR-JUN 1995
+PY 1995
+AB Genetic variation was estimated by starch gel electrophoretic resolution
+   of 17 putative isozyme loci in eight populations of the Athabasca sand
+   dune endemic Salix silicicola from northern Saskatchewan, Canada, and
+   five populations of its putative progenitor species, Salix alaxensis,
+   from northern British Columbia, Canada. Thirty-seven alleles were
+   detected at 10 polymorphic loci. Six loci were polymorphic in the
+   endemic species and 10 loci were polymorphic in the presumed progenitor
+   species. Salix silicicola had one unique allele, whereas Salix alaxensis
+   had 17 alleles not found in the former species. Populations of the
+   endemic contained fewer alleles per locus (1.30 vs. 1.85), fewer alleles
+   per polymorphic locus (2.05 vs. 2.85), lower percent polymorphic loci
+   (28.7 vs. 45.9) and lower genetic diversity (0.073 vs. 0.195) than did
+   populations of the putative progenitor species. Genetic identities
+   within species averaged 0.981 for Salix silicicola and 0.973 for Salix
+   alaxensis and between species identities ranged from 0.902 to 0.963 with
+   a mean of 0.932. At polymorphic loci, total gene diversity was
+   relatively high in Salix silicicola (H-T = 0.305) and Salix alaxensis
+   (H-T = 0.384). Population differentiation was relatively low in both
+   species (Salix silicicola, G(ST) = 0.159; Salix alaxensis, G(ST) =
+   0.097) whereas estimates of gene flow based on G(ST) values were
+   moderate (Salix silicicola, Nm(W) = 1.32; Salix alaxensis, Nm(W) =
+   2.33), consistent with these trees' dioecious breeding system and
+   wind-dispersed seeds.
+TC 36
+ZB 35
+Z8 0
+Z9 36
+SN 0363-6445
+UT WOS:A1995RE31200007
+ER
+
+PT J
+AU PURDY, BG
+   BAYER, RJ
+TI GENETIC DIVERSITY IN THE TETRAPLOID SAND DUNE ENDEMIC
+   DESCHAMPSIA-MACKENZIEANA AND ITS WIDESPREAD DIPLOID PROGENITOR
+   D-CESPITOSA (POACEAE)
+SO AMERICAN JOURNAL OF BOTANY
+VL 82
+IS 1
+BP 121
+EP 130
+DI 10.2307/2445794
+PD JAN 1995
+PY 1995
+AB Electrophoretic variation was examined in 14 populations of tetraploid
+   Deschampsia mackenzieana, an endemic of the Athabasca sand dunes in
+   northern Saskatchewan, Canada, and 20 populations of its geographically
+   widespread diploid progenitor, D. cespitosa. Three of the D. cespitosa
+   populations were sympatric with the endemic on the Athabasca sand dunes.
+   Populations of the endemic were found to have fewer alleles per locus
+   (1.22 vs. 1.52), fewer alleles per polymorphic locus (2.17 vs. 2.70),
+   lower percent polymorphic loci (18.9 vs. 30.5), and lower heterozygosity
+   (0.062 vs. 0.119) than progenitor populations. Species level genetic
+   diversity parameters also indicated that D. mackenzieana was genetically
+   depauperate relative to its progenitor D. cespitosa. Deschampsia
+   mackenzieana had no novel alleles but did share one allele with
+   sympatric progenitor populations that did not occur in populations of D.
+   cespitosa from other habitats. Although both species were found to
+   partition most of their genetic diversity within populations, D.
+   mackenzieana did have more of its limited genetic diversity partitioned
+   among populations than D. cespitosa. The close genetic relationship
+   between D. mackenzieana and sympatric populations of D. cespitosa may
+   suggest the endemic tetraploid evolved from the sympatric diploid gene
+   pool in the Athabasca sand dune region. The low levels of genetic
+   diversity in D. mackenzieana suggest a restricted origin with limited
+   gene flow from the progenitor since speciation.
+TC 40
+ZB 37
+Z8 0
+Z9 41
+SN 0002-9122
+UT WOS:A1995QC07900016
+ER
+
+PT J
+AU PURDY, BG
+   BAYER, RJ
+   MACDONALD, SE
+TI GENETIC-VARIATION, BREEDING SYSTEM EVOLUTION, AND CONSERVATION OF THE
+   NARROW SAND DUNE ENDEMIC STELLARIA-ARENICOLA AND THE WIDESPREAD
+   S-LONGIPES (CARYOPHYLLACEAE)
+SO AMERICAN JOURNAL OF BOTANY
+VL 81
+IS 7
+BP 904
+EP 911
+DI 10.2307/2445771
+PD JUL 1994
+PY 1994
+AB Genetic variation was examined by electrophoresis in 14 populations of
+   Stellaria arenicola, an endemic of the Athabasca sand dunes in northern
+   Saskatchewan, Canada, and seven populations of S. longipes, its
+   progenitor. Three of the S. longipes populations were sympatric with the
+   endemic. Populations of the endemic were found to have fewer alleles per
+   polymorphic locus (2.21 vs. 2.37), fewer polymorphic loci (29.9 vs.
+   33.8), and lower genetic diversity (0.087 vs. 0.107) than populations of
+   the progenitor. Genetic identities for all pairs of populations were
+   high (0.932 to 1.000). The endemic had one novel allele and shared ten
+   alleles with progenitor populations from the sand dunes that were not
+   found in other populations of S. longipes. Populations of both species
+   were found to partition most of their genetic variation within
+   populations. An investigation of the multilocus outcrossing rates
+   revealed that S. arenicola had higher rates of selfing and biparental
+   inbreeding than S. longipes. This study suggests that partial genetic,
+   isolation through a shift in the breeding system, in addition to
+   previously reported strong directional selection, has been important in
+   the sympatric evolution of the endemic S. arenicola. The close genetic
+   relationship between populations of S. arenicola and S. longipes found
+   on the Athabasca sand dunes supports the suggestion that the endemic
+   evolved while sympatric to the gene pool of the progenitor species that
+   is found presently in the region.
+TC 45
+ZB 43
+Z8 0
+Z9 46
+SN 0002-9122
+UT WOS:A1994NX60400012
+ER
+
+PT J
+AU BAYER, RJ
+   STEBBINS, GL
+TI A SYNOPSIS WITH KEYS FOR THE GENUS ANTENNARIA (ASTERACEAE, INULEAE,
+   GNAPHALIINAE) OF NORTH-AMERICA
+SO CANADIAN JOURNAL OF BOTANY-REVUE CANADIENNE DE BOTANIQUE
+VL 71
+IS 12
+BP 1589
+EP 1604
+PD DEC 1993
+PY 1993
+AB Keys to all species of Antennaria of North America and Mexico are
+   presented. The number of taxa acknowledged in the current treatment is
+   46, including 35 species with 17 subspecies circumscribed among some of
+   the more diverse species. The treatment is a highly conservative one,
+   considering the fact that over 350 taxa of Antennaria have been
+   described for North America, the majority in the last 100 years. A
+   synopsis enumerates all the recognized taxa and provides their correct
+   name, widely used synonyms, basionym, type locality, key morphological
+   features, and assorted taxonomic notes. The new combinations, Antennaria
+   friesiana (Trautv.) Ekman ssp. neoalaskana (A.E. Pors.) Bayer and
+   Stebbins comb. et stat.nov. and Antennaria luzuloides Torr. and A. Gray
+   ssp. aberrans (E..Nels.) Bayer and Stebbins comb.nov., are proposed.
+TC 6
+ZB 7
+Z8 0
+Z9 7
+SN 0008-4026
+UT WOS:A1993MW81400008
+ER
+
+PT J
+AU BAYER, RJ
+TI A TAXONOMIC REVISION OF THE GENUS ANTENNARIA (ASTERACEAE, INULEAE,
+   GNAPHALIINAE) OF ALASKA AND YUKON-TERRITORY, NORTHWESTERN NORTH-AMERICA
+SO ARCTIC AND ALPINE RESEARCH
+VL 25
+IS 2
+BP 150
+EP 159
+DI 10.2307/1551552
+PD MAY 1993
+PY 1993
+AB Keys to all species of Antennaria of Alaska and Yukon Territory are
+   presented. The number of taxa acknowledged in the current treatment is
+   17, including 10 species with several subspecies circumscribed within
+   some of the more diverse species. A synopsis enumerating all the
+   recognized taxa provides their correct name, relevant synonyms,
+   basionym, type locality, key morphological features, chromosome numbers
+   and assorted taxonomic notes. Maps of each taxon are provided.
+TC 3
+ZB 4
+Z8 0
+Z9 4
+SN 0004-0851
+UT WOS:A1993LC44700009
+ER
+
+PT J
+AU Montagnes, R. Joan S.
+   Bayer, Randall J.
+   Vitt, Dale H.
+TI Isozyme variation in the moss Meesia triquetra (Meesiacea)
+SO Journal of the Hattori Botanical Laboratory
+VL 0
+IS 74
+BP 155
+EP 170
+PD 1993
+PY 1993
+AB Isozyme variation in eight enzyme systems in plants from 15 fens from
+   three regions (boreal, subarctic, and high arctic) indicate that the
+   gene diversity of Meesia triquetra, at 0.151, and genetic identity
+   values (0.80-1.00) between populations of M. triquetra are comparable to
+   those reported for many tracheophyte plant species. Gene diversity
+   decreases significantly with increasing latitude, however patterns of
+   gene diversity of the site level were more complex and suggest a highly
+   dynamic species. In particular, subarctic sites have high between site
+   gene diversity, while boreal sites have high within site gene diversity
+   and high arctic sites are consistently low. Genetic identities are
+   highest among the high arctic sites and lowest among the subarctic
+   sites. The data suggest that the present-day regional gene diversity has
+   evolved differently in each region.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0073-0912
+UT BIOABS:BACD199497172835
+ER
+
+PT J
+AU BAYER, RJ
+TI CHROMOSOME-NUMBERS AND TAXONOMIC NOTES FOR NORTH-AMERICAN SPECIES OF
+   ANTENNARIA (ASTERACEAE, INULEAE)
+SO SYSTEMATIC BOTANY
+VL 9
+IS 1
+BP 74
+EP 83
+DI 10.2307/2418409
+PD 1984
+PY 1984
+TC 34
+ZB 34
+Z8 0
+Z9 34
+SN 0363-6445
+UT WOS:A1984SN52300011
+ER
+
+PT J
+AU BAYER, RJ
+   STEBBINS, GL
+TI A REVISED CLASSIFICATION OF ANTENNARIA (ASTERACEAE, INULEAE) OF THE
+   EASTERN-UNITED-STATES
+SO SYSTEMATIC BOTANY
+VL 7
+IS 3
+BP 300
+EP 313
+DI 10.2307/2418391
+PD 1982
+PY 1982
+TC 26
+ZB 26
+Z8 0
+Z9 26
+SN 0363-6445
+UT WOS:A1982PA03600006
+ER
+
+PT J
+AU CRAWFORD, DJ
+   BAYER, RJ
+TI ALLOZYME DIVERGENCE IN COREOPSIS-CYCLOCARPA (COMPOSITAE)
+SO SYSTEMATIC BOTANY
+VL 6
+IS 4
+BP 373
+EP 379
+DI 10.2307/2418449
+PD 1981
+PY 1981
+TC 21
+ZB 19
+Z8 0
+Z9 21
+SN 0363-6445
+UT WOS:A1981MY55000005
+ER
+
+EF

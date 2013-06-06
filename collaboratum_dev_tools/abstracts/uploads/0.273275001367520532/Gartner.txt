@@ -1,0 +1,4112 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU O'Brien, Kelly A.
+   Gartner, T. Kent
+   Hay, Nissim
+   Du, Xiaoping
+TI ADP-Stimulated Activation of Akt During Integrin Outside-In Signaling
+   Promotes Platelet Spreading by Inhibiting Glycogen Synthase Kinase-3
+   beta
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+VL 32
+IS 9
+BP 2232
+EP +
+DI 10.1161/ATVBAHA.112.254680
+PD SEP 2012
+PY 2012
+AB Objective-Integrins mediate platelet adhesion and transmit outside-in
+   signals leading to platelet spreading. Phosphoinositide 3-kinases
+   (PI3Ks) play a critical role in outside-in signaling and platelet
+   spreading; however, the mechanisms of PI3K activation and function in
+   outside-in signaling are unclear. We sought to determine the role of the
+   Akt family of serine/threonine kinases and activation mechanisms of the
+   PI3K/Akt pathway in outside-in signaling.
+   Methods and Results-Akt inhibitors and Akt3 knockout inhibited platelet
+   spreading on fibrinogen, indicating that Akt is important in integrin
+   outside-in signaling. Akt inhibitors and Akt3 knockout also diminished
+   integrin-dependent phosphorylation of glycogen synthase kinase-3 beta.
+   Inhibition of glycogen synthase kinase-3 beta reversed the inhibitory
+   effects of Akt3 knockout and inhibitors of Akt or PI3K on platelet
+   spreading, indicating that glycogen synthase kinase-3 beta is a
+   downstream target of Akt in outside-in signaling. Integrin-dependent
+   activation of the PI3K-Akt pathway requires Src family kinase. Akt
+   phosphorylation is also significantly inhibited in ADP receptor P2Y12
+   knockout platelets and further inhibited in P2Y12 knockout platelets
+   treated with a P2Y1 antagonist. Consistently, P2Y12 knockout and P2Y1
+   inhibition together reduced platelet spreading.
+   Conclusion-These results demonstrate that integrin outside-in signaling
+   and platelet spreading requires Src family kinase-dependent and ADP
+   receptor-amplified activation of the PI3K-Akt-GSK-3 beta pathway.
+   (Arterioscler Thromb Vasc Biol. 2012;32:2232-2240.)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1079-5642
+UT WOS:000307773100026
+ER
+
+PT J
+AU Niu, Haixia
+   Xu, Zhenlu
+   Li, Ding
+   Zhang, Lin
+   Wang, Kemin
+   Taylor, Donald B.
+   Liu, Junling
+   Gartner, T. Kent
+TI Peptide LSARLAF induces integrin beta 3 dependent outside-in signaling
+   in platelets
+SO THROMBOSIS RESEARCH
+VL 130
+IS 2
+BP 203
+EP 209
+PD AUG 2012
+PY 2012
+AB Introduction: Peptide LSARLAF (LSA) can bind and activate integrin alpha
+   IIb beta 3 in the absence of 'inside-out' signal. The active alpha IIb
+   beta 3 mediates 'outside-in' signaling that elicits platelet
+   aggregation, granule secretion and TxA2 production. Here we identify the
+   membrane glycoproteins which mediate LSA-induced platelet activation
+   other than alpha IIb beta 3, and determine the roles of Src, PLC gamma
+   2, FcR gamma-chain, and SLP-76 in LSA-induced platelet activation.
+   Method: Ligand-receptor binding assay was performed to study the effect
+   of peptide LSA or its control peptide FRALASL (FRA) on integrins binding
+   to their ligands. Spreading of CHO cells expressing alpha IIb beta 3 or
+   alpha V beta 3 on immobilized fibrinogen was measured in the presence of
+   LSA or FRA. Washed beta 3, Src, FcR gamma-chain, LAT and SLP-76
+   deficient platelets aggregation and secretion were tested in response to
+   LSA.
+   Results: Ligand-receptor binding assay indicated that LSA promoted the
+   binding of multiple ligands to alpha IIb beta 3 or alpha V beta 3. LSA
+   also enhanced CHO cells with alpha IIb beta 3 or alpha V beta 3
+   expression spreading on immobilized fibrinogen. beta 3 deficient
+   platelets failed to aggregate and secrete in response to LSA. The
+   phosphorylation of PLC gamma 2 and Syk was also beta 3 dependent. Src,
+   FcR gamma-chain, LAT and SLP-76 deficient platelets did not aggregate,
+   secrete ATP or produce TxA2 in response to LSA.
+   Conclusion: LSA-induced platelet activation is beta 3 dependent, and
+   signaling molecules Src, FcR gamma-chain, SLP-76 and LAT play crucial
+   roles in LSA-induced beta 3 mediated signaling. (C) 2012 Elsevier Ltd.
+   All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0049-3848
+UT CCC:000306959500013
+ER
+
+PT J
+AU Li, Ding
+   Wang, Yanhua
+   Zhang, Lin
+   Luo, Xinping
+   Li, Jian
+   Chen, Xuejin
+   Niu, Haixia
+   Wang, Kemin
+   Sun, Yueping
+   Wang, Xuefeng
+   Yan, Yan
+   Chai, Weiran
+   Gartner, T. Kent
+   Liu, Junling
+TI Roles of Purinergic Receptor P2Y, G Protein-Coupled 12 in the
+   Development of Atherosclerosis in Apolipoprotein E-Deficient Mice
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+VL 32
+IS 8
+BP E81
+EP U104
+DI 10.1161/ATVBAHA.111.239095
+PD AUG 2012
+PY 2012
+AB Objective-The aim of the study was to evaluate the role of purinergic
+   receptor P2Y, G protein-coupled 12 (P2Y12), an ADP receptor, in the
+   development of atherosclerotic lesions.
+   Methods and Results-Apolipoprotein E-null mice were crossed with
+   P2y12(-/-) mice to generate double knockout mice. The double knockout
+   mice and the control apolipoprotein E-null mice were fed a high-fat diet
+   for 20 weeks. Assessment of the atherosclerotic lesions in the control
+   and double knockout mice demonstrated that P2Y12 deficiency caused a
+   diminished lesion area, an increased fibrous content at the plaque site,
+   and decreased monocyte/macrophage infiltration of the lesions.
+   Polymerase chain reaction studies revealed that white blood cells do not
+   express significant levels of P2Y12. Bone marrow transplantation
+   experiments confirmed that P2Y12 expressed on platelets is a key factor
+   responsible for atherosclerosis, but do not exclude a role of smooth
+   muscle cell P2Y12. Supernatant fluid from activated P2y12(+/+) but not
+   P2y12-/- platelets was capable of causing monocyte migration. In vitro
+   studies showed that platelet P2Y12 deficiency suppressed platelet factor
+   4 secretion and P-selectin expression. Further work demonstrated that
+   platelet P2Y12, through inhibition of the cAMP/protein kinase A pathway,
+   critically regulates the release of platelet factor 4, and thereby
+   affects monocyte recruitment and infiltration.
+   Conclusion-These results demonstrate that P2Y12 modulates atherogenesis,
+   at least in part by augmenting inflammatory cell recruitment via
+   regulation of platelet alpha-granule release. (Arterioscler Thromb Vasc
+   Biol. 2012;32:e81-e89.)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1079-5642
+UT WOS:000306558100005
+ER
+
+PT J
+AU Zhang, Guoying
+   Xiang, Binggang
+   Ye Shaojing
+   Chrzanowska-Wodnicka, Magdalena
+   Morris, Andrew J.
+   Gartner, T. Kent
+   Whiteheart, Sidney W.
+   White, Gilbert C., II
+   Smyth, Susan S.
+   Li, Zhenyu
+TI DISTINCT ROLES for Rap1b In PLATELET SECRETION and INTEGRIN a(IIB)b(3)
+   OUTSIDE-In SIGNALING
+SO BLOOD
+VL 118
+IS 21
+BP 959
+EP 959
+PD NOV 18 2011
+PY 2011
+CT 53rd Annual Meeting and Exposition of the American-Society-of-Hematology
+   (ASH)/Symposium on the Basic Science of Hemostasis and Thrombosis
+CY DEC 10-13, 2011
+CL San Diego, CA
+SP Amer Soc Hematol (ASH)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000299597103067
+ER
+
+PT J
+AU Niu, Haixia
+   Li, Ding
+   Weng, Zhen
+   Wang, Yanhua
+   Zhang, Lin
+   Kemin, Wang
+   Sun, Yueping
+   Chen, Guo-Qiang
+   Chai, Weiran
+   Luo, Xinping
+   Gartner, T. Kent
+   Liu, Junling
+TI PTEN Is a Key Regulator of Collagen-Induced Platelet Activation and Is
+   Involved in alpha IIb beta 3-Mediated Outside-in Signaling
+SO BLOOD
+VL 118
+IS 21
+BP 1400
+EP 1401
+PD NOV 18 2011
+PY 2011
+CT 53rd Annual Meeting and Exposition of the American-Society-of-Hematology
+   (ASH)/Symposium on the Basic Science of Hemostasis and Thrombosis
+CY DEC 10-13, 2011
+CL San Diego, CA
+SP Amer Soc Hematol (ASH)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000299597104602
+ER
+
+PT J
+AU Wang, Yanhua
+   Sun, Yueping
+   Li, Ding
+   Zhang, Lin
+   Wang, Kemin
+   Chai, Weiran
+   Luo, Xinping
+   Gartner, T. Kent
+   Liu, Junling
+TI P2Y12 Is Involved in Cancer Metastasis
+SO BLOOD
+VL 118
+IS 21
+BP 1439
+EP 1440
+PD NOV 18 2011
+PY 2011
+CT 53rd Annual Meeting and Exposition of the American-Society-of-Hematology
+   (ASH)/Symposium on the Basic Science of Hemostasis and Thrombosis
+CY DEC 10-13, 2011
+CL San Diego, CA
+SP Amer Soc Hematol (ASH)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000299597105086
+ER
+
+PT J
+AU Zhang, Guoying
+   Xiang, Binggang
+   Ye, Shaojing
+   Chrzanowska-Wodnicka, Magdalena
+   Morris, Andrew J.
+   Gartner, T. Kent
+   Whiteheart, Sidney W.
+   White, Gilbert C., II
+   Smyth, Susan S.
+   Li, Zhenyu
+TI Distinct Roles for Rap1b Protein in Platelet Secretion and Integrin
+   alpha(IIb)beta(3) Outside-in Signaling
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 286
+IS 45
+BP 39466
+EP 39477
+DI 10.1074/jbc.M111.239608
+PD NOV 11 2011
+PY 2011
+AB Rap1b is activated by platelet agonists and plays a critical role in
+   integrin alpha(IIb)beta(3) inside-out signaling and platelet
+   aggregation. Here we show that agonist-induced Rap1b activation plays an
+   important role in stimulating secretion of platelet granules. We also
+   show that alpha(IIb)beta(3) outside-in signaling can activate Rap1b, and
+   integrin outside-in signaling-mediated Rap1b activation is important in
+   facilitating platelet spreading on fibrinogen and clot retraction.
+   Rap1b-deficient platelets had diminished ATP secretion and P-selectin
+   expression induced by thrombin or collagen. Importantly, addition of low
+   doses of ADP and/or fibrinogen restored aggregation of Rap1b-deficient
+   platelets. Furthermore, we found that Rap1b was activated by platelet
+   spreading on immobilized fibrinogen, a process that was not affected by
+   P2Y(12) or TXA(2) receptor deficiency, but was inhibited by the
+   selective Src inhibitor PP2, the PKC inhibitor Ro-31-8220, or the
+   calcium chelator demethyl-1,2-bis(2-aminophenoxy)
+   ethane-N,N,N',N'-tetraacetic acid tetrakis. Clot retraction was
+   abolished, and platelet spreading on fibrinogen was diminished in
+   Rap1b-deficient platelets compared with wild-type controls. The defects
+   in clot retraction and spreading on fibrinogen of Rap1b-deficient
+   platelets were not rescued by addition of MnCl2, which elicits
+   alpha(IIb)beta(3) outside-in signaling in the absence of inside-out
+   signaling. Thus, our results reveal two different activation mechanisms
+   of Rap1b as well as novel functions of Rap1b in platelet secretion and
+   in integrin alpha(IIb)beta(3) outside-in signaling.
+TC 2
+ZB 1
+Z8 0
+Z9 2
+SN 0021-9258
+UT WOS:000296759800064
+ER
+
+PT J
+AU Li, Ding
+   Wang, Yanhua
+   Wang, Kemin
+   Zhang, Lin
+   Chai, Weiran
+   Sun, Yueping
+   Ruan, Changgeng
+   Chen, Guo-Qiang
+   Gartner, T. Kent
+   Liu, Junling
+TI Platelet ADP Receptor P2Y12 Stabilizes Atherosclerosis Plaques by
+   Regulating Alpha Granule Release and Inflammatory Cell Recruitment
+SO BLOOD
+VL 116
+IS 21
+BP 285
+EP 285
+PD NOV 19 2010
+PY 2010
+CT 52nd Annual Meeting of the American-Society-of-Hematology (ASH)
+CY DEC 04-07, 2010
+CL Orlando, FL
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000289662200653
+ER
+
+PT J
+AU Xiang, Binggang
+   Zhang, Guoying
+   Liu, Junling
+   Morris, Andrew J.
+   Smyth, Susan S.
+   Gartner, T. Kent
+   Li, Zhenyu
+TI A novel P2Y(12)-Independent Signaling Pathway Mediating Akt
+   Phosphorylation In Response to Thrombin Receptors
+SO BLOOD
+VL 116
+IS 21
+BP 1311
+EP 1311
+PD NOV 19 2010
+PY 2010
+CT 52nd Annual Meeting of the American-Society-of-Hematology (ASH)
+CY DEC 04-07, 2010
+CL Orlando, FL
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000289662203522
+ER
+
+PT J
+AU Weng, Zhen
+   Li, Ding
+   Zhang, Lin
+   Chen, Jian
+   Ruan, Changgeng
+   Chen, Guoqiang
+   Gartner, T. Kent
+   Liu, Junling
+TI PTEN regulates collagen-induced platelet activation
+SO BLOOD
+VL 116
+IS 14
+BP 2579
+EP 2581
+DI 10.1182/blood-2010-03-277236
+PD OCT 7 2010
+PY 2010
+AB Phosphatidylinositol 3-kinase (PI3K) has been shown to play an important
+   role in collagen-induced platelet activation, but the role(s) of PTEN, a
+   major regulator of the PI3K/Akt signaling pathway, has not been examined
+   in platelets. Here, we report that Pten(-/-) mouse blood contains 25%
+   more platelets than Pten(+/+) blood and that PTEN deficiency
+   significantly shortened the bleeding time, increased the sensitivity of
+   platelets to collagen-induced activation and aggregation, and enhanced
+   phosphorylation of Akt at Ser473 in response to collagen. Furthermore,
+   we found that PP2, and the combination of apyrase, indomethacin + 1B5,
+   respectively, inhibited collagen-induced aggregation in both PTEN(+/+)
+   and PTEN(-/-) platelets. In contrast, LY294002 (a PI3K inhibitor)
+   prevented the aggregation of PTEN(+/+), but not PTEN(-/-), platelets.
+   Therefore, PTEN apparently regulates collagen-induced platelet
+   activation through PI3K/Akt-dependent and -independent signaling
+   pathways. (Blood. 2010;116(14):2579-2581)
+TC 6
+ZB 5
+Z8 0
+Z9 6
+SN 0006-4971
+UT WOS:000282645900026
+ER
+
+PT J
+AU Xiang, B.
+   Zhang, G.
+   Liu, J.
+   Morris, A. J.
+   Smyth, S. S.
+   Gartner, T. K.
+   Li, Z.
+TI A G(i)-independent mechanism mediating Akt phosphorylation in platelets
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 8
+IS 9
+BP 2032
+EP 2041
+DI 10.1111/j.1538-7836.2010.03969.x
+PD SEP 2010
+PY 2010
+AB Background: The serine-threonine kinase Akt plays an important role in
+   regulating platelet activation. Stimulation of platelets with various
+   agonists results in Akt activation as indicated by Akt phosphorylation.
+   However, the mechanisms of Akt phosphorylation in platelets are not
+   completely understood. Objectives and Methods: We used P2Y(12) knockout
+   mice to address the role of P2Y(12) in Akt phosphorylation in response
+   to thrombin receptors in platelets. Results: Thrombin or the PAR4
+   thrombin receptor peptide AYPGKF at high concentrations stimulated
+   substantial phosphorylation of Akt residues Thr(308) and Ser(473) in
+   P2Y(12)-deficient platelets. AYPGKF-induced Akt phosphorylation is
+   enhanced by expression of recombinant human PAR4 cDNA in Chinese hamster
+   ovary (CHO) cells. P2Y(12)-independent Akt phosphorylation was not
+   inhibited by integrin inhibitor peptide RGDS or integrin beta(3)
+   deficiency. Akt phosphorylation induced by thrombin or AYPGKF in
+   P2Y(12)-deficient platelets was inhibited by the calcium chelator
+   dimethyl-BAPTA, the Src family kinase inhibitor PP2, and PI3K
+   inhibitors, respectively. Conclusions: Our results reveal a novel
+   P2Y(12)-independent signaling pathway mediating Akt phosphorylation in
+   response to thrombin receptors.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 1538-7933
+UT WOS:000282264700019
+ER
+
+PT J
+AU Bhavaraju, Kamala
+   Georgakis, Alexander
+   Jin, Jianguo
+   Gartner, Theodore Kent
+   Tomiyama, Yoshiaki
+   Nurden, Alan
+   Nurden, Paquita
+   Kunapuli, Satya P.
+TI Antagonism of P2Y(12) reduces physiological thromboxane levels
+SO PLATELETS
+VL 21
+IS 8
+BP 604
+EP 609
+DI 10.3109/09537104.2010.511684
+PD 2010
+PY 2010
+AB Antiplatelet therapy for the management of patients with cardiovascular
+   risks often includes a combination therapy of aspirin and clopidogrel,
+   acting through inhibition of thromboxane generation and blockade of
+   G(i)-coupled P2Y(12) receptor, respectively. We hypothesized that ADP
+   acting through P2Y(12) regulates physiological thromboxane levels. The
+   serum thromboxane levels in mice (n = 3) dosed with clopidogrel and
+   prasugrel were decreased by 83.1 +/- 5.3% and 94.26 +/- 1.75%
+   respectively compared to untreated mice. Pre-treatment of human blood (n
+   = 3) ex vivo with active metabolites of clopidogrel or prasugrel led to
+   a reduction in thromboxane levels to 16.3 +/- 3.2% and 4.9 +/- 0.8%
+   respectively, compared to untreated human serum. We also evaluated serum
+   thromboxane levels in P2Y receptor null mice (n = 4). Whereas serum
+   thromboxane levels in P2Y(1) null mice were similar to those in wild
+   type littermates, those in the P2Y(12) null mice were inhibited by 83.15
+   +/- 3.8%. Finally, in a pilot study, serum thromboxane levels were
+   reduced by 76.05 +/- 8.41% in healthy human volunteers (n = 6) upon
+   dosing with clopidogrel, compared to the levels before dosing. In
+   conclusion, P2Y(12) antagonism alone can decrease physiological
+   thromboxane levels. Thus, this study could pave way the for
+   newer/modified treatment regimens for the management of patients with
+   thrombotic complications who are allergic or non-responsive to
+   aspirin.</.
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0953-7104
+UT WOS:000284075500003
+ER
+
+PT J
+AU Guerrero, Jose A.
+   Kyei, Mark
+   Russell, Susan
+   Liu, Junling
+   Gartner, T. Kent
+   Storrie, Brian
+   Ware, Jerry
+TI Visualizing the von Willebrand factor/glycoprotein Ib-IX axis with a
+   platelet-type von Willebrand disease mutation
+SO BLOOD
+VL 114
+IS 27
+BP 5541
+EP 5546
+DI 10.1182/blood-2009-03-210823
+PD DEC 24 2009
+PY 2009
+AB Platelet-type von Willebrand disease (PT-VWD) is a bleeding disorder of
+   the platelet glycoprotein Ib-IX/von Willebrand factor (VWF) axis caused
+   by mutations in the glycoprotein Ib-IX receptor that lead to an
+   increased affinity with VWF. In this report, platelets from a mouse
+   expressing a mutation associated with PT-VWD have been visualized using
+   state-of-the art image collection and processing. Confocal analysis
+   revealed that VWF bound to the surface of single platelets and bridging
+   micro-aggregates of platelets. Surface-bound VWF appears as a large,
+   linear structure on the surface of 50% of the PT-VWD platelets. In vivo
+   thrombus formation after chemical injury to the carotid artery revealed
+   a severe impairment to occlusion as a consequence of the PT-VWD
+   mutation. In vitro stimulation of PT-VWD platelets with adenosine
+   diphosphate or thrombin demonstrates a significant block in their
+   ability to bind fibrinogen. The impairment of in vivo thrombus formation
+   and in vitro fibrinogen binding are more significant than might be
+   expected from the observed platelet binding to VWF polymers over a small
+   portion of the plasma membrane. Visualization of the receptor/ligand
+   interaction and characterization of a severe antithrombotic phenotype
+   provide a new understanding on the molecular basis of bleeding
+   associated with the PT-VWD phenotype. (Blood. 2009; 114: 5541-5546)
+TC 6
+ZB 4
+Z8 0
+Z9 6
+SN 0006-4971
+UT WOS:000273068400018
+ER
+
+PT J
+AU Liu, Junling
+   Niu, Haixia
+   Weng, Zhen
+   Gruppo, Ralph A.
+   Wang, Kemin
+   Jennings, Lisa K.
+   Gartner, T. Kent
+TI An alpha IIb-Mediated Outside-in Signaling Pathway That Causes Storage
+   Granule Secretion and Thromboxane A2 Production
+SO BLOOD
+VL 114
+IS 22
+BP 1540
+EP 1541
+PD NOV 20 2009
+PY 2009
+CT 51st Annual Meeting of the American-Society-of-Hematology
+CY DEC 05-08, 2009
+CL New Orleans, LA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000272725804675
+ER
+
+PT J
+AU Liu, J.
+   Joglekar, M.
+   Ware, J.
+   Fitzgerald, M. E. C.
+   Lowell, C. A.
+   Berndt, M. C.
+   Gartner, T. K.
+TI Evaluation of the physiological significance of botrocetin/von
+   Willebrand factor in vitro signaling
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 6
+IS 11
+BP 1915
+EP 1922
+DI 10.1111/j.1538-7836.2008.03135.x
+PD NOV 2008
+PY 2008
+AB Background: A signaling pathway is difficult, if not impossible, to
+   elucidate in platelets using only in vivo studies. Likewise, the
+   physiological significance of signaling information obtained exclusively
+   from in vitro observations is unknown. Therefore, both in vitro and in
+   vivo experiments are required to establish the physiological
+   significance of a signaling pathway. Objective: To evaluate the
+   physiological significance of signaling data obtained from botrocetin
+   (bt)/von Willebrand factor (VWF)-stimulated washed platelets. Method:
+   Stable thrombus formation in response to FeCl(3)-induced injury of the
+   mouse carotid artery was used to evaluate the physiological significance
+   of signaling data obtained from bt/VWF-stimulated washed platelets.
+   Results: Syk, PLC gamma 2, G alpha q and P2Y12, but not LAT, were found
+   either to be required for or to affect stable thrombus formation. Prior
+   in vitro studies had demonstrated that LAT is not required for
+   bt/VWF-induced platelet aggregation in the presence of exogenous
+   fibrinogen. These data provide the first demonstration of the in vivo
+   role for these signaling molecules in GPIb-dependent/initiated signal
+   transduction and are consistent with the signaling pathway deduced from
+   in vitro studies of bt/VWF-stimulated washed platelets using metabolic
+   inhibitors and knockout mice. Conclusion: The broad agreement between
+   the in vitro and the in vivo results establish that bt/VWF stimulation
+   of washed platelets can provide physiologically significant glycoprotein
+   Ib-dependent/initiated signaling data.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 1538-7933
+UT WOS:000260138400010
+ER
+
+PT J
+AU Liu, J.
+   Jackson, C. W.
+   Gartner, T. K.
+TI The Src requirement for washed platelet aggregation and dense granule
+   secretion in response to stimulation by a low level gamma-thrombin
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 6
+IS 6
+BP 1035
+EP 1037
+DI 10.1111/j.1538-7836.2008.02958.x
+PD JUN 2008
+PY 2008
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 1538-7933
+UT WOS:000255943600020
+ER
+
+PT J
+AU Guerrero, J. A.
+   Shafirstein, G.
+   Russell, S.
+   Varughese, K. I.
+   Kanaji, T.
+   Liu, J.
+   Gartner, T. K.
+   Baeumler, W.
+   Jarvis, G. E.
+   Ware, J.
+TI In vivo relevance for platelet glycoprotein Ib alpha residue Tyr276 in
+   thrombus formation
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 6
+IS 4
+BP 684
+EP 691
+DI 10.1111/j.1538-7836.2008.02916.x
+PD APR 2008
+PY 2008
+AB Background: Platelet glycoprotein (GP) Ib-IX-V supports platelet
+   adhesion on damaged vascular walls by binding to von Willebrand factor
+   (VWF). For several decades it has been recognized that the alpha-subunit
+   of GP (GPIb alpha) also binds thrombin but the physiological relevance,
+   if any, of this interaction was unknown. Previous studies have shown
+   that a sulfated tyrosine 276 (Tyr276) is essential for thrombin binding
+   to GPIb alpha.Objectives: This study investigated the in vivo relevance
+   of GPIb alpha residue Tyr276 in hemostasis and thrombosis.Methods:
+   Transgenic mouse colonies expressing the normal human GPIb alpha subunit
+   or a mutant human GPIb alpha containing a Phe substitution for Tyr276
+   (hTg(Y276F)) were generated. Both colonies were bred to mice devoid of
+   murine GPIb alpha.Results: Surface-expressed GPIb alpha levels and
+   platelet counts were similar in both colonies. hTg(Y276F) platelets were
+   significantly impaired in binding alpha-thrombin but displayed normal
+   binding to type I fibrillar collagen and human VWF in the presence of
+   ristocetin. In vivo thrombus formation as a result of chemical damage
+   (FeCl3) demonstrated that hTg(Y276F) mice have a delayed time to
+   occlusion followed by unstable blood flow indicative of embolization. In
+   models of laser-induced injury, thrombi developing in hTg(Y276F) animals
+   were also less stable.Conclusions: The results demonstrate that GPIb
+   alpha residue Tyr276 is physiologically important, supporting stable
+   thrombus formation in vivo.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 1538-7933
+UT WOS:000254021600021
+ER
+
+PT J
+AU Joglekar, Manaii
+   Ware, Jerry
+   Fitzgerald, Malinda E. C.
+   Gartner, T. Kent
+TI Stable thrombus formation in the inferior vena cava in response to
+   FeCl3-induced injury is GPIb-dependent
+SO BLOOD
+VL 110
+IS 11
+MA 3890
+BP 40B
+EP 40B
+PN Part 2
+PD NOV 16 2007
+PY 2007
+CT 49th Annual Meeting of the American-Society-of-Hematology
+CY DEC 08-11, 2007
+CL Atlanta, GA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000251101100146
+ER
+
+PT J
+AU Jain, Shashank
+   Zuka, Masahiko
+   Liu, Jungling
+   Russell, Susan
+   Dent, Judith
+   Guerrero, Jose A.
+   Forsyth, Jane
+   Maruszak, Brigid
+   Gartner, T. Kent
+   Felding-Habermann, Brunhilde
+   Ware, Jerry
+TI Platelet glycoprotein Ib alpha supports experimental lung metastasis
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 104
+IS 21
+BP 9024
+EP 9028
+DI 10.1073/pnas.0700625104
+PD MAY 22 2007
+PY 2007
+AB The platelet paradigm in hemostasis and thrombosis involves an
+   initiation step that depends on platelet membrane receptors binding to
+   ligands on a damaged or inflamed vascular surface. Once bound to the
+   surface, platelets provide a unique microenvironment supporting the
+   accumulation of more platelets and the elaboration of a fibrin-rich
+   network produced by coagulation factors. The platelet-specific receptor
+   glycoprotein (GP) lb-IX, is critical in this process and initiates the
+   formation of a platelet-rich thrombus by tethering the platelet to a
+   thrombogenic surface. A role for platelets beyond the
+   hemostasis/thrombosis paradigm is emerging with significant platelet
+   contributions in both tumorigenesis and inflammation. We have
+   established congenic (N10) mouse colonies (C57BL/6J) with dysfunctional
+   GP Ib-1X receptors in our laboratory that allow us an opportunity to
+   examine the relevance of platelet GP lb-IX in syngeneic mouse models of
+   experimental metastasis. Our results demonstrate platelet GP lb-IX
+   contributes to experimental metastasis because a functional absence of
+   GP lb-IX correlates with a 15-fold reduction in the number of lung
+   metastatic foci using B16F10.1 melanoma cells. The results demonstrate
+   that the extracellular domain of the a-subunit of GP lb is the
+   structurally relevant component of the GP Ib-IX complex contributing to
+   metastasis. Our results support the hypothesis that platelet GP lb-IX
+   functions that support normal hemostasis or pathologic thrombosis also
+   contribute to tumor malignancy.
+TC 45
+ZB 32
+Z8 4
+Z9 49
+SN 0027-8424
+UT WOS:000246853700062
+ER
+
+PT J
+AU Liu, J.
+   Ware, J.
+   Jackson, C. W.
+   Gartner, T. K.
+TI FcR gamma-chain-dependent alpha(IIb)beta(3) elicited outside-in
+   signaling
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 5
+IS 2
+BP 426
+EP 428
+DI 10.1111/j.1538-7836.2007.02317.x
+PD FEB 2007
+PY 2007
+TC 6
+ZB 3
+Z8 0
+Z9 6
+SN 1538-7933
+UT WOS:000243563000036
+ER
+
+PT J
+AU Liu, Junling
+   Fitzgerald, Malinda E. C.
+   Berndt, Michael C.
+   Jackson, Carl W.
+   Gartner, T. Kent
+TI Response: Establishing the physiological significance in vivo answers
+   the challenge of unraveling the details of GPIb-initiated signal
+   transduction
+SO BLOOD
+VL 109
+IS 2
+BP 847
+EP 848
+DI 10.1182/blood-2006-09-048397
+PD JAN 15 2007
+PY 2007
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0006-4971
+UT WOS:000243416600073
+ER
+
+PT J
+AU Liu, J.
+   Ware, J.
+   Jackson, C. W.
+   Gartner, T. K.
+TI FcR gamma-chain signals in the absence of glycoprotein VI
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 5
+IS 1
+BP 201
+EP 203
+DI 10.1111/j.1538-7836.2006.02246.x
+PD JAN 2007
+PY 2007
+TC 5
+ZB 1
+Z8 0
+Z9 5
+SN 1538-7933
+UT WOS:000242834800035
+ER
+
+PT J
+AU Liu, Junling
+   Fitzgerald, Malinda
+   Berndt, Michael C.
+   Jackson, Carl W.
+   Gartner, T. Kent
+TI Bruton's tyrosine kinase is essential for Botrocetin/vWf-induced
+   signaling and GPlb-Dependent thrombus formation in vivo.
+SO BLOOD
+VL 108
+IS 11
+MA 3903
+BP 53B
+EP 53B
+PN Part 2
+PD NOV 16 2006
+PY 2006
+CT 48th Annual Meeting of the American-Society-of-Hematology
+CY DEC 09-12, 2006
+CL Orlando, FL
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000242440400184
+ER
+
+PT J
+AU Guerrero, Jose A.
+   Kanaji, Taisuke
+   Liu, Junling
+   Russell, Susan
+   Gartner, T. K.
+   Ware, Jerry
+TI In vivo relevance for platelet glycoprotein ib alpha residue Tyr(276) in
+   thrombus formation.
+SO BLOOD
+VL 108
+IS 11
+MA 216
+BP 68A
+EP 68A
+PN Part 1
+PD NOV 16 2006
+PY 2006
+CT 48th Annual Meeting of the American-Society-of-Hematology
+CY DEC 09-12, 2006
+CL Orlando, FL
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000242440000217
+ER
+
+PT J
+AU Liu, Junling
+   Fitzgerald, Malinda E.
+   Berndt, Michael C.
+   Jackson, Carl W.
+   Gartner, T. Kent
+TI Bruton tyrosine kinase is essential for botrocetin/VWF-induced signaling
+   and GPIb-dependent thrombus formation in vivo
+SO BLOOD
+VL 108
+IS 8
+BP 2596
+EP 2603
+DI 10.1182/blood-2006-01-011817
+PD OCT 15 2006
+PY 2006
+AB Botrocetin (bt)-facilitated binding of von Willebrand factor (VWF) to
+   the platelet membrane glycoprotein (GP) Ib-IX-V complex on platelets in
+   suspension initiates a signaling cascade that causes alpha IIb beta 3
+   activation and platelet aggregation. Previous work has demonstrated that
+   bt/VWF-mediated agglutination activates alpha IIb beta 3 and elicits ATP
+   secretion in a thromboxane A2 (TxA2)-dependent manner. The signaling
+   that results in TxA2 production was shown to be initiated by Lyn,
+   enhanced by Src, and propagated through Syk, SLP-76, PI3K, PLC gamma 2,
+   and PKC. Here, we demonstrate that the signaling elicited by
+   GPIb-mediated agglutination that results in TxA2 production is dependent
+   on Bruton tyrosine kinase (Btk). The results demonstrate that Btk is
+   downstream of Lyn, Syk, SLP-76, and PI3K; upstream of ERK1/2, PLCy2, and
+   PKC; and greatly enhances Akt phosphorylation. The relationship(s), if
+   any, between ERK1/2, PLC gamma 2, and PKC were not elucidated. The
+   requirement for Btk and TxA2 receptor function in GPIb-dependent
+   arterial thrombosis was confirmed in vivo by characterizing blood flow
+   in ferric chloride-treated mouse carotid arteries. These results
+   demonstrate that the Btk family kinase, Tec, cannot provide the
+   function(s) missing because of the absence of Btk and that Btk is
+   essential for both bt/VWF-mediated agglutination-induced TxA2 production
+   and GPIb-dependent stable arterial thrombus formation in vivo.
+TC 24
+ZB 15
+Z8 0
+Z9 25
+SN 0006-4971
+UT WOS:000241131700024
+ER
+
+PT J
+AU Suzuki-Inoue, K
+   Fuller, GLJ
+   Garcia, A
+   Eble, JA
+   Pohlmann, S
+   Inoue, O
+   Gartner, TK
+   Hughan, SC
+   Pearce, AC
+   Laing, GD
+   Theakston, RDG
+   Schweighoffer, E
+   Zitzmann, N
+   Morita, T
+   Tybulewicz, VLJ
+   Ozaki, Y
+   Watson, SP
+TI A novel Syk-dependent mechanism of platelet activation by the C-type
+   lectin receptor CLEC-2
+SO BLOOD
+VL 107
+IS 2
+BP 542
+EP 549
+DI 10.1182/blood-2005-05-1994
+PD JAN 15 2006
+PY 2006
+AB The snake venom rhodocytin has been reported to bind to integrin alpha 2
+   beta 1 and glycoprotein (GP) Ib alpha on platelets, but it is also able
+   to induce activation independent of the 2 receptors and of GPVI. Using
+   rhodocytin affinity chromatography, we have identified a novel C-type
+   lectin receptor, CLEC-2, in platelets that confers signaling responses
+   to rhodocytin when expressed in a cell line. CLEC-2 has a single
+   tyrosine residue in a YXXL motif in its cytosolic tall, which undergoes
+   tyrosine phosphorylation upon platelet activation by rhodocytin or an
+   antibody to CLEC-2, but not to collagen, thrombin receptor agonist
+   peptide (TRAP), or convulxin. Tyrosine phosphorylation of CLEC-2 and
+   other signaling proteins by rhodocytin is inhibited by the Src family
+   kinase inhibitor PP2. Further, activation of murine platelets by
+   rhodocytin is abolished in the absence of Syk and PLC gamma 2, and
+   partially reduced in the absence of LAT, SLP-76, and Vav2/Vav3. These
+   findings define a novel signaling pathway in platelets whereby
+   activation of CLEC-2 by rhodocytin leads to tyrosine phosphorylation of
+   its cytosolic tall, binding of Sylk and initiation of downstream
+   tyrosine phosphorylation events, and activation of PLCy2. CLEC-2 is the
+   first C-type lectin receptor to be found on platelets which signals
+   through this novel pathway.
+TC 127
+ZB 111
+Z8 3
+Z9 132
+SN 0006-4971
+UT WOS:000234549300028
+ER
+
+PT J
+AU Liu, JL
+   Ware, J
+   Jackson, CW
+   Gartner, TK
+TI FcR gamma-chain signals in GPVI-deficient platelets.
+SO BLOOD
+VL 106
+IS 11
+MA 654
+BP 193A
+EP 193A
+PN Part 1
+PD NOV 16 2005
+PY 2005
+CT 47th Annual Meeting of the American-Society-of-Hematology
+CY DEC 10-13, 2005
+CL Atlanta, GA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000233426001123
+ER
+
+PT J
+AU Liu, JL
+   Pestina, TI
+   Berndt, MC
+   Jackson, CW
+   Gartner, TK
+TI Botrocetin/VWF-induced signaling through GPIb-IX-V produces TxA2 in an
+   alpha IIb beta 3- and aggregation-independent manner
+SO BLOOD
+VL 106
+IS 8
+BP 2750
+EP 2756
+DI 10.1182/blood-2005-04-1667
+PD OCT 15 2005
+PY 2005
+AB Binding of von Willebrand factor (VWF) to the platelet membrane
+   glycoprotein (GP) Ib-IX-V complex initiates a signaling cascade that
+   causes alpha IIb beta 3 activation and platelet aggregation. Previous
+   work demonstrated that botrocetin (bt)/VWF-mediated agglutination
+   activates alpha IIb beta 3 and elicits adenosine triphosphate (ATP)
+   secretion in a thromboxane A2 (TxA2)- and Ca2+-dependent manner. This
+   agglutination-elicited TxA2 production occurs in the absence of ATP
+   secretion. However, the signaling components and signaling network or
+   pathway activated by GPIb-mediated agglutination to cause TxA2
+   production have not been identified. Therefore, the focus of this study
+   was to elucidate at least part of the signal transduction network or
+   pathway activated by GPIb-mediated agglutination to cause TxA2
+   production. The phosphatidylinositol 3-kinase (PI3K) selective inhibitor
+   wortmannin, and mouse platelets deficient in Lyn, Src, Syk, Src homology
+   2 (SH2) domain-containing leukocyte protein 76 (SLP-76), phospholipase C
+   gamma 2 (PLC72), linker for activation of T cells (LAT), or Fc receptor
+   gamma-chain (FcR gamma-chain) were used for these studies. LAT and FcR
+   gamma-chain were found not to be required for agglutination-driven TxA2
+   production or activation of alpha IIb beta 3, but were required for
+   granule secretion and aggregation. The results also clearly demonstrate
+   that bt/VWF-mediated agglutination-induced TxA2 production is dependent
+   on signaling apparently initiated by Lyn, enhanced by Src, and
+   propagated through Syk, SLP-76, PI3K, PLC gamma 2, and protein kinase C
+   (PKC).
+TC 26
+ZB 17
+Z8 1
+Z9 28
+SN 0006-4971
+UT WOS:000232466000031
+ER
+
+PT J
+AU Liu, JL
+   Jackson, CW
+   Gruppo, RA
+   Jennings, LK
+   Gartner, TK
+TI The beta 3 subunit of the integrin alpha IIb beta 3 regulates alpha
+   IIb-mediated outside-in signaling
+SO BLOOD
+VL 105
+IS 11
+BP 4345
+EP 4352
+DI 10.1182/blood-2004-07-2718
+PD JUN 1 2005
+PY 2005
+AB Bidirectional signaling is an essential feature of alpha IIb beta 3
+   function. The alpha IIb cytoplasmic domain negatively regulates beta
+   3-mediated inside-out signaling, but little is known about the
+   regulation of alpha IIb-mediated outside-in signaling. We show that
+   alpha IIb-mediated outside-in signaling is enhanced in platelets of a
+   patient lacking the terminal 39 residues of the beta 3 cytoplasmic tall.
+   This enhanced signaling was detected as thromboxane A(2) (TxA(2))
+   production and granule secretion, and required ligand cross-linking of
+   alpha IIb beta 3 and platelet aggregation. This outside-in signaling was
+   specifically inhibited by a palmitoylated version of a beta 3 peptide
+   corresponding to cytoplasmic domain residues R724-R734. Unlike the
+   palmitoylated peptide, the nonpalmitoylated beta 3 peptide could not
+   cross the platelet membrane and did not inhibit this outside-in
+   signaling. The physiologic relevance of this beta 3-mediated negative
+   regulation of alpha IIb outside-in signaling was demonstrated in normal
+   platelets treated with the palmitoylated peptide and a physiologic
+   agonist. Binding of alpha IIb beta 3 complexes to immobilized peptides
+   demonstrated that a peptide corresponding to beta 3 residues R724-R734
+   appears to bind to an alpha IIb cytoplasmic domain peptide containing
+   residues K989-D1002, but not to control peptides. These results
+   demonstrate that alpha IIb-mediated outside-in signaling resulting in
+   TxA2 production and granule secretion is negatively regulated by a
+   sequence of residues in the membrane distal beta 3 cytoplasmic domain
+   sequence RKE-FAKFEEER.
+TC 13
+ZB 10
+Z8 1
+Z9 14
+SN 0006-4971
+UT WOS:000229292500035
+ER
+
+PT J
+AU Liu, J
+   Pestina, TI
+   Berndt, MC
+   Steward, SA
+   Jackson, CW
+   Gartner, TK
+TI The roles of ADP and TXA(2) in botrocetin/VWF-induced aggregation of
+   washed platelets
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 2
+IS 12
+BP 2213
+EP 2222
+DI 10.1111/j.1538-7836.2004.01023.x
+PD DEC 2004
+PY 2004
+AB Background: Binding of von Willebrand factor (VWF) to the platelet
+   membrane glycoprotein (GP) Ib-IX-V complex initiates a cascade of events
+   leading to alpha(11b)beta(3) activation and platelet aggregation. The
+   roles of ADP and thromboxane A(2) (TXA(2)) in agglutination-induced
+   GPIbalpha-mediated platelet activation have not been fully described.
+   Methods: Botrocetin and human VWF were used to stimulate washed mouse
+   platelets. Platelets deficient in TXA(2) receptors, or
+   alpha(11b)beta(3), and inhibitors and chelating agents were used to
+   investigate the roles of TXA(2), ADP, alpha(11b)beta(3) and Ca2+ in
+   botrocetin/ VWF-induced signaling. Results: Our data demonstrate that
+   botrocetin/VWF/GPlbalpha-mediated agglutination results in
+   calcium-independent protein kinase C (PKC) and phospholipase A2 (PLA2)
+   activities required for GPlbalpha-elicited TXA(2) production that in
+   turn causes dense granule secretion. Aggregation of washed platelets
+   requires TXA(2)-indLIced alpha(11b)beta(3) activation and ADP signaling.
+   TXA(2) or ADP can activate alpha(11b)beta(3), but both are required for
+   alpha-granule secretion and aggregation. Botrocefin/VWF-induced dense
+   granule secretion is Galphaq-dependent. alpha-Granule secretion requires
+   initial ADP signaling through P2Y1 and subsequent signaling through
+   P2Y12. Signaling initiated by agglutination is propagated and amplified
+   in an alpha(11b)beta(3)-dependent manner. Conclusions: In contrast to
+   adhesion or shear stress-induced GPIb-elicited signaling,
+   agglutination-elicited GPIb signaling that activates 04103 requires
+   TXA(2). Agglutination-elicited TXA(2) production is independent of Ca2+
+   influx and mobilization of internal Ca2+ stores. Therefore, our results
+   demonstrate that agglutination-elicited GPIb signaling causes
+   alpha(11b)beta(3) activation by a mechanism that is distinct from those
+   Used by adhesion, or shear stress-induced GPIb signaling.
+TC 22
+ZB 14
+Z8 0
+Z9 23
+SN 1538-7933
+UT WOS:000225775900022
+ER
+
+PT J
+AU Liu, JL
+   Jackson, CW
+   Gruppo, RA
+   Jennings, LK
+   Gartner, TK
+TI The beta 3 subunit of the integrin alpha IIb beta 3 regulates alpha
+   IIb-mediated outside-in signaling.
+SO BLOOD
+VL 104
+IS 11
+MA 3902
+BP 62B
+EP 62B
+PN Part 2
+PD NOV 16 2004
+PY 2004
+CT 46th Annual Meeting of the American-Society-of-Hematology
+CY DEC 04-07, 2004
+CL San Diego, CA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000225127700234
+ER
+
+PT J
+AU Abed, J
+   Klauseger, K
+   Kucera, N
+   Moy, P
+   Ruginis, T
+   Taher, S
+   Ferroni, E
+   Gartner, TK
+   Wilson, A
+   Taylor, D
+TI Design, synthesis and characterization of a putative M-CSF peptide
+   mimetic
+SO FASEB JOURNAL
+VL 18
+IS 8
+BP C80
+EP C80
+SU S
+PD MAY 14 2004
+PY 2004
+CT Annual Meeting of the
+   American-Society-for-Biochemistry-and-Molecular-Biology/8th Congress of
+   the International-Union-for-Biochemistry-and-Molecular-Biology
+CY JUN 12-16, 2004
+CL Boston, MA
+SP Amer Soc BioChem & Mol Biol; Int Union Biochem & Mol Biol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000221639100364
+ER
+
+PT J
+AU Pearce, AC
+   Wonerow, P
+   Marshall, SJ
+   Frampton, J
+   Gartner, TK
+   Watson, SP
+TI The heptapeptide LSARLAF mediates platelet activation through
+   phospholipase C gamma 2 independently of glycoprotein IIb-IIIa
+SO BIOCHEMICAL JOURNAL
+VL 378
+BP 193
+EP 199
+DI 10.1042/BJ20031298
+PN Part 1
+PD FEB 15 2004
+PY 2004
+AB The seven-amino-acid peptide LSARLAF has been reported to activate
+   platelets via the integrin GPIIb-IIIa (glycoprotein Ilb-IIIa).
+   Activation by LSARLAF is reinforced by release of ADP and thromboxanes.
+   but the initiating event in the signalling cascade is not known. In the
+   present study, we demonstrate that LSARLAF stimulates Src
+   kinase-dependent tyrosine phosphorylation of many of the proteins in the
+   GPIIb-IIIa cascade, including the tyrosine kinase Syk. the adapter
+   SLP-76 (SH2-containing leucocyte phosphoprotein of 76 kDa) and PLCgamma2
+   (phospholipase Cgamma2). A critical role for PLCgamma2 in signalling by
+   LSARLAF was demonstrated by abolition of aggregation in PLCgamma2-/-
+   murine platelets to low concentrations of the peptide, although a
+   partial recovery was seen with higher concentrations. In sharp contrast
+   with the GPIIb-IIa-regulated signalling cascade, aggregation was
+   inhibited in murine platelets deficient in the adapter LAY (linker for
+   activation of T-cells) and the Fc receptor gamma-chain. Aggregation was
+   also partially inhibited by the cholesterol-lowering reagent,
+   beta-methyl-cyclodextrin, at concentrations that disrupt membrane rafts,
+   but do not interfere with signalling by GPIIb-IIIa. Furthermore, LSARLAF
+   also stimulated tyrosine phosphorylation in GPIIb-deficient murine
+   platelets, confirming that the integrin is not critical for activation
+   of intracellular signalling pathways. LSARLAF also stimulated Ca2+
+   elevation in RBL-2H3 cells, which lack the platelet glycoproteins GPIIb,
+   GPVI and GPIb. These results demonstrate that LSARLAF activates
+   platelets through a PLCgamma2-dependent pathway that lies downstream of
+   Src kinases and which is partially dependent on the Fc receptor
+   gamma-chain, LAT and lipid rafts. The mechanism of cell activation by
+   LSARLAF remains to be established, although the present results indicate
+   that more than one surface glycoprotein may mediate this response.
+TC 6
+ZB 2
+Z8 0
+Z9 6
+SN 0264-6021
+UT WOS:000189290600021
+ER
+
+PT J
+AU Liu, JL
+   Pestina, TI
+   Berndt, MC
+   Steward, SA
+   Jackson, CW
+   Gartner, TK
+TI Botrocetin/von Willebrand factor elicited agglutination induces ATP/TxA2
+   secretion which is lyn, PLC gamma 2 and SLP-76 dependent.
+SO BLOOD
+VL 102
+IS 11
+MA 1032
+BP 289A
+EP 289A
+PN Part 1
+PD NOV 16 2003
+PY 2003
+CT 45th Annual Meeting and Exhibition of the American-Society-of-Hematology
+CY DEC 06-09, 2003
+CL San Diego, CA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000186536701032
+ER
+
+PT J
+AU Cho, MJ
+   Liu, JL
+   Pestina, TI
+   Steward, SA
+   Thomas, DW
+   Coffman, TM
+   Wang, DM
+   Jackson, CW
+   Gartner, TK
+TI The roles Of alpha(IIb)beta(3)-mediated outside-in signal transduction,
+   thromboxane A2, and adenosine diphosphate in collagen-induced platelet
+   aggregation
+SO BLOOD
+VL 101
+IS 7
+BP 2646
+EP 2651
+DI 10.1182/blood-2002-05-1363
+PD APR 1 2003
+PY 2003
+AB Collagen-induced activation of platelets in suspension leads to
+   alpha(IIb)beta(3)-mediated outside-in signaling, granule release,
+   thromboxane A2 (TxA2) production, and aggregation. Although much is
+   known about collagen-induced platelet signaling, the roles of TxA2
+   production, adenosine diphosphate (ADP) and dense-granule secretion, and
+   alpha(IIb)beta(3)-mediated outside-in signaling in this process are
+   unclear. Here, we demonstrate that TxA2 and ADP are required for
+   collagen-induced platelet activation in response to a low, but not a
+   high, level of collagen and that alpha(IIb)beta(3)-mediated outside-in
+   signaling is required, at least in part, for this TxA2 production and
+   ADP secretion. A high level of collagen can activate platelets deficient
+   in PLCgamma2, Galphaq, or TxA2 receptors, as well as platelets treated
+   with a protein kinase C inhibitor, Ro31-8220. Thus, activation of
+   alpha(IIb)beta 3 in response to a high level of collagen does not
+   require these signaling proteins. Furthermore, a high level of collagen
+   can cause weak TxA2 and ADP-independent aggregation, but maximal
+   aggregation induced by a high level of collagen requires TxA2 or
+   secretion.
+TC 41
+ZB 34
+Z8 2
+Z9 44
+SN 0006-4971
+UT WOS:000181823600037
+ER
+
+PT J
+AU Peksa, RL
+   Siomos, VJ
+   Sward, BD
+   Koliou, P
+   Kucera, NJ
+   Moy, HP
+   Cho, MJ
+   Gartner, TK
+   Jackson, CW
+   Ferroni, EL
+   Winkler, EM
+   Taylor, DB
+TI Evidence that the mechanism of LSARLAF-induced alpha IIb beta 3
+   dependent outside-in signal transduction in platelets is not dependent
+   on dimerization of alpha IIb beta 3 complexes
+SO FASEB JOURNAL
+VL 17
+IS 5
+BP A1364
+EP A1364
+PN Part 2
+SU S
+PD MAR 17 2003
+PY 2003
+CT Experimental Biology 2003 Annual Meeting
+CY APR 11-15, 2003
+CL SAN DIEGO, CA
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000181796902881
+ER
+
+PT J
+AU Hughes, KE
+   Kucera, NJ
+   Koliou, P
+   Moy, HP
+   Ferroni, EL
+   Gartner, TK
+   Taylor, DB
+TI Analysis of the binding of peptide fragments corresponding to the
+   putative platelet recognition sequences of fibrinogen and the integrin
+   alpha IIb beta 3 by isothermal titration calorimetry
+SO FASEB JOURNAL
+VL 17
+IS 5
+BP A1364
+EP A1364
+PN Part 2
+SU S
+PD MAR 17 2003
+PY 2003
+CT Experimental Biology 2003 Meeting
+CY APR 11-15, 2003
+CL SAN DIEGO, CALIFORNIA
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000181796902880
+ER
+
+PT J
+AU Cho, MJ
+   Liu, J
+   Pestina, TI
+   Steward, SA
+   Jackson, CW
+   Gartner, TK
+TI alpha IIb beta 3-mediated outside-in signaling induced by the agonist
+   peptide LSARLAF utilizes ADP and thromboxane A2 receptors to cause
+   alpha-granule secretion by platelets
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+VL 1
+IS 2
+BP 363
+EP 373
+DI 10.1046/j.1538-7836.2003.00055.x
+PD FEB 2003
+PY 2003
+AB The peptide LSARLAF (LSA) causes alphaIIbbeta3-dependent platelet
+   activation that results in alpha-granule secretion and aggregation.
+   LSARLAF-induced, alphaIIbbeta3-mediated outside-in signaling causing
+   alpha-granule secretion and platelet aggregation was studied using
+   washed mouse platelets. ADP receptor antagonists, enzyme inhibitors,
+   normal platelets and platelets from mice that lack either Galphaq or
+   thromboxane (Tx) A2 receptors were used for this investigation. The
+   results demonstrate that LSA-induced alphaIIbbeta3-mediated signaling
+   producing aggregation of washed platelets is mediated through the
+   release of ADP and thromboxane, which cause alpha-granule release by
+   mediating their effects though Galphaq and/or Gi depending on the level
+   of LSA used to activate the platelets. Specifically, alphaIIbbeta3
+   elicited aggregation of washed platelets in response to a low level of
+   LSA requires signaling through the ADP receptor P2Y1 and Gaq, and the
+   ADP receptor P2Y12 and Gi as well as TxA2 receptors. However, this
+   aggregation is independent of Galphaq and TxA2 signaling in response to
+   high LSA concentrations, but is dependent on ADP signaling through its
+   receptor P2Y12, and therefore presumably Gi, regardless of the level of
+   LSA used to activate the platelets. PKC function is required for ADP
+   secretion and the subsequent signaling through P2Y12 regardless of the
+   level of LSA used to activate the platelets. The end point of the
+   LSA-induced alphaIIbbeta3-mediated signaling characterized in this study
+   is alpha-granule secretion, which provides the fibrinogen required for
+   aggregation of washed platelets.
+TC 9
+ZB 8
+Z8 0
+Z9 9
+SN 1538-7933
+UT WOS:000183061500025
+ER
+
+PT J
+AU Cho, MJ
+   Liu, JL
+   Jackson, CW
+   Gartner, TK
+TI LSARLAF induced alpha IIb beta 3 signaling utilizes P2Y1, P2Y12 and TxA2
+   receptors to cause alpha-granule secretion by platelets.
+SO BLOOD
+VL 100
+IS 11
+MA 3711
+BP 61B
+EP 61B
+PN Part 2
+PD NOV 16 2002
+PY 2002
+CT 44th Annual Meeting of the American-Society-of-Hematology
+CY DEC 06-10, 2002
+CL PHILADELPHIA, PA
+SP Amer Soc Hematol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000179184800254
+ER
+
+PT J
+AU Taylor, DB
+   Derrick, JM
+   Cho, MJ
+   Loudon, RG
+   Carroll, HR
+   Edgar, C
+   Marin, HM
+   Petrikas, JJ
+   Raval, DG
+   Gartner, TK
+TI The peptide LSARLAF directly induces a conformation change in the
+   platelet integrin alpha II beta 3
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 13
+MA 1956
+BP 348A
+EP 348A
+PD NOV 2002
+PY 2002
+CT 42nd Annual Meeting of the American-Society-for-Cell-Biology
+CY DEC 14-18, 2002
+CL SAN FRANCISCO, CALIFORNIA
+SP Amer Soc Cell Biol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:000179569101955
+ER
+
+PT J
+AU Cho, MJ
+   Pestina, TI
+   Steward, SA
+   Jackson, CW
+   Gartner, TK
+TI The roles of LAT in platelet signaling induced by collagen, TxA2, or ADP
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 292
+IS 4
+BP 916
+EP 921
+DI 10.1006/bbrc.2002.6738
+PD APR 12 2002
+PY 2002
+AB The work presented here demonstrates that platelets from mice lacking
+   LAT (linker for the activation of T cells) show reversible aggregation
+   in response to concentrations of collagen that cause TxA2/ADP-dependent
+   irreversible aggregation of control platelets. The aggregation defect of
+   the LAT-deficient platelets was shown to be the result of almost no TxA2
+   production and significantly diminished ADP secretion. In contrast, the
+   LAT deficiency does not affect aggregation induced by high
+   concentrations of collagen because that aggregation is not dependent on
+   TxA2 and/or ADP. Even though ADP and TxA2 provide amplification signals
+   for platelet activation in response to low concentrations of collagen,
+   LAT-deficient platelets hyperaggregate to low levels of U46619, a TxA2
+   analog, or ADP. Though the mechanism(s) of costimulatory signals by
+   collagen, ADP, and TxA2 remains unidentified, it is clear that LAT plays
+   a positive role in collagen-induced, TxA2/ADP-dependent aggregation, and
+   a negative role in TxA2 or ADP-induced platelet aggregation. (C) 2002
+   Elsevier Science (USA).
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 0006-291X
+UT WOS:000175171800021
+ER
+
+PT J
+AU Cho, MJ
+   Pestina, TI
+   Steward, SA
+   Lowell, CA
+   Jackson, CW
+   Gartner, TK
+TI Role of the Src family kinase Lyn in TxA2 production, adenosine
+   diphosphate secretion, Akt phosphorylation, and irreversible aggregation
+   in platelets stimulated with gamma-thrombin
+SO BLOOD
+VL 99
+IS 7
+BP 2442
+EP 2447
+DI 10.1182/blood.V99.7.2442
+PD APR 1 2002
+PY 2002
+AB Members of the Src family of kinases are abundant in platelets. Although
+   their localization is known, their role(s) in platelet function are not
+   well understood. Lyn is a Src-famlly kinase that participates in signal
+   transduction pathways elicited by collagen-related peptide; it has also
+   been implicated through biochemical studies in the regulation of von
+   Willebrand factor signaling. Here, we provide evidence that Lyn plays a
+   role in gamma-thrombin activation of platelets. Unlike the wild-type
+   platelets, platelets from Lyn-deficient mice do not undergo irreversible
+   aggregation, produce thromboxane A2, or secrete adenosine diphosphate in
+   response to submaximal gamma-thrombin concentrations that cause
+   secretion-dependent irreversible aggregation. Phosphorylation of Akt, a
+   downstream effector of phosphatidylinositol 3-kinase, also requires a
+   higher concentration of gamma-thrombin in Lyn-deficient platelets than
+   in wild-type platelets. These findings demonstrate that Lyn signaling is
+   required for thrombin Induction of secretion-dependent platelet
+   aggregation. Specifically, Lyn Is required under these conditions to
+   enable thrombin-induced TxA2 production and adenosine diphosphate
+   secretion, necessary steps in secretion-dependent platelet aggregation.
+   (C) 2002 by The American Society of Hematology.
+TC 35
+ZB 29
+Z8 0
+Z9 35
+SN 0006-4971
+UT WOS:000174559300023
+ER
+
+PT J
+AU Taylor, DB
+   Derrick, J
+   Carroll, H
+   Edgar, C
+   Gasiorowski, J
+   Marin, H
+   Perak, R
+   Petrikas, J
+   Thompson, D
+   Loudon, R
+   Gartner, TK
+TI The peptide LSARLAF is a novel strong agonist for human blood platelets.
+SO FASEB JOURNAL
+VL 16
+IS 5
+BP A899
+EP A899
+PN Part 2
+PD MAR 22 2002
+PY 2002
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000174593900964
+ER
+
+PT J
+AU Cho, MJ
+   Pestina, TI
+   Wang, DM
+   Ihle, JN
+   Thomas, DW
+   Coffman, TM
+   Jackson, CW
+   Gartner, TK
+TI The alpha IIb beta 3 signaling in platelets crosstalks with P2Y1, P2Y12
+   and the TxA2 receptor in a Lyn, LAT, FcR gamma-chain and PLC gamma
+   2-dependent manner
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 12
+MA 1104
+BP 203A
+EP 203A
+SU S
+PD NOV 2001
+PY 2001
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 1059-1524
+UT WOS:000172372501104
+ER
+
+PT J
+AU Taylor, DB
+   Derrick, JM
+   Carroll, HR
+   Edgar, C
+   Gasiorowski, J
+   Marin, HM
+   Perak, RV
+   Petrikas, JJ
+   Thompson, D
+   Loudon, RG
+   Gartner, TK
+TI Design, synthesis and characterization of an integrin receptor
+   activating peptide
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 12
+MA 1766
+BP 321A
+EP 322A
+SU S
+PD NOV 2001
+PY 2001
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:000172372501762
+ER
+
+PT J
+AU Derrick, JM
+   Shattil, SJ
+   Poncz, M
+   Gruppo, RA
+   Gartner, TK
+TI Distinct domains of alpha IIb beta 3 support different aspects of
+   outside-in signal transduction and platelet activation induced by
+   LSARLAF, an alpha IIb beta 3 interacting peptide
+SO THROMBOSIS AND HAEMOSTASIS
+VL 86
+IS 3
+BP 894
+EP 901
+PD SEP 2001
+PY 2001
+AB The peptide LSARLAF causes alpha II beta3-dependent platelet activation
+   exemplified by secretion, aggregation, spreading and adhesion on
+   fibrinogen, and tyrosine phosphorylation. alpha IIb beta3-dependent
+   outside-in signal transduction induced by LSARLAF was investigated in
+   variant thrombasthenic platelets which lack most of the cytoplasmic
+   domain of the integrin beta3 subunit ((alpha IIb beta3 Delta 724), These
+   studies revealed that only certain aspects of this alpha IIb
+   beta3-dependent outside-in signaling were affected by the beta3
+   truncation. Specifically, alpha IIb beta3 Delta 724 supported
+   LSARLAF-induced platelet aggregation, agglutination and secretion, but
+   failed to trigger cytoskeletal reorganization and platelet spreading on
+   fibrinogen. despite the fact that PMA-induced non alpha IIb beta3
+   mediated signaling caused spreading of these platelets on fibrinogen.
+   Thus, distinct domains of alpha IIb beta3 are required to support
+   different aspects of LSARLAF-induced platelet activation. Furthermore,
+   these studies suggest ;that not all alpha IIb beta3-dependent platelet
+   responses require an intact beta3 cytoplasmic tail.
+TC 12
+ZB 10
+Z8 0
+Z9 12
+SN 0340-6245
+UT WOS:000170992600026
+ER
+
+PT J
+AU Taylor, DB
+   Marin, HM
+   Thompson, D
+   Gasiorowski, J
+   Perak, RV
+   Piech, R
+   Derrick, JM
+   Gartner, TK
+TI The peptide LSARLAF activates alpha IIb beta 3 integrin liposomes and
+   elicits homotypic binding of these vesicles
+SO FASEB JOURNAL
+VL 15
+IS 5
+BP A866
+EP A866
+PN Part 2
+PD MAR 8 2001
+PY 2001
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000167454200881
+ER
+
+PT J
+AU Cho, MJ
+   Pestina, TI
+   Steward, SA
+   Lowell, CA
+   Jackson, CW
+   Gartner, TK
+TI The SRC family kinase, Lyn, irreversible aggregation and AKT
+   phosphorylation at medium gamma-thrombin concentrations, and TxA2
+   secretion at all gamma-thrombin concentrations.
+SO BLOOD
+VL 96
+IS 11
+MA 1040
+BP 242A
+EP 243A
+PN Part 1
+PD NOV 16 2000
+PY 2000
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000165256101041
+ER
+
+PT J
+AU Smith, RA
+   Rooney, MM
+   Lord, ST
+   Mosesson, MW
+   Gartner, TK
+TI Evidence for new endothelial cell binding sites on fibrinogen
+SO THROMBOSIS AND HAEMOSTASIS
+VL 84
+IS 5
+BP 819
+EP 825
+PD NOV 2000
+PY 2000
+AB In vitro assays were used to characterize adhesion of human aortic,
+   microvascular and umbilical vein endothelial cells to various forms of
+   immobilized fibrinogen. All three types of endothelial cells adhered to
+   fibrinogen in a manner that was independent of the A alpha -chain
+   572-574 RGD cell binding site. In fact, all three adhered to a fragment
+   of the molecule which is composed of only one D domain (D1) of
+   fibrinogen. A time course study revealed that extensive adhesion of
+   endothelial cells on the ligand coated surface occurred between one and
+   two hours incubation. The anti-fibrinogen gammaA-chain monoclonal
+   antibody 4A5 as well as 4A5 Fabs, blocked adhesion of endothelial cells
+   to fibrinogen, nor vitronectin. The inhibitory effects of 4A5 seemed to
+   be indirect because the endothelial cells adhered to the recombinant
+   fibrinogen gamma 407 (which lacks the gamma -chain AGDV sequence of the
+   carboxyl terminal 4A5 binding site) as well as they did to normal
+   recombinant fibrinogen. A recombinant fibrinogen lacking the gamma
+   -chain AGDV sequence, containing RGE in place of RGD at the gamma -chain
+   572-574 and 95-97 positions, also supported endothelial cell adhesion.
+   The anti-alpha (v)beta (3) antibody, LM609, blocked adhesion of
+   endothelial cells to fibrinogen. The peptide GRGDSP inhibited
+   endothelial cell adhesion on fibrinogen and vitronectin, These results
+   demonstrate that alpha (v)beta (3) mediated adhesion (attachment and
+   spreading) of HUVECs to fibrinogen may use a site in the D domain of
+   fibrinogen and is not dependent on the A alpha -chain RGD (95-97 and
+   572-574) sequences, as has been shown in shorter term (where cells were
+   rounded) experiments, or the gammaA-chain 408-411 cell binding sites.
+   Thus, the data reveal the existence of another unidentified site(s) on
+   fibrinogen which can support the irreversible adhesion (attachment and
+   spreading) of endothelial cells.
+TC 12
+ZB 9
+Z8 0
+Z9 12
+SN 0340-6245
+UT WOS:000165403900017
+ER
+
+PT J
+AU Perak, RV
+   Gasiorowski, JZ
+   Gartner, TK
+   Taylor, DB
+TI Cytochalasin D (CD) regulation of beta(3) integrins is not due to a
+   direct effect of CD on the receptor.
+SO FASEB JOURNAL
+VL 14
+IS 8
+MA 1344
+BP A1546
+EP A1546
+PD MAY 11 2000
+PY 2000
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000087005401376
+ER
+
+PT J
+AU Smith, RA
+   Mosesson, MW
+   Daniels, AU
+   Gartner, TK
+TI Adhesion of microvascular endothelial cells to metallic implant surfaces
+SO JOURNAL OF MATERIALS SCIENCE-MATERIALS IN MEDICINE
+VL 11
+IS 5
+BP 279
+EP 285
+DI 10.1023/A:1008953112683
+PD MAY 2000
+PY 2000
+AB The objective of this study was to explore the molecular mechanisms of
+   adhesion of endothelial cells (ECs) to implant grades of titanium alloy
+   (Ti) and stainless steel (SS), compared to tissue culture polystyrene
+   (PS). The idea is that promotion of EC adhesion to implant surfaces
+   during the initial stages of healing may be critical in the formation of
+   a capillary bed intimately associated with the implant surface.
+   Ultimately this could be expected in turn to promote bone formation
+   close to the surface and a more stable implant/bone interface. Surfaces
+   were coated with either peak 1 fibrinogen gamma A gamma A, fibrinogen Fr
+   I-9, fibrinogen fragment D1, fibronectin, vitronectin, or fetal calf
+   serum and then post-coated with bovine serum albumin (BSA) to block
+   non-specific cell adhesion. Surfaces with BSA alone and no other protein
+   coating were also evaluated. Fibronectin coating maximized cell adhesion
+   on all three surfaces, and adhesion was highest on PS. BSA blocked cell
+   adhesion to PS (and most adhesion to SS) much better than to Ti. These
+   results provide evidence that BSA adsorption on the metal surface is
+   unable to effectively block the adhesion of the cells to the Ti. These
+   data may provide a basis for understanding in vivo observations that
+   soft tissue becomes attached to a Ti surface more rapidly and with more
+   bone formation than to SS. Evidence is also presented that
+   alpha(v)beta(3) plays an important role in adhesion of ECs to the Ti
+   surface. These experiments also provide preliminary data which may
+   reflect some of the features of initial EC adhesion to metal implants.
+   (C) 2000 Kluwer Academic Publishers.
+TC 4
+ZB 2
+Z8 0
+Z9 4
+SN 0957-4530
+UT WOS:000085958400003
+ER
+
+PT J
+AU Basani, RB
+   French, DL
+   Vilaire, G
+   Brown, DL
+   Chen, FP
+   Coller, BS
+   Derrick, JM
+   Gartner, TK
+   Bennett, JS
+   Poncz, M
+TI A naturally occurring mutation near the amino terminus of alpha IIb
+   defines a new region involved in ligand binding to alpha IIb beta 3
+SO BLOOD
+VL 95
+IS 1
+BP 180
+EP 188
+PD JAN 1 2000
+PY 2000
+AB Decreased expression of functional alpha IIb beta 3 complexes on the
+   platelet surface produces Glanzmann thrombasthenia, We have identified
+   mutations of alpha IIb(P145) in 3 ethnically distinct families affected
+   by Glanzmann thrombasthenia, Affected Mennonite and Dutch patients were
+   homozygous and doubly heterozygous, respectively, for a P(145)A
+   substitution, whereas a Chinese patient was doubly heterozygous for a
+   (PL)-L-145 substitution. The mutations affect expression levels of
+   surface alpha IIb beta 3 receptors on their platelets, which was
+   confirmed by co-transfection of alpha IIb(P145A) and beta 3 cDNA
+   constructs in COS-1 cells. Each mutation also impaired the ability of
+   alpha IIb beta 3 on affected platelets to interact with ligands.
+   Moreover, when alpha IIb(P145A) and beta 3 were stably coexpressed in
+   Chinese hamster ovary cells, alpha IIb beta 3 was readily detected on
+   the cell surface, but the cells were unable to adhere to immobilized
+   fibrinogen or to bind soluble fluorescein isothiocyanate-fibrinogen
+   after alpha IIb beta 3 activation by the activating monoclonal antibody
+   PT25-2, Nonetheless, incubating affected platelets with the peptide
+   LSARLAF, which binds to alpha IIb, induced PF4 secretion, indicating
+   that the mutant alpha IIb beta 3 retained the ability to mediate
+   outside-in signaling. These studies indicate that mutations involving
+   alpha IIb(P145) impair surface expression of alpha IIb beta 3 and that
+   the alpha IIb(P145A) mutation abrogates ligand binding to the activated
+   integrin, A comparative analysis of other alpha IIb mutations with a
+   similar phenotype suggests that these mutations may cluster into a
+   single region on the surface of the alpha IIb and may define a domain
+   influencing ligand binding. (C) 2000 by The American Society of
+   Hematology.
+TC 44
+ZB 37
+Z8 2
+Z9 46
+SN 0006-4971
+UT WOS:000084538600025
+ER
+
+PT J
+AU Derrick, J
+   Shattil, SJ
+   Gruppo, RA
+   Gartner, TK
+TI Distinct domains of alpha IIb beta 3 support different aspects of alpha
+   IIb beta 3 dependent LSARLAF induced platelet activation
+SO THROMBOSIS AND HAEMOSTASIS
+MA 781
+BP 249
+EP 249
+SU S
+PD AUG 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:000085665900780
+ER
+
+PT J
+AU Abraham, B
+   Carroll, HR
+   Muller, EM
+   Derrick, JM
+   Gartner, TK
+   Taylor, DB
+TI The peptide LSARLAF induces platelet-mediated retraction of fibrin (FBN)
+   clots in an alpha IIb beta 3 dependent manner.
+SO FASEB JOURNAL
+VL 13
+IS 7
+BP A1361
+EP A1361
+SU S
+PD APR 23 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000082033400230
+ER
+
+PT J
+AU Ong, JF
+   Cicero, JA
+   Gartner, TK
+   Taylor, DB
+TI Prediction of erythropoietin and erythropoietin receptor interactions by
+   computer assisted searches for complementary peptide sequences.
+SO FASEB JOURNAL
+VL 13
+IS 7
+BP A1403
+EP A1403
+SU S
+PD APR 23 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:000082033400470
+ER
+
+PT J
+AU Gartner, TK
+   Poncz, M
+   Taylor, DB
+   Derrick, JM
+TI The peptide LSARLAF activates platelets in an alpha IIbb3 dependent
+   manner.
+SO BLOOD
+VL 92
+IS 10
+MA 107
+BP 28A
+EP 28A
+PN Part 1
+SU 1
+PD NOV 15 1998
+PY 1998
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:000077121300105
+ER
+
+PT J
+AU Derrick, JM
+   Poncz, M
+   Gartner, TK
+TI The peptide LSARLAF elicits integrin alpha(IIb)beta(3) dependent
+   platelet activation which is independent of fibrinogen binding.
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 9
+MA 1729
+BP 298A
+EP 298A
+SU S
+PD NOV 1998
+PY 1998
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:000076906701729
+ER
+
+PT J
+AU Taylor, DB
+   Derrick, JM
+   Gartner, TK
+   Carroll, HR
+TI Peptides which directly activate integrin alpha IIb beta 3 or the
+   thrombin receptor(TR) induce platelet-mediated retraction of fibrin
+   (FBN) clots.
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 9
+MA 2421
+BP 417A
+EP 417A
+SU S
+PD NOV 1998
+PY 1998
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:000076906702420
+ER
+
+PT J
+AU Derrick, JM
+   Loudon, RG
+   Gartner, TK
+TI Peptide LSARLAF activates alpha(IIIb)beta(3) on resting platelets and
+   causes resting platelet aggregate formation without platelet shape
+   change
+SO THROMBOSIS RESEARCH
+VL 89
+IS 1
+BP 31
+EP 40
+DI 10.1016/S0049-3848(97)00289-2
+PD JAN 1 1998
+PY 1998
+AB Adhesion of resting platelets to fibrinogen was enhanced by a peptide
+   which was designed to bind near the presumptive fibrinogen gamma-chain
+   binding site of the alpha subunit of the integrin alpha(IIb)beta(3).
+   This peptide, but not a scrambled control peptide, induced adhesion of
+   resting platelets to fibronectin, vitronectin, von Willebrand factor,
+   and monovalent (lacks one functional gamma-chain) fibrinogen. Resting
+   platelets not treated with the agonist peptide did not adhere to these
+   ligands. Agonist peptide induced adhesion of resting platelets to Fg was
+   not secretion dependent and was inhibited by the monoclonal antibody
+   7E3. The agonist peptide caused aggregation of resting platelets on
+   resting platelets adherent to immobilized Fg without causing platelet
+   shape change. Therefore, the agonist peptide may activate
+   alpha(IIb)beta(3) by directly inducing a conformation change in the
+   receptor on resting platelets. (C) 1998 Elsevier Science Ltd.
+TC 14
+ZB 13
+Z8 0
+Z9 14
+SN 0049-3848
+UT WOS:000073539700003
+ER
+
+PT J
+AU Gartner, TK
+   Rooney, MM
+   Lord, ST
+   Derrick, JM
+TI Platelets can adhere to fibrinogen in a Gamma chain carboxyl terminal
+   AGDV independent manner.
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 8
+BP 400
+EP 400
+SU S
+PD NOV 1997
+PY 1997
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1997YF09600397
+ER
+
+PT J
+AU Smith, RA
+   Mosesson, MW
+   Rooney, MM
+   Lord, ST
+   Daniels, AU
+   Gartner, TK
+TI Characterization of endothelial cell adhesion to fibrinogen.
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 8
+BP 401
+EP 401
+SU S
+PD NOV 1997
+PY 1997
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1997YF09600400
+ER
+
+PT J
+AU Taylor, DB
+   Smith, RA
+   Gartner, TK
+   Arora, V
+   Perak, RV
+   Podojil, JR
+   Raschke, JE
+   Roman, A
+   Wysocki, JM
+TI Adenosine nucleotides can modulate integrin alpha IIb beta 3 and alpha v
+   beta 3 recognition of fibrin(ogen)[FG].
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 8
+BP 1678
+EP 1678
+SU S
+PD NOV 1997
+PY 1997
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1997YF09601673
+ER
+
+PT J
+AU Smith, RA
+   Mosesson, MW
+   Rooney, MM
+   Lord, ST
+   Daniels, AU
+   Gartner, TK
+TI The role of putative fibrinogen A alpha-, B beta-, and gamma A-chain
+   integrin binding sites in endothelial cell-mediated clot retraction
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 272
+IS 35
+BP 22080
+EP 22085
+DI 10.1074/jbc.272.35.22080
+PD AUG 29 1997
+PY 1997
+AB In this study, endothelial cell-mediated clot retraction was supported
+   by fibrin generated from several purified fractions of plasma
+   fibrinogen, purified proteolytic fragments of plasma fibrinogen,
+   recombinant normal fibrinogen, and recombinant variant fibrinogen, These
+   results were surprising because some of these fibrinogens lack domains
+   that are known binding sites for the integrin receptors that support
+   clot retraction. Specifically, fibrinogens lacking A alpha-chain RGD
+   residues at 572-574 or lacking the gamma-chain residues AGDV 408-411
+   supported endothelial cell-mediated clot retraction as well as intact
+   fibrinogen, Thus, clot retraction mediated by endothelial cells is not
+   dependent on either of these sites, A variety of monoclonal antibodies
+   against the integrin alpha(v) beta(3) partially inhibited the
+   endothelial cell-mediated retraction of clots formed from plasma
+   fibrinogen, As expected, an antibody to the platelet integrin
+   alpha(IIb)beta(3) did not inhibit endothelial cell-mediated clot
+   retraction. These results indicate that this retraction is mediated at
+   least in part by alpha(v) beta(3). These results support the conclusion
+   that (a) neither of the two fibrinogen cell binding sites described
+   above is required to support clot retraction or that (b) either site
+   alone or in conjunction with other fibrin(ogen) region(s) can support
+   clot retraction, Thus, endothelial cell-mediated clot retraction appears
+   to be dependent on fibrinogen cell binding sites other than those
+   required to support adhesion of resting platelets to immobilized
+   fibrinogen and platelet aggregation.
+TC 15
+ZB 12
+Z8 0
+Z9 15
+SN 0021-9258
+UT WOS:A1997XT85000061
+ER
+
+PT J
+AU Derrick, JM
+   Taylor, DB
+   Loudon, RG
+   Gartner, TK
+TI The peptide LSARLAF causes platelet secretion and aggregation by
+   directly activating the integrin alpha(IIb)beta(3)
+SO BIOCHEMICAL JOURNAL
+VL 325
+BP 309
+EP 313
+PN Part 2
+PD JUL 15 1997
+PY 1997
+AB A novel peptide (designed to bind to alpha(IIb)beta(3)) caused platelet
+   aggregation and aggregation-independent secretion of the contents of
+   alpha-granules in an alpha(IIb)beta(3)-dependent fashion. The agonist
+   peptide induced secretion in the presence of prostaglandin E-1. In
+   cell-free assays, alpha(IIb)beta(3) bound specifically to immobilized
+   agonist peptide and the peptide enhanced the binding of fibrinogen to
+   immobilized alpha(IIb)beta(3). The agonist peptide apparently activates
+   alpha(IIb)beta(3) by directly inducing a conformational change in the
+   receptor. This change activates the platelets and causes secretion in a
+   manner independent of fibrinogen binding.
+TC 20
+ZB 15
+Z8 0
+Z9 20
+SN 0264-6021
+UT WOS:A1997XK73000004
+ER
+
+PT J
+AU Derrick, JM
+   Gartner, TK
+TI PF-4 secretion induced by the platelet agonist peptide LSARLAF is not
+   dependent on platelet aggregation
+SO THROMBOSIS AND HAEMOSTASIS
+BP P2754
+EP P2754
+SU S
+PD JUN 1997
+PY 1997
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1997XE89802752
+ER
+
+PT J
+AU Derrick, JM
+   Taylor, DB
+   Gartner, TK
+TI Platelet agglutination driven by the peptide LSARLAF is not dependent on
+   staurosporin sensitive tyrosine phosphorylation
+SO THROMBOSIS AND HAEMOSTASIS
+BP P1084
+EP P1084
+SU S
+PD JUN 1997
+PY 1997
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1997XE89801082
+ER
+
+PT J
+AU Smith, RA
+   Mosesson, MW
+   Daniels, AU
+   Gartner, TK
+TI Endothelial cell adhesion to the fibrinogen gamma chain.
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 7
+BP 381
+EP 381
+SU S
+PD DEC 1996
+PY 1996
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1996WB01800380
+ER
+
+PT J
+AU Smith, RA
+   Hamilton, TR
+   Mosesson, MW
+   Daniels, AU
+   Gartner, TK
+TI Fibrinogen structural requirements for endothelial cell mediated clot
+   retraction appear to be different than those for fibrinogen mediated
+   platelet adhesion and aggregation.
+SO BLOOD
+VL 88
+IS 10
+BP 2041
+EP 2041
+PN Part 1
+SU 1
+PD NOV 15 1996
+PY 1996
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:A1996VT98302041
+ER
+
+PT J
+AU Derrick, JM
+   Gartner, TK
+TI The peptide LSARLAF activates alpha IIb beta 3 on resting platelets.
+SO BLOOD
+VL 88
+IS 10
+BP 2915
+EP 2915
+PN Part 2
+SU 1
+PD NOV 15 1996
+PY 1996
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:A1996VT98600176
+ER
+
+PT J
+AU Wang, XN
+   Coons, LB
+   Taylor, DB
+   Stevens, ES
+   Gartner, TK
+TI Variabilin, a novel RGD-containing antagonist of glycoprotein IIb-IIIa
+   and platelet aggregation inhibitor from the hard tick Dermacentor
+   variabilis
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 271
+IS 30
+BP 17785
+EP 17790
+PD JUL 26 1996
+PY 1996
+AB A novel inhibitor of human platelet aggregation, named variabilin, was
+   isolated from salivary glands of the hard tick Dermacentor variabilis
+   using a combination of gel filtration and high pressure liquid
+   chromatography, Variabilin was a potent antagonist of the fibrinogen
+   receptor glycoprotein IIb-IIIa (GPIIb-IIIa; alpha(IIb)beta(3)) and the
+   vitronectin receptor alpha(v) beta(3). Amino acid sequence analysis by
+   Edman degradation revealed that it has 47 residues, with a molecular
+   weight of 4968.5. Like many other naturally occurring antagonists of
+   GPIIb-IIIa, variabilin contains the RGD (Arg-Gly-Asp) motif. However,
+   unlike the RGD-containing antagonists of GPIIb-IIIa, the RGD sequence of
+   variabilin is not positioned in a loop bracketed by cysteine residues,
+   It has little sequence homology to the other known naturally occurring
+   antagonists of GPIIb-IIIa, including the disintegrins from snakes,
+   decorsin and ornatin from leeches, and disagregin from soft ticks.
+   Variabilin is the first RGD containing antagonist isolated from ticks.
+TC 48
+ZB 45
+Z8 5
+Z9 52
+SN 0021-9258
+UT WOS:A1996UY93500032
+ER
+
+PT J
+AU Derrick, JM
+   Gartner, TK
+   Petrikas, J
+   Edgar, C
+   Kelly, S
+   Presto, E
+   Oostman, B
+   Fritz, T
+   Taylor, DB
+TI The peptide LSARLAF binds to alpha IIb beta 3 and activates homotypic
+   binding of this receptor.
+SO FASEB JOURNAL
+VL 10
+IS 6
+BP 564
+EP 564
+PD APR 30 1996
+PY 1996
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0892-6638
+UT WOS:A1996UK86100794
+ER
+
+PT J
+AU WANG, X
+   LESSMAN, CA
+   TAYLOR, DB
+   GARTNER, TK
+TI FIBRONECTIN PEPTIDE DRVPHSRNSIT AND FIBRONECTIN RECEPTOR PEPTIDE
+   DLYYLMDL ARREST GASTRULATION OF RANA-PIPIENS
+SO EXPERIENTIA
+VL 51
+IS 11
+BP 1097
+EP 1102
+DI 10.1007/BF01946925
+PD NOV 1995
+PY 1995
+AB Gastrulation is characterized by dramatic cell migration which is
+   thought to require the interaction of cell adhesion molecules with
+   extracellular molecules. We have tested two novel peptides, a
+   fibronectin peptide and a fibronectin receptor peptide, for their
+   effects on gastrulation of the leopard frog Rana pipiens. The
+   fibronectin peptide DRVPHSRNSIT corresponds to residues 1373-1383 of the
+   cell-binding domain of fibronectin; the receptor peptide DLYYLMDL
+   corresponds to residues 124-131 of beta 1 subunit of a variety of
+   integrins including alpha 5 beta 1. Either of these peptides
+   significantly inhibited gastrulation after being microinjected into
+   mid-blastulae. These results indicate that these sequences may
+   correspond to the ligand/receptor interaction sites of fibronectin and
+   its receptor(s).
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0014-4754
+UT WOS:A1995TG85500017
+ER
+
+PT J
+AU DERRICK, JM
+   TAYLOR, DB
+   GARTNER, TK
+TI THE PEPTIDE LSARLAF BINDS TO AND ACTIVATES THE PLATELET FIBRINOGEN (FG)
+   RECEPTOR (INTEGRIN ALPHA-IIB-BETA-3)
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 6
+BP 2382
+EP 2382
+SU S
+PD NOV 1995
+PY 1995
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1995TF51302380
+ER
+
+PT J
+AU KELLY, SM
+   SCIANNA, SR
+   OGILVIE, ML
+   WALZ, DA
+   GARTNER, TK
+TI DEVELOPMENT OF A SOLID-PHASE ASSAY TO QUANTITATE COMPLEX-FORMATION
+   BETWEEN THROMBOSPONDIN AND FIBINOGEN
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 6
+BP 2383
+EP 2383
+SU S
+PD NOV 1995
+PY 1995
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1995TF51302383
+ER
+
+PT J
+AU DERRICK, JM
+   TAYLOR, DB
+   WALZ, DA
+   GARTNER, TK
+TI RECEPTOR ACTIVATING PEPTIDE (RAP) CAUSES PGE-1 TREATED PLATELETS TO
+   AGGREGATE AND ADHERE TO LIGANDS IN A FASHION NORMALLY DEPENDENT ON
+   PLATELET ACTIVATION
+SO THROMBOSIS AND HAEMOSTASIS
+VL 73
+IS 6
+BP 1360
+EP 1360
+PD JUN 1995
+PY 1995
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1995RP38501759
+ER
+
+PT J
+AU GARTNER, TK
+   AMRANI, DL
+   DERRICK, JM
+TI CHARACTERIZATION OF ADHESION OF NON-EXOGENOUSLY STIMULATED AND RESTING
+   PLATELETS IN NORMAL PLASMA TO FIBRINOGEN AND ITS FRAGMENTS
+SO BLOOD COAGULATION & FIBRINOLYSIS
+VL 5
+IS 5
+BP 747
+EP 754
+DI 10.1097/00001721-199410000-00011
+PD OCT 1994
+PY 1994
+AB Platelet adhesion to various forms of fibrinogen was studied using
+   platelets in plasma and washed platelets. The study was designed to
+   determine if platelets prepared with minimal handling in plasma at
+   physiological pH containing normal levels of Ca2+ have different
+   requirements for adhesion to immobilized fibrinogen than do washed
+   platelets tested in the absence of plasma. Exposure of platelets to
+   citrate and low pH did not seem to affect the requirements of washed
+   platelets for adhesion to fibrinogen. Nonetheless, behavioural
+   differences between these two types of platelets were seen.
+   Surprisingly, in the absence of exogenous activation normal platelets in
+   plasma behaved qualitatively as stimulated washed platelets. That is,
+   both types of platelets adhered to all forms of fibrinogen which
+   possessed at least one gamma-chain carboxyl terminal platelet binding
+   site. Platelets in plasma treated with prostaglandin E(1) (resting
+   platelets) adhered only to forms of fibrinogen which contained two
+   gamma-chain platelet binding sites. These observations also demonstrate
+   that the fibrinogen alpha-chain arginine-glycine-aspartic
+   acid-phenylalanine and arginine-glycine-aspartic acid-serine sequences
+   are not necessary or sufficient to mediate the adhesion of resting or
+   stimulated platelets in plasma to fibrinogen. The presence of endogenous
+   adenosine diphosphate appears to account, at least in part, for the
+   ability of normal platelets in plasma to adhere to forms of fibrinogen
+   which have only one gamma-chain platelet binding site.
+TC 12
+ZB 10
+Z8 0
+Z9 12
+SN 0957-5235
+UT WOS:A1994PT65200011
+ER
+
+PT S
+AU GARTNER, TK
+   AMRANI, DL
+   DERRICK, JM
+   KIRSCHBAUM, NE
+   MATSUEDA, GR
+   TAYLOR, DB
+BE Fitzgerald, GA
+   Jennings, LK
+   Patrono, C
+TI CHARACTERIZATION OF ADHESION OF RESTING AND STIMULATED PLATELETS TO
+   FIBRINOGEN AND ITS FRAGMENTS
+SO PLATELET-DEPENDENT VASCULAR OCCLUSION
+SE ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+VL 714
+BP 303
+EP 305
+DI 10.1111/j.1749-6632.1994.tb12062.x
+PD 1994
+PY 1994
+CT 3rd International Meeting on Platelets and Vascular Occlusion
+CY JUN 06-09, 1993
+CL SANTA FE, NM
+SP NEW YORK ACAD SCI
+TC 2
+ZB 1
+Z8 0
+Z9 2
+SN 0077-8923
+BN 0-89766-845-6
+UT WOS:A1994BA43W00038
+ER
+
+PT J
+AU TAYLOR, DB
+   DERRICK, JM
+   GARTNER, TK
+TI ANTIBODIES TO GPIIB(ALPHA)(300-312) INHIBIT FG BINDING, CLOT RETRACTION,
+   AND PLATELET-ADHESION TO MULTIPLE LIGANDS
+SO PROCEEDINGS OF THE SOCIETY FOR EXPERIMENTAL BIOLOGY AND MEDICINE
+VL 205
+IS 1
+BP 35
+EP 43
+PD JAN 1994
+PY 1994
+AB We previously reported that a peptide with the sequence Gly-Ala-Pro-Leu
+   (GAPL) found as residues 309-312 in glycoprotein IIb(alpha) (GPIIb)
+   comprises at least part of a Fg binding site on GPIIb (1). Subsequent
+   studies demonstrated that a peptide corresponding to residues 300-312 of
+   GPIIb(alpha) can bind to Fg and Vn, and is a potent inhibitor of
+   platelet aggregation and the adhesion of activated platelets to at least
+   four adhesive ligands: Fg, Fn, Vn, and vWf (2). Here, the production and
+   initial characterization of polyclonal antibodies against this peptide
+   are described. ELISAs and dot-blot assays reveal the specificity of the
+   antibodies for the peptide immunogen. In immunoblots, the antibodies
+   recognize GPIIb under reducing conditions. The binding of Fg to
+   immobilized GPIIb/IIIa, the rate of clot retraction and the adhesion of
+   stimulated platelets to Fg, fibronectin (Fn), vitronectin (Vn), and von
+   Willebrand factor (vWf) were inhibited by these antibodies, but not by a
+   control IgG. These results together with our earlier published data
+   indicate that GPIIb(alpha) (300-312) comprises at least part of a common
+   ligand binding site within the integrin alpha(IIb) subunit.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0037-9727
+UT WOS:A1994NF38400005
+ER
+
+PT J
+AU GARTNER, TK
+   AMRANI, DL
+   DERRICK, JM
+   KIRSCHBAUM, NE
+   MATSUEDA, GR
+   TAYLOR, DB
+TI CHARACTERIZATION OF ADHESION OF RESTING AND STIMULATED PLATELETS TO
+   FIBRINOGEN AND ITS FRAGMENTS
+SO THROMBOSIS RESEARCH
+VL 71
+IS 1
+BP 47
+EP 60
+PD JUL 1 1993
+PY 1993
+AB Adhesion of resting and stimulated platelets to immobilized fibrinogen
+   (Fg) was characterized using various forms of Fg, receptor peptide
+   mimics, and antibodies to glycoprotein (GP) IIb/IIIa and Fg. Resting
+   platelets adhered to Fg, but to less than half the extent of the same
+   platelets stimulated with epinephrine/ADP. The adhesion of resting and
+   stimulated platelets to Fg was inhibited by a receptor peptide mimic
+   (G13, a peptide corresponding to residues 300-312 of GPIIb),
+   anti-GPIIb/IIIa antibodies, and a monoclonal antibody (4A5) against the
+   carboxyl terminus of the gamma chain of Fg. The results presented here
+   demonstrate that the alpha chain RGD platelet recognition sites are not
+   required to mediate the adhesion of either stimulated or resting
+   platelets to immobilized Fg. Although stimulated platelets can adhere
+   extensively to monomeric Fg containing one functional gamma chain,
+   resting platelets require bivalent Fg containing two functional gamma
+   chains to mediate irreversible adhesion to Fg.
+TC 50
+ZB 44
+Z8 0
+Z9 50
+SN 0049-3848
+UT WOS:A1993LJ16300002
+ER
+
+PT J
+AU TAYLOR, DB
+   AMRANI, DL
+   DERRICK, JM
+   MATSUEDA, GR
+   GARTNER, TK
+TI THE ADHESION OF UNSTIMULATED PLATELETS TO IMMOBILIZED FIBRINOGEN (FG)
+   REQUIRES BIVALENT LIGAND WITH 2 FUNCTIONAL-GAMMA-CHAINS
+SO THROMBOSIS AND HAEMOSTASIS
+VL 69
+IS 6
+BP 563
+EP 563
+PD JUN 30 1993
+PY 1993
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1993LT57700077
+ER
+
+PT J
+AU LESSMAN, CA
+   WANG, X
+   TAYLOR, DB
+   GARTNER, TK
+TI GRGDSP, BUT NOT LGGAKOAGDV, BOTH INHIBITORS OF PLATELET-ADHESION TO
+   FIBRONECTIN, ARRESTS GASTRULATION FOLLOWING PEPTIDE MICROINJECTION INTO
+   FROG (RANA-PIPIENS) EMBRYOS
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 3
+BP A314
+EP A314
+SU S
+PD SEP 1992
+PY 1992
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1992JR25501824
+ER
+
+PT J
+AU TAYLOR, DB
+   MATSUEDA, GL
+   GARTNER, TK
+TI THE ADHESION OF UNSTIMULATED PLATELETS TO IMMOBILIZED FIBRINOGEN (FG) IS
+   STRINGENTLY INHIBITED BY RECEPTOR PEPTIDES BUT NONSTRINGENTLY INHIBITED
+   BY FG PEPTIDES
+SO MOLECULAR BIOLOGY OF THE CELL
+VL 3
+BP A69
+EP A69
+SU S
+PD SEP 1992
+PY 1992
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1059-1524
+UT WOS:A1992JR25500398
+ER
+
+PT J
+AU TAYLOR, DB
+   GARTNER, TK
+TI A PEPTIDE CORRESPONDING TO GPIIB-ALPHA 300-312, A PRESUMPTIVE FIBRINOGEN
+   GAMMA-CHAIN BINDING-SITE ON THE PLATELET INTEGRIN GPIIB/IIIA, INHIBITS
+   THE ADHESION OF PLATELETS TO AT LEAST 4 ADHESIVE LIGANDS
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 267
+IS 17
+BP 11729
+EP 11733
+PD JUN 15 1992
+PY 1992
+AB The platelet fibrinogen (Fg) receptor (GPIIb/IIIa) is an integrin which
+   plays a critical role in hemostasis by recognizing at least the four
+   adhesive ligands: Fg, fibronectin (Fn), vitronectin (Vn), and von
+   Willebrand factor (vWf). We reported that residues 309-312 of
+   GPIIb(alpha) appear to comprise at least part of a Fg binding site on
+   the Fg receptor (Gartner, T. K., and Taylor, D. B. (1990) Thromb. Res.
+   60, 291-309). Here we report that the peptide GPIIb(alpha) 300-312 (G13)
+   inhibits platelet aggregation and binds Fg and Vn. Significantly, this
+   peptide inhibits the adhesion of stimulated platelets to Fg, Fn, Vn, and
+   vWf, but not the adhesion of resting platelets to Fn. Thus, GPIIb
+   300-312 may constitute a specific but common recognition site on
+   GPIIb/IIIa for both LGGAKQAGDV- and RGD-containing ligands.
+TC 66
+ZB 59
+Z8 0
+Z9 66
+SN 0021-9258
+UT WOS:A1992HY94700016
+ER
+
+PT J
+AU GARTNER, TK
+   LOUDON, R
+   TAYLOR, DB
+TI THE PEPTIDES APLHK, EHIPA AND GAPL ARE HYDROPATHICALLY EQUIVALENT
+   PEPTIDE MIMICS OF A FIBRINOGEN BINDING DOMAIN OF GLYCOPROTEIN-IIB/IIIA
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 180
+IS 3
+BP 1446
+EP 1452
+PD NOV 14 1991
+PY 1991
+TC 22
+ZB 14
+Z8 0
+Z9 22
+SN 0006-291X
+UT WOS:A1991GP33200041
+ER
+
+PT J
+AU WILSONBYL, JA
+   DOCKTER, ME
+   GARTNER, TK
+TI EXTERNAL NA+ IS NOT REQUIRED FOR CA2+ MOBILIZATION IN PLATELETS
+   STIMULATED WITH RATTLESNAKE LECTIN OR ALPHA-THROMBIN
+SO THROMBOSIS RESEARCH
+VL 64
+IS 3
+BP 371
+EP 385
+DI 10.1016/0049-3848(91)90008-K
+PD NOV 1 1991
+PY 1991
+AB The effects of extracellular sodium on platelet aggregation and calcium
+   mobilization in platelets stimulated with either rattlesnake (Crotalus
+   atrox) lectin (RSL) or alpha-thrombin were compared.  The absence of
+   extracellular sodium had no effect on platelet aggregation or calcium
+   mobilization in response to all levels of RSL tested.  In contrast
+   platelet aggregation was sodium-dependent in response to
+   less-than-or-equal-to .2 units/ml alpha-thrombin.  Surprisingly, calcium
+   mobilization occurred in platelets treated with a threshold level of
+   alpha-thrombin in the absence of external sodium.  Thus sodium-dependent
+   platelet aggregation in response to a low dose of thrombin apparently is
+   not the result of sodium-dependent calcium mobilization.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0049-3848
+UT WOS:A1991GT70900008
+ER
+
+PT J
+AU GARTNER, TK
+   TAYLOR, DB
+TI THE PEPTIDE GLU-HIS-LLE-PRO-ALA BINDS FIBRINOGEN AND INHIBITS
+   PLATELET-AGGREGATION AND ADHESION TO FIBRINOGEN AND VITRONECTIN
+SO PROCEEDINGS OF THE SOCIETY FOR EXPERIMENTAL BIOLOGY AND MEDICINE
+VL 198
+IS 1
+BP 649
+EP 655
+PD OCT 1991
+PY 1991
+AB Antiplatelet agents are clinically useful as antithrombotic entities.
+   The importance of antiplatelet agents led us to design, synthesize, and
+   characterize a new antiplatelet peptide. This peptide is a presumptive
+   mimic of a ligand binding site on the platelet fibrinogen receptor.
+   Unlike peptides related to Arg-Gly-Asp-Ser and
+   His-His-Leu-Gly-Gly-Ala-Lys-Gln-Ala-Gly-Asp-Val that bind to the
+   fibrinogen receptor, this peptide binds to fibrinogen. The
+   anticomplementarity hypothesis was used to design this presumptive
+   peptide mimic of the vitronectin binding site on the fibrinogen
+   receptor, glycoprotein IIb/IIIa complexes. The resulting peptide
+   (Glu-His-Ile-Pro-Ala) has the characteristics of a fibrinogen binding
+   site mimic: It binds fibrinogen and inhibits both the adhesion of
+   platelets to fibrinogen and platelet aggregation. The peptide also
+   inhibits the adhesion of platelets to vitronectin. The antiplatelet
+   activity of this mimic peptide was dependent on its amino acid sequence,
+   since closely related analogues were either inactive or less active
+   inhibitors of platelet function than the original peptide. These results
+   demonstrate that the peptide Glu-His-Ile-Pro-Ala has the characteristics
+   expected of a mimic of a glycoprotein IIb/IIIa ligand binding site.
+TC 10
+ZB 8
+Z8 0
+Z9 10
+SN 0037-9727
+UT WOS:A1991GF68500022
+ER
+
+PT J
+AU GARTNER, TK
+   TAYLOR, DB
+TI THE AMINO-ACID-SEQUENCE GLY-ALA-PRO-LEU APPEARS TO BE A FIBRINOGEN
+   BINDING-SITE IN THE PLATELET INTEGRIN, GLYCOPROTEIN-IIB
+SO THROMBOSIS RESEARCH
+VL 60
+IS 4
+BP 291
+EP 309
+DI 10.1016/0049-3848(90)90108-O
+PD NOV 15 1990
+PY 1990
+TC 27
+ZB 22
+Z8 0
+Z9 27
+SN 0049-3848
+UT WOS:A1990EM87900004
+ER
+
+PT J
+AU JOHNSON, PC
+   TAYLOR, DB
+   GARTNER, TK
+TI THE PEPTIDE GLU-HIS-ISO-PRO-ALA, PREDICTED BY THE CODON SEQUENCE FOR
+   ARG-GLY-ASP-VAL IN THE VITRONECTIN MESSENGER-RNA, DIMINISHES
+   PLATELET-ADHESION TO FIBRINOGEN COATED POLYETHYLENE CONDUITS
+SO ARTERIOSCLEROSIS
+VL 10
+IS 5
+BP A939
+EP A939
+PD SEP-OCT 1990
+PY 1990
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0276-5047
+UT WOS:A1990DZ22900945
+ER
+
+PT J
+AU BACONBAGULEY, T
+   OGILVIE, ML
+   GARTNER, TK
+   WALZ, DA
+TI THROMBOSPONDIN BINDING TO SPECIFIC SEQUENCES WITHIN THE A-ALPHA-CHAINS
+   AND B-BETA-CHAINS OF FIBRINOGEN
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 265
+IS 4
+BP 2317
+EP 2323
+PD FEB 5 1990
+PY 1990
+TC 27
+ZB 26
+Z8 0
+Z9 27
+SN 0021-9258
+UT WOS:A1990CL02800079
+ER
+
+PT J
+AU OGILVIE, ML
+   BYL, JW
+   GARTNER, TK
+TI PLATELET-AGGREGATION IS STIMULATED BY LACTOSE-INHIBITABLE SNAKE-VENOM
+   LECTINS
+SO THROMBOSIS AND HAEMOSTASIS
+VL 62
+IS 2
+BP 704
+EP 707
+PD SEP 29 1989
+PY 1989
+TC 30
+ZB 27
+Z8 1
+Z9 31
+SN 0340-6245
+UT WOS:A1989AW47700012
+ER
+
+PT J
+AU GARTNER, TK
+   WALZ, DA
+   TAYLOR, DB
+TI THE PEPTIDE DPPRFVRPLQV AND ANTI-DPPRFVRPLQV-KEYHOLE LIMPET HEMOCYANIN
+   ANTISERUM INHIBIT PLATELET-AGGREGATION AND CLOT RETRACTION
+SO THROMBOSIS AND HAEMOSTASIS
+VL 62
+IS 1
+BP 256
+EP 256
+PD AUG 19 1989
+PY 1989
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1989AR58400879
+ER
+
+PT J
+AU WALZ, DA
+   BACONBAGULEY, T
+   OGILVIE, ML
+   GARTNER, TK
+TI THROMBOSPONDIN BINDS TO SPECIFIC PEPTIDE SITES WITHIN THE A-ALPHA-CHAIN
+   AND B-BETA-CHAIN OF FIBRINOGEN
+SO THROMBOSIS AND HAEMOSTASIS
+VL 62
+IS 1
+BP 591
+EP 591
+PD AUG 19 1989
+PY 1989
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1989AR58402029
+ER
+
+PT J
+AU BENNETT, JS
+   SHATTIL, SJ
+   POWER, JW
+   GARTNER, TK
+TI INTERACTION OF FIBRINOGEN WITH ITS PLATELET RECEPTOR -
+   DIFFERENTIAL-EFFECTS OF ALPHA-CHAIN AND GAMMA-CHAIN FIBRINOGEN PEPTIDES
+   ON THE GLYCOPROTEIN-IIB-IIIA COMPLEX
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 263
+IS 26
+BP 12948
+EP 12953
+PD SEP 15 1988
+PY 1988
+TC 137
+ZB 115
+Z8 0
+Z9 137
+SN 0021-9258
+UT WOS:A1988Q091700030
+ER
+
+PT J
+AU GARTNER, TK
+   TAYLOR, DB
+TI INHIBITION OF PLATELET-AGGREGATION MAY RESULT FROM A PEPTIDE BINDING TO
+   FIBRINOGEN
+SO ARTERIOSCLEROSIS
+VL 8
+IS 5
+BP A726
+EP A726
+PD SEP-OCT 1988
+PY 1988
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0276-5047
+UT WOS:A1988R047400697
+ER
+
+PT J
+AU GARTNER, TK
+   OGILVIE, ML
+TI PEPTIDES AND MONOCLONAL-ANTIBODIES WHICH BIND TO PLATELET
+   GLYCOPROTEIN-IIB AND OR GYLYCOPROTEIN-IIIA INHIBIT CLOT RETRACTION
+SO THROMBOSIS RESEARCH
+VL 49
+IS 1
+BP 43
+EP 53
+PD JAN 1 1988
+PY 1988
+TC 23
+ZB 20
+Z8 0
+Z9 23
+SN 0049-3848
+UT WOS:A1988L816300005
+ER
+
+PT J
+AU GARTNER, TK
+TI ENDOGENOUS PLATELET LECTIN AND THROMBOSPONDIN FUNCTION
+SO SEMINARS IN THROMBOSIS AND HEMOSTASIS
+VL 13
+IS 3
+BP 281
+EP 289
+DI 10.1055/s-2007-1003503
+PD JUL 1987
+PY 1987
+TC 5
+ZB 3
+Z8 0
+Z9 5
+SN 0094-6176
+UT WOS:A1987K221800006
+ER
+
+PT J
+AU GARTNER, TK
+   WALZ, DA
+TI THROMBOSPONDIN - PREFACE
+SO SEMINARS IN THROMBOSIS AND HEMOSTASIS
+VL 13
+IS 3
+BP U245
+EP U245
+PD JUL 1987
+PY 1987
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0094-6176
+UT WOS:A1987K221800001
+ER
+
+PT J
+AU OGILVIE, ML
+   DOCKTER, ME
+   WENZ, L
+   GARTNER, TK
+TI ISOLATION AND CHARACTERIZATION OF LACTOSE-BINDING LECTINS FROM THE
+   VENOMS OF THE SNAKES LACHESIS-MUTA AND DENDROASPIS-JAMESONII
+SO JOURNAL OF BIOCHEMISTRY
+VL 100
+IS 6
+BP 1425
+EP 1431
+PD DEC 1986
+PY 1986
+TC 29
+ZB 26
+Z8 1
+Z9 31
+SN 0021-924X
+UT WOS:A1986F079500002
+ER
+
+PT J
+AU GARTNER, TK
+   BENNETT, JS
+   POWER, JW
+   SHATTIL, SJ
+TI EVIDENCE THAT THE ALPHA-CHAINS AND GAMMA-CHAINS OF FIBRINOGEN BIND TO
+   DIFFERENT SITES IN THE FIBRINOGEN RECEPTOR
+SO JOURNAL OF CELL BIOLOGY
+VL 103
+IS 5
+BP A334
+EP A334
+PN Part 2
+PD NOV 1986
+PY 1986
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0021-9525
+UT WOS:A1986E958901241
+ER
+
+PT J
+AU MASTRO, AM
+   HURLEY, DJ
+   WINNING, RK
+   FILIPOWSKI, R
+   OGILVIE, ML
+   GARTNER, TK
+TI MITOGENIC ACTIVITY OF SNAKE-VENOM LECTINS
+SO CELL AND TISSUE KINETICS
+VL 19
+IS 5
+BP 557
+EP 566
+DI 10.1111/j.1365-2184.1986.tb00756.x
+PD SEP 1986
+PY 1986
+TC 17
+ZB 16
+Z8 1
+Z9 18
+SN 0008-8730
+UT WOS:A1986F753700009
+ER
+
+PT J
+AU GARTNER, TK
+   BENNETT, JS
+TI THE TETRAPEPTIDE ANALOG OF THE CELL ATTACHMENT SITE OF FIBRONECTIN
+   INHIBITS PLATELET-AGGREGATION AND FIBRINOGEN BINDING TO ACTIVATED
+   PLATELETS
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 260
+IS 22
+BP 1891
+EP 1894
+PD 1985
+PY 1985
+TC 440
+ZB 378
+Z8 0
+Z9 442
+SN 0021-9258
+UT WOS:A1985ARW1200001
+ER
+
+PT J
+AU GARTNER, TK
+   BENNETT, JS
+TI THE TETRAPEPTIDE ANALOG OF THE CELL ATTACHMENT SITE OF FIBRONECTIN
+   INHIBITS PLATELET-AGGREGATION AND FIBRINOGEN BINDING
+SO THROMBOSIS AND HAEMOSTASIS
+VL 54
+IS 1
+BP 230
+EP 230
+PD 1985
+PY 1985
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1985ASK5801346
+ER
+
+PT J
+AU GARTNER, TK
+   WALZ, DA
+   AIKEN, M
+   STARRSPIRES, L
+   OGILVIE, ML
+TI ANTIBODIES AGAINST A 23KD HEPARIN BINDING FRAGMENT OF THROMBOSPONDIN
+   INHIBIT PLATELET-AGGREGATION
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 124
+IS 1
+BP 290
+EP 295
+DI 10.1016/0006-291X(84)90950-1
+PD 1984
+PY 1984
+TC 62
+ZB 56
+Z8 0
+Z9 62
+SN 0006-291X
+UT WOS:A1984TP59900044
+ER
+
+PT J
+AU GARTNER, TK
+   OGILVIE, ML
+TI ISOLATION AND CHARACTERIZATION OF 3 CA-2+-DEPENDENT
+   BETA-GALACTOSIDE-SPECIFIC LECTINS FROM SNAKE-VENOMS
+SO BIOCHEMICAL JOURNAL
+VL 224
+IS 1
+BP 301
+EP 307
+PD 1984
+PY 1984
+TC 39
+ZB 32
+Z8 1
+Z9 41
+SN 0264-6021
+UT WOS:A1984TT01100037
+ER
+
+PT J
+AU GARTNER, TK
+   OGILVIE, ML
+TI ISOLATION AND CHARACTERIZATION OF 6 BETA-GALACTOSIDE-BINDING LECTINS
+   FROM SNAKE-VENOMS
+SO BIOLOGY OF THE CELL
+VL 51
+IS 2
+BP A50
+EP A50
+PD 1984
+PY 1984
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0248-4900
+UT WOS:A1984TT25800036
+ER
+
+PT J
+AU GARTNER, TK
+   WALZ, DA
+TI THE ERYTHROCYTE BINDING DOMAIN OF THE ENDOGENOUS PLATELET LECTIN
+   (THROMBOSPONDIN) IS ON THE HEPARIN BINDING FRAGMENT OF THROMBOSPONDIN
+SO JOURNAL OF CELL BIOLOGY
+VL 99
+IS 4
+BP A179
+EP A179
+PD 1984
+PY 1984
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0021-9525
+UT WOS:A1984TM94900662
+ER
+
+PT J
+AU OGILVIE, ML
+   GARTNER, TK
+TI IDENTIFICATION OF LECTINS IN SNAKE-VENOMS
+SO JOURNAL OF HERPETOLOGY
+VL 18
+IS 3
+BP 285
+EP 290
+DI 10.2307/1564082
+PD 1984
+PY 1984
+TC 22
+ZB 22
+Z8 0
+Z9 23
+SN 0022-1511
+UT WOS:A1984TH26300008
+ER
+
+PT J
+AU GARTNER, TK
+   DOYLE, MJ
+   MOSHER, DF
+TI EFFECT OF ANTI-THROMBOSPONDIN ANTIBODIES ON THE HEMAGGLUTINATION
+   ACTIVITIES OF THE ENDOGENOUS PLATELET LECTIN AND THROMBOSPONDIN
+SO THROMBOSIS AND HAEMOSTASIS
+VL 52
+IS 3
+BP 354
+EP 357
+PD 1984
+PY 1984
+TC 16
+ZB 15
+Z8 0
+Z9 16
+SN 0340-6245
+UT WOS:A1984TZ88200034
+ER
+
+PT J
+AU GARTNER, TK
+   DOCKTER, ME
+TI SECRETED PLATELET THROMBOSPONDIN BINDS MONOVALENTLY TO PLATELETS AND
+   ERYTHROCYTES IN THE ABSENCE OF FREE CA-2+
+SO THROMBOSIS RESEARCH
+VL 33
+IS 1
+BP 19
+EP 30
+PD 1984
+PY 1984
+TC 7
+ZB 5
+Z8 0
+Z9 7
+SN 0049-3848
+UT WOS:A1984RX39000003
+ER
+
+PT J
+AU AGAM, G
+   GARTNER, TK
+   LIVNE, A
+TI INHIBITION OF PLATELET-AGGREGATION AND ENDOGENOUS LECTIN ACTIVITY BY
+   OLIGOAMINES
+SO THROMBOSIS RESEARCH
+VL 33
+IS 3
+BP 245
+EP 257
+DI 10.1016/0049-3848(84)90160-9
+PD 1984
+PY 1984
+TC 27
+ZB 25
+Z8 0
+Z9 27
+SN 0049-3848
+UT WOS:A1984SD96600001
+ER
+
+PT J
+AU MENTLEY, RK
+   MASTRO, AM
+   OGILVIE, ML
+   GARTNER, TK
+TI LECTINS FROM SNAKE-VENOMS ARE MITOGENIC FOR LYMPHOCYTES
+SO JOURNAL OF CELL BIOLOGY
+VL 97
+IS 5
+BP A338
+EP A338
+PD 1983
+PY 1983
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0021-9525
+UT WOS:A1983RN79501280
+ER
+
+PT J
+AU GARTNER, TK
+   DOYLE, MJ
+   MOSHER, DF
+TI ANTI-TSP SERUM INHIBITS THE ENDOGENOUS LECTIN ACTIVITY OF A23187
+   ACTIVATED AND GAMMA-THROMBIN ACTIVATED HUMAN-PLATELETS
+SO THROMBOSIS AND HAEMOSTASIS
+VL 50
+IS 1
+BP 124
+EP 124
+PD 1983
+PY 1983
+TC 6
+ZB 5
+Z8 0
+Z9 6
+SN 0340-6245
+UT WOS:A1983RF86500365
+ER
+
+PT J
+AU LIYNE, A
+   GARTNER, TK
+   AGAM, G
+TI INHIBITION OF PLATELET-AGGREGATION AND ACTIVITY OF THE ENDOGENOUS
+   PLATELET LECTIN BY OLIGOAMINES
+SO THROMBOSIS AND HAEMOSTASIS
+VL 50
+IS 1
+BP 132
+EP 132
+PD 1983
+PY 1983
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1983RF86500392
+ER
+
+PT J
+AU GARTNER, TK
+   WALZ, DA
+TI TFP INHIBITS THE EXPRESSION OF THE ENDOGENOUS PLATELET LECTIN AND
+   SECRETION OF ALPHA-GRANULES
+SO THROMBOSIS RESEARCH
+VL 29
+IS 1
+BP 63
+EP 74
+PD 1983
+PY 1983
+TC 11
+ZB 10
+Z8 0
+Z9 11
+SN 0049-3848
+UT WOS:A1983QB99600007
+ER
+
+PT J
+AU AGIN, PP
+   GARTNER, TK
+TI A NOVEL METHOD FOR PURIFICATION OF PLASMA FIBRONECTIN
+SO BIOCHIMICA ET BIOPHYSICA ACTA
+VL 716
+IS 3
+BP 443
+EP 445
+DI 10.1016/0304-4165(82)90039-3
+PD 1982
+PY 1982
+TC 9
+ZB 9
+Z8 0
+Z9 9
+SN 0006-3002
+UT WOS:A1982NZ65000023
+ER
+
+PT J
+AU GARTNER, TK
+   OGILVIE, ML
+TI BINDING OF LIGAND TO LECTINS APPARENTLY CAUSES THE APPEARANCE OF NEW
+   ANTIGENIC DETERMINANTS
+SO JOURNAL OF CELL BIOLOGY
+VL 95
+IS 2
+BP A427
+EP A427
+PD 1982
+PY 1982
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0021-9525
+UT WOS:A1982PN30201630
+ER
+
+PT J
+AU GARTNER, TK
+   GERRARD, JM
+   WHITE, JG
+   WILLIAMS, DC
+TI THE ENDOGENOUS LECTIN OF HUMAN-PLATELETS IS AN ALPHA-GRANULE COMPONENT
+SO BLOOD
+VL 58
+IS 1
+BP 153
+EP 157
+PD 1981
+PY 1981
+TC 61
+ZB 55
+Z8 0
+Z9 61
+SN 0006-4971
+UT WOS:A1981LV59000021
+ER
+
+PT J
+AU GARTNER, TK
+   GERRARD, JM
+   WHITE, JG
+   WILLIAMS, DC
+TI ALPHA-GRANULES ARE THE ORIGIN OF THE ENDOGENOUS LECTIN OF
+   HUMAN-PLATELETS
+SO JOURNAL OF CELL BIOLOGY
+VL 91
+IS 2
+BP A110
+EP A110
+PD 1981
+PY 1981
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0021-9525
+UT WOS:A1981NT31300413
+ER
+
+PT J
+AU GARTNER, TK
+   GERRARD, JM
+   WHITE, JG
+   WILLIAMS, DC
+TI FIBRINOGEN IS THE RECEPTOR FOR THE ENDOGENOUS LECTIN OF HUMAN-PLATELETS
+SO NATURE
+VL 289
+IS 5799
+BP 688
+EP 690
+DI 10.1038/289688a0
+PD 1981
+PY 1981
+TC 91
+ZB 81
+Z8 0
+Z9 91
+SN 0028-0836
+UT WOS:A1981LC53800047
+ER
+
+PT J
+AU GARTNER, TK
+   GERRARD, JM
+   WHITE, JG
+   WILLIAMS, DC
+TI THE ENDOGENOUS LECTIN OF HUMAN-PLATELETS IS AN ALPHA-GRANULE COMPONENT
+SO THROMBOSIS AND HAEMOSTASIS
+VL 46
+IS 1
+BP 96
+EP 96
+PD 1981
+PY 1981
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0340-6245
+UT WOS:A1981ML16500288
+ER
+
+PT J
+AU GARTNER, TK
+   POHAGIN, P
+TI PLASMA FIBRONECTIN BINDS GLUCOSE
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 96
+IS 4
+BP 1747
+EP 1754
+DI 10.1016/0006-291X(80)91376-5
+PD 1980
+PY 1980
+TC 12
+ZB 10
+Z8 0
+Z9 12
+SN 0006-291X
+UT WOS:A1980KQ01700039
+ER
+
+PT J
+AU GARTNER, TK
+   STOCKER, K
+   WILLIAMS, DC
+TI THROMBOLECTIN - A LECTIN ISOLATED FROM BOTHROPS-ATROX VENOM
+SO FEBS LETTERS
+VL 117
+IS 1
+BP 13
+EP 16
+DI 10.1016/0014-5793(80)80902-1
+PD 1980
+PY 1980
+TC 41
+ZB 36
+Z8 1
+Z9 42
+SN 0014-5793
+UT WOS:A1980KG08200003
+ER
+
+PT J
+AU GARTNER, TK
+   PHILLIPS, DR
+   WILLIAMS, DC
+TI EXPRESSION OF THROMBIN-ENHANCED PLATELET LECTIN ACTIVITY IS CONTROLLED
+   BY SECRETION
+SO FEBS LETTERS
+VL 113
+IS 2
+BP 196
+EP 200
+DI 10.1016/0014-5793(80)80590-4
+PD 1980
+PY 1980
+TC 36
+ZB 31
+Z8 0
+Z9 36
+SN 0014-5793
+UT WOS:A1980JT63900014
+ER
+
+PT J
+AU GARTNER, TK
+   GERRARD, JM
+   WHITE, JG
+   WILLIAMS, DC
+TI FIBRINOGEN IS THE RECEPTOR FOR THE ENDOGENOUS LECTIN OF HUMAN-PLATELETS
+SO JOURNAL OF CELL BIOLOGY
+VL 87
+IS 2
+BP A89
+EP A89
+PD 1980
+PY 1980
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0021-9525
+UT WOS:A1980KN77600338
+ER
+
+PT J
+AU GARTNER, TK
+   PHILLIPS, DR
+TI HUMAN PLATELET LECTIN RECEPTOR ACTIVITY
+SO JOURNAL OF CELL BIOLOGY
+VL 79
+IS 2
+BP A44
+EP A44
+PD 1978
+PY 1978
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0021-9525
+UT WOS:A1978FV54600126
+ER
+
+PT J
+AU GARTNER, TK
+   WILLIAMS, DC
+   MINION, FC
+   PHILLIPS, DR
+TI THROMBIN-INDUCED PLATELET-AGGREGATION IS MEDIATED BY A PLATELET PLASMA
+   MEMBRANE-BOUND LECTIN
+SO SCIENCE
+VL 200
+IS 4347
+BP 1281
+EP 1283
+DI 10.1126/science.663608
+PD 1978
+PY 1978
+TC 119
+ZB 97
+Z8 0
+Z9 119
+SN 0036-8075
+UT WOS:A1978FB62600024
+ER
+
+PT J
+AU GARTNER, TK
+   WILLIAMS, DC
+   PHILLIPS, DR
+TI PLATELET PLASMA-MEMBRANE LECTIN ACTIVITY
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 79
+IS 2
+BP 592
+EP 599
+PD 1977
+PY 1977
+TC 67
+ZB 58
+Z8 0
+Z9 67
+SN 0006-291X
+UT WOS:A1977EC62900036
+ER
+
+PT J
+AU PHILLIPS, DR
+   WILLIAMS, DC
+   GARTNER, TK
+TI THROMBIN-INDUCED LECTIN ACTIVITY OF HUMAN PLATELETS - POSSIBLE
+   DETERMINANT IN PLATELET-AGGREGATION
+SO BLOOD
+VL 50
+IS 5
+BP 250
+EP 250
+PD 1977
+PY 1977
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0006-4971
+UT WOS:A1977EA98200526
+ER
+
+PT J
+AU GARTNER, TK
+   PODLESKI, TR
+TI EVIDENCE THAT TYPES AND SPECIFIC ACTIVITY OF LECTINS CONTROL FUSION OF
+   L-6 MYOBLASTS
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 70
+IS 4
+BP 1142
+EP 1149
+PD 1976
+PY 1976
+TC 38
+ZB 34
+Z8 0
+Z9 38
+SN 0006-291X
+UT WOS:A1976BV60300018
+ER
+
+PT J
+AU GARTNER, TK
+   LAND, B
+   PODLESKI, TR
+TI GENETIC AND PHYSIOLOGICAL EVIDENCE CONCERNING DEVELOPMENT OF CHEMICALLY
+   SENSITIVE VOLTAGE-DEPENDENT IONOPHORES IN L6 CELLS
+SO JOURNAL OF NEUROBIOLOGY
+VL 7
+IS 6
+BP 537
+EP 549
+DI 10.1002/neu.480070607
+PD 1976
+PY 1976
+TC 6
+ZB 2
+Z8 0
+Z9 6
+SN 0022-3034
+UT WOS:A1976CQ69500006
+ER
+
+PT J
+AU GARTNER, TK
+   PODLESKI, TR
+TI EVIDENCE THAT A MEMBRANE-BOUND LECTIN MEDIATES FUSION OF L6 MYOBLASTS
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 67
+IS 3
+BP 972
+EP 978
+PD 1975
+PY 1975
+TC 87
+ZB 74
+Z8 0
+Z9 87
+SN 0006-291X
+UT WOS:A1975AY16000017
+ER
+
+PT J
+AU GARTNER, TK
+   LAND, B
+   PODLESKI, T
+TI K+-RESISTANT MUTANT OF L6
+SO JOURNAL OF GENERAL PHYSIOLOGY
+VL 66
+IS 6
+BP A11
+EP A11
+PD 1975
+PY 1975
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0022-1295
+UT WOS:A1975AZ92600029
+ER
+
+PT J
+AU ORIAS, E
+   BETLACH, M
+   GARTNER, TK
+   LANNAN, JE
+TI CLOSE LINKAGE BETWEEN OCHRE AND MISSENSE SUPPRESSORS IN ESCHERICHIA-COLI
+SO JOURNAL OF BACTERIOLOGY
+VL 109
+IS 3
+BP 1125
+EP &
+PD 1972
+PY 1972
+TC 29
+ZB 27
+Z8 0
+Z9 29
+SN 0021-9193
+UT WOS:A1972L922100020
+ER
+
+PT J
+AU REID, P
+   GARTNER, TK
+   ORIAS, E
+TI ABNORMAL 30S RIBOSOMAL SUBUNITS DETERMINED BY AN OCHRE SUPPRESSOR
+   MUTATION IN ESCHERICHIA COLI
+SO JOURNAL OF BACTERIOLOGY
+VL 98
+IS 1
+BP 308
+EP &
+PD 1969
+PY 1969
+TC 6
+ZB 3
+Z8 0
+Z9 6
+SN 0021-9193
+UT WOS:A1969D053400048
+ER
+
+PT J
+AU GARTNER, TK
+   ORIAS, E
+   LANNAN, JE
+   BEESON, J
+   REID, PJ
+TI MOLECULAR BASIS OF SUPPRESSION IN AN OCHRE SUPPRESSOR STRAIN POSSESSING
+   ALTERED RIBOSOMES
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 62
+IS 3
+BP 946
+EP &
+DI 10.1073/pnas.62.3.946
+PD 1969
+PY 1969
+TC 7
+ZB 4
+Z8 0
+Z9 7
+SN 0027-8424
+UT WOS:A1969D426200049
+ER
+
+PT J
+AU GARTNER, TK
+   ORIAS, E
+TI EFFECTS OF MUTATIONS TO STREPTOMYCIN RESISTANCE ON RATE OF TRANSLATION
+   OF MUTANT GENETIC INFORMATION
+SO JOURNAL OF BACTERIOLOGY
+VL 91
+IS 3
+BP 1021
+EP &
+PD 1966
+PY 1966
+TC 46
+ZB 30
+Z8 0
+Z9 46
+SN 0021-9193
+UT WOS:A19667493400017
+ER
+
+PT J
+AU ORIAS, E
+   GARTNER, TK
+TI SUPPRESSION OF AMBER AND OCHRE R2 MUTANTS OF BACTERIOPHAGE T4 BY
+   STREPTOMY IN
+SO JOURNAL OF BACTERIOLOGY
+VL 91
+IS 6
+BP 2210
+EP &
+PD 1966
+PY 1966
+TC 15
+ZB 11
+Z8 0
+Z9 15
+SN 0021-9193
+UT WOS:A19667929500014
+ER
+
+PT J
+AU REID, PJ
+   ORIAS, E
+   GARTNER, TK
+TI RIBOSOMAL PROTEIN DIFFERENCES IN A STRAIN OF E COLI CARRYING A
+   SUPPRESSOR OF AN OCHRE MUTATION
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 21
+IS 1
+BP 66
+EP &
+DI 10.1016/0006-291X(65)90427-4
+PD 1965
+PY 1965
+TC 24
+ZB 16
+Z8 0
+Z9 24
+SN 0006-291X
+UT WOS:A19656898500012
+ER
+
+PT J
+AU GARTNER, TK
+   RILEY, M
+TI ISOLATION OF MUTANTS AFFECTING TRYPTOPHANASE PRODUCTION IN ESCHERICHIA
+   COLI
+SO JOURNAL OF BACTERIOLOGY
+VL 89
+IS 2
+BP 313
+EP &
+PD 1965
+PY 1965
+TC 22
+ZB 15
+Z8 1
+Z9 22
+SN 0021-9193
+UT WOS:A19656149100009
+ER
+
+PT J
+AU GARTNER, TK
+   RILEY, M
+TI GENETIC ANALYSIS OF TRYPTOPHANASE MUTANTS OF ESCHERICHIA COLI
+SO JOURNAL OF BACTERIOLOGY
+VL 89
+IS 2
+BP 319
+EP &
+PD 1965
+PY 1965
+TC 7
+ZB 5
+Z8 0
+Z9 7
+SN 0021-9193
+UT WOS:A19656149100010
+ER
+
+PT J
+AU GARTNER, TK
+   ORIAS, E
+TI PLEIOTROPIC EFFECTS OF SUPPRESSORS OF A LAC-OPERATOR NEGATIVE MUTATION
+   IN ESCHERICHIA COLI
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 53
+IS 1
+BP 62
+EP &
+DI 10.1073/pnas.53.1.62
+PD 1965
+PY 1965
+TC 17
+ZB 13
+Z8 0
+Z9 17
+SN 0027-8424
+UT WOS:A19656112700012
+ER
+
+EF
