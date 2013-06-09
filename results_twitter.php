@@ -326,8 +326,10 @@
 											</li>
 										</ul>
 										<div id="explorerTabContent" class="tab-content" style="height: 100% !important;">
+											
 											<div class="tab-pane fade" id="search">
 												<div class="span12 well">
+													<!-- Begin search widget -->
 													<form class="form-inline" action="/Collaboratum/views/results_twitter.php">
 														<div class="span11">
 															<div class="input-prepend input-append text-left">
@@ -367,8 +369,10 @@
 														    <button type="submit" class="btn btn-primary">Search!</button> 
 														</div>
 													</form>
+													<!-- End Search Widget -->
 												</div>
 											</div>
+											
 											<div class="tab-pane fade active in" id="results">
 												<div id="searchResults">
 							                        <table class="table table-striped table-hover table-condensed">
@@ -761,6 +765,148 @@
         			$('#customFilterModal').modal('show');
         		}
         	}
+        </script>
+        <script type="text/javascript">
+        	/*
+        	 * This script updates the search type to be used
+        	 */
+        	function selectSearch( searchType )
+        	{
+        		// Do LSI Search if search type is 0
+        		if(searchType == 0)
+        		{
+        			$("#searchType").val('false');
+        			$("#searchTypeButton").text("LSI");
+        		}
+        		//If search type is 1 do Keyword search
+        		else if(searchType == 1)
+        		{
+        			$("#searchType").val('true');
+        			$("#searchTypeButton").text("Keyword");
+        		}
+        	}
+        
+        	/*
+        	 * This script updates the filter to be applied to the search.
+        	 * It does this by modifying a hidden input on the search <form>
+        	 * 
+        	 * filterType = 0 : Everything will be returned in search results
+        	 * filterType = 1 : Only grants will be returned in search results
+        	 * filterType = 2 : Only collaborators will be returned in search results
+        	 * filterType = 3 : Only classes will be returned in search results
+        	 * filterType = 4 : A custom search filter has been applied to search results
+        	 */
+        	function selectFilter( filterType )
+        	{
+        		if(filterType == 0)
+        		{
+        			
+        			$("#filterButton").text("Everything");
+        			$("#filterType").val('0');
+        		}
+        		if(filterType == 1)
+        		{
+        			
+        			$("#filterButton").text("Grants");
+        			$("#filterType").val('1');
+        		}
+        		if(filterType == 2)
+        		{
+        			
+        			$("#filterButton").text("Collaborators");
+        			$("#filterType").val('2');
+        		}
+        		if(filterType == 3)
+        		{
+        			
+        			$("#filterButton").text("Classes");
+        			$("#filterType").val('3');
+        		}
+        		if(filterType == 4)
+        		{
+        			
+        			$("#filterButton").text("Custom");
+				// Wipe the current filter and set all checkboxes to unchecked.
+				$("#filterType").val("");
+				// clear checboxes
+				clearCheckboxes();
+				// Show the modal to allow the client to build a new custom filter.				 
+        			$("#customFilterModal").modal({
+					show: true,
+					keyboard: true
+				});
+        		}
+			verifyFilter();
+        	}
+
+		function clearCheckboxes()
+		{
+			$("#customFilterGrant").prop("checked", false);
+			$("#customFilterCollaborator").prop("checked", false);
+			$("#customFilterClasses").prop("checked", false);
+		}
+
+		// create a customFilter
+		function customFilter( obj, additionalFilter )
+		{
+
+			// Initialize the current filter.
+			var curFilter = "";
+			// append each checkbox if checked
+			if( $("#customFilterGrant").is(":checked") )
+			{
+				curFilter = curFilter + '1';
+			}
+			if( $("#customFilterCollaborator").is(":checked") )
+			{
+				if(curFilter === "")
+				{
+					curFilter = curFilter + '2';
+				}
+				else
+				{
+					curFilter = curFilter + ',' + '2';
+				}
+			}
+			if( $("#customFilterClasses").is(":checked") )
+			{
+				if(curFilter === "")
+				{
+					curFilter = curFilter + '3';
+				}
+				else
+				{
+					curFilter = curFilter + ',' + '3';
+				}
+			}
+			$("#filterType").val(curFilter);
+		}
+
+		// verify that the current filter is valid, and if not attempt to fix it.
+		function verifyFilter()
+		{
+			// TODO do validation checking using a finite state machine.
+			var curFilter = $("#filterType").val();
+			
+			// the filter is not allowed to be empty, default to 0, update UI, and issue warning.
+			if( curFilter === "" )
+			{
+				$("#filterType").val("0");	
+				$("filterButton").val("Everything");			
+				alert("An invalid search filter has been detected. This search has been reset to search Everything.");	
+			}
+			// do a basic check to see if there are any invalid characters present in the filter string
+			for( var i = 0; i < curFilter.length(); i++)
+			{
+				// if an error is detected default to everything and break out of loop.
+				if( curFilter.charat(i) != '0' || curFilter.charAt(i) != '1' || curFilter.charAt(i) != '2' || curFilter.charAt(i) != '3' || curFilter.charAt!= ',') 
+				{
+					$("#filterType").val("0");
+					$("#filterButton").val("Everything");
+					alert("An invalid search filter has been detected. This search has been reset to search Everything.");
+				}
+			}	
+		}
         </script>
 	</body>
 </html>
