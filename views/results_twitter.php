@@ -231,6 +231,10 @@
 			body {
 				padding: 40px;
 			}
+			
+			#explorerTabContent {
+				height: 100% !important;
+			}
 		</style>
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 		<link rel="stylesheet" href="../res/css/index.css">
@@ -325,7 +329,7 @@
 												<a href="#statistics" data-toggle="tab">Statistics</a>
 											</li>
 										</ul>
-										<div id="explorerTabContent" class="tab-content" style="height: 100% !important;">
+										<div id="explorerTabContent" class="tab-content">
 											
 											<div class="tab-pane fade" id="search">
 												<div class="span12 well">

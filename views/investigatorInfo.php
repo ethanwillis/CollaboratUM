@@ -47,7 +47,16 @@
 		<!-- Bootstrap -->
 		<link href="../res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-		<link rel="stylesheet" href="../res/css/um-theme/jquery-ui-1.9.0.custom.css">
+		<link rel="stylesheet" href="../res/css/jquery-ui.css">
+		<style type="text/css">
+			body {
+				padding: 40px;
+			}
+			
+			#explorerTabContent {
+				height: 100% !important;
+			}
+		</style>
 		<link rel="stylesheet" href="../res/css/index.css">
 	</head>
 	<body>
