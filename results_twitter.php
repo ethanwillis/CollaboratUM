@@ -471,6 +471,8 @@
 		<!-- End Body Scaffolding -->
 		
 		<!-- Begin Modals -->
+		
+		<!-- Modal that provides information about Collaboratum --> 
 		<div id="aboutModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel" aria-hidden="true">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -499,6 +501,7 @@
 			</div>
 		</div>
 		
+		<!-- Modal that provides help information for the current page -->
 		<div id="helpModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -517,18 +520,56 @@
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 			</div>
 		</div>
+		
+		<!-- Modal that provides an interface for building a custom filter -->
+		<div id="customFilterModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="customFilterModalLabel" aria-hidden="true">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="verifyFilter();">&times;</button>
+				<h3 id="customFilterModalLabel">Build your custom filter!</h3>
+			</div>
+			<div class="modal-body">
+				<table class="table table-striped table-hover">
+					<thead>
+						<tr>
+							<td>
+								Filters:
+							</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterGrant" value="grants" onchange="customFilter(this, 1);"> Grants
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Collaborators
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterClasses" value="classes" onchange="customFilter(this, 3);"> Classes
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="modal-footer">
+				<button class="btn" data-dismiss="modal" aria-hidden="true" onclick="verifyFilter();">Close</button>
+			</div>
+		</div>
 		<!-- End Modals -->
 		
 		<!-- Begin load JS -->
 		<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
         <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
         <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script type="text/javascript" charset="utf-8">
 			$(function(){ $("label").inFieldLabels(); });
 			$(function(){
