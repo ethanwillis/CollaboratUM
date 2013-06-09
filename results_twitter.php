@@ -322,7 +322,7 @@
 												<a href="#results" data-toggle="tab">Results</a>
 											</li>
 											<li>
-												<a href="#help" data-toggle="tab">Help</a>
+												<a href="#statistics" data-toggle="tab">Statistics</a>
 											</li>
 										</ul>
 										<div id="explorerTabContent" class="tab-content" style="height: 100% !important;">
@@ -451,8 +451,8 @@
 						                		</div>
 						
 						           			</div><!-- End results -->
-											<div class="tab-pane fade" id="help">
-												<h1>help widget goes here</h1>
+											<div class="tab-pane fade" id="statistics">
+												<h1>Histogram and other statistics widgets go here.</h1>
 											</div>
 										</div>
 						      		</div>

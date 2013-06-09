@@ -6,22 +6,36 @@
 	mysql_connect("localhost", "root", "baseg") or die(mysql_error());
 	mysql_select_db("collaboratum") or die(mysql_error());
 	
-	/* Get the agency, guidelink, purpose, section1, and title
-	$resolvedID = mysql_query("SELECT `ormation`.posted_date, `grant_information`.open_date FROM grant_information WHERE `grant_information`.grant_id = ".$id."")
-	        or die(mysql_error());  
+	// Get the investigator's name, phone number, email, office, city, and state.
+	$queryResult = mysql_query("SELECT I.name, I.title, Ph.phone_number, E.email_address, 
+		L.city, L.address, L.state, L.country, L.zipcode, L.misc, F.fax_number, D.department, 
+		Pi.picture_url FROM investigator as I 
+		LEFT JOIN phone_number AS Ph ON Ph.investigator_id = ".$id." 
+		LEFT JOIN email_address AS E ON E.investigator_id = ".$id." 
+		LEFT JOIN location AS L ON L.investigator_id = ".$id." 
+		LEFT JOIN fax_number AS F ON F.investigator_id = ".$id." 
+		LEFT JOIN department AS D ON D.investigator_id = ".$id." 
+		LEFT JOIN pictures AS Pi ON Pi.investigator_id = ".$id." 
+		WHERE I.investigator_id = ".$id);
+		
+
 			
 	// Then we take the results from the database and store them in a row
 	$row = mysql_fetch_array( $resolvedID);
 	
-	$agency = $row['agency'];
-	$guidelink = $row['guidelink'];
-	$purpose = $row['purpose'];
-	$section1 = $row['section1'];
+	$name = $row['name'];
 	$title = $row['title'];
-	$expiry_date = $row['expiry_date'];
-	$open_date = $row['open_date'];
-	$posted_date = $row['posted_date'];
-	 */
+	$phone = $row['phone_number'];
+	$email = $row['email_address'];
+	$city = $row['city'];
+	$address = $row['address'];
+	$state = $row['state'];
+	$country = $row['country'];
+	$zipcode = $row['zipcode'];
+	$misc = $row['misc'];
+	$fax = $row['fax_number'];
+	$department = $row['department'];
+	$picture_url = $row['picture'];
 	
 ?>
 
@@ -98,7 +112,7 @@
 							            	<img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACDUlEQVR4Xu2Yz6/BQBDHpxoEcfTjVBVx4yjEv+/EQdwa14pTE04OBO+92WSavqoXOuFp+u1JY3d29rvfmQ9r7Xa7L8rxY0EAOAAlgB6Q4x5IaIKgACgACoACoECOFQAGgUFgEBgEBnMMAfwZAgaBQWAQGAQGgcEcK6DG4Pl8ptlsRpfLxcjYarVoOBz+knSz2dB6vU78Lkn7V8S8d8YqAa7XK83ncyoUCjQej2m5XNIPVmkwGFC73TZrypjD4fCQAK+I+ZfBVQLwZlerFXU6Her1eonreJ5HQRAQn2qj0TDukHm1Ws0Ix2O2260RrlQqpYqZtopVAoi1y+UyHY9Hk0O32w3FkI06jkO+74cC8Dh2y36/p8lkQovFgqrVqhFDEzONCCoB5OSk7qMl0Gw2w/Lo9/vmVMUBnGi0zi3Loul0SpVKJXRDmphvF0BOS049+n46nW5sHRVAXMAuiTZObcxnRVA5IN4DJHnXdU3dc+OLP/V63Vhd5haLRVM+0jg1MZ/dPI9XCZDUsbmuxc6SkGxKHCDzGJ2j0cj0A/7Mwti2fUOWR2Km2bxagHgt83sUgfcEkN4RLx0phfjvgEdi/psAaRf+lHmqEviUTWjygAC4EcKNEG6EcCOk6aJZnwsKgAKgACgACmS9k2vyBwVAAVAAFAAFNF0063NBAVAAFAAFQIGsd3JN/qBA3inwDTUHcp+19ttaAAAAAElFTkSuQmCC">
 							            </a>
 						            	<div class="media-body">
-								            <h4 class="media-heading"><a href="">Investigator Name</a></h4>
+								            <h4 class="media-heading"><a href=""><?php echo $name; ?></a></h4>
 								            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 							            </div>
 						            </div>
