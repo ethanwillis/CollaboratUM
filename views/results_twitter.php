@@ -322,12 +322,14 @@
 												<a href="#results" data-toggle="tab">Results</a>
 											</li>
 											<li>
-												<a href="#help" data-toggle="tab">Help</a>
+												<a href="#statistics" data-toggle="tab">Statistics</a>
 											</li>
 										</ul>
 										<div id="explorerTabContent" class="tab-content" style="height: 100% !important;">
+											
 											<div class="tab-pane fade" id="search">
 												<div class="span12 well">
+													<!-- Begin search widget -->
 													<form class="form-inline" action="/Collaboratum/views/results_twitter.php">
 														<div class="span11">
 															<div class="input-prepend input-append text-left">
@@ -367,8 +369,10 @@
 														    <button type="submit" class="btn btn-primary">Search!</button> 
 														</div>
 													</form>
+													<!-- End Search Widget -->
 												</div>
 											</div>
+											
 											<div class="tab-pane fade active in" id="results">
 												<div id="searchResults">
 							                        <table class="table table-striped table-hover table-condensed">
@@ -451,8 +455,8 @@
 						                		</div>
 						
 						           			</div><!-- End results -->
-											<div class="tab-pane fade" id="help">
-												<h1>help widget goes here</h1>
+											<div class="tab-pane fade" id="statistics">
+												<h1>Histogram and other statistics widgets go here.</h1>
 											</div>
 										</div>
 						      		</div>
@@ -467,6 +471,8 @@
 		<!-- End Body Scaffolding -->
 		
 		<!-- Begin Modals -->
+		
+		<!-- Modal that provides information about Collaboratum --> 
 		<div id="aboutModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel" aria-hidden="true">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -495,6 +501,7 @@
 			</div>
 		</div>
 		
+		<!-- Modal that provides help information for the current page -->
 		<div id="helpModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -513,18 +520,54 @@
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 			</div>
 		</div>
+		
+		<!-- Modal that provides an interface for building a custom filter -->
+		<div id="customFilterModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="customFilterModalLabel" aria-hidden="true">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="verifyFilter();">&times;</button>
+				<h3 id="customFilterModalLabel">Build your custom filter!</h3>
+			</div>
+			<div class="modal-body">
+				<table class="table table-striped table-hover">
+					<thead>
+						<tr>
+							<td>
+								Filters:
+							</td>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterGrant" value="grants" onchange="customFilter(this, 1);"> Grants
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Collaborators
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="checkbox" id="customFilterClasses" value="classes" onchange="customFilter(this, 3);"> Classes
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="modal-footer">
+				<button class="btn" data-dismiss="modal" aria-hidden="true" onclick="verifyFilter();">Close</button>
+			</div>
+		</div>
 		<!-- End Modals -->
 		
 		<!-- Begin load JS -->
-		<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(function(){ $("label").inFieldLabels(); });
 			$(function(){
@@ -755,12 +798,152 @@
         		{
         			
         			$("#filterButton").text("Custom");
-        			$('#customFilterModal').modal({
-        				keyboard: true,
-        			});
+        			
         			$('#customFilterModal').modal('show');
         		}
         	}
+        </script>
+        <script type="text/javascript">
+        	/*
+        	 * This script updates the search type to be used
+        	 */
+        	function selectSearch( searchType )
+        	{
+        		// Do LSI Search if search type is 0
+        		if(searchType == 0)
+        		{
+        			$("#searchType").val('false');
+        			$("#searchTypeButton").text("LSI");
+        		}
+        		//If search type is 1 do Keyword search
+        		else if(searchType == 1)
+        		{
+        			$("#searchType").val('true');
+        			$("#searchTypeButton").text("Keyword");
+        		}
+        	}
+        
+        	/*
+        	 * This script updates the filter to be applied to the search.
+        	 * It does this by modifying a hidden input on the search <form>
+        	 * 
+        	 * filterType = 0 : Everything will be returned in search results
+        	 * filterType = 1 : Only grants will be returned in search results
+        	 * filterType = 2 : Only collaborators will be returned in search results
+        	 * filterType = 3 : Only classes will be returned in search results
+        	 * filterType = 4 : A custom search filter has been applied to search results
+        	 */
+        	function selectFilter( filterType )
+        	{
+        		if(filterType == 0)
+        		{
+        			
+        			$("#filterButton").text("Everything");
+        			$("#filterType").val('0');
+        		}
+        		if(filterType == 1)
+        		{
+        			
+        			$("#filterButton").text("Grants");
+        			$("#filterType").val('1');
+        		}
+        		if(filterType == 2)
+        		{
+        			
+        			$("#filterButton").text("Collaborators");
+        			$("#filterType").val('2');
+        		}
+        		if(filterType == 3)
+        		{
+        			
+        			$("#filterButton").text("Classes");
+        			$("#filterType").val('3');
+        		}
+        		if(filterType == 4)
+        		{
+        			
+        			$("#filterButton").text("Custom");
+				// Wipe the current filter and set all checkboxes to unchecked.
+				$("#filterType").val("");
+				// clear checboxes
+				clearCheckboxes();
+				// Show the modal to allow the client to build a new custom filter.				 
+        			$("#customFilterModal").modal({
+					show: true,
+					keyboard: true
+				});
+        		}
+			verifyFilter();
+        	}
+
+		function clearCheckboxes()
+		{
+			$("#customFilterGrant").prop("checked", false);
+			$("#customFilterCollaborator").prop("checked", false);
+			$("#customFilterClasses").prop("checked", false);
+		}
+
+		// create a customFilter
+		function customFilter( obj, additionalFilter )
+		{
+
+			// Initialize the current filter.
+			var curFilter = "";
+			// append each checkbox if checked
+			if( $("#customFilterGrant").is(":checked") )
+			{
+				curFilter = curFilter + '1';
+			}
+			if( $("#customFilterCollaborator").is(":checked") )
+			{
+				if(curFilter === "")
+				{
+					curFilter = curFilter + '2';
+				}
+				else
+				{
+					curFilter = curFilter + ',' + '2';
+				}
+			}
+			if( $("#customFilterClasses").is(":checked") )
+			{
+				if(curFilter === "")
+				{
+					curFilter = curFilter + '3';
+				}
+				else
+				{
+					curFilter = curFilter + ',' + '3';
+				}
+			}
+			$("#filterType").val(curFilter);
+		}
+
+		// verify that the current filter is valid, and if not attempt to fix it.
+		function verifyFilter()
+		{
+			// TODO do validation checking using a finite state machine.
+			var curFilter = $("#filterType").val();
+			
+			// the filter is not allowed to be empty, default to 0, update UI, and issue warning.
+			if( curFilter === "" )
+			{
+				$("#filterType").val("0");	
+				$("filterButton").val("Everything");			
+				alert("An invalid search filter has been detected. This search has been reset to search Everything.");	
+			}
+			// do a basic check to see if there are any invalid characters present in the filter string
+			for( var i = 0; i < curFilter.length(); i++)
+			{
+				// if an error is detected default to everything and break out of loop.
+				if( curFilter.charat(i) != '0' || curFilter.charAt(i) != '1' || curFilter.charAt(i) != '2' || curFilter.charAt(i) != '3' || curFilter.charAt!= ',') 
+				{
+					$("#filterType").val("0");
+					$("#filterButton").val("Everything");
+					alert("An invalid search filter has been detected. This search has been reset to search Everything.");
+				}
+			}	
+		}
         </script>
 	</body>
 </html>
