@@ -562,14 +562,12 @@
 		<!-- End Modals -->
 		
 		<!-- Begin load JS -->
-		<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
+		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(function(){ $("label").inFieldLabels(); });
 			$(function(){
@@ -800,9 +798,7 @@
         		{
         			
         			$("#filterButton").text("Custom");
-        			$('#customFilterModal').modal({
-        				keyboard: true,
-        			});
+        			
         			$('#customFilterModal').modal('show');
         		}
         	}
