@@ -561,7 +561,7 @@
 		</div>
 		<!-- End Modals -->
 		
-		<!-- Begin load JS -->
+		<!-- Begin loadd JS -->
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
