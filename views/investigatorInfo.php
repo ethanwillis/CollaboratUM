@@ -474,7 +474,7 @@
 			if( curFilter === "" )
 			{
 				$("#filterType").val("0");	
-				$("filterButton").val("Everything");			
+				$("#filterButton").val("Everything");			
 				alert("An invalid search filter has been detected. This search has been reset to search Everything.");	
 			}
 			// do a basic check to see if there are any invalid characters present in the filter string
