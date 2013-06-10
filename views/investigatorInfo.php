@@ -235,7 +235,6 @@
 										data.addColumn('number', '# Entities');
 										data.addColumn({type: 'string', role: 'tooltip'});
 										
-										//['Similarity Range', '# Entities'],
 								        data.addRows([ 
 								          <?php
 								          	//echo out all of the similarity data in the correct format.
