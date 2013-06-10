@@ -1,10 +1,13 @@
 <?php
+	// load Configuration options
+	require_once("../config.php");
+	
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
 	// Connect to database
-	mysql_connect("localhost", "root", "baseg") or die(mysql_error());
-	mysql_select_db("collaboratum") or die(mysql_error());
+	mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+	mysql_select_db($dbNameGeneral) or die(mysql_error());
 	
 	// Get the investigator's name, phone number, email, office, city, and state.
 	$query = "SELECT I.name, I.title, Ph.phone_number, E.email_address, 
@@ -16,14 +19,14 @@
 		LEFT JOIN fax_number AS F ON F.investigator_id = ".$id." 
 		LEFT JOIN department AS D ON D.investigator_id = ".$id." 
 		LEFT JOIN pictures AS Pi ON Pi.investigator_id = ".$id." 
-		WHERE I.investigator_id = ".$id."";
-	$queryResult = mysql_query($query);
+		WHERE I.investigator_id = ".$id." AND Pi.picture_type = 'profile'";
 		
-
+	$queryResult = mysql_query($query);
 			
 	// Then we take the results from the database and store them in a row
 	$row = mysql_fetch_array($queryResult);
 	
+	// Store the profile data from the mysql query.
 	$name = $row['name'];
 	$title = $row['title'];
 	$phone = $row['phone_number'];
@@ -39,8 +42,8 @@
 	$department = $row['department'];
 	$picture_url = $row['picture'];
 	
-	// Get data for histogram
-	mysql_select_db("parsingdata") or die(mysql_error());
+	// Get similarity data for histogram
+	mysql_select_db($dbNameNetwork) or die(mysql_error());
 	$query="SELECT count(*) FROM doc_pairwise_cosine_matrix WHERE (col".intval($id)." BETWEEN 0.0 AND 0.1) AND NOT col".intval($id)." = 0.1
 			UNION
 			SELECT count(*) FROM doc_pairwise_cosine_matrix WHERE (col".intval($id)." BETWEEN 0.1 AND 0.2) AND NOT col".intval($id)." = 0.2
@@ -62,6 +65,7 @@
 			SELECT count(*) FROM doc_pairwise_cosine_matrix WHERE (col".intval($id)." BETWEEN 0.9 AND 1.0)";
 	$rows = mysql_query( $query );
 	
+	// Store all of the data needed for the histogram.
 	$i = 0;
 	$totalSimilarEntities = 0;
 	while( $row = mysql_fetch_array($rows) )
@@ -151,7 +155,7 @@
 								<div class="tab-pane fade active in" id="Profile">
 									<div class="media">
 							            <a class="pull-left" href="#">
-							            	<img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="">
+							            	<img class="media-object" data-src="<?php echo $baseURL.$picture_url; ?>" alt="64x64" style="width: 64px; height: 64px;" src="">
 							            </a>
 						            	<div class="media-body">
 								            <h4 class="media-heading"><a href=""><?php echo "<p class=\"text-center\">".$name."</p>"; ?></a><?php if( !(empty($title)) ){ echo "<small> - ".$title."</small>"; } ?></h4>
