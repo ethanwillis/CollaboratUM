@@ -311,12 +311,12 @@
 					<div class="nav navbar-fixed-bottom">
 						<div class="explorerUI" id="explorer1">
 							<div class="explorer-group">
-						    	<div class="explorer-heading navbar-inner"  data-toggle="collapse" data-parent="#explorer1" href="#collapseOne">
+						    	<div id="collapsibleDiv" class="explorer-heading navbar-inner"  data-toggle="collapse" data-parent="#explorer1" href="#collapseOne">
 						        	<a class="explorer-toggle offset6">
 						        		<i class="icon-chevron-up"></i>
 						        	</a>
 						    	</div>
-						    	<div id="collapseOne" class="explorer-body collapse">
+						    	<div id="collapseOne" class="explorer-body collapse in">
 						      		<div class="accordion-inner" style="background-color: #fff;">
 						        		<ul class="nav nav-tabs">
 											<li>
