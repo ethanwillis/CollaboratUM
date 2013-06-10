@@ -1,0 +1,608 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Gopalakrishnan, Anusha M.
+   Lopez-Estrano, Carlos
+TI Role of cis-regulatory elements on the ring-specific hrp3 promoter in
+   the human parasite Plasmodium falciparum
+SO PARASITOLOGY RESEARCH
+VL 106
+IS 4
+BP 833
+EP 845
+DI 10.1007/s00436-010-1738-9
+PD MAR 2010
+PY 2010
+AB Identification of promoter elements responsible for regulation of gene
+   expression has been hampered by the AT richness of P. falciparum
+   intergenic regions. Nested deletions of histidine-rich protein 3 (hrp3)
+   promoter suggested the presence of a multipartite ring-specific element.
+   Linker scanning (LS) of this ring-specific promoter showed that the
+   alteration of several promoter regions decreased the luciferase activity
+   compared to the wild-type configuration, indicating that these regions
+   played a role in gene expression. No homology was observed by comparison
+   of putative regulatory elements of other genes identified by
+   bioinformatic analysis with the hrp3 enhancer, implying a different
+   mechanism of gene regulation by the hrp3 promoter. LS and deletion
+   analysis of the 5' untranslated region (UTR) of the hrp3 suggested that
+   this region contains elements which interact with promoter elements to
+   regulate gene expression. Analysis of the intron in the UTR region
+   suggested that this region does not play a role in stage specificity in
+   the hrp3 promoter. Together, our results indicate the presence of
+   multiple mechanisms of gene regulation in the parasite.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0932-0113
+UT WOS:000275416800011
+ER
+
+PT J
+AU Gopalakrishnan, Anusha M.
+   Nyindodo, Lilian A.
+   Fergus, M. Ross
+   Lopez-Estrano, Carlos
+TI Plasmodium falciparum: Preinitiation complex occupancy of active and
+   inactive promoters during erythrocytic stage
+SO EXPERIMENTAL PARASITOLOGY
+VL 121
+IS 1
+BP 46
+EP 54
+DI 10.1016/j.exppara.2008.09.016
+PD JAN 2009
+PY 2009
+AB Over 80% of Plasmodium falciparum genes are developmentally regulated
+   during the parasite's life cycle with most genes expressed in a "just in
+   time" fashion. However, the molecular mechanisms of gene regulation are
+   still poorly understood. Analysis of A falciparum genome shows that the
+   parasite appears to encode relatively few transcription factors
+   homologous to those in other eukaryotes. We used Chromatin
+   immunoprecipitation (Chip) to study interaction of PfTBP and PfTFIIE
+   with stage specific Plasmodium promoters. Our results indicate that
+   PftBP and PfTFIIE are bound to their cognate sequence in active and
+   inactive erythrocytic-expressed promoters. In addition, TF occupancy
+   appears to extend beyond the promoter regions, since PfTBP interaction
+   with the coding and 3' end regions was also detected. No PfTBP or
+   PfTFIIE interaction was detected on csp and pfs25 genes which are not
+   active during the erythrocytic asexual stage. Furthermore. PfTBP and
+   PfTFIIE binding did not appear to correlate with histone 3 and/or 4
+   acetylation, suggesting that histone acetylation may not be a
+   prerequisite for PfTBP or PfTFIIE promoter interaction. Based on our
+   observations we concluded that the PfTBP/PfTFIIE-containing
+   preinitiation complex (PIC) would be preassembled on promoters of all
+   erythrocytic-expressed genes in a fashion independent of histone
+   acetylation, providing support for the "poised" model. Contrary to the
+   classical model of eukaryotic gene regulation, PIC interaction with
+   Plasmodium promoters occurred independent of transcriptional activity
+   and to the notion that chromatin acetylation leads to PIC assembly. (C)
+   2008 Elsevier Inc. All rights reserved.
+TC 11
+ZB 12
+Z8 0
+Z9 12
+SN 0014-4894
+UT WOS:000262423800007
+ER
+
+PT J
+AU Adris, Plyatilake
+   Lopez-Estrano, Carlos
+   Chung, King-Thom
+TI The metabolic activation of 2-aminofluorine, 4-aminobiphenyl, and
+   benzidine by cytochrome P-450-107S1 of Pseudomonas aeruginosa
+SO TOXICOLOGY IN VITRO
+VL 21
+IS 8
+BP 1663
+EP 1671
+DI 10.1016/j.tiv.2007.07.009
+PD DEC 2007
+PY 2007
+AB Pseudomonas aeruginosa is an important opportunistic pathogen of the
+   human urinary bladder. Similar to rat liver S9, the cell-free extract
+   from P. aeruginosa caused significant increase of histidine reversion
+   numbers with the Salmonella typhimurium tester strain TA98 in the Ames
+   Salmonella mutagenicity assay in the presence of either 2-aminofluorene,
+   4-aminobiphenyl, or benzidine procarcinogens. The presence of cytochrome
+   P-450 protein in the cell-free extract was demonstrated by the carbon
+   monoxide difference spectrum. We employed gene knockout technology to
+   inactivate one of the three known putative cytochrome P-450 genes of P.
+   aeruginosa, namely CYP107S1, which we postulated to be the most likely
+   to induce activation. The ampicillin resistant gene from PUC19 DNA
+   confers carbenicillin resistance to P. aeruginosa. We inserted a
+   synthetic ampicillin gene flanked by 40 base-pairs of the 5' and 3'
+   untranslated region of the CYP gene by electroporating the synthetic
+   gene into electrocompetent P. aeruginosa cells. CYPI07S1 knockout
+   strains were selected on 1000 mu g/ml carbenicillin plates. A single
+   cloned carbenicillin resistant colony was isolated and used to determine
+   its mutagenic capacity using Ames Salmonella mutagenicity assay. The
+   results showed that Salmonella TA98 tester strain returned the number of
+   revertants to its baselines level indicating the lack of metabolic
+   activation of procarcinogens in the P. aeruginosa CYPI07S1 knockout
+   cell-free extract. In addition, the characteristic cytochrome P-450 peak
+   determined by the carbon monoxide difference spectrum was completely
+   absent in the cell-free extract from this CYPI07S1 knockout strain
+   bacterium. Homologous recombination of the synthetic ampicillin gene on
+   the CYP 107S1 P-450 locus was confirmed by PCR on purified genomic DNA
+   extracted from the knockout bacterium. The metabolic activation of
+   tested procarcinogens is, therefore, carried out by CYPI07S1 in P.
+   aeruginosa. (C) 2007 Elsevier Ltd. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0887-2333
+UT WOS:000251558100035
+ER
+
+PT J
+AU Lopez-Estrano, Carlos
+   Gopalakrishnan, Anusha M.
+   Semblat, Jean-Philippe
+   Fergus, M. Ross
+   Mazier, Dominique
+   Haldar, Kasturi
+TI An enhancer-like region regulates hrp3 promoter stage-specific gene
+   expression in the human malaria parasite Plasmodium falciparum
+SO BIOCHIMICA ET BIOPHYSICA ACTA-GENE STRUCTURE AND EXPRESSION
+VL 1769
+IS 7-8
+BP 506
+EP 513
+DI 10.1016/j.bbaexp.2007.04.009
+PD JUL-AUG 2007
+PY 2007
+AB The asexual blood stage of Plasmodium falciparum is comprised of
+   morphologically distinct ring, trophozoite and schizont stages. Each of
+   these developmental stages possesses a distinct pattern of gene
+   expression. Regulation of R falciparum gene expression is thought to
+   occur, at least in part, at the promoter level. Previously, we have
+   found that although the hrp3 mRNA is only seen in ring-stage parasites,
+   deletion of a specific sequence in the 5' end of the promoter region
+   decreased ring-stage expression of hrp3 and enabled detection of its
+   transcripts in trophozoite-stage parasites. In order to investigate this
+   stage specific regulation of gene expression, we employed a series of
+   nested deletions of the 1.7-kb hrp3 promoter. Firefly luciferase gene
+   was used as a reporter to evaluate the role of promoter sequences in
+   gene regulation. Using this approach, we identified a ring-stage
+   specific regulatory region on the hrp3 promoter located between - 1.7 kb
+   and - 1.1 kb from the ATG initiation codon. Small 100-150 bp truncations
+   on this enhancer-like region failed to uncover discrete regulatory
+   sequences, suggesting the multipartite nature of this element. The data
+   presented in this study demonstrate that stage specific promoter
+   activity of the hrp3 gene in P. falciparum blood stage parasites is
+   supported, at least in-part, by a small promoter region that can
+   function in the absence of a larger chromosomal context. (c) 2007
+   Elsevier B.V. All rights reserved.
+TC 5
+ZB 6
+Z8 0
+Z9 6
+SN 0167-4781
+UT WOS:000248898400009
+ER
+
+PT J
+AU Lopez-Estrano, Carlos
+   Semblat, Jean-Philippe
+   Gopalakrishnan, Anusha M.
+   Turner, Leah
+   Mazier, Dominique
+   Haldar, Kasturi
+TI Plasmodium falciparum: hrp3 promoter region is associated with
+   stage-specificity and episomal recombination
+SO EXPERIMENTAL PARASITOLOGY
+VL 116
+IS 3
+BP 327
+EP 333
+DI 10.1016/j.exppara.2007.01.020
+PD JUL 2007
+PY 2007
+AB The asexual blood stage of Plasmodium falciparum in the human host is
+   comprised of morphologically distinct ring, trophozoite and schizont
+   stages, each of which possesses a distinct pattern of gene expression.
+   Episomal promoter recombination has been recently reported in malaria
+   parasites. We aim to investigate the nature of this process, and its
+   relationship with promoter activity by employing a series of nested
+   deletions of the ring-specific hrp3 promoter. Our results showed a
+   discrete promoter region that is preferentially used for recombination.
+   The P. falciparum hrp3 mRNA is only seen in ring-stage parasites but
+   deletion of the recombination region was associated with decreased
+   ring-stage expression and concurrent detection of transcripts in
+   trophozoite-stage parasites. Our results describe a ring-stage specific
+   regulatory region possibly involved in episomal promoter recombination,
+   suggesting that common sequences might mediate both processes. (c) 2007
+   Elsevier Inc. All rights reserved.
+TC 5
+ZB 6
+Z8 0
+Z9 6
+SN 0014-4894
+UT WOS:000247662500020
+ER
+
+PT J
+AU Hiller, NL
+   Bhattacharjee, S
+   van Ooij, C
+   Liolios, K
+   Harrison, T
+   Lopez-Estrano, C
+   Haldar, K
+TI A host-targeting signal in virulence proteins reveals a secretome in
+   malarial infection
+SO SCIENCE
+VL 306
+IS 5703
+BP 1934
+EP 1937
+DI 10.1126/science.1102737
+PD DEC 10 2004
+PY 2004
+AB Malaria parasites secrete proteins across the vacuolar membrane into the
+   erythrocyte, inducing modifications linked to disease and parasite
+   survival. We identified an 11-amino acid signal required for the
+   secretion of proteins from the Plasmodium falciparum vacuole to the
+   human erythrocyte, Bioinformatics predicted a secretome of >320 proteins
+   and conservation of the signal across parasite species. Functional
+   studies indicated the predictive value of the signal and its role in
+   targeting virulence proteins to the erythrocyte and implicated its
+   recognition by a receptor/transporter. Erythrocyte modification by the
+   parasite may involve plasmodial heat shock proteins and be vastly more
+   complex than hitherto realized.
+TC 319
+ZB 292
+Z8 3
+Z9 334
+SN 0036-8075
+UT WOS:000225695600044
+ER
+
+PT J
+AU Sanchez-Gorostiaga, A
+   Lopez-Estrano, C
+   Krimer, DB
+   Schvartzman, JB
+   Hernandez, P
+TI Transcription termination factor reb1p causes two replication fork
+   barriers at its cognate sites in fission yeast ribosomal DNA in vivo
+SO MOLECULAR AND CELLULAR BIOLOGY
+VL 24
+IS 1
+BP 398
+EP 406
+DI 10.1128/MCB.24.1.398-406.2004
+PD JAN 2004
+PY 2004
+AB Polar replication fork barriers (RFBs) near the 3' end of the rRNA
+   transcriptional unit are a conserved feature of ribosomal DNA (rDNA)
+   replication in eukaryotes. In the mouse, in vivo studies indicate that
+   the cis-acting Sal boxes required for rRNA transcription termination are
+   also involved in replication fork blockage. On the contrary, in the
+   budding yeast Saccharomyces cerevisiae, the rRNA transcription
+   termination factors are not required for RFBs. Here we characterized the
+   rDNA RFBs in the fission yeast Schizosaccharomyces pombe. S. pombe rDNA
+   contains three closely spaced polar replication barriers named RFB1,
+   RFB2, and RFB3 in the 3' to 5' order. The transcription termination
+   protein reb1 and its two binding sites, present at the 3' end of the
+   coding region, were required for fork arrest at RFB2 and RFB3 in vivo.
+   On the other hand, fork arrest at the strongest RFB1 barrier was
+   independent of the above transcription termination factors. Therefore,
+   RFB2 and RFB3 resemble the barriers present in the mouse rDNA, whereas
+   RFB1 is similar to the budding yeast RFBs. These results suggest that
+   during evolution, cis- and trans-acting factors required for rRNA
+   transcription termination became involved in replication fork blockage
+   also. S. pombe is suggested to be a transitional species in which both
+   mechanisms coexist.
+TC 27
+ZB 29
+Z8 0
+Z9 29
+SN 0270-7306
+UT WOS:000187531200035
+ER
+
+PT J
+AU Lopez-Estrano, C
+   Bhattacharjee, S
+   Harrison, T
+   Haldar, K
+TI Cooperative domains define a unique host cell-targeting signal in
+   Plasmodium falciparum-infected erythrocytes
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 100
+IS 21
+BP 12402
+EP 12407
+DI 10.1073/pnas.2133080100
+PD OCT 14 2003
+PY 2003
+AB When the malaria parasite Plasmodium falciparum infects an erythrocyte,
+   it resides in a parasitophorous vacuole and remarkably exports proteins
+   into the periphery of its host cell. Two of these proteins, the
+   histidine-rich proteins I and II (PfHRPI and PfHRPII), are exported to
+   the erythrocyte cytoplasm. PfHRPI has been linked to cell-surface
+   "knobby" protrusions that mediate cerebral malaria and are a frequent
+   cause of death. PfHRPII has been implicated in (i) the production of
+   hemozoin, the black pigment associated with disease, as well as (ii)
+   interactions with the erythrocyte cytoskeleton. Here we show that a
+   tripartite signal that is comprised of an endoplasmic reticulum-type
+   signal sequence followed by a bipartite vacuolar translocation signal
+   derived from HRPII and HRIPI exports GFP from the parasitophorous
+   vacuole to the host cytoplasm. The bipartite vacuolar translocation
+   signal is comprised of unique, peptidic (approximate to40-aa) sequences.
+   A domain within it contains the signal for export to "cleft" transport
+   intermediates in the host erythrocyte and may thereby regulate the
+   pathway of export to the host cytoplasm. A signal for posttranslational,
+   vacuolar exit of proteins has hitherto not been described in eukaryotic
+   secretion.
+TC 60
+ZB 51
+Z8 1
+Z9 62
+SN 0027-8424
+UT WOS:000186024300084
+ER
+
+PT J
+AU Xu, YX
+   Liu, L
+   Lopez-Estrano, C
+   Michaeli, S
+TI Expression studies on clustered trypanosomatid box C/D small nucleolar
+   RNAs
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 276
+IS 17
+BP 14289
+EP 14298
+PD APR 27 2001
+PY 2001
+AB We analyzed three chromosomal loci of the trypanosomatid Leptomonas
+   collosoma encoding box C/D small nucleolar RNAs (snoRNAs). All the
+   snoRNAs that were analyzed here carry two sequences complementary to
+   rRNA target sites and obey the +5 rule for guide methylation. Studies on
+   transgenic parasites carrying the snoRNA-2 gene in the episomal
+   expression vector (pX-neo) indicated that no promoter activity was found
+   immediately adjacent to this gene. Deleting the flanking sequences of
+   snoRNA-2 affected the expression; in the absence of the 3'-flanking (but
+   not 5'-flanking) sequence, the expression was almost completely
+   abolished. The snoRNA genes are transcribed as polycistronic RNA. All
+   snoRNAs can be folded into a common stem-loop structure, which may play
+   a role in processing the polycistronic transcript. snoRNA B2, a member
+   of a snoRNA cluster, was expressed when cloned into the episomal vector,
+   suggesting that each gene within a cluster is individually processed.
+   Studies with permeable cells indicated that snoRNA gene transcription
+   was relatively sensitive to alpha -amanitin, thus supporting
+   transcription by RNA polymerase II. We propose that snoRNA gene
+   expression, similar to protein-coding genes in this family, is regulated
+   at the processing level.
+TC 24
+ZB 25
+Z8 0
+Z9 25
+SN 0021-9258
+UT WOS:000168356600103
+ER
+
+PT J
+AU Lopez-Estrano, C
+   Schvartzman, JB
+   Krimer, DB
+   Hernandez, P
+TI Characterization of the pea rDNA replication fork barrier: putative
+   cis-acting and trans-acting factors
+SO PLANT MOLECULAR BIOLOGY
+VL 40
+IS 1
+BP 99
+EP 110
+DI 10.1023/A:1026405311132
+PD MAY 1999
+PY 1999
+AB It was previously shown that in pea (Pisum sativum), rDNA repeats
+   contain a polar replication fork barrier that blocks progression of the
+   replication machinery moving in the direction opposite to transcription.
+   This barrier maps in the untranscribed spacer close to the 3' end of the
+   25S gene. Very similar barriers are also found in the rDNA of yeast,
+   Xenopus and mammalian cultured cells. This high conservation indicates
+   that the rDNA barrier plays a relevant biological role. Progression of
+   replication forks through the DNA sequence where the barrier maps in pea
+   was investigated in plasmids replicating in Escherichia coli and
+   Saccharomyces cerevisiae. No barrier was detected in these heterologous
+   systems, indicating that the DNA sequence by itself was insufficient to
+   block the replication machinery. Therefore, trans-acting factors were
+   likely to be required. Taking advantage of the natural sequence
+   heterogeneity in pea rDNA, we obtained evidence that a 27 bp imperfect
+   tandem repeat is involved in the arrest of replication. Moreover,
+   nuclear protein(s) specifically bound to this repeat suggesting that
+   this DNA/protein complex is responsible for the polar arrest of
+   replication forks.
+TC 14
+ZB 15
+Z8 0
+Z9 16
+SN 0167-4412
+UT WOS:000080431900010
+ER
+
+PT J
+AU Lopez-Estrano, C
+   Tschudi, C
+   Ullu, E
+TI Exonic sequences in the 5 ' untranslated region of alpha-tubulin mRNA
+   modulate trans splicing in Trypanosoma brucei
+SO MOLECULAR AND CELLULAR BIOLOGY
+VL 18
+IS 8
+BP 4620
+EP 4628
+PD AUG 1998
+PY 1998
+AB Previous studies have identified a conserved AG dinucleotide at the 3'
+   splice site (3'SS) and a polypyrimidine (pPy) tract that are required
+   for trans splicing of polycistronic pre-mRNAs in trypanosomatids.
+   Furthermore, the pPy tract of the Trypanosoma brucei alpha-tubulin 3'SS
+   region is required to specify accurate 3'-end formation of the upstream
+   beta-tubulin gene and trans splicing of the downstream alpha-tubulin
+   gene. Here, we employed an in vivo cis competition assay to determine
+   whether sequences other than those of the AG dinucleotide and the pPy
+   tract were required for 3'SS identification. Our results indicate that a
+   minimal alpha-tubulin 3'SS, from the putative branch site region to the
+   AG dinucleotide, is not sufficient for recognition by the trans-splicing
+   machinery and that polyadenylation is strictly dependent on downstream
+   trans splicing. We show that efficient use of the alpha-tubulin 3'SS is
+   dependent upon the presence of exon sequences. Furthermore,
+   beta-tubulin, but not actin er;on sequences or unrelated plasmid
+   sequences, can replace alpha-tubulin exon sequences for accurate
+   trans-splice-site selection. Taken together, these results support a
+   model in which the informational content required for efficient trans
+   splicing of the alpha-tubulin pre-mRNA includes exon sequences which are
+   involved in modulation of trans-splicing efficiency. Sequences that
+   positively regulate trails splicing might be similar to cis-splicing
+   enhancers described in other systems.
+TC 29
+ZB 29
+Z8 0
+Z9 30
+SN 0270-7306
+UT WOS:000074950000023
+ER
+
+PT J
+AU Lopez-Estrano, C
+   Schvartzman, JB
+   Krimer, DB
+   Hernandez, P
+TI Co-localization of polar replication fork barriers and rRNA
+   transcription terminators in mouse rDNA
+SO JOURNAL OF MOLECULAR BIOLOGY
+VL 277
+IS 2
+BP 249
+EP 256
+DI 10.1006/jmbi.1997.1607
+PD MAR 27 1998
+PY 1998
+AB We investigated the replication of the region where transcription
+   terminates in mouse rDNA. It contains a replication fork barrier (RFB)
+   that behaves in a polar manner, arresting only replication forks moving
+   in the direction opposite to transcription. This RFB consists of several
+   closely spaced fork arrest sites that co-localize with the transcription
+   terminator elements, known as Sal boxes. Sal boxes are the target for
+   mTTF-I (murine transcription termination factor I). These results
+   suggest that both termination of rRNA transcription and replication fork
+   arrest may share cis-acting as well as trans-acting factors. (C) 1998
+   Academic Press Limited.
+TC 36
+ZB 37
+Z8 0
+Z9 38
+SN 0022-2836
+UT WOS:000073192600009
+ER
+
+PT J
+AU BENAIM, G
+   CERVINO, V
+   LOPEZESTRANO, C
+   WEITZMAN, C
+TI ETHANOL STIMULATES THE PLASMA-MEMBRANE CALCIUM-PUMP FROM HUMAN
+   ERYTHROCYTES
+SO BIOCHIMICA ET BIOPHYSICA ACTA-BIOMEMBRANES
+VL 1195
+IS 1
+BP 141
+EP 148
+DI 10.1016/0005-2736(94)90020-5
+PD OCT 12 1994
+PY 1994
+AB The plasma membrane Ca2+-ATPase from human erythrocytes can be
+   stimulated by different treatments such as addition of calmodulin or
+   acidic phospholipids and controlled proteolysis. In this report we show
+   that short chain alkyl alcohols also stimulated this enzyme. At 5% (v/v)
+   ethanol, the maximal velocity of the enzyme was about 2.4-fold higher
+   than in the control, and thus, was also higher than the maximal velocity
+   obtained in the presence of calmodulin (about 2-fold). When ethanol and
+   calmodulin were present simultaneously, the stimulatory effect was
+   additive (3.4-fold stimulation). On the other hand, the stimulatory
+   effect of ethanol was preserved after treatment of the enzyme with
+   trypsin to stimulate the Ca2+-ATPase and render it independent of
+   calmodulin, thus suggesting that the interaction of ethanol and
+   calmodulin with the Ca2+-ATPase occurred through a different mechanism.
+   Other short chain alkyl alcohols (methanol, n-propanol and n-butanol)
+   stimulated the Ca2+-ATPase activity to the same extent than ethanol but
+   with different efficacy. Thus, the larger the carbon number, the lower
+   the concentration needed to get the same maximal stimulation. Ethanol
+   also increased the affinity of the enzyme for ATP to a larger extent and
+   additively, when compared to calmodulin. All the effects of ethanol
+   mentioned above were identically observed on the membrane-bound enzyme
+   (i.e., erythrocyte ghosts) ruling out any effect of the alcohols
+   attributable to the solubilized purified enzyme. Furthermore, Ca2+
+   transport by inside-out vesicles was also stimulated by ethanol, showing
+   both the same concentration-dependence as the Ca2+-ATPase activity and
+   the additive effect observed when calmodulin was also present. The
+   stimulatory effect of ethanol was significant at pharmacological
+   concentrations, thus suggesting potential implications of toxicological
+   relevance.
+TC 19
+ZB 19
+Z8 0
+Z9 19
+SN 0005-2736
+UT WOS:A1994PM46200019
+ER
+
+PT J
+AU BENAIM, G
+   LOPEZESTRANO, C
+   DOCAMPO, R
+   MORENO, SNJ
+TI A CALMODULIN-STIMULATED CA2+ PUMP IN PLASMA-MEMBRANE VESICLES FROM
+   TRYPANOSOMA-BRUCEI - SELECTIVE-INHIBITION BY PENTAMIDINE
+SO BIOCHEMICAL JOURNAL
+VL 296
+BP 759
+EP 763
+PN Part 3
+PD DEC 15 1993
+PY 1993
+AB Despite previous reports [McLaughlin (1985) Mol. Biochem. Parasitol. 15,
+   189-201; Ghosh, Ray, Sarkar and Bhaduri (1990) J. Biol. Chem.
+   265,11345-11351; Mazumder, Mukherjee, Ghosh, Ray and Bhaduri (1992) J.
+   Biol. Chem. 267, 18440-18446] that the plasma membrane of different
+   trypanosomatids only contains Ca2+-ATPase that does not show any
+   demonstrable dependence on Mg2+, a high-affinity (Ca2+-Mg2+)-ATPase was
+   demonstrated in the plasma membrane of Trypanosoma brucei. The enzyme
+   became saturated with micromolar amounts of Ca2+, reaching a V(max) of
+   3.45 +/- 0.66 nmol of ATP/min per mg of protein. The K(m,app.) for Ca2+
+   was 0.52 +/- 0.03 muM. This was decreased to 0.23 +/- 0.05 muM, and the
+   V(max.) was increased to 6.36 +/- 0.22 nmol of ATP/min per mg of protein
+   (about 85 %), when calmodulin was present. T. brucei plasma-membrane
+   vesicles accumulated Ca2+ on addition of ATP only when Mg2+ was present,
+   and released it on addition of the Ca2+ ionophore A23187. In addition,
+   this Ca2+ transport was stimulated by calmodulin. Addition of NaCl to
+   Ca2+-loaded T. brucei plasma-membrane vesicles did not result in Ca2+
+   release, thus suggesting the absence of a Na+/Ca2+ exchanger in these
+   parasites. Therefore the (Ca2+-Mg2+)-ATPase would be the only mechanism
+   so far described that is responsible for the long-term fine tuning of
+   the intracellular Ca2+  concentration of these parasites. The
+   trypanocidal drug pentamidine inhibited the T. brucei plasma-membrane
+   (Ca2+-Mg2+)-ATPase and Ca2+ transport at concentrations that had no
+   effect on the Ca2+-ATPase activity of human or pig erythrocytes. In this
+   latter case, pentamidine behaved as a weak calmodulin antagonist, since
+   it inhibited the stimulation of the erythrocyte Ca2+-ATPase by
+   calmodulin.
+TC 33
+ZB 32
+Z8 0
+Z9 33
+SN 0264-6021
+UT WOS:A1993MP03300031
+ER
+
+EF

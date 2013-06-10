@@ -1,0 +1,624 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Kramer, Carolyn D.
+   Poole, Nina M.
+   Coons, Lewis B.
+   Cole, Judith A.
+TI Tick saliva regulates migration, phagocytosis, and gene expression in
+   the macrophage-like cell line, IC-21
+SO EXPERIMENTAL PARASITOLOGY
+VL 127
+IS 3
+BP 665
+EP 671
+DI 10.1016/j.exppara.2010.11.012
+PD MAR 2011
+PY 2011
+AB We studied the effects of tick saliva on cell migration, cell signaling,
+   phagocytosis, and gene expression in the murine macrophage cell line,
+   IC-21. Saliva increased both basal- and platelet-derived growth factor
+   (PDGF)-stimulated migration in IC-21 cells. However, saliva did not
+   affect PDGF-stimulated extracellular signal-regulated kinase (ERK)
+   activity. Zymosan-mediated interleukin-1 receptor associated kinase
+   (IRAK) activity increased when cells were pretreated with saliva. Saliva
+   suppressed phagocytosis of zymosan particles by IC-21 cells. An RT(2)
+   Profiler (TM) PCR Array revealed that saliva regulates gene expression
+   in a manner consistent with an immune response skewed toward a Th2
+   reaction, which is characterized by production of anti-inflammatory
+   cytokines IL-4 and IL-10. Our results using IC-21 cells suggest that
+   Dermacentor variabilis has evolved a mechanism for regulating macrophage
+   function, which may contribute to the tick's ability to modulate immune
+   function. (C) 2010 Elsevier Inc. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0014-4894
+UT WOS:000288365300007
+ER
+
+PT J
+AU Blaudow, Robert A.
+   Coons, Lewis B.
+   Cole, Judith A.
+TI Cyclic nucleotide crosstalk in salivary glands from partially fed
+   Dermacentor variabilis (Say)
+SO JOURNAL OF INSECT PHYSIOLOGY
+VL 55
+IS 9
+BP 805
+EP 812
+DI 10.1016/j.jinsphys.2009.05.016
+PD SEP 2009
+PY 2009
+AB Enzyme immunosorbent assays were used to measure cyclic nucleotide
+   concentrations in homogenates of salivary glands from partially fed
+   female Dermacentor variabilis. The adenylyl cyclase activator forskolin
+   (100 mu M) increased homogenate cGMP concentrations greater than
+   three-fold over controls. Competitive inhibition of nitric oxide
+   synthase with 1 MM L-NMMA, an L-arginine analog, demonstrated that
+   crosstalk occurs downstream of nitric oxide synthesis.
+   Forskolin-stimulated synthesis of cGMP was diminished 58% by the soluble
+   guanylyl cyclase inhibitor CDQ (2 mu M). The protein kinase A selective
+   inhibitor Rp-cAMPS (50 mu M) inhibited forskolin-stimulated cGMP by 49%.
+   Whole glands treated with 10 mu M dopamine increased cGMP levels
+   two-fold in the presence of I mM IBMX. Treatment of whole salivary
+   glands with equimolar concentrations of 8-Br-cAMP and 8-Br-cGMP produced
+   no greater fluid uptake than in glands treated with 8-Br-cGMP alone,
+   suggesting that cAMP and cGMP share a downstream target. The protein
+   kinase G-selective inhibitor Rp-8-pCPT-cGMPS (100 mu M) impeded 10 mM
+   8-Bromo-cGMP-stimulated gland weight increases. Pretreatment with
+   verapamil, a Ca(2+) channel blocker, attenuated cyclic
+   nucleotide-stimulated fluid uptake indicating that whole gland fluid
+   changes are dependent on extracellular Ca(2+). Together, our data
+   suggest that cGMP production is mediated in part by cAMP-dependent
+   activation of soluble guanylyl cyclase. Experiments measuring changes in
+   whole salivary gland weight support the hypothesis that cAMP and cGMP
+   signaling cascades have a common target and that cyclic
+   nucleotide-stimulated fluid movement is dependent on Ca(2+) influx. (C)
+   2009 Elsevier Ltd. All rights reserved.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0022-1910
+UT WOS:000269032300007
+ER
+
+PT J
+AU Kramer, Carolyn
+   Nahmias, Zachary
+   Norman, Derek D.
+   Mulvihill, Tara A.
+   Coons, Lewis B.
+   Cole, Judith A.
+TI Dermacentor variabilis: Regulation of fibroblast migration by tick
+   salivary gland extract and saliva
+SO EXPERIMENTAL PARASITOLOGY
+VL 119
+IS 3
+BP 391
+EP 397
+DI 10.1016/j.exppara.2008.04.005
+PD JUL 2008
+PY 2008
+AB We examined the effects of tick SGx and saliva on basal- and
+   platelet-derived growth factor (PDGF)-stimulated cell migration and
+   extracellular signal-regulated kinase (ERK) signaling in fibroblasts.
+   Repair of injured monolayers was delayed by SGx pretreatment and was not
+   associated with reductions in cell number. In migration assays. SGx
+   suppressed both basal- and PDGF-stimulated fibroblast movement.
+   Furthermore, SGx and saliva reduced PDGF-stimulated ERK activity. Thus.
+   the delayed repair of monolayer injuries resulted from SGx inhibiting
+   fibroblast migratory responses to chemotactic signals. SGx also
+   suppressed injury- and growth factor-induced ERK activation in renal
+   epithelial OK cells. Our data suggest that maintenance of the tick
+   feeding lesion results. in part. from suppressing ERK signaling and
+   fibroblast migration. events playing integral roles in the wound healing
+   response. The effects of SGx on cells not involved in wound healing
+   suggest that a constituent(s) in tick saliva has global effects on the
+   ERK signaling pathway. (c) 2008 Elsevier Inc. All rights reserved.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0014-4894
+UT WOS:000256994200013
+ER
+
+PT J
+AU Blaudow, Robert A.
+   Cole, Judith A.
+   Coons, Lewis B.
+TI Evidence that a cGMP second messenger pathway regulated fluid movement
+   in isolated salivary glands of partially fed female Dermacentor
+   variabilis.
+SO Phytophaga - Palermo
+VL 14
+BP 659
+EP 666
+PD 2004(2005)
+PY 2005
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0393-8131
+UT ZOOREC:ZOOR14309061357
+ER
+
+PT J
+AU Mans, BJ
+   Venter, JD
+   Coons, LB
+   Louw, AI
+   Neitz, AWH
+TI A reassessment of argasid tick salivary gland ultrastructure from an
+   immuno-cytochemical perspective
+SO EXPERIMENTAL AND APPLIED ACAROLOGY
+VL 33
+IS 1-2
+BP 119
+EP 129
+DI 10.1023/B:APPA.0000030012.47964.b3
+PD 2004
+PY 2004
+AB Previous morphological and histochemical studies of argasid tick
+   salivary glands indicated that they were less complex than ixodid
+   salivary glands, with only three granular cell types. The present study
+   shows that there exist at least four different granular cell types in
+   the salivary glands of the argasid tick Ornithodoros savignyi, based on
+   immuno-localization of the anti-hemostatic factors, apyrase and
+   savignygrin. Both anti-hemostatic factors were localized to dense core
+   granule type 'a' and to granule type 'b', that shares a similar
+   homogenous morphology with non-labeled granule type 'd'. Furthermore,
+   the major tick salivary gland proteins (TSGPs), previously implicated in
+   granule biogenesis, were localized to all the granular cell types. This
+   indicates that granular cell types with different morphologies can
+   express the same proteins, while cell types that show similar
+   morphologies may not express the same proteins. Argasid tick salivary
+   glands seem to be more complex than previously thought and might not be
+   amenable to morphological classification alone. Alternative
+   classification methodologies that rely on physical expression patterns
+   of the salivary gland proteome might be more reliable as markers for a
+   specific granular cell type.
+TC 8
+ZB 8
+Z8 0
+Z9 8
+SN 0168-8162
+UT WOS:000221806200011
+ER
+
+PT J
+AU Lamoreaux, WJ
+   Needham, GR
+   Coons, LB
+TI Evidence that dilation of isolated salivary ducts from the tick
+   Dermacentor variabilis (Say) is mediated by nitric oxide
+SO JOURNAL OF INSECT PHYSIOLOGY
+VL 46
+IS 6
+BP 959
+EP 964
+DI 10.1016/S0022-1910(99)00205-X
+PD JUN 2000
+PY 2000
+AB We used pharmacological methods to test the hypothesis that female
+   Dermacentor variabilis salivary ducts dilated when dopamine-stimulated
+   and that dilation was nitric oxide-mediated. Stimulation with dopamine
+   resulted in an increased diameter (19.7%) compared to unstimulated ducts
+   (P<0.005). Pretreatment with L-NAME, an inhibitor of nitric oxide
+   synthase, or cytochalasin D abolished the dilation. Addition of
+   L-arginine to L-NAME-treated ducts partially restored the ability to
+   dilate. A cuticular coil composed of a series of concentric rings ran
+   the length of the duct adjacent to the epithelial cell layer. In
+   stimulated ducts, the center-to-center periodicity of these rings
+   increased from 0.59 mu m in unfed ducts to 1.0 mu m from partially fed
+   ducts (P<0.05). When the ducts from partially fed females were
+   stimulated with dopamine, the periodicity increased further to 1.75 mu m
+   (P<0.05), suggesting the coils moved further apart in response to
+   stimulation. Prominent folds lining the lumen of unstimulated ducts were
+   less pronounced in stimulated preparations, suggesting that the cuticle
+   stretches, thereby increasing lumen size. Actin was localized in
+   epithelial cells as a honeycomb pattern that we suggest links the
+   epithelial cells to the rings. Together, these data support the
+   following hypothesis: stimulated ducts dilated during fluid production;
+   dilation involved an actin-based system, and was mediated by nitric
+   oxide. Dilation of the duct may enhance its role as a reservoir for
+   saliva produced by the acini during the period between imbibition and
+   salivation. (C) 2000 Elsevier Science Ltd. All rights reserved.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0022-1910
+UT WOS:000087110100014
+ER
+
+PT J
+AU Bhattacharya, ST
+   Bayakly, N
+   Lloyd, R
+   Benson, MT
+   Davenport, J
+   Fitzgerald, MEC
+   Rothschild, M
+   Lamoreaux, WJ
+   Coons, LB
+TI Nitric oxide synthase and cGMP activity in the salivary glands of the
+   American dog tick Dermacentor variabilis
+SO EXPERIMENTAL PARASITOLOGY
+VL 94
+IS 2
+BP 111
+EP 120
+DI 10.1006/expr.1999.4477
+PD FEB 2000
+PY 2000
+AB We colocalized nitric oxide synthase (NOS) activity in epithelial cells
+   that surround the salivary gland duct in female Dermacentor variabilis
+   with NADPH diaphorase histochemistry and immunohistochemistry using a
+   polyclonal antiendothelial NOS. Using size-exclusion chromatography, a
+   fraction with a molecular mass of about 185 kDa that had diaphorase
+   activity was eluted from tick; salivary gland homogenate. This fraction
+   converted arginine to citrulline with the production of nitric oxide
+   (NO), which was detected by using electron spin resonance spectroscopy.
+   The complete activity of the diaphorase fraction was dependent on NADPH,
+   FAD, tetrahydrobiopterin, calmodulin, (CaM), and Ca2+, but was not
+   dependent on dithiothreitol. The arginine analog
+   N-G-monomethyl-L-arginine inhibited the activity of this fraction. NO
+   and arginine activated soluble guanylate cyclase to produce cGMP in
+   dopamine-stimulated isolated salivary glands. Dopamine-stimulated
+   isolated salivary glands treated with tick saline containing either
+   EDTA, the NOS inhibitor N-G-nitro-L-arginine methyl ester, or the
+   calcium/CaM binding inhibitor W-7 showed no increase in cGMP. The NO
+   donor sodium nitroprusside significantly increased cGMP levels in
+   unstimulated isolated salivary glands. A possible function for NO in
+   salivation by this ixodid tick is discussed. (C) 2000 Academic Press.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0014-4894
+UT WOS:000085612600006
+ER
+
+PT J
+AU Sankhon, N
+   Lockey, T
+   Rosell, RC
+   Rothschild, M
+   Coons, L
+TI Effect of methoprene and 20-hydroxyecdysone on vitellogenin production
+   in cultured fat bodies and backless explants from unfed female
+   Dermacentor variabilis
+SO JOURNAL OF INSECT PHYSIOLOGY
+VL 45
+IS 8
+BP 755
+EP 761
+DI 10.1016/S0022-1910(99)00054-2
+PD AUG 1999
+PY 1999
+AB The effect of 20-hydroxyecdysone (20HE) and the juvenile hormone
+   analogue methoprene (JHA) on vitellogenin (Vg) production in fat body
+   organ cultures and backless explants of unfed female Demacentor
+   variabilis was measured. An indirect double antibody enzyme linked
+   immunosorbent assay (ELISA) was developed using a monoclonal antibody
+   that recognized a 98 kDa subunit of Vg and a Vg specific polyclonal
+   antibody made against vitellin (Vn). Peak Vg titers in culture medium
+   from fat body cultures treated with 0.1 mu M 20HE or 1 mu M 20HE were 24
+   ng/ml and 20 ng/ml respectively. In culture medium from backless
+   explants treated with 0.1 mu M 20HE or 1 mu M 20HE, peak Vg titers were
+   36 ng/ml and 26 ng/ml, respectively. JHA produced only a slight increase
+   in Vg titers that was statistically different from Vg titers produced by
+   20HE but was not statistically different from hormone-free controls.
+   These results support the conclusion that Vg production in fat body
+   trophocytes of D. variabilis is regulated by 20HE. (C) 1999 Elsevier
+   Science Ltd. All rights reserved.
+TC 21
+ZB 23
+Z8 3
+Z9 24
+SN 0022-1910
+UT WOS:000081531700007
+ER
+
+PT B
+AU Sullivan, Clyde D.
+   Rosell, Rosemarie C.
+   Coons, Lewis B.
+BA Needham, Glen R.
+   Mitchell, Rodger
+   Horn, David J.
+   Welbourn, W. Calvin
+TI Partial characterization of vitellogenin from the ixodid Dermacentor
+   variabilis: preliminary results.
+SO Acarology 9. Volume 2. Symposia.
+BP 477
+EP 480
+PD 1999
+PY 1999
+TC 0
+ZB 1
+Z8 1
+Z9 1
+BN 0-86727-123-X
+UT ZOOREC:ZOOR13600094603
+ER
+
+PT B
+AU Coons, Lewis B.
+   Alberti, Gerd
+BE Harrison, Frederick W.
+   Foelix, Rainer F.
+TI Acari: ticks.
+SO Microscopic anatomy of invertebrates. Volume 8B: chelicerate Arthropoda.
+BP 267
+EP 514, I.1-I.49
+PD 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN 0-471-18014-9
+UT ZOOREC:ZOOR13800004194
+ER
+
+PT B
+AU Alberti, Gerd
+   Coons, Lewis B.
+BE Harrison, Frederick W.
+   Foelix, Rainer F.
+TI Acari: mites.
+SO Microscopic anatomy of invertebrates. Volume 8C: chelicerate Arthropoda.
+BP 515
+EP 1215
+PD 1999
+PY 1999
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN 0-471-14743-5
+UT ZOOREC:ZOOR13800000226
+ER
+
+PT J
+AU Wang, XN
+   Coons, LB
+   Taylor, DB
+   Stevens, ES
+   Gartner, TK
+TI Variabilin, a novel RGD-containing antagonist of glycoprotein IIb-IIIa
+   and platelet aggregation inhibitor from the hard tick Dermacentor
+   variabilis
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 271
+IS 30
+BP 17785
+EP 17790
+PD JUL 26 1996
+PY 1996
+AB A novel inhibitor of human platelet aggregation, named variabilin, was
+   isolated from salivary glands of the hard tick Dermacentor variabilis
+   using a combination of gel filtration and high pressure liquid
+   chromatography, Variabilin was a potent antagonist of the fibrinogen
+   receptor glycoprotein IIb-IIIa (GPIIb-IIIa; alpha(IIb)beta(3)) and the
+   vitronectin receptor alpha(v) beta(3). Amino acid sequence analysis by
+   Edman degradation revealed that it has 47 residues, with a molecular
+   weight of 4968.5. Like many other naturally occurring antagonists of
+   GPIIb-IIIa, variabilin contains the RGD (Arg-Gly-Asp) motif. However,
+   unlike the RGD-containing antagonists of GPIIb-IIIa, the RGD sequence of
+   variabilin is not positioned in a loop bracketed by cysteine residues,
+   It has little sequence homology to the other known naturally occurring
+   antagonists of GPIIb-IIIa, including the disintegrins from snakes,
+   decorsin and ornatin from leeches, and disagregin from soft ticks.
+   Variabilin is the first RGD containing antagonist isolated from ticks.
+TC 48
+ZB 45
+Z8 5
+Z9 52
+SN 0021-9258
+UT WOS:A1996UY93500032
+ER
+
+PT J
+AU JAWORSKI, DC
+   SIMMEN, FA
+   LAMOREAUX, W
+   COONS, LB
+   MULLER, MT
+   NEEDHAM, GR
+TI A SECRETED CALRETICULIN PROTEIN IN IXODID TICK (AMBLYOMMA-AMERICANUM)
+   SALIVA
+SO JOURNAL OF INSECT PHYSIOLOGY
+VL 41
+IS 4
+BP 369
+EP 375
+DI 10.1016/0022-1910(94)00107-R
+PD APR 1995
+PY 1995
+AB A complementary DNA clone from salivary glands of feeding female
+   Amblyomma americanum ticks has been characterized as encoding
+   calreticulin. Calreticulin, a major endoplasmic reticulum (ER)
+   calcium-binding protein, appears to be secreted in Amblyomma and
+   Dermacentor saliva. Evidence is accummulating that calreticulin performs
+   roles unrelated to calcium storage, Unlike most known calreticulins,
+   tick-secreted calreticulin lacks the ER retention signal, KDEL. This is
+   the first molecular cloning of a specific tick salivary gland protein.
+   The finding of a secreted calreticulin in tick saliva suggests a role
+   for calreticulin in blood feeding through host immunosuppression or
+   antihemostasis.
+TC 42
+ZB 38
+Z8 0
+Z9 42
+SN 0022-1910
+UT WOS:A1995QV34800010
+ER
+
+PT J
+AU COONS, LB
+   LESSMAN, CA
+   WARD, MW
+   BERG, RH
+   LAMOREAUX, WJ
+TI EVIDENCE OF A MYOEPITHELIAL CELL IN TICK SALIVARY-GLANDS
+SO INTERNATIONAL JOURNAL FOR PARASITOLOGY
+VL 24
+IS 4
+BP 551
+EP 562
+DI 10.1016/0020-7519(94)90147-3
+PD JUL 1994
+PY 1994
+AB Type III acini from feeding female Dermacentor variabilis varied in size
+   during in vitro and in vivo fluid production. As the type III acinus
+   enlarged, its lumen enlarged and the adlumenal cell became thinner. As
+   the acinus contracted, its lumen became smaller while the adlumenal cell
+   became wider. Actin was demonstrated in salivary glands using an
+   immunoblot technique. Actin was localized in the adlumenal cells of type
+   III acini with fluorescent microscopy using rhodamine-phalloidin and
+   with electron microscopy using heavy meromyosin to decorate actin
+   filaments. Pre-treatment of salivary glands with cytochalasin D
+   abolished fluorescence in adlumenal cells subsequently treated with
+   rhodamine-phalloidin. These results support the hypothesis that the
+   adlumenal cell in type III acini functions as a myoepithelial cell.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0020-7519
+UT WOS:A1994NY68700012
+ER
+
+PT J
+AU LAMOREAUX, WJ
+   NEEDHAM, GR
+   COONS, LB
+TI FLUID SECRETION BY ISOLATED TICK SALIVARY-GLANDS DEPENDENT ON AN INTACT
+   CYTOSKELETON
+SO INTERNATIONAL JOURNAL FOR PARASITOLOGY
+VL 24
+IS 4
+BP 563
+EP 567
+DI 10.1016/0020-7519(94)90148-1
+PD JUL 1994
+PY 1994
+AB Isolated salivary glands from female Dermacentor variabilis (Say) were
+   pre-treated with either cytochalasin D or nocodazol, followed by
+   stimulation with dopamine. Glands pre-treated with 1 muM-cytochalasin D
+   did not secrete fluid; pre-treatment with 1 nM-cytochalasin D did not
+   significantly reduce fluid secretion. Glands pre-treated with 1
+   muM-nocodazol had a significant reduction in fluid secretion (P =
+   0.003); 1 nM-nocodazol did not significantly affect fluid secretion.
+   Ligation of the main salivary duct and pre-treatment with 1
+   muM-cytochalasin D significantly increased gland weight compared to the
+   dopamine stimulated controls (P = 0.0412). Cytochalasin D-treated type
+   Ill acini had a significantly larger mean diameter compared to the
+   dopamine control (P = 0.0047). Glands treated with 1 mM-verapamil plus
+   10 muM-dopamine exhibited a significant decrease in fluid secretion (P =
+   0.017), and when ligated, had a significantly decreased weight compared
+   to the controls (P = 0.0028).
+TC 9
+ZB 9
+Z8 0
+Z9 9
+SN 0020-7519
+UT WOS:A1994NY68700013
+ER
+
+PT J
+AU STEVENS, SE
+   MURPHY, RC
+   LAMOREAUX, WJ
+   COONS, LB
+TI A GENETICALLY-ENGINEERED MOSQUITOCIDAL CYANOBACTERIUM
+SO JOURNAL OF APPLIED PHYCOLOGY
+VL 6
+IS 2
+BP 187
+EP 197
+DI 10.1007/BF02186072
+PD APR 1994
+PY 1994
+AB Larvae of the mosquito Aedes aegypti ingested, and developed into
+   adults, on a diet of 10 of 14 different species of cyanobacteria
+   including Agmenellum quadruplicatum PR-6 (= Synechococcus PCC7002).
+   Mosquito larvae ingested and grew on cells of PR-6 adapted to growth in
+   the absence of NaCl. The cryIVD gene of Bacillus thuringiensis var.
+   israelensis was cloned into a PR-6 expression vector to form pAQRM56,
+   which was transformed into PR-6. Expression of the CryIVD protein in
+   PR-6 was demonstrated by immunocytochemistry and larvicidal activity.
+   Immunogold labelling indicated production of an electron-dense material
+   among the thylakoid membranes of PR-6. Cells of PR-6 carrying pAQRM56
+   were toxic to the larvae of A. aeqypti whereas control cells were not.
+   Growth of PR-6 cells carrying pAQRM56 was slower than the growth of
+   control cells and these cells were also larger.
+CT Colloquium on Microalgal Biotechnology and Commercial Applications, at
+   the 47th Annual Meeting of the Phycological-Society-of-America
+CY AUG 03-04, 1993
+CL IOWA STATE UNIV, AMES, IA
+HO IOWA STATE UNIV
+SP PHYCOL SOC AMER INC
+TC 14
+ZB 14
+Z8 0
+Z9 16
+SN 0921-8971
+UT WOS:A1994NJ47300012
+ER
+
+PT B
+AU Needham, Glen R.
+   Jaworski, Deborah C.
+   Lamoreaux, William
+   Coons, Lewis B.
+   Muller, Mark T.
+   Simmen, Frank A.
+BA Borovsky, Don
+   Spielman, Andrew
+TI Homology of an ixodid tick salivary gland protein with calreticulin.
+SO Host regulated developmental mechanisms in vector arthropods.
+   Proceedings of the Third Symposium Vero Beach, Florida, February 8-11,
+   1993.
+BP 154
+EP 161
+PD 1993
+PY 1993
+TC 0
+ZB 0
+Z8 0
+Z9 0
+UT ZOOREC:ZOOR13200013495
+ER
+
+PT B
+AU Lamoreaux, William J.
+   Baykaly, Nabil
+   Coons, Lewis B.
+BA Borovsky, Don
+   Spielman, Andrew
+TI Distribution of selected enzymes in type 3 acini of Dermacentor
+   variabilis.
+SO Host regulated developmental mechanisms in vector arthropods.
+   Proceedings of the Third Symposium Vero Beach, Florida, February 8-11,
+   1993.
+BP 162
+EP 168
+PD 1993
+PY 1993
+TC 0
+ZB 0
+Z8 0
+Z9 0
+UT ZOOREC:ZOOR13200013496
+ER
+
+EF

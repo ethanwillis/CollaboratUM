@@ -1,0 +1,1017 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Freeman, David A.
+TI Critique and Disclosure: Critical Theory between Past and Future
+SO EUROPEAN LEGACY-TOWARD NEW PARADIGMS
+VL 14
+IS 7
+BP 918
+EP 919
+PD 2009
+PY 2009
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1084-8770
+UT WOS:000272213700041
+ER
+
+PT J
+AU Teubner, Brett J. W.
+   Smith, Carlesia D.
+   Freeman, David A.
+TI Multiple Melatonin Target Tissues Mediate Termination of
+   Photorefractoriness by Long Day Lengths in Siberian Hamsters
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 23
+IS 6
+BP 502
+EP 510
+DI 10.1177/0748730408325233
+PD DEC 2008
+PY 2008
+AB The development of refractoriness to the short-day melatonin rhythm in
+   mid-winter triggers recrudescence of the photoinhibited reproductive
+   system of many rodents. As a result, over-wintering animals attain
+   reproductive competence prior to the onset of spring conditions that
+   favor successful reproduction. While in the photorefractory state,
+   hamsters are insensitive to short day lengths and the associated
+   long-duration melatonin rhythm. Prior to regaining sensitivity to short
+   day length inhibition of reproduction, hamsters must first be exposed to
+   10 to 12 weeks of long, summer-like day lengths and the associated
+   short-duration melatonin rhythm. The neural melatonin target tissues
+   that mediate the breaking of photorefractoriness by long day lengths
+   have not been identified. Long day length information is thought to be
+   communicated to the reproductive axis through the actions of melatonin
+   at the reuniens nucleus of the thalamus (NRe) and the SCN of the
+   hypothalamus. The authors report that the SCN and the NRe also
+   participate in the breaking of reproductive photorefractoriness by long
+   day lengths. Micro-implants of melatonin that were left in place for 12
+   weeks during exposure to long day lengths and that act locally on these
+   brain nuclei to obscure the endogenous melatonin rhythm, and thus
+   ambient day length information, blocked the breaking of refractoriness.
+   Identical melatonin implants located in another melatonin target tissue,
+   the paraventricular nucleus of the thalamus, did not interfere with the
+   breaking of reproductive refractoriness. By contrast, breaking of
+   refractoriness of the seasonal body mass response did not follow the
+   pattern exhibited by the reproductive response. The results suggest that
+   these melatonin target tissues serve distinct but overlapping roles in
+   the photoperiodic mechanism.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0748-7304
+UT WOS:000262289000005
+ER
+
+PT J
+AU Freeman, David A.
+TI Multiple neuroendocrine pathways mediate seasonal immunity
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+VL 294
+IS 2
+BP R382
+EP R383
+DI 10.1152/ajpregu.00856.2007
+PD FEB 2008
+PY 2008
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0363-6119
+UT WOS:000252772800012
+ER
+
+PT J
+AU Kramer, Kristin M.
+   Simmons, Jennifer L.
+   Freeman, David A.
+TI Photopeniod alters central distribution of estrogen receptor alpha in
+   brain regions that regulate aggression
+SO HORMONES AND BEHAVIOR
+VL 53
+IS 2
+BP 358
+EP 365
+DI 10.1016/j.yhbeh.2007.11.002
+PD FEB 2008
+PY 2008
+AB Testosterone or its metabolite, estrogen, regulates aggression in males
+   of many mammalian species. Because plasma testosterone levels are
+   typically positively correlated with both aggression and reproduction,
+   aggression is expected to be higher when males are in reproductive
+   condition. However, in some photoperiodic species such as Siberian
+   hamsters (Phodopus sungorus), males are significantly more aggressive in
+   short day lengths when the testes are regressed and circulating
+   testosterone concentrations are reduced. These results led to the
+   formation of the hypothesis that aggression is modulated independently
+   of circulating steroids in Siberian hamsters. Thus, recent studies have
+   been designed to characterize the role of other neuroendocrine factors
+   in modulating aggression. However, aggression may be mediated by
+   testosterone or estrogen despite basal concentrations of these steroids
+   by increasing sensitivity to steroids in specific brain regions.
+   Consistent with this hypothesis, we found that males housed under short
+   days have increased expression of estrogen receptor a in the bed nucleus
+   of the stria terminalis, medial amygdala, and central amygdala. Neural
+   activation in response to an aggressive encounter was also examined
+   across photoperiod. (C) 2007 Elsevier Inc. All rights reserved.
+TC 8
+ZB 7
+Z8 0
+Z9 8
+SN 0018-506X
+UT WOS:000253697000009
+ER
+
+PT J
+AU Freeman, David A.
+TI Pessimism: Philosophy, Ethic, Spirit
+SO EUROPEAN LEGACY-TOWARD NEW PARADIGMS
+VL 13
+IS 3
+BP 367
+EP 367
+PD 2008
+PY 2008
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1084-8770
+UT WOS:000263263000027
+ER
+
+PT J
+AU Freeman, David A.
+   Kampf-Lassin, August
+   Galang, Jerome
+   Wen, Jarvi C.
+   Prendergast, Brian J.
+TI Melatonin acts at the suprachiasmatic nucleus to attenuate behavioral
+   symptoms of infection
+SO BEHAVIORAL NEUROSCIENCE
+VL 121
+IS 4
+BP 689
+EP 697
+DI 10.1037/0735-7044.121.4.689
+PD AUG 2007
+PY 2007
+AB In common with reproduction, immune function exhibits strong seasonal
+   patterns, which are driven by annual changes in day length (photoperiod)
+   and melatonin secretion. Whereas changes in melatonin communicate
+   seasonal time into the reproductive axis via subcortical receptors, the
+   relevant melatonin targets for communicating seasonal time into the
+   immune system remain unspecified. The authors report that melatonin
+   implants targeting the hypothalamic suprachiasmatic nuclei (SCN) induced
+   a winter phenotype in the immune system. SCN melatonin implants
+   attenuated infection-induced anorexia and cachexia, indicating that the
+   SCN mediate the effects of melatonin on these behavioral and metabolic
+   symptoms of infection. However, SCN melatonin implants failed to induce
+   winter-like peripheral leukocyte concentrations or behavioral
+   thermoregulatory responses to infection. In contrast, subcutaneous
+   melatonin implants induced winter-like changes in all behavioral and
+   immunological parameters. Melatonin acts directly at the SCN to induce
+   seasonal changes in neural-immune systems that regulate behavior. The
+   data identify anatomical overlap between neural substrates mediating the
+   effects of melatonin on the reproductive and immune systems but also
+   suggest that the SCN are not the sole mediator of photoperiodic effects
+   of melatonin on immunity.
+TC 8
+ZB 7
+Z8 0
+Z9 8
+SN 0735-7044
+UT WOS:000248357700006
+ER
+
+PT J
+AU Freeman, David A.
+   Teubner, Brett J. W.
+   Smith, Carlesia D.
+   Prendergast, Brian J.
+TI Exogenous T-3 mimics long day lengths in Siberian hamsters
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+VL 292
+IS 6
+BP R2368
+EP R2372
+DI 10.1152/ajpregu.00713.2006
+PD JUN 2007
+PY 2007
+AB Siberian hamsters (Phodopus sungorus) exhibit seasonal cycles of
+   reproduction driven by changes in day length. Day length is encoded
+   endogenously by the duration of nocturnal melatonin (Mel) secretion from
+   the pineal gland. Short-duration Mel signals stimulate reproduction and
+   long-duration signals inhibit reproduction. The mechanism by which Mel
+   signals are decoded at the level of neural target tissues remains
+   uncharacterized. In Siberian hamsters, exposure to short day lengths or
+   injections of Mel in long days results in a decrease in hypothalamic
+   expression of type 2 iodothyronine deiodinase (Dio2) mRNA. Dio2
+   catalyzes the conversion of the thyroid hormone thyroxine to
+   triiodothyronine (T-3). Thus exposure to short and long day lengths
+   should decrease and increase hypothalamic T-3 concentrations,
+   respectively. We tested the hypothesis that exogenous T-3 administered
+   to short-day hamsters would mimic exposure to long day lengths with
+   respect to gonadal stimulation. Hamsters gestated and raised in short
+   day lengths that exhibited photoinhibition of the testes were given
+   daily subutaneous injections of T-3 or saline vehicle for 4 wk beginning
+   at week 12 of life. The results indicate that exogenous T-3 induced
+   gonadal growth in short-day hamsters and delayed spontaneous gonadal
+   development by an interval equal to the number of weeks during which T-3
+   was administered. T-3 injections delayed gonadal regression if given
+   coincident with the transfer of hamsters from long to short day lengths.
+   These results suggest that T-3 Mimics long day exposure in Siberian
+   hamsters and may serve as an intermediate step between the Mel rhythm
+   and the reproductive response.
+TC 16
+ZB 17
+Z8 1
+Z9 18
+SN 0363-6119
+UT WOS:000247725300033
+ER
+
+PT J
+AU Freeman, David A.
+TI Nietzsche's holism: A paradigm for integration
+SO SOCIAL SCIENCE JOURNAL
+VL 44
+IS 2
+BP 333
+EP 337
+DI 10.1016/j.soscij.2007.03.006
+PD 2007
+PY 2007
+AB With Europe at a crossroads, facing both nationalism and globalism,
+   Nietzsche has some interesting things to say about our world today.
+   Nietzsche's holism is multifaceted and complex, thus, he has attracted
+   many critics. Recent scholarship has interpreted his holism as an
+   offence to modern liberal society. Some have claimed that Nietzsche's
+   "perspectivism" and the "overcoming of morality," two essential
+   categories of his holism, are essentially expressions of democratic
+   ideals of tolerance. Still others have argued that Nietzsche's 'will to
+   power' is to be understood as an expression of freedom where human
+   bondage and prejudice are cast aside in the name of some brand of
+   neo-Kantian liberalism. And finally, there are those voices who continue
+   to paint Nietzsche's holism as nothing more than savage realism and
+   harsh criticism. In this essay, I examine many of these claims (focusing
+   principally on 'the will to power') with the expectation of trying to
+   discern the value of his holism for advancing a paradigm for
+   integration. (c) 2007 Elsevier Inc. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0362-3319
+UT WOS:000247524500008
+ER
+
+PT J
+AU Freeman, DA
+   Teubner, BJW
+   Goldman, BD
+TI The thalamic intergeniculate leaflet mediates locomotor activity-induced
+   reversal of phenotype in photoperiod nonresponsive Siberian hamsters
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 21
+IS 3
+BP 206
+EP 213
+DI 10.1177/0748730406287996
+PD JUN 2006
+PY 2006
+AB The role of the intergeniculate leaflet of the thalamus (IGL) in
+   photoperiod responsiveness was examined in a laboratory-selected line of
+   photoperiod nonresponsive (NR) Siberian hamsters. NR hamsters fail to
+   exhibit typical winter-type responses (i.e., gonadal regression and
+   development of winter-type pelage) when exposed to short day lengths
+   (e.g., 10 h of light/day). Earlier studies revealed that NR hamsters
+   will exhibit winter-type responses when exposed to short photoperiod if
+   they are given free access to a running wheel. The present study tested
+   the hypothesis that this locomotor activity-induced reversal of
+   phenotype is dependent on the IGL. Male NR hamsters underwent
+   destruction of the IGL prior to being housed in short day lengths in
+   cages equipped with running wheels. Activity rhythms were monitored for
+   8 weeks, after which time pelage response and paired testes weights were
+   obtained. In contrast to sham-operated NR animals given access to
+   running wheels, IGL-ablated animals showed no increase in the duration
+   of nocturnal running wheel activity and became active later in the night
+   than sham-lesioned animals. Lesioned animals also failed to exhibit the
+   typical short photoperiod-induced gonadal regression and pelage molt.
+   The results implicate the IGL in the mechanism by which running wheel
+   activity can influence photoperiodic responses.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0748-7304
+UT WOS:000237698900006
+ER
+
+PT J
+AU Berry, Raymond B.
+   Silvers, Janelle M.
+   Freeman, David A.
+   Matthews, Douglas B.
+TI Chronic intermittent ethanol administration during adolescnece inhibits
+   normal testicular development in Sprague-Dawley rats
+SO ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH
+VL 30
+IS 6
+BP 75A
+EP 75A
+SU S
+PD JUN 2006
+PY 2006
+CT 29th Annual Meeting of the Research-Society-on-Alcoholism
+CY JUN 23-29, 2006
+CL Baltimore, MD
+SP Res Soc Alcoholism
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0145-6008
+UT WOS:000238299400274
+ER
+
+PT J
+AU Paul, MJ
+   Freeman, DA
+   Park, JH
+   Dark, J
+TI Neuropeptide Y induces torpor-like hypothermia in Siberian hamsters
+SO BRAIN RESEARCH
+VL 1055
+IS 1-2
+BP 83
+EP 92
+DI 10.1016/j.brainres.2005.06.090
+PD SEP 7 2005
+PY 2005
+AB Intracerebroventricular (ICV) injections of neuropeptide Y (NPY) are
+   known to decrease body temperature (T-b) of laboratory rats by 1-3
+   degrees C. Several NPY pathways in the brain terminate in hypothalamic
+   structures involved in energy balance and thermoregulation. Laboratory
+   rats are homeothermic, maintaining Tb within a narrow range. We examined
+   the effect of ICV injected NPY on Tb in the heterothermic Siberian
+   hamster (Phodopus sungorus), a species that naturally undergoes daily
+   torpor in which Tb decreases by as much as 15-20 degrees C. Minimum
+   effective dose was determined in preliminary testing then various doses
+   of NPY were tested in cold-acclimated Siberian hamsters while food was
+   withheld. NPY markedly reduced Tb in the heterothermic Siberian hamster.
+   In addition, the reduction in T-b in 63% of the observations was
+   sufficient to reach the criterion for daily torpor (T-b < 32 degrees C
+   for at least 30 min). Neither the incidence of torpor nor its depth or
+   duration was related to NPY dose. Both likelihood and magnitude of
+   response varied within animals on different test days. NPY decreased
+   24-h food intake and this was exaggerated in the animals reaching
+   criterion for torpor; the decrease in food intake was positively
+   correlated with the magnitude of the decrease in Tb. The mild
+   hypothermia seen in homeothermic laboratory rats after NPY injected ICV
+   is exaggerated, often greatly, in the heterothermic Siberian hamster.
+   NPY treatment may be activating hypothalamic systems that normally
+   integrate endogenous torpor-producing signals and initiate torpor. (c)
+   2005 Elsevier B.V. All rights reserved.
+TC 15
+ZB 14
+Z8 1
+Z9 16
+SN 0006-8993
+UT WOS:000232172400008
+ER
+
+PT J
+AU Freeman, DA
+   Dhandapani, KM
+   Goldman, BD
+TI The thalamic intergeniculate leaflet modulates photoperiod
+   responsiveness in Siberian hamsters
+SO BRAIN RESEARCH
+VL 1028
+IS 1
+BP 31
+EP 38
+DI 10.1016/j.brainres.2004.08.049
+PD NOV 26 2004
+PY 2004
+AB Siberian hamsters are seasonal breeders that use changes in day length
+   to synchronize their reproductive effort with those times of the year
+   most favorable for successful reproduction. The ability of Siberian
+   hamsters to measure and respond to changes in day length depends upon
+   accurate photoentrainment of the circadian clock in the suprachiasmatic
+   nucleus (SCN) of the hypothalamus. Two pathways have been characterized
+   through which entraining stimuli reach the SCN: the retinohypothalamic
+   tract (RHT), which transmits light information from the retinae, and the
+   getriculohypothalamic tract (GHT) from the intergetriculate leaflet of
+   the thalamus (IGL), which is involved in transmitting both photic and
+   nonphotic cues. Ablating the IGL-GHT results in only modest alterations
+   in entrainment to static day lengths and fails to interfere with
+   seasonal responses induced by transfer from static long day to static
+   short day lengths. Because several studies suggest that the IGL may be
+   involved in tracking the time of dusk and dawn, we sought to determine
+   whether an intact IGL is necessary for hamsters to respond to a
+   simulated natural photoperiod (SNP) in which the time of dusk and dawn
+   gradually changes in a pattern approximating the rate of change in day
+   length that occurs during autumn at the latitude this species inhabits
+   in nature. The results indicate that neurochemical lesions of the IGL
+   alter both the pattern of circadian entrainment and photoperiodic
+   responsiveness of Siberian hamsters to an SNP. Both intact and
+   IGL-lesioned hamsters exhibited testicular regression in shortening day
+   lengths, but only IGL-intact hamsters exhibited seasonal pelage molt.
+   (C) 2004 Elsevier B.V. All rights reserved.
+TC 10
+ZB 10
+Z8 0
+Z9 10
+SN 0006-8993
+UT WOS:000225175700005
+ER
+
+PT J
+AU Freeman, DA
+   Herron, JM
+   Duncan, MJ
+TI Absence of pineal-independent mediation of seasonal differences in
+   suprachiasmatic nucleus AVP and VIP mRNA expression in Siberian hamsters
+SO MOLECULAR BRAIN RESEARCH
+VL 101
+IS 1-2
+BP 33
+EP 38
+AR PII S0169-328X(02)00143-2
+DI 10.1016/S0169-328X(02)00143-2
+PD MAY 30 2002
+PY 2002
+AB Assessment of seasonal variations in expression of brain neuropeptide
+   mRNA is complicated by concurrent circadian variations. Because
+   entrainment of suprachiasmatic nucleus (SCN) based rhythms differs in
+   long versus short day lengths, valid seasonal comparisons must be made
+   at equivalent circadian phases. We used a novel experimental design
+   which permitted sampling at identical circadian phases of animals
+   exhibiting opposite seasonal reproductive responses to the same
+   intermediate day length. This allowed us to test whether seasonal
+   changes in arginine vasopressin (AVP) and vasoactive intestinal peptide
+   (VIP) mRNA expression in the SCN occur in the absence of the pineal
+   gland. Juvenile Siberian hamsters were gestated and maintained
+   postnatally in either a long photoperiod (16 h light/day) or short
+   photoperiod (10 h light/day). At the time of weaning (18 days of age),
+   the hamsters were pinealectomized and either transferred to a new
+   photoperiod (10-, 16- or 14-h light/day) or left in the original
+   photoperiod. Hamsters from 10L had substantially smaller and lighter
+   testes than those from 16L. If photoperiodic modulation of AVP and VIP
+   mRNA expression occurs in the absence of the pineal, then transfer of
+   pinealectomized hamsters from a longer (16L) or shorter (10L)
+   photoperiod to an intermediate photoperiod (14L) should result in a
+   differential response with respect to SCN AVP and VIP mRNA expression
+   but not testis size. When sampled at an identical circadian phase (3 h
+   after lights on) in 14L there was no difference in the expression of AVP
+   or VIP mRNA in the SCN between animals previously housed in long versus
+   short day lengths. In contrast to a previous study that did not
+   carefully control for circadian phase, the present findings suggest that
+   seasonal photoperiodic control of SCN neuropeptide mRNA expression
+   depends upon the pineal gland. In addition, the present findings
+   demonstrate a significant, negative correlation between AVP mRNA
+   expression in the SCN and the length of the daily active phase (alpha).
+   (C) 2002 Published by Elsevier Science B.V.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0169-328X
+UT WOS:000176088300004
+ER
+
+PT J
+AU Prendergast, BJ
+   Freeman, DA
+   Zucker, I
+   Nelson, RJ
+TI Periodic arousal from hibernation is necessary for initiation of immune
+   responses in ground squirrels
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+VL 282
+IS 4
+BP R1054
+EP R1062
+DI 10.1152/ajpregu.00562.2001
+PD APR 2002
+PY 2002
+AB Golden-mantled ground squirrels (Spermophilus lateralis) undergo
+   seasonal hibernation during which core body temperature (T-b) values are
+   maintained 1-2degrees C above ambient temperature. Hibernation is not
+   continuous. Squirrels arouse at similar to7-day intervals, during which
+   T-b increases to 37degrees C for similar to16 h; thereafter, they return
+   to hibernation and sustain low T(b)s until the next arousal. Over the
+   course of the hibernation season, arousals consume 60-80% of a
+   squirrel's winter energy budget, but their functional significance is
+   unknown and disputed. Host-defense mechanisms appear to be downregulated
+   during the hibernation season and preclude normal immune responses.
+   These experiments assessed immune function during hibernation and
+   subsequent periodic arousals. The acute-phase response to bacterial
+   lipopolysaccharide (LPS) was arrested during hibernation and fully
+   restored on arousal to normothermia. LPS injection (ip) resulted in a
+   1-1.5degrees C fever in normothermic animals that was sustained for >8
+   h. LPS was without effect in hibernating squirrels, neither inducing
+   fever nor provoking arousal, but a fever did develop several days later,
+   when squirrels next aroused from hibernation; the duration of this
+   arousal was increased sixfold above baseline values.
+   Intracerebroventricular infusions of prostaglandin E-2 provoked arousal
+   from hibernation and induced fever, suggesting that neural signaling
+   pathways that mediate febrile responses are functional during
+   hibernation. Periodic arousals may activate a dormant immune system,
+   which can then combat pathogens that may have been introduced
+   immediately before or during hibernation.
+TC 50
+ZB 48
+Z8 1
+Z9 53
+SN 0363-6119
+UT WOS:000174364900015
+ER
+
+PT J
+AU Freeman, DA
+   Zucker, I
+TI Refractoriness to melatonin occurs independently at multiple brain sites
+   in Siberian hamsters
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 98
+IS 11
+BP 6447
+EP 6452
+DI 10.1073/pnas.111140398
+PD MAY 22 2001
+PY 2001
+AB The mid-winter development of refractoriness to melatonin (Mel) triggers
+   recrudescence of the atrophied reproductive apparatus of rodents. As a
+   consequence, over-wintering animals with the independent regulation by
+   day length of the several behavioral and physiological traits that vary
+   seasonally in mammals, become reproductively competent just before the
+   onset of spring conditions favorable for breeding. The neural target
+   tissues that cease to respond to winter Mel signals have not been
+   identified. We now report that the suprachiasmatic nucleus of the
+   hypothalamus, which contains the principal circadian clock, and the
+   reuniens and paraventricular nuclei of the thalamus, each independently
+   becomes refractory to melatonin, Small implants of Mel that were left in
+   place for 40 wk and that act locally on these brain nuclei, induced
+   testicular regression within 6 wk in male Siberian hamsters; 12 wk later
+   Mel implants no longer suppressed reproduction and gonadal recrudescence
+   ensued, Hamsters that were then given a systemic Mel infusion s.c.
+   immediately initiated a second gonadal regression, implying that neurons
+   at each site become refractory to Mel without compromising
+   responsiveness of other Mel target tissues. Refractoriness occurs
+   locally and independently at each neural target tissue, rather than in a
+   separate "refractoriness" substrate. Restricted, target-specific actions
+   of Mel are consistent with the independent regulation by day length of
+   the several behavioral and physiological traits that vary seasonally in
+   mammals.
+TC 40
+ZB 35
+Z8 0
+Z9 40
+SN 0027-8424
+UT WOS:000168883700091
+ER
+
+PT J
+AU Levedakou, EN
+   Freeman, DA
+   Budzynski, MJ
+   Early, BE
+   McElfresh, KC
+   Schumm, JW
+   Amin, AS
+   Kim, YK
+   Sprecher, CJ
+   Krenke, BE
+   Silva, DA
+   McIntosh, TM
+   Grubb, JC
+   Johnston, LJ
+   Sailus, JS
+   Ban, JD
+   Crouse, CA
+   Nelson, MS
+TI Allele frequencies for fourteen STR loci of the PowerPlex (TM) 1.1 and
+   2.1 multiplex systems and Penta D locus in Caucasians,
+   African-Americans, Hispanics, and other populations of the United States
+   of America and Brazil
+SO JOURNAL OF FORENSIC SCIENCES
+VL 46
+IS 3
+BP 736
+EP 761
+PD MAY 2001
+PY 2001
+TC 10
+ZB 1
+Z8 0
+Z9 10
+SN 0022-1198
+UT WOS:000169798100044
+ER
+
+PT J
+AU Larkin, JE
+   Freeman, DA
+   Zucker, I
+TI Low ambient temperature accelerates short-day responses in Siberian
+   hamsters by altering responsiveness to melatonin
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 16
+IS 1
+BP 76
+EP 86
+PD FEB 2001
+PY 2001
+AB Exposure to low ambient temperatures (T-a) accelerates appearance of the
+   winter phenotype in Siberian hamsters transferred from long to short day
+   lengths. Because melatonin transduces the effects of day length on the
+   neuroendocrine axis, the authors assessed whether low T-a promotes the
+   transition to winterlike traits by accelerating the onset of increased
+   nocturnal melatonin secretion or by enhancing responsiveness to
+   melatonin in short day lengths. Male hamsters were transferred from 16L
+   (16 h light/day) to 8L (8 h light/day) photoperiods and held at 5
+   degreesC or 22 degreesC. Locomotor activity was recorded continuously,
+   and body mass, testis size, and pelage color were determined biweekly
+   for 8 weeks. The duration of nocturnal locomotion (alpha), a reliable
+   indicator of the duration of nocturnal melatonin secretion, lengthened
+   significantly earlier in hamsters exposed to a T-a of 5 degreesC than 22
+   degreesC. Cold exposure increased the proportion of hamsters that were
+   photoresponsive: gonadal regression in short days increased from 44% at
+   22 degreesC to 81% at 5 degreesC (p < 0.05); low T-a did not, however,
+   accelerate testicular regression in animals that were photoresponsive.
+   Nonphotoresponsive animals at 5 <degrees>C temporarily had longer alphas
+   during the first 4 weeks in short days and significant decreases in body
+   mass and testicular size that were reversed during the ensuing weeks
+   when a decreased. In a 2nd experiment, pinealectomized male hamsters
+   infused for 10 h/day with melatonin for 2 weeks had significantly lower
+   body and testes masses when maintained at 5 degreesC but not 22
+   degreesC. Low-ambient temperature appears to accelerate the appearance
+   of the winter phenotype primarily by increasing target tissue
+   responsiveness to melatonin and to a lesser extent by augmenting the
+   rate at which the duration of nocturnal melatonin secretion increases in
+   short day lengths.
+TC 21
+ZB 20
+Z8 0
+Z9 21
+SN 0748-7304
+UT WOS:000166698800009
+ER
+
+PT J
+AU Flynn, AK
+   Freeman, DA
+   Zucker, I
+   Prendergast, BJ
+TI Testicular development in Siberian hamsters depends on frequency and
+   pattern of melatonin signals
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+VL 279
+IS 4
+BP R1182
+EP R1189
+PD OCT 2000
+PY 2000
+AB We investigated the impact of frequency and pattern of melatonin signals
+   on reproductive development in Siberian hamsters. Juvenile males
+   gestated in short day lengths and housed in constant illumination to
+   suppress melatonin secretion were infused with melatonin for 5 h either
+   once or twice per day for 20 days. Melatonin infusions at either
+   frequency produced equivalent increases in testes and body weights that
+   exceeded those of animals infused with saline but were indistinguishable
+   from those of hamsters transferred to long day lengths. The reproductive
+   system appears to be maximally stimulated by a single short melatonin
+   signal each day. Other animals kept from birth in a short photoperiod
+   were treated 6 h after onset of darkness with the beta-adrenergic
+   receptor antagonist DL-propranolol to shorten melatonin secretion on the
+   night of injection but not on subsequent nights. This permitted
+   interpolation of short nightly melatonin signals of 4-5 h duration
+   against a background of long melatonin signals of 10-12 h duration on
+   other nights. Treatment regimes that maintained a 1:1 ratio of short to
+   long melatonin signals for 8 wk stimulated reproductive development; a
+   1:2 signal ratio, in each of three different patterns, was uniformly
+   ineffective. The number of successive short melatonin signals had little
+   influence on the interval across which successive melatonin signals were
+   summated to influence photoperiodic traits. The neuroendocrine axis
+   appears more responsive to short melatonin signal frequency than pattern
+   for development of the summer phenotype.
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 0363-6119
+UT WOS:000089483400005
+ER
+
+PT J
+AU Freeman, DA
+   Zucker, I
+TI Temperature-independence of circannual variations in circadian rhythms
+   of golden-mantled ground squirrels
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 15
+IS 4
+BP 336
+EP 343
+DI 10.1177/074873000129001341
+PD AUG 2000
+PY 2000
+AB In golden-mantled ground squirrels, phase angles of entrainment of
+   circadian locomotor activity to a fixed light-dark cycle differ markedly
+   between subjective summer and winter, A change in ambient temperature
+   affects entrainment only during subjective winter when it also produces
+   pronounced effects on body temperature (T-b). It was previously proposed
+   that variations in T-b are causally related to the circannual rhythm in
+   circadian entrainment. To test this hypothesis, wheel-running activity
+   and T-b were monitored for 12 to 14 months in castrated male ground
+   squirrels housed in a 14:10 LD photocycle at 21 degrees C. Animals were
+   treated with testosterone implants that eliminated hibernation and
+   prevented the marked winter decline in T-b; these squirrels manifested
+   circannual changes in circadian entrainment indistinguishable from those
+   of untreated animals. Both groups exhibited pronounced changes in phase
+   angle and alpha of circadian wheel-running and T-b rhythms. Seasonal
+   variation in T-b is not necessary for circannual changes in circadian
+   organization of golden-mantled ground squirrels.
+TC 12
+ZB 10
+Z8 0
+Z9 12
+SN 0748-7304
+UT WOS:000088338300010
+ER
+
+PT J
+AU Prendergast, BJ
+   Freeman, DA
+TI Pineal-independent regulation of photo-nonresponsiveness in the Siberian
+   hamster (Phodopus sungorus)
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 14
+IS 1
+BP 62
+EP 71
+DI 10.1177/074873099129000452
+PD FEB 1999
+PY 1999
+AB The pineal hormone melatonin influences circadian rhythms and also
+   mediates reproductive responses to photoperiod. The authors tested
+   whether pinealectomy influences circadian oscillators responsible for
+   induction of nonresponsiveness to short day lengths by preventing normal
+   short-day patterns of circadian entrainment. Adult male Siberian
+   hamsters were pinealectomized or sham operated, maintained in either 18
+   h light per day (18L) or 15L for 10 weeks, and then tested for
+   responsiveness to 10L. Because pinealectomized hamsters do not show
+   gonadal regression in short day lengths, responsiveness was assessed by
+   measuring phase angle of entrainment and the length of the nightly
+   activity period following transfer to 10L. The incidence of
+   nonresponsiveness was significantly higher in 18L hamsters than in 15L
+   hamsters but was unaffected by pineal status. Fully 88% of 18L hamsters
+   failed to entrain to 10L in the normal short-day manner; the duration of
+   nightly activity remained compressed, and the phase angle of entrainment
+   was large and negative relative to lights off. The 15L hamsters
+   entrained normally to 10L. Exposure to constant Light after 10L
+   treatment was equally effective in inducing arrhythmicity in
+   pinealectomized and intact hamsters. Changes in the period of morning
+   and evening circadian oscillators subsequent to 18L treatment did not
+   predict circadian responsiveness to short photoperiod. Long-day
+   induction of photo-nonresponsiveness, which prevents winter responses to
+   short day lengths, occurs independently of pineal melatonin feedback on
+   the circadian system.
+TC 19
+ZB 18
+Z8 0
+Z9 19
+SN 0748-7304
+UT WOS:000083702100009
+ER
+
+PT J
+AU Freeman, DA
+   Goldman, BD
+TI Evidence that the circadian system mediates photoperiodic
+   nonresponsiveness in Siberian hamsters: The effect of running wheel
+   access on photoperiodic responsiveness
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 12
+IS 2
+BP 100
+EP 109
+DI 10.1177/074873049701200202
+PD APR 1997
+PY 1997
+AB Juvenile male Siberian hamsters from a line of hamsters selected for
+   nonresponsiveness to short photoperiod (PNRj) and animals from the
+   general colony (UNS) were separated at weaning into two groups. Group 1
+   males were moved into short days (10 h light:14 h dark [10L:14D]) with
+   free access to running wheels (RW). Group 2 animals were the male
+   siblings of Group 1 hamsters; they were moved at the same time into the
+   same room, but were housed in cages without access to RW. Group 2
+   hamsters only had access to RW for the final week of short-day exposure
+   (Week 8). Animals were blood sampled at the time of sacrifice for
+   analysis of serum prolactin (PRL) and follicle-stimulating hormone (FSH)
+   concentrations. At sacrifice, paired testis weights were obtained and
+   pelage color was scored. Animals from the UNS line showed the expected
+   declines in testis weight, body weight, and serum concentrations of both
+   PRL and FSH, regardless of the presence or absence of RW. These animals
+   also exhibited a high proportion of individuals molting to winter-type
+   pelage. By contrast, a marked difference was noted between siblings from
+   the PNRj line depending on whether RW access was provided at the time of
+   weaning. Animals with access to RW exhibited identical responses to
+   those of the UNS responder animals, whereas PNRj animals without access
+   to RW showed no adjustments to short days (i.e., testis regression,
+   pelage molt, expansion of alpha). In a second experiment, PNRj and UNS
+   males were placed in constant darkness (DD), with or without RW access.
+   The results of this experiment indicated that PNRj animals respond to DD
+   regardless of the presence or absence of RW. In DD, PNRj hamsters also
+   exhibited significantly longer free-running period lengths (taus) than
+   did UNS hamsters; all the PNRj hamsters had taus > 24 h, whereas none of
+   the UNS hamsters had a tau > 24 h. These results indicate that PNRj
+   hamsters retain the proper neural pathways for responding to short day
+   lengths and establish a role for locomotor activity feedback in
+   modulating the circadian system and, subsequently, photoperiodic
+   responsiveness in PNRj hamsters.
+TC 31
+ZB 28
+Z8 0
+Z9 31
+SN 0748-7304
+UT WOS:A1997WQ57700002
+ER
+
+PT J
+AU Freeman, DA
+   Goldman, BD
+TI Photoperiod nonresponsive Siberian hamsters: Effect of age on the
+   probability of nonresponsiveness
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 12
+IS 2
+BP 110
+EP 121
+DI 10.1177/074873049701200203
+PD APR 1997
+PY 1997
+AB Groups from three different breeding lines of Siberian hamsters (UNS =
+   general colony animals, PNRa = selected for photoperiod
+   nonresponsiveness as adults, PNRj = selected for photoperiod
+   nonresponsiveness as juveniles) were exposed to short days at weaning
+   and again as adults (Experiment 1) or only as adults (Experiment 2). The
+   proportion of photoperiod nonresponsive individuals in each line was
+   determined by measuring testis length after 6 weeks of exposure to short
+   days (juveniles) or by paired testis weights after 12 weeks in short
+   photoperiod (adults). Adults were blood sampled on the day of sacrifice
+   (Experiment 1) or on Weeks 3, 4, 5, 6, 8, 10, and 12 (Experiment 2) for
+   determination of serum prolactin (PRL) and follicle-stimulating hormone
+   (FSH) concentrations. Nonresponsive individuals were present in all
+   three lines of hamsters. Furthermore, all three lines of hamsters showed
+   an increase in the proportion of nonresponders with age; some
+   individuals are responsive to short days as juveniles, but become
+   nonresponsive in adulthood. The two PNR lines exhibited a greater
+   proportion of nonresponders at both ages compared to the UNS line, with
+   the PNRj line exhibiting the greatest proportion of nonresponders at
+   each age. During exposure to short days, nonresponders exhibited
+   significantly higher serum PRL and FSH concentrations than did the UNS
+   line; nonresponders also exhibited larger testis size, and fewer animals
+   molted to winter-type pelage, The results indicate that (a) in all three
+   lines, a significantly higher proportion of animals are nonresponsive to
+   short photoperiod as adults than as juveniles; (b) selection for
+   nonresponsiveness as juveniles can produce a line of hamsters that, as
+   adults, are nearly all nonresponsive to short days; and (c) some
+   individuals from each line are responsive to short photoperiod early in
+   life, but become nonresponsive as adults.
+TC 17
+ZB 16
+Z8 0
+Z9 17
+SN 0748-7304
+UT WOS:A1997WQ57700003
+ER
+
+PT J
+AU Gorman, MR
+   Freeman, DA
+   Zucker, I
+TI Photoperiodism in hamsters: Abrupt versus gradual changes in day length
+   differentially entrain morning and evening circadian oscillators
+SO JOURNAL OF BIOLOGICAL RHYTHMS
+VL 12
+IS 2
+BP 122
+EP 135
+DI 10.1177/074873049701200204
+PD APR 1997
+PY 1997
+AB In studies of photoperiodism, animals typically are transferred abruptly
+   from a long (e.g., 16 h light per day [16L]) to a short (8L)
+   photoperiod, and circadian oscillators that regulate pineal melatonin
+   secretion are presumed to reentrain rapidly to the new photocycle. Among
+   rats and Siberian hamsters, however, reentrainment rates vary depending
+   on whether additional darkness is added to morning or evening, and a
+   subset of hamsters (nonresponders) fails ever to reentrain normally to
+   short photoperiods. The authors assessed whether several short-day
+   responses occurred at different rates when darkness was extended into
+   morning versus evening hours and the effectiveness of abrupt versus
+   gradual shortening in day lengths (DLs). Entrainment patterns of
+   photoresponsive hamsters also were compared to those of
+   photononresponsive hamsters. Responsive hamsters transferred on a single
+   day from 16L to 8L underwent more rapid gonadal regression, weight loss,
+   decreases in follicle-stimulating hormone titers, and expansion of
+   nocturnal locomotor activity when darkness was added to morning versus
+   evening. When the dark phase was extended gradually by 8 h over 16
+   weeks, short-day responses occurred at the same rate whether darkness
+   was appended to morning or evening or was added symmetrically. Darkness
+   added to evening promoted more rapid short-day responses when it was
+   added gradually rather than abruptly, despite the fact that average DLs
+   were significantly shorter for the latter group. Among nonresponders,
+   morning extensions of darkness transiently increased activity duration,
+   whereas evening extensions did not. Gradual and abrupt decreases in DL
+   differentially affect entrainment of evening and morning circadian
+   oscillators. The authors argue for the incorporation of simulated
+   natural photoperiods in studies of photoperiodism.
+TC 37
+ZB 36
+Z8 0
+Z9 37
+SN 0748-7304
+UT WOS:A1997WQ57700004
+ER
+
+PT J
+AU BLANK, JL
+   KORYTKO, AI
+   FREEMAN, DA
+   RUF, TP
+TI ROLE OF GONADAL-STEROIDS AND INHIBITORY PHOTOPERIOD IN REGULATING
+   BODY-WEIGHT AND FOOD-INTAKE IN DEER MICE (PEROMYSCUS-MANICULATUS)
+SO PROCEEDINGS OF THE SOCIETY FOR EXPERIMENTAL BIOLOGY AND MEDICINE
+VL 206
+IS 4
+BP 396
+EP 403
+PD SEP 1994
+PY 1994
+AB We investigated the role of declining daylength and gonadal steroids on
+   body weight and food intake in male deer mice (Peromyscus maniculatus).
+   This species was chosen for study because individual males display
+   different reproductive responses to inhibitory daylength. About
+   one-third of all mice exposed to short days undergo testicular
+   regression and exhibit reduced circulating levels of luteinizing hormone
+   and testosterone (reproductive responsive males). In contrast,
+   testicular function and circulating levels of both these hormones remain
+   unaffected in an equal number of mice (reproductive nonresponsive
+   males). Previous studies have shown that each phenotype exhibits a
+   distinct set of metabolic responses to short days, including adjustments
+   in body weight. These characteristics make deer mice a useful animal
+   model in which to study the interactive effects of gonadal steroids and
+   photoperiod on neural substrates regulating body weight. A
+   gonadectomy/steroid replacement experimental model was used to test the
+   role of testosterone in regulating body weight and food intake in short
+   day-housed male deer mice. Among gonad-intact males, short daylength
+   caused a decline in body weight in both reproductive responsive and
+   nonresponsive individuals. However, reproductive responsive mice lost
+   significantly more body weight than did nonresponsive mice. Furthermore,
+   while the weight loss was accompanied by a significant reduction in food
+   intake in responsive mice, the relatively minor weight loss in
+   nonresponsive mice was not accompanied by a change in food intake.
+   Because changes in body weight and food intake (data not shown) occurred
+   nearly simultaneously during the 8-week exposure to short daylength,
+   results suggest that modifications in body weight are not responsible
+   for the decline in food consumed, and vice versa. Gonadectomized
+   reproductive responsive mice lost the same amount of weight as intact
+   responsive mice but ate significantly more food. Among nonresponsive
+   males, gonadectomy led to significantly greater weight loss, relative to
+   intact mice, but caused an increase in food intake per gram body weight.
+   Steroid replacement prevented weight loss and increased food intake in
+   both gonadal phenotypes. Despite the observations that food intake was
+   steroid dependent and the magnitude of the effect differed between
+   reproductive phenotypes, changes in food consumption do not fully
+   explain the inhibitory effects of short days on body weight in either
+   phenotype. Taken together with previous studies, these results suggest
+   that reproductive quiescence confers significant metabolic benefits to
+   individual deer mice by reducing the amount of daily energy requirements
+   via a reduction in body weight. Conversely, maintenance of reproductive
+   function during the nonbreeding winter season carries greater metabolic
+   costs; these costs lead to increased amounts of food required to
+   maintain body weight.
+TC 16
+ZB 14
+Z8 0
+Z9 16
+SN 0037-9727
+UT WOS:A1994PE33000008
+ER
+
+EF

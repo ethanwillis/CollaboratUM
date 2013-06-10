@@ -1,0 +1,24 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Chung, KT
+   Biggers, CJ
+TI Albert Leon Charles Calmette - (1863-1933) and the antituberculous BCG
+   vaccination
+SO PERSPECTIVES IN BIOLOGY AND MEDICINE
+VL 44
+IS 3
+BP 379
+EP 389
+DI 10.1353/pbm.2001.0044
+PD SUM 2001
+PY 2001
+TC 2
+ZB 1
+Z8 0
+Z9 2
+SN 0031-5982
+UT WOS:000169935900006
+ER
+
+EF

@@ -1,0 +1,4231 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Master, Zankhana
+   Chaudhary, Amit
+   Sutter, Thomas R.
+   Willett, Kristine L.
+TI Effects of flavonoids on CYP1 expression in RL95-2 endometrial carcinoma
+   cells
+SO FOOD CHEMISTRY
+VL 133
+IS 3
+BP 912
+EP 922
+DI 10.1016/j.foodchem.2012.02.002
+PD AUG 1 2012
+PY 2012
+AB RL95-2 endometrial cancer cells were used to study cytochrome
+   P450-mediated chemopreventative mechanisms of four flavonoids found in
+   foods. To investigate enzymatic CYP1 inhibition, intact cells were
+   induced with benzo(a)pyrene or 2,3,7,8-tetrachlorodibenzo-p-dioxin.
+   Quercetin, kaempferol and myricetin inhibited CYP1 activity
+   dose-dependently with IC(50)s ranging from 2.2 to 4 mu M; while
+   amentoflavone was inactive. Further experiments were designed to
+   determine if flavonoids also interacted with the AhR or caused a
+   decrease in CYP1 protein or mRNA expression. CYP1A1 protein expression
+   was inhibited in cells co-treated with TCDD and quercetin, kaempferol or
+   myricetin compared with TCDD alone, but amentoflavone was ineffective.
+   Relatively higher (similar to 7-fold) basal levels of CYP1B1 protein
+   were not significantly affected by flavonoid treatments. In general, at
+   the message level significant inhibition of induced CYP1A1 or CYP1B1 was
+   not detected following flavonoid cotreatment. Despite the common
+   inhibitory effects of quercetin, kaempferol, and myricetin on induced
+   CYP1A1-dependent activity and protein expression, the mechanisms of CYP1
+   inhibition in this cell line are complex and dependent on the CYP gene,
+   AhR inducer and the flavonoid. (C) 2012 Elsevier Ltd. All rights
+   reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0308-8146
+UT WOS:000302986400041
+ER
+
+PT J
+AU Tran, Quynh T.
+   Kennedy, Lawrence H.
+   Carrion, Sandra Leon
+   Bodreddigari, Sridevi
+   Goodwin, Shirlean B.
+   Sutter, Carrie H.
+   Sutter, Thomas R.
+TI EGFR regulation of epidermal barrier function
+SO PHYSIOLOGICAL GENOMICS
+VL 44
+IS 8
+BP 455
+EP 469
+DI 10.1152/physiolgenomics.00176.2011
+PD APR 2012
+PY 2012
+AB Tran QT, Kennedy LH, Leon Carrion S, Bodreddigari S, Goodwin SB, Sutter
+   CH, Sutter TR. EGFR regulation of epidermal barrier function. Physiol
+   Genomics 44: 455-469, 2012. First published March 6, 2012;
+   doi:10.1152/physiolgenomics.00176.2011.-Keratinocyte terminal
+   differentiation is the process that ultimately forms the epidermal
+   barrier that is essential for mammalian survival. This process is
+   controlled, in part, by signal transduction and gene expression
+   mechanisms, and the epidermal growth factor receptor (EGFR) is known to
+   be an important regulator of multiple epidermal functions. Using
+   microarray analysis of a confluent cell density-induced model of
+   keratinocyte differentiation, we identified 2,676 genes that are
+   regulated by epidermal growth factor (EGF), a ligand of the EGFR. We
+   further discovered, and separately confirmed by functional assays, that
+   EGFR activation abrogates all of the known essential processes of
+   keratinocyte differentiation by 1) decreasing the expression of lipid
+   matrix biosynthetic enzymes, 2) regulating numerous genes forming the
+   cornified envelope, and 3) suppressing the expression of tight junction
+   proteins. In organotypic cultures of skin, EGF acted to impair epidermal
+   barrier integrity, as shown by increased transepidermal water loss. As
+   defective epidermal differentiation and disruption of barrier function
+   are primary features of many human skin diseases, we used bioinformatic
+   analyses to identify genes that are known to be associated with skin
+   diseases. Compared with non-EGF-regulated genes, EGF-regulated genes
+   were significantly enriched for skin disease genes. These results
+   provide a systems-level understanding of the actions of EGFR signaling
+   to inhibit keratinocyte differentiation, providing new insight into the
+   role of EGFR imbalance in skin pathogenesis.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1094-8341
+UT WOS:000302901800002
+ER
+
+PT J
+AU Sutter, Carrie Hayes
+   Bodreddigari, Sridevi
+   Campion, Christina
+   Wible, Ryan S.
+   Sutter, Thomas R.
+TI 2,3,7,8-Tetrachlorodibenzo-p-dioxin Increases the Expression of Genes in
+   the Human Epidermal Differentiation Complex and Accelerates Epidermal
+   Barrier Formation
+SO TOXICOLOGICAL SCIENCES
+VL 124
+IS 1
+BP 128
+EP 137
+DI 10.1093/toxsci/kfr205
+PD NOV 2011
+PY 2011
+AB Chloracne is commonly observed in people exposed to dioxins, yet the
+   mechanism of toxicity is not well understood. The pathology of chloracne
+   is characterized by hyperkeratinization of the interfollicular squamous
+   epithelium, hyperproliferation and hyperkeratinization of hair follicle
+   cells as well as a metaplastic response of the ductular sebum secreting
+   sebaceous glands. In vitro studies using normal human epidermal
+   keratinocytes to model interfollicular human epidermis demonstrate a
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)-mediated acceleration of
+   differentiation and increase in gene expression of several
+   prodifferentiation genes, including filaggrin (FLG). Here, we
+   demonstrated that the TCDD-activated aryl hydrocarbon receptor (AHR)
+   bound a small fragment of DNA upstream of the transcriptional start
+   sites of the FLG gene, containing one of two candidate xenobiotic
+   response elements (XREs). Reporter assays using the promoter region of
+   FLG containing the two putative XREs indicated that the increase in this
+   messenger RNA (mRNA) was due to TCDD-mediated enhanced transcription,
+   which was lost when both XREs were mutated. As FLG is part of the human
+   epidermal differentiation complex (EDC) found on chromosome 1, we
+   measured mRNAs from an additional 18 EDC genes for their regulation by
+   TCDD. Of these genes, 14 were increased by TCDD. Immunoblot assays
+   demonstrated that the proteins of FLG as well as that of another
+   prodifferentiation gene, small proline rich protein 2, were increased by
+   TCDD. In utero exposure to TCDD accelerated the formation of the
+   epidermal barrier in the developing mouse fetus by approximately 1 day.
+   These results indicate that the epidermal permeability barrier is a
+   functional target of the TCDD-activated AHR.
+TC 2
+ZB 1
+Z8 0
+Z9 2
+SN 1096-6080
+UT WOS:000296161100010
+ER
+
+PT J
+AU Ahmed, Munzir M. E.
+   Wang, Tao
+   Luo, Yu
+   Ye, Shuilong
+   Wu, Qiao
+   Guo, Zongsheng
+   Roebuck, Bill D.
+   Sutter, Thomas R.
+   Yang, James Y.
+TI Aldo-Keto Reductase-7A Protects Liver Cells and Tissues From
+   Acetaminophen-Induced Oxidative Stress and Hepatotoxicity
+SO HEPATOLOGY
+VL 54
+IS 4
+BP 1322
+EP 1332
+DI 10.1002/hep.24493
+PD OCT 2011
+PY 2011
+AB Aldo-keto reductase-7A (AKR7A) is an enzyme important for bioactivation
+   and biodetoxification. Previous studies suggested that Akr7a might be
+   transcriptionally regulated by oxidative stress-responsive transcription
+   factor nuclear factor erythroid 2 p45-related factor 2 (Nrf2), a protein
+   highly responsive to acetaminophen (APAP) or its intermediate
+   metabolite, N-acetyl-p-benzoquinoneimine (NAPQI). This study was,
+   therefore, carried out to investigate whether Akr7a is involved in the
+   protection against APAP-induced oxidative stress and hepatotoxicity. We
+   found that in response to APAP or NAPQI exposure, Akr7a3 mRNA and
+   protein were significantly up-regulated in vitro in human HepG2 and LO2
+   cells. Similarly, strong induction was observed for Akr7a5 in mouse
+   AML12 hepatocytes exposed to APAP. In vivo in wild-type rats,
+   significant up-regulation of hepatic AKR7A1 protein was observed after
+   administration of APAP. On the other hand, depletion of Nrf2 reduced the
+   expression of Akr7a3, suggesting that Nrf2, indeed, contributes
+   significantly to the induction of Akr7a. Moreover, loss of cell
+   viability in Nrf2-depleted cells was significantly rescued by
+   coexpression of AKR7A3. Furthermore, increased AKR7A3 in HepG2 cells was
+   associated with the up-regulation of oxidative stress-related enzymes to
+   enhance cellular antioxidant defense, which appeared to contribute
+   significantly to protection against APAP-induced toxicity. In a line of
+   transgenic rats overexpressing AKR7A1, increased AKR7A1 stimulated the
+   expression of Nrf2 and other Nrf2-regulated genes, but did not better
+   protect rats from APAP insults. In contrast, depletion of Akr7a5 in
+   vitro in cultured AML12 cells or depletion of Akr7a1 in vivo in rat
+   liver greatly increased APAP-induced hepatotoxicity. Conclusion: AKR7A
+   proteins are significantly up-regulated in response to APAP/NAPQI
+   exposure to contribute significantly to protection against APAP-induced
+   hepatotoxicity. AKR7A mediates this protection, in part, through
+   enhancing hepatocellular antioxidant defense. (HEPATOLOGY
+   2011;54:1322-1332)
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0270-9139
+UT WOS:000295577200024
+ER
+
+PT J
+AU Cashion, Ann K.
+   Umberger, Reba A.
+   Goodwin, Shirlean B.
+   Sutter, Thomas R.
+TI Collection and Storage of Human Blood and Adipose for Genomic Analysis
+   of Clinical Samples
+SO RESEARCH IN NURSING & HEALTH
+VL 34
+IS 5
+BP 408
+EP 418
+DI 10.1002/nur.20448
+PD OCT 2011
+PY 2011
+AB In this methods article, we describe collection and storage of
+   clinically acquired blood and adipose samples for transcript analysis in
+   an ongoing study exploring obesity in renal transplant recipients. Total
+   ribonucleic acid (RNA) was isolated from whole blood using the LeukoLOCK
+   (TM) Total RNA Isolation System (n = 4), and comparisons between fresh
+   and frozen samples were made. Abdominal subcutaneous adipose samples (n
+   = 4) were obtained during kidney transplantation, flash frozen, and
+   stored at -80 degrees C. Adipose RNA was extracted using either the
+   STAT-60 method modified for lipids or Trizol plus RNeasy extraction.
+   Affymetrix HG-U133 plus 2.0 arrays and Affymetrix Human Gene 1.0 ST
+   arrays were used for both blood and adipose transcriptome analysis.
+   Purity, quality, and quantity of RNA were high with comparable results
+   using both array platforms. (C) 2011 Wiley Periodicals, Inc. Res Nurs
+   Health 34:408-418, 2011
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0160-6891
+UT WOS:000295369500005
+ER
+
+PT J
+AU Abedi, Vida
+   Yeasin, Mohammed
+   Sutter, Thomas R.
+TI Integration of bioinformatics tools in candidate gene prioritization of
+   co-regulated gene sets in Saccharomyces cerevisiae
+SO BMC BIOINFORMATICS
+VL 12
+AR A18
+DI 10.1186/1471-2105-12-S7-A18
+SU 7
+PD AUG 5 2011
+PY 2011
+CT 10th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY APR 01-03, 2011
+CL Univ Memphis, Memphis, TN
+HO Univ Memphis
+SP Univ Tennessee (UT); Oak Ridge Natl Lab (ORNL); Kentucky Biomed Res
+   Infrastructure Network (KBRIN)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000303931700019
+ER
+
+PT J
+AU Phan, Vinhthuy T.
+   Vo, Nam S.
+   Sutter, Thomas R.
+TI mDAG: a web-based tool for analyzing microarray data with multiple
+   treatments
+SO BMC BIOINFORMATICS
+VL 12
+AR A7
+DI 10.1186/1471-2105-12-S7-A7
+SU 7
+PD AUG 5 2011
+PY 2011
+CT 10th Annual UT-ORNL-KBRIN Bioinformatics Summit
+CY APR 01-03, 2011
+CL Univ Memphis, Memphis, TN
+HO Univ Memphis
+SP Univ Tennessee (UT); Oak Ridge Natl Lab (ORNL); Kentucky Biomed Res
+   Infrastructure Network (KBRIN)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1471-2105
+UT WOS:000303931700008
+ER
+
+PT J
+AU Ouyang, Xiaoguang
+   Tran, Quynh T.
+   Goodwin, Shirlean
+   Wible, Ryan S.
+   Sutter, Carrie Hayes
+   Sutter, Thomas R.
+TI Yap1 activation by H2O2 or thiol-reactive chemicals elicits distinct
+   adaptive gene responses
+SO FREE RADICAL BIOLOGY AND MEDICINE
+VL 50
+IS 1
+BP 1
+EP 13
+DI 10.1016/j.freeradbiomed.2010.10.697
+PD JAN 1 2011
+PY 2011
+AB The yeast Saccharomyces cerevisiae transcription factor Yap1 mediates an
+   adaptive response to oxidative stress by regulating protective genes.
+   H2O2 activates Yap1 through the Gpx3-Mediated formation of a Yap1
+   Cys303-Cys598 intramolecular disulfide bond. Thiol-reactive
+   electrophiles can activate Yap1 directly by adduction to cysteine
+   residues in the C-terminal domain containing Cys598, Cys620, and Cys629.
+   H2O2 and N-ethylmaleimide (NEM) showed no cross-protection against each
+   other, whereas another thiol-reactive chemical, acrolein, elicited
+   Yap1-dependent cross-protection against NEM, but not H2O2. Either Cys620
+   or Cys629 was sufficient for activation of Yap1 by NEM or acrolein;
+   Cys598 was dispensable for this activation mechanism. To determine
+   whether Yap1 activated by H2O2 or thiol-reactive chemicals elicits
+   distinct adaptive gene responses, microarray analysis was performed on
+   the wild-type strain or its isogenic single-deletion strain Delta yap1
+   treated with control buffer, H2O2, NEM, or acrolein. Sixty-five unique
+   H2O2 and 327 NEM and acrolein Yap1-dependent responsive genes were
+   identified. Functional analysis using single-gene-deletion yeast strains
+   demonstrated that protection was conferred by CTA1 and CTT1 in the
+   H2O2-responsive subset and YDR042C in the NEM- and acrolein-responsive
+   subset. These findings demonstrate that the distinct mechanisms of Yap1
+   activation by H2O2 or thiol-reactive chemicals result in selective
+   expression of protective genes. (C) 2010 Elsevier Inc. All rights
+   reserved.
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 0891-5849
+UT WOS:000286407700001
+ER
+
+PT J
+AU Sutter, Carrie H.
+   Bodreddigari, Sridevi
+   Sutter, Thomas R.
+   Carlson, Erik A.
+   Silkworth, Jay B.
+TI Analysis of the CYP1A1 mRNA Dose-Response in Human Keratinocytes
+   Indicates that Relative Potencies of Dioxins, Furans, and PCBs Are
+   Species and Congener Specific
+SO TOXICOLOGICAL SCIENCES
+VL 118
+IS 2
+BP 704
+EP 715
+DI 10.1093/toxsci/kfq262
+PD DEC 2010
+PY 2010
+AB Reports indicate that toxic equivalency factors (TEFs) based primarily
+   on rodent data do not accurately predict in vitro human responsiveness
+   to certain dioxin-like chemicals (DLCs). To investigate this in cells
+   responsive to dioxins and relevant to chloracne, normal human epidermal
+   keratinocytes were treated with 2,3,7,8-tetrachlorodibenzo-p-dioxin
+   (TCDD) and several DLCs, each with a TEF value of 0.1, representing
+   three classes of congeners. We estimated half maximal effective
+   concentration (EC50)-based donor-specific relative potency (REP) values
+   for cytochrome P450 1A1 (CYP1A1) messenger RNA (mRNA) induction for
+   TCDD, 1,2,3,6,7,8-hexachlorodibenzo-p-dioxin (HxCDD),
+   2,3,7,8-tetrachlorodibenzofuran (TCDF),
+   1,2,3,6,7,8-hexachlorodibenzofuran (HxCDF), and
+   3,3',4,4',5-pentachlorobiphenyl (PCB 126). We also determined EC50-based
+   population-level REP values (n = 4) for CYP1A1 mRNA induction for TCDD,
+   HxCDF, and PCB 126. Furthermore, an alternative factor, the relative
+   threshold factor (RTF) based on the low end (threshold) of the
+   dose-response curve, was calculated. Our results demonstrated that HxCDF
+   had a population-based REP value of 0.98, 9.8-fold higher than its
+   assigned TEF value of 0.1. Conversely, PCB 126 had an REP value of
+   0.0027 and an RTF of 0.0022, 37-fold and 45-fold less than its assigned
+   TEF of 0.1, respectively. The REP values for HxCDD and TCDF were 0.24
+   and 0.10, respectively, similar to their assigned value of 0.1.
+   Therefore, although the DLCs tested in the current study all possessed
+   the same assigned TEF value of 0.1, congener-specific differences in
+   REPs and RTFs were observed for human keratinocytes. These
+   congener-specific discrepancies are likely because of differences in
+   interspecies factors that have yet to be defined.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1096-6080
+UT WOS:000284432600035
+ER
+
+PT J
+AU Carlson, Erik A.
+   McCulloch, Colin
+   Koganti, Aruna
+   Goodwin, Shirlean B.
+   Sutter, Thomas R.
+   Silkworth, Jay B.
+TI Divergent Transcriptomic Responses to Aryl Hydrocarbon Receptor Agonists
+   between Rat and Human Primary Hepatocytes
+SO TOXICOLOGICAL SCIENCES
+VL 112
+IS 1
+BP 257
+EP 272
+DI 10.1093/toxsci/kfp200
+PD NOV 2009
+PY 2009
+AB Toxicogenomics has great potential for enhancing our understanding of
+   environmental chemical toxicity, hopefully leading to better informed
+   human health risk assessments. This study employed toxicogenomic
+   technology to reveal species differences in response to two prototypical
+   aryl hydrocarbon receptor (AHR) agonists
+   2,3,7,8-tetrachlorodibenzo-p-dioxin and the polychlorinated biphenyl
+   (PCB) congener PCB 126. Dose-responses of primary cultures of rat and
+   human hepatocytes were determined using species-specific microarrays
+   sharing over 4000 gene orthologs. Forty-seven human and 79 rat genes
+   satisfied dose-response criteria for both chemicals and were subjected
+   to further analysis including the calculation of the 50% effective
+   concentration and the relative potency (REP) of PCB 126 for each gene.
+   Only five responsive orthologous genes were shared between the two
+   species; yet, the geometric mean of the REPs for all rat and human
+   modeled responsive genes were 0.06 (95% confidence interval [CI];
+   0.03-0.1) and 0.002 (95% CI; 0.001-0.005), respectively, suggesting
+   broad species differences in the initial events that follow AHR
+   activation but precede toxicity. This indicates that there are species
+   differences in both the specific genes that responded and the agonist
+   potency and REP for those genes. This observed insensitivity of human
+   cells to PCB 126 is consistent with more traditional measurements of AHR
+   activation (i.e., cytochrome P450 1A1 enzyme activity) and suggests that
+   the species difference in PCB 126 sensitivity is likely due to certain
+   aspects of AHR function. That a species divergence also exists in this
+   expanded AHR-regulated gene repertoire is a novel finding and should
+   help when extrapolating animal data to humans.
+TC 10
+ZB 10
+Z8 0
+Z9 10
+SN 1096-6080
+UT WOS:000271387900024
+ER
+
+PT J
+AU Sutter, Carrie Hayes
+   Yin, Hong
+   Li, Yunbo
+   Mammen, Jennifer S.
+   Bodreddigari, Sridevi
+   Stevens, Gaylene
+   Cole, Judith A.
+   Sutter, Thomas R.
+TI EGF receptor signaling blocks aryl hydrocarbon receptor-mediated
+   transcription and cell differentiation in human epidermal keratinocytes
+   (vol 106, pg 4266, 2009)
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 106
+IS 22
+BP 9121
+EP 9121
+DI 10.1073/pnas.0903987106
+PD JUN 2 2009
+PY 2009
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0027-8424
+UT WOS:000266580500063
+ER
+
+PT J
+AU Yates, Melinda S.
+   Tran, Quynh T.
+   Dolan, Patrick M.
+   Osburn, William O.
+   Shin, Soona
+   McCulloch, Colin C.
+   Silkworth, Jay B.
+   Taguchi, Keiko
+   Yamamoto, Masayuki
+   Williams, Charlotte R.
+   Liby, Karen T.
+   Sporn, Michael B.
+   Sutter, Thomas R.
+   Kensler, Thomas W.
+TI Genetic versus chemoprotective activation of Nrf2 signaling: overlapping
+   yet distinct gene expression profiles between Keap1 knockout and
+   triterpenoid-treated mice
+SO CARCINOGENESIS
+VL 30
+IS 6
+BP 1024
+EP 1031
+DI 10.1093/carcin/bgp100
+PD JUN 2009
+PY 2009
+AB Loss of NF-E2-related factor 2 (Nrf2) signaling increases susceptibility
+   to acute toxicity, inflammation and carcinogenesis in mice due to the
+   inability to mount adaptive responses. In contrast, disruption of Keap1
+   (a cytoplasmic modifier of Nrf2 turnover) protects against these
+   stresses in mice, although inactivating mutations in Keap1 have been
+   identified recently in some human cancers. Global characterization of
+   Nrf2 activation is important to exploit this pathway for chemoprevention
+   in healthy, yet at-risk individuals and also to elucidate the
+   consequences of hijacking the pathway in Keap1-mutant human cancers.
+   Liver-targeted conditional Keap1-null, Albumin-Cre:Keap1((flox/-)) (CKO)
+   mice provide a model of genetic activation of Nrf2 signaling. By
+   coupling global gene expression analysis of CKO mice with analysis of
+   pharmacologic activation using the synthetic oleanane triterpenoid
+   1-[2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oyl]imidazole (CDDO-Im), we
+   are able to gain insight into pathways affected by Nrf2 activation.
+   CDDO-Im is an extremely potent activator of Nrf2 signaling. CKO mice
+   were used to identify genes modulated by genetic activation of Nrf2
+   signaling. The CKO response was compared with hepatic global gene
+   expression changes in wild-type mice treated with CDDO-Im at a maximal
+   Nrf2 activating dose. The results show that genetic and pharmacologic
+   activation of Nrf2 signaling modulates pathways beyond detoxication and
+   cytoprotection, with the largest cluster of genes associated with lipid
+   metabolism. Genetic activation of Nrf2 results in much larger numbers of
+   detoxication and lipid metabolism gene changes. Additionally, analysis
+   of pharmacologic activation suggests that Nrf2 is the primary mediator
+   of CDDO-Im activity, though other cell-signaling targets are also
+   modulated following an oral dose of 30 mu mol/kg.
+TC 31
+ZB 28
+Z8 0
+Z9 31
+SN 0143-3334
+UT WOS:000266708200018
+ER
+
+PT J
+AU Roebuck, Bill D.
+   Johnson, Denise N.
+   Sutter, Carrie Hayes
+   Egner, Patricia A.
+   Scholl, Peter F.
+   Friesen, Marlin D.
+   Baumgartner, Karen J.
+   Ware, Nicholas M.
+   Bodreddigari, Sridevi
+   Groopman, John D.
+   Kensler, Thomas W.
+   Sutter, Thomas R.
+TI Transgenic Expression of Aflatoxin Aldehyde Reductase (AKR7A1) Modulates
+   Aflatoxin B-1 Metabolism but not Hepatic Carcinogenesis in the Rat
+SO TOXICOLOGICAL SCIENCES
+VL 109
+IS 1
+BP 41
+EP 49
+DI 10.1093/toxsci/kfp003
+PD MAY 2009
+PY 2009
+AB In both experimental animals and humans, aflatoxin B-1 (AFB(1)) is a
+   potent hepatic toxin and carcinogen against which a variety of
+   antioxidants and experimental or therapeutic drugs (e.g., oltipraz,
+   related dithiolethiones, and various triterpenoids) protect from both
+   acute toxicity and carcinogenesis. These agents induce several hepatic
+   glutathione S-transferases (GST) as well as aldo-keto reductases (AKR)
+   which are thought to contribute to protection. Studies were undertaken
+   in transgenic rats to examine the role of one inducible enzyme, AKR7A1,
+   for protection against acute and chronic actions of AFB(1) by enhancing
+   detoxication of a reactive metabolite, AFB(1) dialdehyde, by reduction
+   to alcohols. The AFB(1) dialdehyde forms adducts with protein amino
+   groups by a Schiff base mechanism and these adducts have been theorized
+   to be at least one cause of the acute toxicity of AFB(1) and to enhance
+   carcinogenesis. A liver-specific AKR7A1 transgenic rat was constructed
+   in the Sprague-Dawley strain and two lines, AKR7A1(Tg2) and AKR7A1(Tg5),
+   were found to overexpress AKR7A1 by 18- and 8-fold, respectively. Rates
+   of formation of AFB(1) alcohols, both in hepatic cytosols and as urinary
+   excretion products, increased in the transgenic lines with AKR7A1(Tg2)
+   being the highest. Neither line offered protection against acute
+   AFB(1)-induced bile duct proliferation, a functional assessment of acute
+   hepatotoxicity by AFB(1), nor did they protect against the formation of
+   GST-P positive putative preneoplastic foci as a result of chronic
+   exposure to AFB(1). These results imply that the prevention of protein
+   adducts mediated by AKR are not critical to protection against AFB(1)
+   tumorigenicity.
+TC 6
+ZB 6
+Z8 0
+Z9 6
+SN 1096-6080
+UT WOS:000265742100006
+ER
+
+PT J
+AU Sutter, Carrie Hayes
+   Yin, Hong
+   Li, Yunbo
+   Mammen, Jennifer S.
+   Bodreddigari, Sridevi
+   Stevens, Gaylene
+   Cole, Judith A.
+   Sutter, Thomas R.
+TI EGF receptor signaling blocks aryl hydrocarbon receptor-mediated
+   transcription and cell differentiation in human epidermal keratinocytes
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 106
+IS 11
+BP 4266
+EP 4271
+DI 10.1073/pnas.0900874106
+PD MAR 17 2009
+PY 2009
+AB Dioxin is an extremely potent carcinogen. In highly exposed people, the
+   most commonly observed toxicity is chloracne, a pathological response of
+   the skin. Most of the effects of dioxin are attributed to its activation
+   of the aryl hydrocarbon receptor (AHR), a transcription factor that
+   binds to the Ah receptor nuclear translocator ( ARNT) to regulate the
+   transcription of numerous genes, including CYP1A1 and CYP1B1. In
+   cultures of normal human epidermal keratinocytes dioxin accelerates cell
+   differentiation, as measured by the formation of cornified envelopes. We
+   show that this acceleration is mediated by the AHR; also, that dioxin
+   increases the expression of several genes known to be regulated by ARNT,
+   which have critical roles in the cornification and epidermal barrier
+   function of the skin. Importantly, we demonstrate that all of these
+   responses are opposed by ligand-activation of the EGF receptor ( R), an
+   important regulator of keratinocyte cell fate. In the CYP1A1 enhancer,
+   EGFR activation prevents recruitment of the p300 coactivator, although
+   not affecting the binding of the AHR or ARNT. The total cellular level
+   of p300 protein does not decrease, and overexpression of p300 relieves
+   EGFR-mediated repression of transcription, indicating that p300 is a
+   critical target for the repression of the AHR complex by EGFR signaling.
+   These results provide a mechanism by which
+   2,3,7,8-tetrachlorodibenzo-p-dioxin is able to disrupt epidermal
+   homeostasis and identify EGFR signaling as a regulator of the AHR. This
+   signaling may modulate the incidence and severity of chloracne and be of
+   therapeutic relevance to human poisonings by dioxin.
+TC 19
+ZB 16
+Z8 0
+Z9 19
+SN 0027-8424
+UT WOS:000264278800040
+ER
+
+PT J
+AU Tran, Quynh T.
+   Xu, Lijing
+   Phan, Vinhthuy
+   Goodwin, Shirlean B.
+   Rahman, Mostafizur
+   Jin, Victor X.
+   Sutter, Carrie H.
+   Roebuck, Bill D.
+   Kensler, Thomas W.
+   George, E. Olusegun
+   Sutter, Thomas R.
+TI Chemical genomics of cancer chemopreventive dithiolethiones
+SO CARCINOGENESIS
+VL 30
+IS 3
+BP 480
+EP 486
+DI 10.1093/carcin/bgn292
+PD MAR 2009
+PY 2009
+AB 3H-1,2-dithiole-3-thione (D3T) and its analogues
+   4-methyl-5-pyrazinyl-3H-1,2-dithiole-3-thione (OLT) and
+   5-tert-butyl-3H-1,2-dithiole-3-thione (TBD) are chemopreventive agents
+   that block or diminish early stages of carcinogenesis by inducing
+   activities of detoxication enzymes. While OLT has been used in clinical
+   trials, TBD has been shown to be more efficacious and possibly less
+   toxic than OLT in animals. Here, we utilize a robust and high-resolution
+   chemical genomics procedure to examine the pharmacological
+   structure-activity relationships of these compounds in livers of male
+   rats by microarray analyses. We identified 226 differentially expressed
+   genes that were common to all treatments. Functional analysis identified
+   the relation of these genes to glutathione metabolism and the nuclear
+   factor, erythroid derived 2-related factor 2 pathway (Nrf2) that is
+   known to regulate many of the protective actions of dithiolethiones. OLT
+   and TBD were shown to have similar efficacies and both were weaker than
+   D3T. In addition, we identified 40 genes whose responses were common to
+   OLT and TBD, yet distinct from D3T. As inhibition of cytochrome P450
+   (CYP) has been associated with the effects of OLT on CYP expression, we
+   determined the half maximal inhibitory concentration (IC(50)) values for
+   inhibition of CYP1A2. The rank order of inhibitor potency was OLT > TBD
+   > D3T, with IC(50) values estimated as 0.2, 12.8 and > 100 mu M,
+   respectively. Functional analysis revealed that OLT and TBD, in addition
+   to their effects on CYP, modulate liver lipid metabolism, especially
+   fatty acids. Together, these findings provide new insight into the
+   actions of clinically relevant and lead dithiolethione analogues.
+TC 5
+ZB 3
+Z8 0
+Z9 5
+SN 0143-3334
+UT WOS:000263944500013
+ER
+
+PT J
+AU Phan, Vinhthuy
+   George, E. Olusegun
+   Tran, Quynh T.
+   Goodwin, Shirlean
+   Bodreddigari, Sridevi
+   Sutter, Thomas R.
+TI ANALYZING MICROARRAY DATA WITH TRANSITIVE DIRECTED ACYCLIC GRAPHS
+SO Journal of Bioinformatics and Computational Biology
+VL 7
+IS 1
+BP 135
+EP 156
+DI 10.1142/S0219720009003972
+PD FEB 2009
+PY 2009
+AB Post hoc assignment of patterns determined by all pairwise comparisons
+   in microarray experiments with multiple treatments has been proven to be
+   useful in assessing treatment effects. We propose the usage of
+   transitive directed acyclic graphs (tDAG) as the representation of these
+   patterns and show that such representation can be useful in clustering
+   treatment effects, annotating existing clustering methods, and analyzing
+   sample sizes. Advantages of this approach include: (1) unique and
+   descriptive meaning of each cluster in terms of how genes respond to all
+   pairs of treatments; (2) insensitivity of the observed patterns to the
+   number of genes analyzed; and (3) a combinatorial perspective to address
+   the sample size problem by observing the rate of contractible tDAG as
+   the number of replicates increases. The advantages and overall utility
+   of the method in elaborating drug structure activity relationships are
+   exemplified in a controlled study with real and simulated data.
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0219-7200
+UT BIOABS:BACD201000369876
+ER
+
+PT J
+AU Bodreddigari, Sridevi
+   Jones, Laundette Knight
+   Egner, Patricia A.
+   Groopman, John D.
+   Sutter, Carrie Hayes
+   Roebuck, Bill D.
+   Guengerich, F. Peter
+   Kensler, Thomas W.
+   Sutter, Thomas R.
+TI Protection against aflatoxin B-1-induced cytotoxicity by expression of
+   the cloned aflatoxin B-1-aldehyde reductases. rat AKR7A1 and human
+   AKR7A3
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 21
+IS 5
+BP 1134
+EP 1142
+DI 10.1021/tx7004458
+PD MAY 2008
+PY 2008
+AB The reduction of the aflatoxin B-1 (AFB(1)) dialdehyde metabolite to its
+   corresponding mono and dialcohols, catalyzed by aflatoxin B-1 -aldehyde
+   reductase (AFAR, rat AKR7A1, and human AKR7A3), is greatly increased in
+   livers of rats treated with numerous chemoprotective agents. Recombinant
+   human AKR7A3 has been shown to reduce the AFB(1)-dialdehyde at rates
+   greater than those of the rat AKR7A1. The activity of AKR7A1 or AKR7A3
+   may detoxify the AFB(1)-dialdehyde, which reacts with proteins, and
+   thereby inhibits AFB(1)-induced toxicity; however, direct experimental
+   evidence of this hypothesis was lacking. Two human B lymphoblastoid cell
+   lines, designated pMF6/1A2/AKR7A1 and pMF6/1A2, were genetically
+   engineered to stably express AKR7A1 and/or cytochrome P4501A2 (1A2). The
+   pMF6/1A2/AKR7A1 cells were refractory to the cytotoxic effects of 3
+   ng/mL AFB(1), in comparison to pM6/ 1A2 cells, which were more
+   sensitive. Diminished protection occurred at higher concentrations of
+   AFB(1) in pMF6/1A2/AKR7A1 cells, suggesting that additional factors were
+   influencing cell survival. COS-7 cells were transfected with either
+   vector control, rat AKR7A1, or human AKR7A3, and the cells were treated
+   with AFB(1) -dialdehyde. There was a 6-fold increase in the dialdehyde
+   LC50, from 66 mu M in vector-transfected cells to 400 mu M in
+   AKR7A1-transfected cells, and an 8.5-fold increase from 35 mu M in
+   vectortransfected cells to 300 mu M in AKR7A3-transfected cells. In both
+   cases, this protective effect of the AFAR enzyme was accompanied by a
+   marked decrease in protein adducts. Fractionation of the cellular
+   protein showed that the mitochondria/nuclei and microsomal fractions
+   contained the highest concentration of protein adducts. The levels of
+   human AKR7A3 and AKR7A2 were measured in 12 human liver samples. The
+   expression of AKR7A3 was detectable in all livers and lower than those
+   of AKR7A2 in 11 of the 12 samples. Overall, these results provide the
+   first direct evidence of a role for rat AKR7A1 and human AKR7A3 in
+   protection against AFB(1)-induced cytotoxicity and protein adduct
+   formation.
+TC 10
+ZB 9
+Z8 0
+Z9 10
+SN 0893-228X
+UT WOS:000256002500021
+ER
+
+PT J
+AU Rahman, Mostafizur
+   Lax, Sigurd F.
+   Sutter, Carrie H.
+   Tran, Quynh T.
+   Stevens, Gaylene L.
+   Emmert, Gary L.
+   Russo, Jose
+   Santen, Richard J.
+   Sutter, Thomas R.
+TI CYP1B1 is not a major determinant of the disposition of aromatase
+   inhibitors in epithelial cells of invasive ductal carcinoma
+SO DRUG METABOLISM AND DISPOSITION
+VL 36
+IS 5
+BP 963
+EP 970
+DI 10.1124/dmd.107.018960
+PD MAY 2008
+PY 2008
+AB CYP1B1 and CYP19 ( aromatase) have been shown to be expressed in breast
+   tumors. Both enzymes are efficient estrogen hydroxylases, indicating the
+   potential for overlapping substrate and inhibitor specificity. We
+   measured the inhibition properties of aromatase inhibitors (AIs) against
+   CYP1B1-catalyzed hydroxylation of 17 beta-estradiol (E2) to determine
+   whether CYP1B1 affects the disposition of AIs. In addition, we estimated
+   the frequency of coexpression of these enzymes in breast tumor
+   epithelium. Immunohistochemical analyses of CYP19 and CYP1B1 in a panel
+   of 29 cases of invasive ductal carcinoma of the breast showed epithelial
+   cell staining for CYP19 in 76% and for CYP1B1 in 97% of the samples.
+   Statistical analysis showed no significant correlation (0.33) for
+   positive expression of CYP19 and CYP1B1 ( p > 0.07). CYP1B1 inhibition
+   was determined for two steroidal inhibitors: formestane and exemestane
+   and five nonsteroidal inhibitors: aminoglutethimide, fadrozole,
+   anastrozole, letrozole, and vorozole. Of the seven compounds tested,
+   only vorozole exhibited inhibition of CYP1B1 activity with IC50 values
+   of 17 and 21 mu M for 4-hydroxy estradiol and 2-hydroxy estradiol,
+   respectively. The estimated K-i values of vorozole for E2 4- and
+   2-hydroxylation were 7.26 and 6.84 mu M, respectively.
+   Spectrophotometric studies showed that vorozole was a type II inhibitor
+   of CYP1B1. This study shows that with the exception of vorozole, the
+   aromatase inhibitors are selective for CYP19 relative to CYP1B1. Thus,
+   although both CYP19 and CYP1B1 are expressed in a high percentage of
+   breast cancers, CYP1B1 is not a major determinant of the disposition of
+   AIs.
+TC 3
+ZB 2
+Z8 0
+Z9 3
+SN 0090-9556
+UT WOS:000255155800021
+ER
+
+PT J
+AU Silkworth, Jay B.
+   Carlson, Erik A.
+   McCulloch, Colin
+   Illouz, Kati
+   Goodwin, Shirlean
+   Sutter, Thomas R.
+TI Toxicogenomic analysis of gender, chemical, and dose effects in livers
+   of TCDD- or aroclor 1254-exposed rats using a multifactor linear model
+SO TOXICOLOGICAL SCIENCES
+VL 102
+IS 2
+BP 291
+EP 309
+DI 10.1093/toxsci/kfm313
+PD APR 2008
+PY 2008
+AB Chronic exposure of Sprague-Dawley (SD) rats to either
+   2,3,7,8-tetrachlorodibenzo-p-dioxin ( TCDD) or Aroclor 1254 results in
+   female-selective induction of hepatic tumors. The relative potency of
+   dioxins and polychlorinated biphenyl mixtures, such as Aroclor 1254, is
+   often estimated using the internationally endorsed toxic equivalency
+   (TEQ) approach. Comparing the genome wide changes in gene expression in
+   both genders following exposure to TEQ doses of these chemicals should
+   identify critical sets of early response genes while further defining
+   the concept of the TEQ of halogenated aromatic hydrocarbons. Aroclor
+   1254 at 0.6,6.0, and 60 mg/kg body weight and TEQ doses of TCDD (0.3 and
+   3.0 mu g/kg), calculated to match the top two Aroclor 1254 doses, were
+   orally administered to SD rats for three consecutive days. Day 4 gene
+   expression in hepatic tissue was determined using microarrays. A linear
+   mixed-effects statistical model was developed to analyze the data in
+   relation to treatment, gender, and gender * treatment (G*T)
+   interactions. The genes most changed included 54 genes with and 51 genes
+   without a significant model G*T term. The known aryl hydrocarbon
+   receptor (AHR) battery genes (Cyp1a1, Cyp1a2, Cyp1b1, Aldh3a1), and
+   novel genes, responded in a TEQ dose-dependent manner in both genders.
+   However, an important observation was the apparent disruption of
+   sexually dimorphic basal gene expression, particularly for female rats.
+   Because many of these genes are involved in steroid metabolism, exposure
+   to either TCDD or Aroclor 1254 could disrupt proliferative signals more
+   in female rats as a possible consequence of altered estrogen metabolism.
+   This study extends the findings of previous rodent bioassays by
+   identifying groups of genes, other than the well-characterized AHR
+   response genes, whose disruption may be important in the tumorigenic
+   mechanism in this rat strain.
+TC 11
+ZB 11
+Z8 0
+Z9 11
+SN 1096-6080
+UT WOS:000254004100008
+ER
+
+PT J
+AU Johnson, Denise N.
+   Egner, Patricia A.
+   OBrian, Greg
+   Glassbrook, Norman
+   Roebuck, Bill D.
+   Sutter, Thomas R.
+   Payne, Gary A.
+   Kensler, Thomas W.
+   Groopman, John D.
+TI Quantification of urinary aflatoxin B-1 dialdehyde metabolites formed by
+   aflatoxin aldehyde reductase using isotope dilution tandem mass
+   spectrometry
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 21
+IS 3
+BP 752
+EP 760
+DI 10.1021/tx700397n
+PD MAR 2008
+PY 2008
+AB The aflatoxin B-1 aldehyde reductases (AFARs), inducible members of the
+   aldo-keto reductase superfamily, convert aflatoxin B-1 dialdehyde
+   derived from the exo- and endo-8,9-epoxides into a number of reduced
+   alcohol products that might be less capable of forming covalent adducts
+   with proteins. An isotope dilution tandem mass spectrometry method for
+   quantification of the metabolites, C-8 monoalcohol, dialcohol, and C-6a
+   monoalcohol, was developed to ascertain their possible role as urinary
+   biomarkers for application to chemoprevention investigations. This
+   method uses a novel C-13(17)-aflatoxin B-1 dialcohol internal standard,
+   synthesized from C-13(17)-aflatoxin B-1 biologically produced by
+   Aspergillus flavus. Chromatographic standards of the alcohols were
+   generated through sodium borohydride reduction of the aflatoxin B-1
+   dialdehyde. This method was then explored for sensitivity and
+   specificity in urine samples of aflatoxin B-1-dosed rats that were
+   pretreated with 3H-1,2-dithiole-3-thione to induce the expression of
+   AKR7A1, a rat isoform of AFAR. One of the two known monoalcohols and the
+   dialcohol metabolite were detected in all urine samples. The
+   concentrations were 203.5 +/- 39.0 ng of monoalcohol C-6a/mg of urinary
+   creatinine and 10.0 +/- 1.0 ng of dialcohol/mg of creatinine (mean +/-
+   standard error). These levels represented about 8.0 and 0.4% of the
+   administered aflatoxin B-1 dose that was found in the urine at 24 h,
+   respectively. Thus, this highly sensitive and specific isotope dilution
+   method is applicable to in vivo quantification of urinary alcohol
+   products produced by AFAR. Heretofore, the metabolic fate of the
+   8,9-epoxides that are critical for aflatoxin toxicities has been
+   measured by biomarkers of lysine-albumin adducts, hepatic and urinary
+   DNA adducts, and urinary mercapturic acids. This urinary detection of
+   the alcohol products directly contributes to the goal of mass balancing
+   the fate of the bioreactive 8,9-epoxides of AFB(1) in vivo.
+TC 8
+ZB 7
+Z8 1
+Z9 9
+SN 0893-228X
+UT WOS:000254085300026
+ER
+
+PT J
+AU Olsen, Christopher M.
+   Huang, Yong
+   Goodwin, Shirlean
+   Ciobanu, Daniel C.
+   Lu, Lu
+   Sutter, Thomas R.
+   Winder, Danny G.
+TI Microarray analysis reveals distinctive signaling between the bed
+   nucleus of the stria terminalis, nucleus accumbens, and dorsal striatum
+SO PHYSIOLOGICAL GENOMICS
+VL 32
+IS 3
+BP 283
+EP 298
+DI 10.1152/physiolgenomics.00224.2006
+PD FEB 19 2008
+PY 2008
+AB To identify distinct transcriptional patterns between the major
+   subcortical dopamine targets commonly studied in addiction we studied
+   differences in gene expression between the bed nucleus of the stria
+   terminalis (BNST), nucleus accumbens (NAc), and dorsal striatum (dStr)
+   using microarray analysis. We first tested for differences in expression
+   of genes encoding transcripts for common neurotransmitter systems as
+   well as calcium binding proteins routinely used in neuroanatomical
+   delineation of brain regions. This a priori method revealed differential
+   expression of corticotropin releasing hormone (Crh), the GABA
+   transporter (Slc6a1), and prodynorphin (Pdyn) mRNAs as well as several
+   others. Using a gene ontology tool, functional scoring analysis, and
+   Ingenuity Pathway Analysis, we further identified several physiological
+   pathways that were distinct among these brain regions. These two
+   different analyses both identified calcium signaling, G-coupled protein
+   receptor signaling, and adenylate cyclase-related signaling as
+   significantly different among the BNST, NAc, and dStr. These types of
+   signaling pathways play important roles in, amongst other things,
+   synaptic plasticity. Investigation of differential gene expression
+   revealed several instances that may provide insight into reported
+   differences in synaptic plasticity between these brain regions. The
+   results support other studies suggesting that crucial pathways involved
+   in neurotransmission are distinct among the BNST, NAc, and dStr and
+   provide insight into the potential use of pharmacological agents that
+   may target region-specific signaling pathways. Furthermore, these
+   studies provide a framework for future mouse-mouse comparisons of
+   transcriptional profiles after behavioral/pharmacological manipulation.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 1094-8341
+UT WOS:000256816300002
+ER
+
+PT J
+AU Huang, Yong
+   Fernandez, Sandra V.
+   Goodwin, Shirlean
+   Russo, Patricia A.
+   Russo, Irma H.
+   Sutter, Thomas R.
+   Russo, Jose
+TI Epithelial to mesenchymal transition in human breast epithelial cells
+   transformed by 17 beta-estradiol
+SO CANCER RESEARCH
+VL 67
+IS 23
+BP 11147
+EP 11157
+DI 10.1158/0008-5472.CAN-07-1371
+PD DEC 1 2007
+PY 2007
+AB The estrogen dependence of breast cancer has long been recognized;
+   however, the role of 17 beta-estradiol (E-2) in cancer initiation was
+   not known until we showed that it induces complete neoplastic
+   transformation of the human breast epithelial cells MCF-10F. E2
+   treatment of MCF-10F cells progressively induced high colony efficiency
+   and loss of ductulogenesis in early transformed (trMCF) cells and
+   invasiveness in Matrigel invasion chambers. The cells that crossed the
+   chamber membrane were collected and identified as bsMCF; their subclones
+   were designated bcMCF; and the cells harvested from carcinoma formation
+   in severe combined immummodeficient mice were designated caMCF. These
+   phenotypes correlated with gene dysregulation during the progression of
+   the transformation. The highest number of dysregulated genes was
+   observed in caMCF, being slightly lower in bcMCF, and lowest in trMCF.
+   This order was consistent with the extent of chromosome aberrations
+   (caMCF > bcMCF >>> trMCF). Chromosomal amplifications were found in
+   1p36.12-pter, 5q21.1-qter, and 13q21.31-qter. Losses of the complete
+   chromosome 4 and 8p11.21-23.1 were found only in tumorigenic cells. In
+   tumor-derived cell lines, additional losses were found in 3p12.1-14.1,
+   9p22.1-pter, and 18q11.21qter. Functional profiling of dysregulated
+   genes revealed progressive changes in the integrin signaling pathway,
+   inhibition of apoptosis, acquisition of tumorigenic cell surface
+   markers, and epithelial-mesenchymal transition. In tumorigenic cells,
+   the levels of E-cadherin, epithelial membrane antigen, and various
+   keratins were low and CD44E/CD24 were negative, whereas SNAI2, vimentin,
+   S100A4, FN1, HRAS, transforming growth factor 01, and CD44H were high.
+   The phenotypic and genomic changes triggered by estrogen exposure that
+   lead normal cells to tumorigenesis confirm the role of this steroid
+   hormone in cancer initiation.
+TC 23
+ZB 21
+Z8 0
+Z9 23
+SN 0008-5472
+UT WOS:000251444100011
+ER
+
+PT J
+AU Yang, Xiaohong R.
+   Pfeiffer, Ruth M.
+   Garcia-Closas, Montserrat
+   Rimm, David L.
+   Lissowska, Jolanta
+   Brinton, Louise A.
+   Peplonska, Beata
+   Hewitt, Stephen M.
+   Cartun, Richard W.
+   Mandich, Daniza
+   Sasano, Hironobu
+   Evans, Dean B.
+   Sutter, Thomas R.
+   Sherman, Mark E.
+TI Hormonal markers in breast cancer: Coexpression, relationship with
+   pathologic characteristics, and risk factor associations in a
+   population-based study
+SO CANCER RESEARCH
+VL 67
+IS 21
+BP 10608
+EP 10617
+DI 10.1158/0008-5472.CAN-07-2142
+PD NOV 1 2007
+PY 2007
+AB The objective of this study was to evaluate the coexpression patterns of
+   hormonal markers in breast cancer tissue and their relationship with
+   pathologic characteristics and epidemiologic risk factors. We evaluated
+   the expression of 17 markers by immunohistochemistry in 842 invasive
+   breast carcinomas collected in a population-based case-control study
+   conducted in Poland. Based on marker correlations, factor analysis
+   identified four major coexpression patterns (factors): "nuclear receptor
+   factor" [estrogen receptor (ER)-alpha, progesterone receptor, androgen
+   receptor, cyclin D1, and aromatase], "estrogen metabolism/ER-beta
+   factor" (ER-beta, peroxisome proliferator-activated receptor-gamma,
+   steroid sulfatase, estrogen sulfonotransferase, and cytochrome P450
+   1B1), "HER2 factor" (human epidermal growth factor receptor 2,
+   E-cadherin, cyclooxygenase-2, aromatase, steroid sulfatase), and
+   "proliferation factor" (cytokeratin 5, cytokeratin 5/6, epidermal growth
+   factor receptor, P53). Three of these factors corresponded to molecular
+   subtypes previously defined by expression profiling; however, the
+   estrogen metabolism/ER-beta factor seemed to be distinctive. High scores
+   for this factor were associated with high tumor grade (P heterogeneity =
+   0.02), younger age at menarche (P heterogeneity = 0.04), lower current
+   body mass index among premenopausal women (P heterogeneity 0.01), and
+   older age at menopause (P heterogeneity 0.04). High scores for the
+   proliferation factor were also associated with early menarche (P
+   heterogeneity < 0.0001), and in contrast to the estrogen
+   metabolism/ER-beta factor, higher current body mass index among
+   premenopausal women (P heterogeneity = 0.03). Our analysis of hormonal
+   pathway markers independently confirmed several previously defined
+   molecular subtypes identified by gene expression profiling and augmented
+   these findings by suggesting the existence of additional relationships
+   related to ER-beta and enzymes involved in hormone metabolism.
+TC 22
+ZB 13
+Z8 0
+Z9 22
+SN 0008-5472
+UT WOS:000250700200061
+ER
+
+PT J
+AU Sutter, Thomas
+TI New generation of OSS systems to assure quality-of-experience of triple
+   play IMS services
+SO GLOBAL TELECOMS BUSINESS
+IS 91
+BP 68
+EP 69
+PD MAR-APR 2007
+PY 2007
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0969-7500
+UT CCC:000245879800022
+ER
+
+PT J
+AU Rahman, Mostafizur
+   Sutter, Carrie Hayes
+   Emmert, Gary L.
+   Sutter, Thomas R.
+TI Regioselective 2-hydroxylation of 17 beta-estradiol by rat cytochrome
+   P4501B1
+SO TOXICOLOGY AND APPLIED PHARMACOLOGY
+VL 216
+IS 3
+BP 469
+EP 478
+DI 10.1016/j.taap.2006.06.004
+PD NOV 1 2006
+PY 2006
+AB Previous work demonstrated that human cytochrome P4501B1 (CYP1B1) forms
+   predominantly 4-hydroxyestradiol (4-OHE2), a metabolite which is
+   carcinogenic in animal models. Here, we present results from kinetic
+   studies characterizing the formation of 4-OHE2 and 2-hydroxyestradiol
+   (2-OHE2) by rat CYP1B1 using 17 beta-estradiol (E2) as a substrate. K-m
+   and K-cat values were estimated using the Michaelis-Menten equation. For
+   rat CYP1B1, the apparent K, values for the formation of 4-OHE2 and
+   2-OHE2 were 0.61 +/- 0.23 and 1.84 +/- 0.73 mu M; the turnover numbers
+   (K-cat) were 0.23 +/- 0.02 and 0.46 +/- 0.05 pmol/min/pmol P450; and the
+   catalytic efficiencies (K-cat/K-m) were 0.37 and 0.25, respectively. For
+   human CYP1B1, the apparent K, values for the formation of 4-OHE2 and
+   2-OHE2 were 1.22 +/- 0.25 and 1.10 +/- 0.26; the turnover numbers were
+   1.23 +/- 0.06 and 0.33 +/- 0.02; and the catalytic efficiencies were 1.0
+   and 0.30, respectively. The turnover number ratio of 4-to
+   2-hydroxylation was 3.7 for human CYP1B1 and 0.5 for rat CYP1B1. These
+   results indicate that, although rat CYP1B1 is a low K, E2 hydroxylase,
+   its product ratio, unlike the human enzyme, favors 2-hydroxylation. The
+   K; values of the inhibitor 2,4,3',5'-tetramethoxystilbene (TMS) for E2
+   4- and 2-hydroxylation by rat CYP1B1 were 0.69 and 0.78 mu M,
+   respectively. The K; values of 7,8-benzoflavone (alpha-NF) for E2 4-and
+   2-hydroxylation by rat CYP1B1 were 0.01 and 0.02 mu M, respectively. The
+   knowledge gained from this study will support the rational design of
+   CYP1B1 inhibitors and clarify results of CYP1B1 related carcinogenesis
+   studies performed in rats. (c) 2006 Elsevier Inc. All rights reserved.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0041-008X
+UT WOS:000241745600011
+ER
+
+PT J
+AU Rahman, Mostafizur
+   Kelley, Victor R.
+   Sutter, Carrie Hayes
+   Emmert, Gary L.
+   Strickland, Paul T.
+   Bell, Douglas A.
+   Sutter, Thomas R.
+TI Functional analysis of polymorphic CYP1B1 allelic variants in
+   African-Americans and their effects on the metabolism of
+   (-)-benzo[a]pyrene-trans-7,8-dihydrodiol (B[a]P-7,8-diol)
+SO ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+VL 232
+MA 222-BIOL
+BP 842
+EP 842
+PD SEP 10 2006
+PY 2006
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0065-7727
+UT WOS:000207781600745
+ER
+
+PT J
+AU Cavalieri, Ercole
+   Chakravarti, Dhubajyoti
+   Guttenplan, Joseph
+   Hart, Elizabeth
+   Ingle, James
+   Jankowiak, Ryszard
+   Muti, Paola
+   Rogan, Eleanor
+   Russo, Jose
+   Santen, Richard
+   Sutter, Thomas
+TI Catechol estrogen quinones as initiators of breast and other human
+   cancers: Implications for biomarkers of susceptibility and cancer
+   prevention
+SO BIOCHIMICA ET BIOPHYSICA ACTA-REVIEWS ON CANCER
+VL 1766
+IS 1
+BP 63
+EP 78
+DI 10.1016/k.bbcan.2006.03.001
+PD AUG 2006
+PY 2006
+AB Exposure to estrogens is associated with increased risk of breast and
+   other types of human cancer. Estrogens are converted to metabolites,
+   particularly the catechol estrogen-3,4-quinones (CE-3,4-Q), that can
+   react with DNA to form depurinating adducts. These adducts are released
+   from DNA to generate apurinic sites. Error-prone base excision repair of
+   this damage may lead to the mutations that can initiate breast, prostate
+   and other types of cancer.
+   The reaction of CE-3,4-Q with DNA forms the depurinating adducts
+   4-hydroxyestrone(estradiol) [4-OHE1(E-2)-1-N3Ade and 4-OHE1
+   (E-2)-1-N7Gua. These two adducts constitute more than 99% of the total
+   DNA adducts formed. Increased levels of these quinones and their
+   reaction with DNA occur when estrogen metabolism is unbalanced. Such an
+   imbalance is the result of overexpression of estrogen activating enzymes
+   and/or deficient expression of the deactivating (protective) enzymes.
+   This unbalanced metabolism has been observed in breast biopsy tissue
+   from women with breast cancer, compared to control women. Recently, the
+   depurinating adduct 4-OHE1(E-2)-1-N3Ade has been detected in the urine
+   of prostate cancer patients, but not in urine from healthy men.
+   Mutagenesis by CE-3,4-Q has been approached from two different
+   perspectives: one is mutagenic activity in the lacI reporter gene in
+   Fisher 344 rats and the other is study of the reporter Harvey-ras gene
+   in mouse skin and rat mammary gland. A -> G and G -> A mutations have
+   been observed in the mammary tissue of rats implanted with the CE-3,4-Q
+   precursor, 4-OHE2. Mutations have also been observed in the Harvey-ras
+   gene in mouse skin and rat mammary gland within 6-12 h after treatment
+   with E-2-3,4-Q, suggesting that these mutations arise by error-prone
+   base excision repair of the apurinic sites generated by the depurinating
+   adducts.
+   Treatment of MCF-10F cells, which are estrogen receptor-alpha-negative
+   immortalized human breast epithelial cells, with E-2, 4-OHE2 or 2-OHE2
+   induces their neoplastic transformation in vitro, even in the presence
+   of the antiestrogen ICI-182,780. This suggests that transformation is
+   independent of the estrogen receptor. The transformed cells exhibit
+   specific mutations in several genes. Poorly differentiated
+   adenocarcinomas develop when aggressively transformed MCF-10F cells are
+   selected and injected into severe combined immune depressed (SCID) mice.
+   These results represent the first in vitro/in vivo model of
+   estrogen-induced carcinogenesis in human breast epithelial cells. In
+   other studies, the development of mammary tumors in estrogen receptor-a
+   knockout mice expressing the Wnt-1 oncogene (ERKO/Wnt-1) provides direct
+   evidence that estrogens may cause breast cancer through a genotoxic,
+   non-estrogen receptor-alpha-mediated mechanism. In summary, this
+   evidence strongly indicates that estrogens can become endogenous tumor
+   initiators when CE-3,4-Q react with DNA to form specific depurinating
+   adducts. Initiated cells may be promoted by a number of processes,
+   including hormone receptor stimulated proliferation. These results lay
+   the groundwork for assessing risk and preventing disease. (c) 2006
+   Elsevier B.V. All rights reserved.
+TC 131
+ZB 117
+Z8 5
+Z9 140
+SN 0304-419X
+UT WOS:000240243800005
+ER
+
+PT J
+AU Gaudet, Mia M.
+   Chanock, Stephen
+   Lissowska, Jolanta
+   Berndt, Sonja I.
+   Yang, Xiaohong (Rose)
+   Peplonska, Beata
+   Brinton, Louise A.
+   Welch, Robert
+   Yeager, Meredith
+   Bardin-Mikolajczak, Alicja
+   Sherman, Mark E.
+   Sutter, Thomas R.
+   Garcia-Closas, Montserrat
+TI Genetic variation of Cytochrome P4501B1 (CYP1B1) and risk of breast
+   cancer among Polish women
+SO PHARMACOGENETICS AND GENOMICS
+VL 16
+IS 8
+BP 547
+EP 553
+DI 10.1097/01.fpc.0000215067.29342.6f
+PD AUG 2006
+PY 2006
+AB Four single nucleotide polymorphisms (SNPs) in CYP1B1 (Ex2+143 C > G,
+   Ex2+356 G > T, Ex3+251 G > C, Ex3+315 A > G) cause amino acid changes
+   (R48G, A119S, L432V and N453S, respectively) and are associated with
+   increased formation of catechol estrogens; however, epidemiologic
+   evidence only weakly supports an association between these variants and
+   breast cancer risk. Because genetic variability conferring increased
+   susceptibility could exist beyond these putative functional variants, we
+   comprehensively examined the common genetic variability within CYP1B1. A
+   total of eight haplotype-tagging (ht)SNPs (including Ex3+315 A > G), in
+   addition to two putatively functional SNPs (Ex2+143 C > G and Ex3 + 251
+   G > C), were selected and genotyped in a large case-control study of
+   Polish women (1995 cases and 2296 controls). Haplotypes were estimated
+   using the expectation-maximization algorithm, and overall differences in
+   the haplotype distribution between cases and controls were assessed
+   using a global score test. We also evaluated levels of tumor CYP1B1
+   protein expression in a subset of 841 cases by immunohistochemistry, and
+   their association with genetic variants. In the Polish population, we
+   observed two linkage disequilibrium (LD)-defined blocks. Neither
+   haplotypes (global P-value of 0.99 and 0.67 for each block of LD,
+   respectively), nor individual SNPs (including three putatively
+   functional SNPs) were associated with breast cancer risk. CYP1B1 was
+   expressed in most tumor tissues (98%), and the level of expression was
+   not related to the studied genetic variants. We found little evidence
+   for modification of the estimated effect of haplotypes or individual
+   SNPs by age, family history of breast cancer, or tumor hormone receptor
+   status. The present study provides strong evidence against the existence
+   of a substantial overall association between common genetic variation in
+   CYP1B1 and breast cancer risk.
+TC 10
+ZB 9
+Z8 0
+Z9 10
+SN 1744-6872
+UT WOS:000239970700002
+ER
+
+PT J
+AU Peirce, JL
+   Li, HQ
+   Wang, JT
+   Manly, KF
+   Hitzemann, RJ
+   Belknap, JK
+   Rosen, GD
+   Goodwin, S
+   Sutter, TR
+   Williams, RW
+   Lu, L
+TI How replicable are mRNA expression QTL?
+SO MAMMALIAN GENOME
+VL 17
+IS 6
+BP 643
+EP 656
+DI 10.1007/s00335-005-0187-8
+PD JUN 2006
+PY 2006
+AB Applying quantitative trait analysis methods to genome-wide
+   microarray-derived mRNA expression phenotypes in segregating populations
+   is a valuable tool in the attempt to link high-level traits to their
+   molecular causes. The massive multiple-testing issues involved in
+   analyzing these data make the correct level of confidence to place in
+   mRNA abundance quantitative trait loci (QTL) a difficult problem. We use
+   a unique resource to directly test mRNA abundance QTL replicability in
+   mice: paired recombinant inbred (RI) and F-2 data sets derived from
+   C57BL/6J (B6) and DBA/2J (D2) inbred strains and phenotyped using the
+   same Affymetrix arrays. We have one forebrain and one striatum data set
+   pair. We describe QTL replication at varying stringencies in these data.
+   For instance, 78% of mRNA expression QTL (eQTL) with genome-wide
+   adjusted p <= 0.0001 in RI data replicate at a genome-wide adjusted p <
+   0.05 or better. Replicated QTL are disproportionately putatively
+   cis-acting, and approximately 75% have higher apparent expression levels
+   associated with B6 genotypes, which may be partly due to probe set
+   generation using B6 sequence. Finally, we note that while trans-acting
+   QTL do not replicate well between data sets in general, at least one
+   cluster of trans-acting QTL on distal Chr 1 is notably preserved between
+   data sets.
+TC 29
+ZB 25
+Z8 1
+Z9 30
+SN 0938-8990
+UT WOS:000238362300018
+ER
+
+PT J
+AU Harrigan, JA
+   McGarrigle, BP
+   Sutter, TR
+   Olson, JR
+TI Tissue specific induction of cytochrome P450 (CYP) 1A1 and 1B1 in rat
+   liver and lung following in vitro (tissue slice) and in vivo exposure to
+   benzo(a)pyrene
+SO TOXICOLOGY IN VITRO
+VL 20
+IS 4
+BP 426
+EP 438
+DI 10.1016/j.tiv.2005.08.015
+PD JUN 2006
+PY 2006
+AB Cytochrome P-450s (CYPs) detoxify a wide variety of xenobiotics and
+   environmental contaminants, but can also bioactivate carcinogenic
+   polycyclic aromatic hydrocarbons, such as benzo(a)pyrene (BaP), to
+   DNA-reactive species. The primary CYPs involved in the metabolism and
+   bioactivation of BaP are CYP1A1 and CYP1B1. Furthermore, BaP can induce
+   expression of CYP1A1 and CYP1B1 via the aryl hydrocarbon receptor.
+   Induction of CYP1A1 and CYP1B1 by BaP in target (lung) and non-target
+   (liver) tissues was investigated utilizing precision-cut rat liver and
+   lung slices exposed to BaP in vitro. Tissue slices were also prepared
+   from rats pretreated in vivo with 2,3,7,8-tetrachlorodibenzo-p-dioxin
+   (TCDD) to induce expression of CYP1A1 and CYP1B1. In addition, in vivo
+   exposure studies were performed with BaP to characterize and validate
+   the use of the in vitro tissue slice model. In vitro exposure of liver
+   and lung slices to BaP resulted in a concentration-dependent increase in
+   CYP1A1 and CYP1B1 mRNA and protein levels, which correlated directly
+   with the exposure-related increase in BaP-DNA adduct levels observed
+   previously in the tissue slices [Harrigan, J.A., Vezina, C.M.,
+   McGarrigle, B.P., Ersing, N., Box, H.C., Maccubbin, A.E., Olson, J.R.,
+   2004. DNA adduct formation in precision-cut rat liver and lung slices
+   exposed to benzo(a)pyrene. Toxicological Sciences 77, 307-314].
+   Pretreatment of animals in vivo with TCDD produced a marked induction of
+   CYP1A1 and CYP1B1 expression in the tissue slices, which was similar to
+   the levels of CYP1A1 and CYP1B1 mRNA achieved in liver and lung
+   following in vivo treatment with BaP. Following in vitro exposure to
+   BaP, the levels of CYP1A1 were greater in the lung than the liver, while
+   following all exposures (in vitro and in vivo), the levels of CYP1B1
+   mRNA were greater in lung tissue compared to liver. The higher
+   expression of CYP1A1 and CYP1B1 in the lung was associated with higher
+   levels of BaP-DNA adducts in the lung slices (Harrigan et al.'s work)
+   and together, these results may contribute to the tissue specificity of
+   BaP-mediated carcinogenesis. (c) 2005 Elsevier Ltd. All rights reserved.
+TC 36
+ZB 31
+Z8 0
+Z9 36
+SN 0887-2333
+UT WOS:000238527400003
+ER
+
+PT J
+AU Karuri, AR
+   Huang, Y
+   Bodreddigari, S
+   Sutter, CH
+   Roebuck, BD
+   Kensler, TW
+   Sutter, TR
+TI 3H-1,2-dithiole-3-thione targets nuclear factor kappa B to block
+   expression of inducible nitric-oxide synthase, prevents hypotension, and
+   improves survival in endotoxemic rats
+SO JOURNAL OF PHARMACOLOGY AND EXPERIMENTAL THERAPEUTICS
+VL 317
+IS 1
+BP 61
+EP 67
+DI 10.1124/jpet.105.096396
+PD APR 2006
+PY 2006
+AB Septicemia is a major cause of death associated with noncoronary
+   intensive care. Systemic production of nitric oxide ( NO) by inducible
+   nitric- oxide synthase ( iNOS) is a major cause of hypotension and poor
+   organ perfusion seen in septic shock. Here, we show that pretreatment of
+   F344 rats with the cancer chemoprotective agent 3H- 1,2- dithiole- 3-
+   thione ( D3T) blocks lipopolysaccharide ( LPS)- mediated induction of
+   hepatic iNOS and significantly reduces the associated serum levels of NO
+   metabolites and enzyme markers of toxicity provoked by treatment with
+   LPS. Immunohistochemical analysis shows that this protective effect is
+   largely due to suppression of iNOS expression in hepatocytes.
+   Importantly, pretreatment of animals with D3T blunts LPS- mediated
+   hypotension and dramatically increases their survival. Inasmuch as iNOS
+   expression can be regulated by nuclear factor ( NF) kappa B, mechanistic
+   studies show that D3T blocks NF kappa B nuclear translocation and DNA
+   binding and that these effects are accompanied by changes in the levels
+   of phospho- inhibitor of NF kappa B. In conclusion, this study
+   identifies new drug classes and targets that may improve the prevention
+   and treatment of septic shock, as well as chronic diseases associated
+   with the NF kappa B and iNOS pathways.
+TC 9
+ZB 8
+Z8 1
+Z9 11
+SN 0022-3565
+UT WOS:000236175900008
+ER
+
+PT J
+AU Sutter, CH
+   Rahman, M
+   Sutter, TR
+TI Uncertainties related to the assignment of a toxic equivalency factor
+   for 1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin
+SO REGULATORY TOXICOLOGY AND PHARMACOLOGY
+VL 44
+IS 3
+BP 219
+EP 225
+DI 10.1016/j.yrtph.2005.12.005
+PD APR 2006
+PY 2006
+AB The Toxic Equivalency Factor (TEF) approach is a methodology that
+   assigns relative toxicity values to structurally related chemicals in
+   comparison to a reference chemical. For the polychlorinated
+   dibenzo-p-dioxins (PCDDs), the reference is the most potent congener,
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD). Here, we critically review
+   the literature on the effects of a weak PCDD,
+   I,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin (OCDD), and describe the
+   uncertainties of assigning its TEF. PCDDs, including OCDD, are less
+   potent in human cell models compared to the rat models from which the
+   TEF are estimated. This lack of concordance is even more pronounced with
+   the weaker congeners such as OCDD. Furthermore, OCDD is also likely to
+   compete with TCDD for binding to cytochrome P4501A2 (CYP1A2),
+   effectively decreasing the hepatic tissue/fat ratio of TCDD. Overall,
+   the predictive value of TEFs would be improved by incorporating into
+   this number the relative sensitivity of human cell responses compared to
+   rodent responses, by determining the toxicological effects of altering
+   the tissue distribution of dioxin-like compounds through competition for
+   CYP-binding sites, and by understanding the mechanism of cancer
+   causation of any dioxin and whether this mechanism is conserved in
+   humans and at equivalent doses. (c) 2005 Elsevier Inc. All rights
+   reserved.
+TC 2
+ZB 2
+Z8 1
+Z9 3
+SN 0273-2300
+UT WOS:000236930200004
+ER
+
+PT J
+AU Yates, MS
+   Kwak, MK
+   Egner, PA
+   Groopman, JD
+   Bodreddigari, S
+   Sutter, TR
+   Baumgartner, KJ
+   Roebuck, BD
+   Liby, KT
+   Yore, MM
+   Honda, T
+   Gribble, GW
+   Sporn, MB
+   Kensler, TW
+TI Potent protection against aflatoxin-induced tumorigenesis through
+   induction of Nrf2-regulated pathways by the triterpenoid
+   1-[2-cyano-3-,12-dioxooleana-1,9(11)-dien-28-oyl]imidazole
+SO CANCER RESEARCH
+VL 66
+IS 4
+BP 2488
+EP 2494
+DI 10.1158/0008-5472.CAN-05-3823
+PD FEB 15 2006
+PY 2006
+AB Synthetic triterpenoid analogues of oleanolic acid are potent inducers
+   of the phase 2 response as well as inhibitors of inflammation. We show
+   that the triterpenoid,
+   1-[2-cyano-3-,12-dioxooleana-1,9(11)-dien-28-oyl]imidazole (CDDO-Im), is
+   a highly potent chemopreventive agent that inhibits aflatoxin-induced
+   tumorigenesis in rat liver. The chemopreventive potency of CDDO-Im was
+   evaluated by measuring inhibition of formation of putative preneoplastic
+   lesions (glutathione S-transferase P positive foci) in the liver of rats
+   exposed to aflatoxin B-1. CDDO-Im produces an 85% reduction in the
+   hepatic focal burden of preneoplastic lesions at 1 mu mol/kg body weight
+   and a > 99% reduction at 100 mu mol/kg body weight. CDDO-Im treatment
+   reduces levels of aflatoxin-DNA adducts by similar to 40% to 90% over
+   the range of 1 to 100 mu mol/kg body weight. Additionally, changes in
+   mRNA levels of genes involved in aflatoxin metabolism were measured in
+   rat liver following a single dose of CDDO-Im. GSTA2, GSTA5, AFAR, and
+   EPHX1 transcripts are elevated 6 hours following a 1 mu mol/kg body
+   weight dose of CDDO-Im. Microarray analysis using wildtype and Nrf2
+   knockout mice confirms that many phase 2 and antioxidant genes are
+   induced in an Nrf2-dependent manner in mouse liver following treatment
+   with CDDO-Im. Thus, low-micromole doses of CDDO-Im induce cytoprotective
+   genes, inhibit DNA adduct formation, and dramatically block hepatic
+   tumorigenesis. As a point of reference, oltipraz, an established
+   modulator of aflatoxin metabolism in humans, is 100-fold weaker than
+   CDDO-Im in this rat antitumorigenesis model. The unparalleled potency of
+   CDDO-Im in vivo highlights the chemopreventive promise of targeting Nrf2
+   pathways with triterpenoids.
+TC 85
+ZB 75
+Z8 2
+Z9 88
+SN 0008-5472
+UT WOS:000235387200077
+ER
+
+PT J
+AU Huang, Y
+   Yan, J
+   Lubet, R
+   Kensler, TW
+   Sutter, TR
+TI Identification of novel transcriptional networks in response to
+   treatment with the anticarcinogen 3H-1,2-dithiole-3-thione
+SO PHYSIOLOGICAL GENOMICS
+VL 24
+IS 2
+BP 144
+EP 153
+DI 10.1152/physiolgenomics.00258.2005
+PD JAN 12 2006
+PY 2006
+AB 3H-1,2-dithiole-3thione (D3T), an inducer of antioxidant and phase 2
+   genes, is known to enhance the detoxification of environmental
+   carcinogens, prevent neoplasia, and elicit other protective effects.
+   However, a comprehensive view of the regulatory pathways induced by this
+   compound has not yet been elaborated. Fischer F344 rats were gavaged
+   daily for 5 days with vehicle or D3T (0.3 mmol/ kg). The global changes
+   of gene expression in liver were measured with Affymetrix RG-U34A chips.
+   With the use of functional class scoring, a semi-supervised method
+   exploring both the expression pattern and the functional annotation of
+   the genes, the Gene Ontology classes were ranked according to the
+   significance of the impact of D3T treatment. Two unexpected functional
+   classes were identified for the D3T treatment, cytosolic ribosome
+   constituents with 90% of those genes increased, and cholesterol
+   biosynthesis with 91% of the genes repressed. In another novel approach,
+   the differentially expressed genes were evaluated by the Ingenuity
+   computational pathway analysis tool to identify specific regulatory
+   networks and canonical pathways responsive to D3T treatment. In addition
+   to the known glutathione metabolism pathway (P = 0.0011), several other
+   significant pathways were also revealed, including antigen presentation
+   (P = 0.000476), androgen/ estrogen biosynthesis (P = 0.000551), fatty
+   acid (P = 0.000216), and tryptophan metabolism (P = 0.000331) pathways.
+   These findings showed a profound impact of D3T on lipid metabolism and
+   anti-inflammatory/ immune-suppressive response, indicating a broader
+   cytoprotective effect of this compound than previously expected.
+TC 20
+ZB 19
+Z8 0
+Z9 20
+SN 1094-8341
+UT WOS:000234590300008
+ER
+
+PT J
+AU Mammen, JS
+   Kleiner, HE
+   DiGiovanni, J
+   Sutter, TR
+   Strickland, PT
+TI Coumarins are competitive inhibitors of cytochrome P4501B1, with equal
+   potency for allelic variants
+SO PHARMACOGENETICS AND GENOMICS
+VL 15
+IS 3
+BP 183
+EP 188
+DI 10.1097/01213011-200503000-00007
+PD MAR 2005
+PY 2005
+AB Objectives Coumarins are naturally occurring chemicals with potential as
+   chemopreventive agents, several with known action on the cytochrome P450
+   1A family. We examined whether cytochrome P450 1B1 (CYP1B1) was
+   inhibited by coumarins, whether such inhibition was competitive, and
+   whether inhibition varied between common polymorphic variants of this
+   enzyme.
+   Methods We tested the inhibition properties of four coumarins,
+   bergamottin, isopimpinellin, isoimperatorin, and imperatorin in an assay
+   for oxidation of (-)benzo[a]pyrene-7R-trans-7,8-dihyrodiol
+   (B[a]P-7,8-diol) by CYP1B1 using yeast-microsome expressed enzymes.
+   These assays were performed with wild-type enzyme and five single-amino
+   acid polymorphic variants.
+   Results All four coumarins are competitive inhibitors of CYP1B1, with
+   K-i values equal to 587, 11, 6 and 1 &mu; m respectively. Inhibition
+   parameters were consistent between five haplotypes of CYP1B1, three
+   representing common haplotypes in Asians, African-Americans and
+   European-Americans, and two with baseline kinetic parameters previously
+   shown to be potentially different from wild-type.
+   Conclusions Coumarins are capable of inhibiting carcinogen activation by
+   CYP1B1 with varying potencies, and their efficacy as chemopreventive
+   agents is not likely to be affected by polymorphism in this enzyme.
+   Pharmacogenetics and Genornics 15:183-188 &COPY; 2005 Lippincott
+   Williams & Wilkins.
+TC 8
+ZB 6
+Z8 0
+Z9 8
+SN 1744-6872
+UT WOS:000228902600007
+ER
+
+PT J
+AU Kim, JH
+   Sherman, ME
+   Curriero, FC
+   Guengerich, FP
+   Strickland, PT
+   Sutter, TR
+TI Expression of cytochromes P450 1A1 and 1B1 in human lung from smokers,
+   non-smokers, and ex-smokers
+SO TOXICOLOGY AND APPLIED PHARMACOLOGY
+VL 199
+IS 3
+BP 210
+EP 219
+DI 10.1016/j.taap.2003.11.015
+PD SEP 15 2004
+PY 2004
+AB Cytochromes P450 1A1 and 1B1 are known to bioactivate procarcinogens
+   such as polycyclic aromatic hydrocarbons (PAHs) found in cigarette smoke
+   and are inducible via an Ah receptor-mediated mechanism. The aim of this
+   study was to examine the levels of expression of CYP1A1 and CYP1B1 in
+   samples of lung from smokers (n = 18), non-smokers (n = 7), and
+   ex-smokers (n = 7). Using immunoglobulin preparations of highly specific
+   polyclonal antibodies and immunoblot analysis of microsomes from lung
+   tissues, we determined the specific content for CYP1A1 and CYP1B1. For
+   CYP1A1, we found median expression levels of 15.5 pmol/mg microsomal
+   protein in smokers, 6.0 pmol/mg microsomal protein in non-smokers, and
+   19.0 pmol/mg microsomal protein in ex-smokers. The difference in median
+   expression levels of smokers and ex-smokers compared to non-smokers was
+   statistically significant. For CYP1B1, we found median expression levels
+   of 1.8 pmol/mg microsomal protein in smokers, 1.0 pmol/mg microsomal
+   protein in non-smokers, and 4.4 pmol/mg microsomal protein in
+   ex-smokers. The difference in median expression levels between
+   ex-smokers and non-smokers was statistically significant. These results
+   suggest that levels of expression of CYP1A1 and CYP1B1 protein in lung
+   tissues from smokers and ex-smokers are quantitatively greater than in
+   non-smokers. By immunohistochemical analysis, we demonstrated the
+   expression of CYP1A1 and CYP1B1 in normal human alveolar type I and II
+   cells, ciliated columnar epithelial cells lining bronchoalveolar
+   airways, and alveolar macrophages. These results confirm that CYP1A1 is
+   expressed in normal human lung, appears to be induced in smokers, and
+   show interindividual variation; the similar characteristics of CYP1B1
+   are demonstrated. (C) 2003 Elsevier Inc. All rights reserved.
+TC 66
+ZB 64
+Z8 1
+Z9 70
+SN 0041-008X
+UT WOS:000224084700003
+ER
+
+PT J
+AU Fua, Xin
+   Blaydes, Betty S.
+   Weis, Constance C.
+   Latendresse, John R.
+   Muskhelishvili, Levan
+   Sutter, Thomas R.
+   Delclos, K. Barry
+TI Effects of dietary soy and estrous cycle on adrenal cytochrome P450 1B1
+   expression and DMBA metabolism in adrenal glands and livers in female
+   Sprague-Dawley rats.
+SO Chemico-Biological Interactions
+VL 146
+IS 3
+BP 273
+EP 284
+PD December 15, 2003
+PY 2003
+AB Cytochrome P450 1B1 (CYP1B1) has been shown to be important in the
+   bioactivation of 7,12-dimethylbenz(a)anthracene (DMBA) to an adrenal
+   toxin in rats. We investigated the effects of diet and stage of estrous
+   cycle on CYP1B1 expression in rat adrenal glands and on DMBA metabolism
+   by rat adrenal and hepatic microsomes. Female Sprague-Dawley (SD) rats
+   were placed on either standard soy-containing NIH-31 rat chow or soy-
+   and alfalfa-free 5K96 diet from postnatal day (PND) 21 until sacrifice
+   at PND50+-5. Stage of estrous at sacrifice was assessed by vaginal
+   cytology and confirmed by histological examination of the vagina.
+   Dietary soy at the level present in NIH-31 diet did not affect serum
+   estrogen and progesterone levels. Immunohistochemical analysis confirmed
+   that CYP1B1 was exclusively expressed in the zona fasciculata and zona
+   reticularis in adrenal cortex, which are the regions vulnerable to
+   DMBA-induced adrenal necrosis. Adrenal CYP1B1 protein expression,
+   3H-DMBA depletion, and formation of DMBA-3,4-, and -8,9-dihydrodiols by
+   adrenal microsomes were greater in animals fed 5K96 diet, and the stage
+   of the estrous cycle affected these parameters only in the soy-free 5K96
+   diet. In hepatic microsomes, the formation of DMBA-3,4-dihydrodiol,
+   7-hydroxy- and 12-hydroxy-DMBA were lower in animals fed NIH-31 diet
+   than in those fed 5K96 diet. Thus, dietary soy and the estrous cycle
+   appear to regulate adrenal CYP1B1 expression and DMBA metabolism by both
+   adrenal and hepatic microsomes. The use of different basal diets
+   containing variable levels of soy components may affect certain toxicity
+   assessments.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0009-2797
+UT BIOABS:BACD200400136290
+ER
+
+PT J
+AU Mammen, JS
+   Pittman, GS
+   Li, Y
+   Abou-Zahr, F
+   Bejjani, BA
+   Bell, DA
+   Strickland, PT
+   Sutter, TR
+TI Single amino acid mutations, but not common polymorphisms, decrease the
+   activity of CYP1B1 against (-)benzo[a]pyrene-7R-trans-7,8-dihydrodiol
+SO CARCINOGENESIS
+VL 24
+IS 7
+BP 1247
+EP 1255
+DI 10.1093/carcin/bgg088
+PD JUL 2003
+PY 2003
+AB Genetic differences that underlie inter-individual variation in the
+   metabolism of common carcinogens are important potential sources of
+   cancer susceptibility. Cytochrome P450 1B1 (CYP1B1), a central enzyme in
+   the activation of the ubiquitous environmental carcinogen benzo[a]pyrene
+   (B[a]P), has several genetic variants. This study investigated six rare
+   mutations and four common polymorphisms for their effects on B[a]P
+   metabolism. Five missense mutations associated with congenital glaucoma
+   (Gly61Glu, Gly365Trp, Asp374Asn, Pro437Leu and Arg469Tryp) dramatically
+   decreased the capacity of CYP1B1 to convert
+   (-)benzo[a]pyrene-7R-trans-7,8-dihyrodiol (B[a]P-7,8-diol) to
+   (+/-)benzo[a]pyrene-r-7,t-8-dihydrodiol-9,10-epoxides. These five
+   mutations resulted in enzymes with 3-12% of normal activity when assayed
+   in vitro using an Saccharomyces cerevisiae microsomal expression system.
+   A 10 bp deletion mutation produced no detectable protein or activity. In
+   contrast, proteins containing all possible combinations of four common
+   single nucleotide polymorphisms (Arg48Gly, Ala199Ser, Val432Leu,
+   Asn453Ser) had modest effects on B[a]P-7,8-diol metabolism.
+   Michaelis-Menten analysis suggested that two alleles, Arg48, Ala119,
+   Val432, Ser453 (RAVS) and Arg48, Ala119, Leu432, Ser453 (RALS), have K-M
+   values 2-fold lower than Arg48, Ala119, Val432, Ser453 (RAVN): 1.4 +/-
+   0.3 and 1.3 +/- 0.4 muM, respectively, compared with 2.8 +/- 0.8 muM (P
+   < 0.05). However, these differences could not be confirmed with direct
+   measurements of rate at low substrate concentration. There were no
+   significant differences for either of two other kinetic parameters,
+   k(cat) or k(cat)/K-M. Allele frequency analysis in three populations
+   reveals the Ser453 variant is rare among those of Asian (< 1 %) and
+   African ancestry (< 4 %), and more common in individuals of European
+   ancestry (16%). Haplotypes containing the Ser453 variant were uncommon;
+   only RALS was detectable in our small populations. The RALS allele
+   occurred between 0.5% in Asians and 15 % in Europeans. Our study
+   demonstrates that rare, disease-associated mutations in CYP1B1
+   significantly decrease the enzyme's metabolism of B[a]P-7,8-diol;
+   however, our results do not identify any major differences in this
+   metabolism due to four common single amino acid polymorphisms.
+TC 24
+ZB 23
+Z8 0
+Z9 25
+SN 0143-3334
+UT WOS:000184399900012
+ER
+
+PT J
+AU Sutter, TR
+   He, XR
+   Dimitrov, P
+   Xu, LJ
+   Narasimhan, G
+   George, EO
+   Sutter, CH
+   Grubbs, C
+   Savory, R
+   Stephan-Gueldner, M
+   Kreder, D
+   Taylor, MJ
+   Lubet, R
+   Patterson, TA
+   Kensler, TW
+TI Multiple comparisons model-based clustering and ternary pattern tree
+   numerical display of gene response to treatment: Procedure and
+   application to the preclinical evaluation of chemopreventive agents
+SO MOLECULAR CANCER THERAPEUTICS
+VL 1
+IS 14
+BP 1283
+EP 1292
+PD DEC 2002
+PY 2002
+AB Microarray technology has greatly aided the identification of genes that
+   are expressed differentially. Statistical analysis of such data by
+   multiple comparisons procedures has been slow to develop, in part,
+   because methods to cluster the results of such comparisons in
+   biologically meaningful ways have not been available. We isolated and
+   analyzed, by Northern blot and GeneChip, replicate liver RNA samples (n
+   = 4/group) from rats fed with control diet or diet containing one of
+   three chemopreventive compounds, selected because their pharmacological
+   activities, including RNA expression response, are relatively well
+   understood. We report on a classification tree, based on the results of
+   nonparametric multiple comparisons, which results in the bipolar
+   hierarchical clustering of genes in relation to their response to
+   treatment. In addition to identifying treatment-responsive genes,
+   application of this procedure to our test study identified the known
+   pharmacological relationships among the treatment groups without
+   supervision. Also, small treatment-specific subsets of genes were
+   identified that may be indicative of additional pharmacophores present
+   in the test compounds.
+TC 4
+ZB 4
+Z8 0
+Z9 5
+SN 1535-7163
+UT WOS:000180090600005
+ER
+
+PT J
+AU Sutter, T
+   Dansranjavin, T
+   Lubinski, J
+   Debniak, T
+   Giannakudis, J
+   Hoang-Vu, C
+   Dralle, H
+TI Overexpression of cyclin E protein is closely related to the mutator
+   phenotype of colorectal carcinoma
+SO INTERNATIONAL JOURNAL OF COLORECTAL DISEASE
+VL 17
+IS 6
+BP 374
+EP 380
+DI 10.1007/s00384-002-0390-y
+PD NOV 2002
+PY 2002
+AB Background and aims: A subset of colorectal carcinomas are due to a
+   deficiency in the DNA mismatch repair system. The molecular mechanisms
+   of tumorigenesis in these tumors is not yet well understood.
+   Deregulation of the cell cycle, specifically of the G, and S phases, is
+   a hallmark of human cancers. Transition from the G, to the S phase is
+   accelerated by increased cyclin E protein expression, and recent studies
+   suggest that overexpression of cyclin E leads to chromosomal
+   instability. The overexpression of cyclin E in a variety of human
+   cancers, for example in colorectal, gastric, lung, breast, and kidney
+   cancer, provides evidence that cyclin E plays a pivotal role in the cell
+   cycle and replication. We examined whether the overexpression of cyclin
+   E is related to the status of the mismatch repair system in colorectal
+   carcinomas. Patients and methods: Frozen tumor samples and adjacent
+   normal colon mucosa obtained from 100 patients were subjected to
+   microsatellite analysis, RT-PCR, western blot analysis and
+   immunohistochemistry. Results: High microsatellite instability was
+   detected in 13 tumors, and in 10 of these (77%) cyclin E protein was
+   overexpressed at least twofold compared to normal mucosa. In contrast,
+   only 28 of the remaining 87 microsatellite stable tumors (32%)
+   overexpressed cyclin E. Lower molecular weight cyclin E proteins were
+   present in 7 of 87 microsatellite stable carcinoma (8%), compared to 7
+   cases exhibiting lower molecular weight isoforms of 13 MSI carcinoma
+   (54%). Conclusion: Increased cyclin E protein expression and the
+   appearance of lower molecular weight cyclin E proteins were
+   significantly associated with MSI in colorectal tumors. The data
+   indicate that increased and/or aberrant expression of cyclin E protein
+   might contribute to the mutator phenotype of colorectal cancer.
+TC 12
+ZB 5
+Z8 3
+Z9 15
+SN 0179-1958
+UT WOS:000178989000002
+ER
+
+PT J
+AU Dick, RA
+   Kwak, MK
+   Sutter, TR
+   Kensler, TW
+TI Antioxidative function and substrate specificity of NAD(P)H-dependent
+   alkenal/one oxidoreductase - A new role for leukotriene B-4
+   12-hydroxydehydrogenase/15-oxoprostaglandin 13-reductase
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 276
+IS 44
+BP 40803
+EP 40810
+DI 10.1074/jbc.M105487200
+PD NOV 2 2001
+PY 2001
+AB There are several known routes for the metabolic detoxication of
+   alpha,beta -unsaturated aldehydes and ketones, including conjugation to
+   glutathione and reduction and oxidation of the aldehyde to an alcohol
+   and a carboxylic acid, respectively. In this study, we describe a fourth
+   class of detoxication that involves the reduction of the alpha,beta
+   -carbon = carbon double bond to a single bond. This reaction is
+   catalyzed by NAD(P)H-dependent alkenal/one oxidoreductase (AO), an
+   enzyme heretofore known as leukotriene B-4 12-hydroxydehydrogenase,
+   15-oxoprostagiandin 13-reductase, and dithiolethione-inducible gene-1.
+   AO is shown to effectively reduce cytotoxic lipid peroxidation products
+   such as 4-hydroxy-2-nonenal (HNE) (k(cat) = 4.0 x 10(3) min(-1);
+   k(cat)/K-m = 3.3 x 10(7) min(-1) M-1) and acrolein (k(cat) = 2.2 x 10(2)
+   min(-1); k(cat)/K-m = 1.5 x 10(6) min(-1) m(-1)) and common industrial
+   compounds such as ethyl vinyl ketone (k(cat) = 9.6 x 10(3) min(-1);
+   k(cat)/K-m = 8.8 x 10(7) min(-1) M-1) and 15-oxoprostaglandin E-1
+   (k(cat) = 2.4 x 10(3) min(-1); k(cat)/K-m = 2.4 x 10(9) min(-1) M-1).
+   Furthermore, transfection of human embryonic kidney cells with a rat
+   liver AO expression vector protected these cells from challenge with
+   HNE. The concentration of HNE at which 50% of the cells were killed
+   after 24 h increased from similar to 15 mum in control cells to similar
+   to 70 muM in AO-transfected cells. Overexpression of AO also completely
+   abolished protein alkylation by HNE at all concentrations tested (up to
+   30 muM). Thus, we describe a novel antioxidative activity of a
+   previously characterized bioactive lipid-metabolizing enzyme that could
+   prove to be therapeutically or prophylactically useful due to its high
+   catalytic rate and inducibility.
+TC 59
+ZB 51
+Z8 0
+Z9 61
+SN 0021-9258
+UT WOS:000171925600058
+ER
+
+PT J
+AU Bofinger, DP
+   Feng, L
+   Chi, LH
+   Love, J
+   Stephen, FD
+   Sutter, TR
+   Osteen, KG
+   Costich, TG
+   Batt, RE
+   Koury, ST
+   Olson, JR
+TI Effect of TCDD exposure on CYP1A1 and CYP1B1 expression in explant
+   cultures of human endometrium
+SO TOXICOLOGICAL SCIENCES
+VL 62
+IS 2
+BP 299
+EP 314
+DI 10.1093/toxsci/62.2.299
+PD AUG 2001
+PY 2001
+AB Endometriosis is a debilitating disease estimated to affect 10% of
+   reproductive-age women and characterized by the growth of endometrial
+   tissue outside of the uterus. The present study characterizes a human
+   endometrial explant culture model for studying the direct effects of
+   TCDD exposure by assessing the expression of CYP1A1 and CYP1B1 mRNA
+   (Northern blotting), protein (Western blotting), and activity
+   (7-ethoxyresorufln-O-deethylase; EROD) in explants cultured with and
+   without TCDD. Explants were obtained at laparoscopy or laparotomy from
+   women undergoing surgery for tubal ligation, endometriosis, or pelvic
+   pain unrelated to endometriosis. The explants were cultured with 10 nM
+   estradiol (E-2) or 1 nM E-2 plus 500 nM progesterone (P-4) with or
+   without TCDD (first 24 h). The expression of CYP1A1 and CYP1B1 mRNA was
+   greatest with 10 nM TCDD and increased up to 72 h after initial
+   exposure. EROD activity increased up to 120 h. Explants from a secretory
+   phase biopsy became reorganize in culture and formed a new epithelial
+   membrane, while maintaining basic endometrial morphology and viability
+   for up to 120 h. At 24 h, TCDD significantly increased CYP1A1 and CYP1B1
+   mRNA, and at 72 h, TCDD significantly increased EROD activity and CYP1B1
+   protein compared to explants cultured without TCDD for similar times.
+   CYP1B1 protein also exhibited substantial constitutive expression that
+   was similar in uncultured biopsies, where CYP1B1 protein was
+   immunolocalized in the cytoplasm of epithelial glands, with only
+   occasional patches of protein in the surface epithelia[ membrane. In
+   explants cultured with and without TCDD exposure, CYP1B1 protein was
+   localized in the cytoplasm of the new surface epithelial membrane and
+   glands closest to the surface. CYP1A1 protein was not detected in
+   uncultured biopsies or explants. Both younger age (age 30 and under) and
+   proliferative phase were associated with higher TCDD-induced EROD
+   activity in specimens treated with E-2:P-4. No significant
+   endometriosis-related differences were observed for any of the
+   biomarkers, but the detection of disease-specific change was limited by
+   small sample size and variability in tissue-cycle phase. The human
+   endometrial explant culture model will be useful for future studies of
+   the effects of dioxin-like,compounds on human endometrium in
+   relationship to cycle phase and hormonal exposure.
+TC 34
+ZB 30
+Z8 3
+Z9 37
+SN 1096-6080
+UT WOS:000170143900015
+ER
+
+PT J
+AU Guengerich, FP
+   Cai, HL
+   McMahon, M
+   Hayes, JD
+   Sutter, TR
+   Groopman, JD
+   Deng, ZW
+   Harris, TM
+TI Reduction of aflatoxin B-1 dialdehyde by rat and human aldo-keto
+   reductases
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 14
+IS 6
+BP 727
+EP 737
+DI 10.1021/tx010005p
+PD JUN 2001
+PY 2001
+AB Oxidation of the mycotoxin aflatoxin (AF) B-1 yields the 8,9-epoxide,
+   which nonenzymatically hydrolyzes rapidly to a dihydrodiol that in turn
+   undergoes slow, base-catalyzed ring opening to a dialdehyde [Johnson, W.
+   W., Harris, T. M., and Guengerich F. P. (1996) J. Ant. Chem. Sec. 118,
+   8213-8220]. AFB(1) dialdehyde does not bind to DNA but can react with
+   protein lysine groups. One enzyme induced by cancer chemopreventive
+   agents is AFB(1) aldehyde reductase (AFAR), which catalyzes the
+   NADPH-dependent reduction of the dialdehyde to a dialcohol. AFB(1)
+   dialdehyde is known to convert, nonenzymatically to AFB(1) dihydrodiol
+   at neutral pH, and we reinvestigated the enzymatic reaction by preparing
+   AFB(1) dialdehyde at pH 10 and then used this to initiate reactions (at
+   neutral pH) with rat and human AFAR isozymes. Two monoalcohols were
+   identified as products, and their identities were established by
+   (NaBH4)-H-2 reduction, chemical cleavage, and mass spectrometry. The
+   monoalcohol corresponding to reduction at C-8 formed first in reactions
+   catalyzed by either the rat or the human AFAR. This C-8 monoalcohol was
+   further reduced to AFB(1) dialcohol by AFAR. The other monoalcohol
+   (C-6a) was formed but not reduced to the dialcohol rapidly. Steady-state
+   kinetic parameters were Estimated for the reduction of AFB(1) dialdehyde
+   by rat and human AFAR to the monoalcohols. The apparent k(cat) and K-m
+   values were not adequate to rationalize the observed DeltaA(340)
+   spectral changes in a kinetic model. Simulation fitting was done and
+   yielded parameters indicative of greater enzyme efficiency. A survey of
+   12 human liver cytosol samples showed a variation of 2.3-fold in AFAR
+   activity. Rats treated with AFB(1) excreted the dialcohol and a
+   monoalcohol in urine. The results of these studies are consistent with a
+   role of(rat and human) AFAR in protection against AFB(1) toxicity.
+TC 30
+ZB 25
+Z8 0
+Z9 31
+SN 0893-228X
+UT WOS:000169474500012
+ER
+
+PT J
+AU Hudson, CE
+   Schulte, BA
+   Sutter, TR
+   Norris, JS
+TI Steroid hormones modulate expression of cytochrome P450 enzymes in male
+   hamster reproductive tract and leiomyosarcomas
+SO CARCINOGENESIS
+VL 22
+IS 5
+BP 763
+EP 770
+DI 10.1093/carcin/22.5.763
+PD MAY 2001
+PY 2001
+AB Syrian hamsters treated with estrogen and androgen for 8 months develop
+   leiomyosarcomas in the vas deferens, Metabolism of estrogen by
+   cytochrome P450s (CYPs) produces catechols and reactive oxygen species,
+   and may contribute to tumor formation. To examine this issue, male
+   hamsters were treated with 17 beta -estradiol (E2), testosterone
+   propionate (TP) or both hormones. Reproductive tract tissues from
+   control and treated animals were immunostained with antibodies specific
+   for four CYP enzymes (1A1, 1A2, 1B1 and 3A1/2). Immunoreactive CYP1A1
+   was not found in the reproductive tract of control or treated animals.
+   In untreated hamsters, CYP1A2 was detected only in principal cells of
+   the caput epididymis. TP alone had no effect, but treatment with E2
+   induced expression of CYP1A2 in columnar epithelial cells throughout the
+   epididymis and lining of the vas deferens. Treatment with E2 + TP
+   blocked the induction of CYP1A2 seen in surface epithelial cells treated
+   with E2 alone, but not the constitutive expression of this enzyme.
+   Instead, simultaneous exposure to both hormones induced CYP1A2 in basal
+   cells of the epididymis and vas deferens, CYP3A1/2 was not detected in
+   the reproductive tract of control or TP-treated males, but
+   immunostaining was induced in the inner layer of vas deferens smooth
+   muscle by E2, and in all smooth muscle layers by dual hormone treatment.
+   In controls, CYP1B1 was present in smooth muscle lining the epididymis
+   and surrounding the vas deferens and dual hormone treatment increased
+   staining intensity for CYP1B1 in these cells. Immunoreactive CYP1A2 was
+   not detectable in leiomyosarcomas but the enzyme was present in both
+   columnar and basal cells of the vas deferens epithelium adjacent to the
+   tumors. In contrast, tumor cells showed heterogeneous expression of both
+   CYP1B1 and CYP3A1/2. The relationships between hormone treatment,
+   differential CYP expression and tumor formation strengthen our
+   hypothesis that metabolism of estrogen is an important element in this
+   model of hormonal carcinogenesis.
+TC 6
+ZB 6
+Z8 0
+Z9 7
+SN 0143-3334
+UT WOS:000168640800012
+ER
+
+PT J
+AU Gimm, O
+   Sutter, T
+   Dralle, H
+TI Diagnosis and therapy of sporadic and familial medullary thyroid
+   carcinoma
+SO JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+VL 127
+IS 3
+BP 156
+EP 165
+DI 10.1007/s004320000173
+PD MAR 2001
+PY 2001
+AB Medullary thyroid carcinoma (MTC) is a rare thyroid malignancy. About
+   75% are sporadic (sMTC) while the remaining 25% are hereditary (hMTC).
+   The treatment of choice for both sMTC and hMTC is surgery. An adequate
+   initial operation provides the best chance of cure. Hence, the diagnosis
+   of MTC should be made preoperatively. In sMTC, ultrasound,
+   ultrasound-guided fine-needle aspiration cytology and measurement of
+   calcitonin levels (basal and after injection of calcitonin-stimulating
+   reagents, e.g., pentagastrin) are sensitive diagnostic tools. In hMTC,
+   identification of a germline mutation in the proto-oncogene RET is
+   sufficient for making the diagnosis. Total thyroidectomy is recommended
+   in all patients, sporadic and hereditary. In addition, lymphadenectomy
+   of the cervicocentral and both cervicolateral compartments should be
+   performed. The only indication to perform a less extensive operation may
+   be given in young patients with hMTC. Sufficient treatment of MTC beyond
+   local disease is still nonexistent. Future research should concentrate
+   on this issue.
+TC 31
+ZB 13
+Z8 1
+Z9 33
+SN 0171-5216
+UT WOS:000167177700002
+ER
+
+PT J
+AU Kwak, MK
+   Itoh, K
+   Yamamoto, M
+   Sutter, TR
+   Kensler, TW
+TI Role of transcription factor Nrf2 in the induction of hepatic phase 2
+   and antioxidative enzymes in vivo by the cancer chemoprotective agent,
+   3H-1,2-dithiole-3-thione
+SO MOLECULAR MEDICINE
+VL 7
+IS 2
+BP 135
+EP 145
+PD FEB 2001
+PY 2001
+AB Background: The induction of phase 2 enzymes by dithiolethiones such as
+   oltipraz is an effective means for achieving protection against
+   environmental carcinogens in animals and humans. Transcriptional control
+   of the expression of at least some of these protective enzymes is
+   mediated through the antioxidant response element (ARE) found in the
+   upstream regulatory region of many phase 2 genes. The transcription
+   factor Nrf2, which binds to the ARE, appears to be essential for the
+   induction of prototypical phase 2 enzymes such as glutathione
+   S-transferase (GST) Ya, Yp, and NAD(P)H: quinone reductase (NQO1) in
+   vivo.
+   Materials and Methods: In the present study, 3H-1,2-dithiole-3-thione
+   (D3T) was used as a potent model inducer whose effects on gene
+   expression and chemopreventive efficacy have been extensively
+   characterized in the rat. Over a dozen putative D3T-inducible genes were
+   examined in wild-type and nrf2-disrupted mice by Northern blot
+   hybridization and reverse transcriptase-polymerase chain reaction
+   (RT-PCR) analysis to elucidate whether loss of Nrf2 function also
+   affects the induction of a broader representation of phase 2 and
+   antioxidative enzymes. The effects of D3T on hepatic Nrf2 expression and
+   localization were also examined in vivo by Northern blot hybridization,
+   electromobility shift assay, and Western blot analysis.
+   Results: Specific activities of hepatic GST and NQO1 were increased by
+   D3T in wild-type mice and were largely blunted in the nrf2-deficient
+   mice. However, changes in levels of RNA transcripts following D3T
+   treatment of nrf2-disrupted mice were multidirectional, dependent upon
+   the particular gene examined. Although elevation of mRNAs for GST Ya,
+   NQO1, microsomal epoxide hydrolase and gamma -glutamylcysteine
+   synthetase regulatory chain were blocked in the mutant mice, elevation
+   of GST Yp mRNA was largely unimpeded. Increases in levels of mRNA for
+   the heavy and light chains of ferritin were only seen in the
+   nrf2-disrupted mice. Transcript levels of UDP-glucuronyl-transferase
+   1A6, heme oxygenase-1, maganese superoxide dismutase, which were
+   inducible in the wild-type mice, actually decreased in the mutant mice,
+   whereas levels of mRNA for GST Yc, aflatoxin B-1 aldehyde reductase and
+   catalase decreased following D3T treatment in the mutant mice in the
+   absence of any inductive effect by D3T in the wild-type mice. In
+   wild-type mice, treatment with D3T lead to 3-fold increases in hepatic
+   Nrf2 mRNA levels within several hours following dosing as assessed by
+   Northern blot and RT-PCR analyses. Gel shift analyses with
+   oligonucleotide probes for human NQO1 ARE, murine GST Ya ARE, and
+   erythroid transcription factor (NF-E2) binding site showed increased
+   intensity of binding with nuclear extracts prepared from livers of
+   D3T-treated mice compared to vehicle-treated controls. Antibody to Nrf2
+   supershifted the DNA binding bands of these nuclear extracts. Moreover,
+   immunoblot analysis indicated accumulation of Nrf2, in extracts prepared
+   from hepatic nuclei of D3T-treated mice at the same time points.
+   Conclusions: Nrf2 plays a central role in the regulation of constitutive
+   and inducible expression of multiple phase 2 and antioxidative enzymes
+   by chemoprotective dithiolethiones in vivo, although patterns of
+   response vary among different genes. Knowledge of the factors
+   controlling the specificity of actions of enzyme inducers will be
+   exceedingly helpful in the design and isolation of more efficient and
+   selective chemoprotective agents.
+TC 157
+ZB 150
+Z8 1
+Z9 162
+SN 1076-1551
+UT WOS:000167284700006
+ER
+
+PT J
+AU Jefcoate, Colin R.
+   Liehr, Joachim G.
+   Santen, Richard J.
+   Sutter, Thomas R.
+   Yager, James D.
+   Yue, Wei
+   Santner, Steven J.
+   Tekmal, Rajeshwar
+   Demers, Laurence
+   Pauley, Robert
+   Naftolin, Frederick
+   Mor, Gil
+   Berstein, Lev
+TI Chapter 5: Tissue-specific synthesis and oxidative metabolism of
+   estrogens
+SO Journal of the National Cancer Institute Monographs
+IS 27
+BP 95
+EP 112
+PD 2000
+PY 2000
+AB Estrogen exposure represents the major known risk factor for development
+   of breast cancer in women and is implicated in the development of
+   prostate cancer in men. Human breast tissue has been shown to be a site
+   of oxidative metabolism of estrogen due to the presence of specific
+   cytochrome P450 enzymes. The oxidative metabolism of 17beta-estradiol
+   (E2) to E2-3,4-quinone metabolites by an E2-4-hydroxylase in breast
+   tissue provides a rational hypothesis to explain the mammary
+   carcinogenic effects of estrogen in women because this metabolite is
+   directly genotoxic and can undergo redox cycling to form genotoxic
+   reactive oxygen species. In this chapter, evidence in support of this
+   hypothesis and of the role of P4501B1 as the 4-hydroxylase expressed in
+   human breast tissue is reviewed. However, the plausibility of this
+   hypothesis has been questioned on the grounds that insufficient E2 is
+   present in breast tissue to be converted to biologically significant
+   amounts of metabolite. This critique is based on the assumption that
+   plasma and tissue E2 levels are concordant. However, breast cancer
+   tissue E2 levels are 10-fold to 50-fold higher in postmenopausal women
+   than predicted from plasma levels. Consequently, factors must be present
+   to alter breast tissue E2 levels independently of plasma concentrations.
+   One such factor may be the local production of E2 in breast tissue
+   through the enzyme aromatase, and the evidence supporting the expression
+   of aromatase in breast tissue is also reviewed in this chapter. If
+   correct, mutations or environmental factors enhancing aromatase activity
+   might result in high tissue concentrations of E2 that would likely be
+   sufficient to serve as substrates for CYP1B1, given its high affinity
+   for E2. This concept, if verified experimentally, would provide
+   plausibility to the hypothesis that sufficient E2 may be present in
+   tissue for formation of catechol metabolites that are estrogenic and
+   which, upon further oxidative metabolism, form genotoxic species at
+   levels that may contribute to estrogen carcinogenesis.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1052-6773
+UT BIOABS:BACD200100189060
+ER
+
+PT J
+AU Shimada, T
+   Watanabe, J
+   Kawajiri, K
+   Sutter, TR
+   Guengerich, FP
+   Gillam, EMJ
+   Inoue, K
+TI Catalytic properties of polymorphic human cytochrome P4501B1 variants
+SO CARCINOGENESIS
+VL 20
+IS 8
+BP 1607
+EP 1613
+DI 10.1093/carcin/20.8.1607
+PD AUG 1999
+PY 1999
+AB Four polymorphic human cytochrome P450 (CYP) 1B1 allelic variants,
+   namely Arg48,Ala119,Leu432,Asn453, Arg48,Ser119,Leu432,Asn453,
+   Arg48,Ala119,Val432,Asn453 and Arg48,Ser119,Val432,Asn453, were
+   expressed in Escherichia coli together with human NADPH-P450 reductase
+   and the recombinant proteins (in bacterial membranes) were used to
+   assess whether CYP1B1 polymorphisms affect catalytic activities towards
+   a variety of P450 substrates, including diverse procarcinogens and
+   steroid hormones. Activities for activation of 19 procarcinogens to
+   DNA-damaging products by these four CYP1B1 variants in a Salmonella
+   typhimurium NM2009 umu response system were found to be essentially
+   similar, except that a Arg48, Ser119,Leu432,Asn453 variant was slightly
+   more active (1.2- to 1.5-fold) than the other three CYP1B1 enzymes in
+   catalyzing activation of (+)- and (-)-benzo[a]pyrene-7,8-diols,
+   7,12-dimethylbenz[a]anthracene-3,4-diol, benzo[g]chrysene-11,12-diol,
+   benzo[b]fluoranthene-9,10-diol,2-amino-3,5-dimethylimidazol[4,5f]quinoli
+   ne, 2-amino-3-methyl-imidazo[4,5-f]quinoline and 2-aminofluorene.
+   Kinetic analysis of 17 beta-estradiol hydroxylation showed that V-max
+   values for 4-hydroxylation ranged between 0.9 and 1.5 nmol/min/nmol P450
+   for 4-hydroxylation and 0.3 and 0.6 nmol/min/nmol P450 for
+   2-hydroxylation in these CYP1B1 variants, with K-m values ranging from 1
+   to 9 mu M, Interestingly, the ratio of product formation of
+   4-hydroxyestradiol to 2-hydroxyestradiol was higher for the Val432
+   variants of CYP1B1 variants than the Leu432 variants of the enzyme. The
+   same trend was noted in the ratio of estrone 4-hydroxylation to estrone
+   2-hydroxylation catalyzed by CYP1B1 variants. Mutation in the CYP1B1
+   genes also affected the K-m and V-max values in the 6 beta-hydroxylation
+   of testosterone and 6 beta- and 16 alpha-hydroxylation of progester-
+   one. These results indicate that the polymorphisms in the human CYP1B1
+   gene cause some alterations in catalytic function towards procarcinogens
+   and steroid hormones and thus may make some contribution to
+   susceptibilities of individuals towards mammary and lung cancers in
+   humans.
+TC 180
+ZB 162
+Z8 0
+Z9 185
+SN 0143-3334
+UT WOS:000082004100033
+ER
+
+PT J
+AU Pang, SK
+   Cao, JQ
+   Katz, BH
+   Hayes, CL
+   Sutter, TR
+   Spink, DC
+TI Inductive and inhibitory effects of non-ortho-substituted
+   polychlorinated biphenyls on estrogen metabolism and human cytochromes
+   P450 1A1 and 1B1
+SO BIOCHEMICAL PHARMACOLOGY
+VL 58
+IS 1
+BP 29
+EP 38
+DI 10.1016/S0006-2952(99)00070-2
+PD JUL 1 1999
+PY 1999
+AB The effects of a series of non-ortho-substituted polychlorinated
+   biphenyls (PCBs) on human cytochrome P450 1A1 (CYP1A1), a 17
+   beta-estradiol (E-2) 2-hydroxylase, and P450 1B1 (CYF1B1), an E-2
+   4-hydroxylase, were investigated. in HepG2 and MCF-7 cells. Elevated
+   rates of 2- and 4-methoxyestradiol (2- and 4 MeOE2) formation in
+   PCB-treated cultures were measured as activities of CYP1A1 and CYP1B1,
+   respectively. Of the congeners investigated,
+   3,4,4',5-tetrachlorobiphenyl (PCB 81), 3,3',4,4',5-pentachlorobiphenyl
+   (PCB 126), and 3,4',5-trichlorobiphenyl (PCB 39) caused marked
+   stimulation of E-2 metabolism in both cell lines. Northern blot analyses
+   confirmed that exposure of MCF-7 cells to PCBs 81, 126, and 39 caused
+   highly elevated levels of the CYP1A1 and CYP1B1 mRNAs. Exposure of MCF-7
+   cells to 3,3',4,4',5,5'-hexachlorobiphenyl (PCB 169) resulted in
+   elevated levels of the CYP1A1 and CYP1B1 mRNAs, but did nut cause
+   elevated rates of E-2 metabolism; rather, 4-MeOE2 production was
+   depressed to below control levels in PCB 169-treated cultures. PCB 169
+   also inhibited the 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)-induced
+   4-MeOE2 and, to a lesser extent, 2-MeOE2 production in MCF-7 cells, as
+   did PCB 126 and several other congeners. In microsomal assays,
+   inhibition of cDNA-expressed human CYP1B1 by PCBs 169 and 126 was
+   demonstrated. These studies with one subgroup of PCBs, the non
+   ortho-substituted congeners, underscore the complexity and diversity of
+   effects of PCBs, as individual congeners were found both to induce
+   expression and to inhibit activity of human CYP1B1 and CYP1A1. BIOCHEM
+   PHARMACOL 58;1:29-38, 1999. (C) 1999 Elsevier Science Inc.
+TC 47
+ZB 43
+Z8 0
+Z9 47
+SN 0006-2952
+UT WOS:000080689600002
+ER
+
+PT J
+AU Knight, LP
+   Primiano, T
+   Groopman, JD
+   Kensler, TW
+   Sutter, TR
+TI cDNA cloning, expression and activity of a second human aflatoxin
+   B-1-metabolizing member of the aldo-keto reductase superfamily, AKR7A3
+SO CARCINOGENESIS
+VL 20
+IS 7
+BP 1215
+EP 1223
+DI 10.1093/carcin/20.7.1215
+PD JUL 1999
+PY 1999
+AB The aflatoxin B-1 (AFB(1)) aldehyde metabolite of AFB(1) may contribute
+   to the cytotoxicity of this hepatocarcinogen via protein adduction,
+   Aflatoxin B-1 aldehyde reductases, specifically the NADPH-dependent
+   aldo-keto reductases of rat (AKR7A1) and human (AKR7A2), are known to
+   metabolize the AFB(1) dihydrodiol by forming AFB1 dialcohol, Using a rat
+   AKR7A1 cDNA, we isolated and characterized a distinct aldo-keto
+   reductase (AKR7A3) from an adult human liver cDNA library. The deduced
+   amino acid sequence of AKR7A3 shares 80 and 88% identity with rat AKR7A1
+   and human AKR7A2, respectively. Recombinant rat AKR7A1 and human AKR7A3
+   were expressed and purified from Escherichia colt as hexa-histidine
+   tagged fusion proteins. These proteins catalyzed the reduction of
+   several model carbonyl-containing substrates. The NADPH-dependent
+   formation of AFB(1) dialcohol by recombinant human AKR7A3 was confirmed
+   by liquid chromatography coupled to electrospray ionization mass
+   spectrometry, Rabbit polyclonal antibodies produced using recombinant
+   rat AKR7A1 protein were shown to detect nanogram amounts of rat and
+   human AKR7A protein. The amount of AKR7A-related protein in hepatic
+   cytosols of 1,2-dithiole-3-thione-treated rats was 18-fold greater than
+   in cytosols from untreated animals, These antibodies detected
+   AKR7A-related protein in normal human liver samples ranging from 0.3 to
+   0.8 mu g/mg cytosolic protein. Northern blot analysis showed varying
+   levels of expression of AKR7A RNA in human liver and in several
+   extrahepatic tissues, with relatively high levels in the stomach,
+   pancreas, kidney and liver. Based on the kinetic parameters determined
+   using recombinant human AKR7A3 and AFB(1) dihydrodiol at pH 7.4, the
+   catalytic efficiency of this reaction (k(2)/K, per M/s) equals or
+   exceeds those reported for other enzymes, for example cytochrome P450s
+   and glutathione S-transferases, known to metabolize AFB(1) in vivo.
+   These findings indicate that, depending on the extent of AFB(1)
+   dihydrodiol formation, AKR7A may contribute to the protection against
+   AFB(1)-induced hepatotoxicity.
+TC 55
+ZB 50
+Z8 0
+Z9 56
+SN 0143-3334
+UT WOS:000081549200009
+ER
+
+PT J
+AU Shimada, T
+   Gillam, EMJ
+   Oda, Y
+   Tsumura, F
+   Sutter, TR
+   Guengerich, FP
+   Inoue, K
+TI Metabolism of benzo[a]pyrene to
+   trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene by recombinant human
+   cytochrome P4501B1 and purified liver epoxide hydrolase
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 12
+IS 7
+BP 623
+EP 629
+DI 10.1021/tx990028s
+PD JUL 1999
+PY 1999
+AB Recombinant human enzymes expressed in membranes obtained from
+   Escherichia coli transformed with cytochrome P450 (P450) and NADPH-P450
+   reductase cDNAs were used to identify the human P450 enzymes that are
+   most active in catalyzing the oxidative transformation of benzo[a]pyrene
+   in vitro. Activation of benzo[a]pyrene to genotoxic products that cause
+   induction of umu gene expression in Salmonella typhimurium NM2009 by
+   P450 1A1 and P450 1B1 enzymes was found to be enhanced by inclusion of
+   purified epoxide hydrolase (isolated from rat or human livers) with the
+   reaction mixture. High-performance liquid chromatographic analysis
+   showed that P450 1B1 catalyzed benzo[a]pyrene to
+   trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene at level of similar to 3
+   nmol min(-1) nmol of P450(-1) only when epoxide hydrolase was present
+   and P450 1A1 (with the hydrolase) was able to catalyze benzo[la]pyrene
+   at one-tenth of the activity catalyzed by P450 1B1. Kinetic analysis
+   showed that ratio of V-max to K-m for the formation of
+   trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene in this assay system was
+   3.2-fold higher in CYP1B1 than in CYP1A1. Other human P450s (including
+   P450s 1A2, 2E1, and 3A4) were found to have very low or undetectable
+   activities toward the formation of trans-7,8-dihydroxy-
+   7,8-dihydrobenzo[a] pyrene. A reconstituted system containing purified
+   P450 1B1, rabbit liver NADPH-P450 reductase, and human liver epoxide
+   hydrolase was found to catalyze benzo[a]pyrene to
+   trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene at a rate of 0.86 nmol
+   min(-1) nmol of P450-1; the activities were found to be largely
+   dependent on the presence of sodium cholate in the system. These results
+   suggest that P450 1B1 is a principal enzyme in catalyzing the oxidation
+   of benzo[a]pyrene to trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene and
+   that the catalytic functions of P450 1B1 may determine the
+   susceptibilities of individuals to benzo[a]pyrene carcinogenesis.
+TC 98
+ZB 93
+Z8 0
+Z9 103
+SN 0893-228X
+UT WOS:000081603300011
+ER
+
+PT J
+AU Machens, A
+   Gimm, O
+   Ukkat, J
+   Sutter, T
+   Dralle, H
+TI Repeat mediastinal lymph-node dissection for palliation in advanced
+   medullary thyroid carcinoma
+SO LANGENBECKS ARCHIVES OF SURGERY
+VL 384
+IS 3
+BP 271
+EP 276
+DI 10.1007/s004230050203
+PD JUN 1999
+PY 1999
+AB Background: In medullary thyroid carcinoma (MTC), the effectiveness of
+   repeat mediastinal lymph-node dissection for palliation of specific
+   symptoms caused by discrete mediastinal lesions is unclear in non-bulky
+   tumor disease. Methods: Between November 1994 and August 1998, five
+   symptomatic MTC patients with radiologic evidence of mediastinal tumor
+   and elevated calcitonin levels were subjected to repeat mediastinal
+   lymph-node dissection. Results: At reoperation, an average of 7 of 25
+   (28%) removed cervical and 5 of 9 (56%) dissected mediastinal
+   lymph-nodes were positive on histopathology. A substantial fraction of
+   these were excised from anatomical regions inaccessible through a purely
+   cervical or partial sternotomy approach. Clinical symptoms were
+   effectively palliated in all five patients. Basal serum calcitonin
+   levels fell only moderately, suggesting distant micrometastases.
+   Mortality was nil. Morbidity encompassed two cases of hypoparathyroidism
+   and a lymphatic fistula that closed spontaneously on total parenteral
+   nutrition. One patient later required cervical reoperation deferred at
+   secondary surgery. Al five patients have since remained free of cervical
+   and mediastinal tumor at a mean follow-up of 15 months. Conclusions: In
+   mediastinal lymph-node metastases, repeat lymph-node dissection is
+   warranted for palliation of discrete anatomic lesions inaccessible
+   through a cervical approach.
+TC 12
+ZB 7
+Z8 1
+Z9 14
+SN 1435-2443
+UT WOS:000081246900007
+ER
+
+PT J
+AU Spencer, DL
+   Masten, SA
+   Lanier, KM
+   Yang, XP
+   Grassman, JA
+   Miller, CR
+   Sutter, TR
+   Lucier, GW
+   Walker, NJ
+TI Quantitative analysis of constitutive and
+   2,3,7,8-tetrachlorodibenzo-p-dioxin-induced cytochrome P450 1B1
+   expression in human lymphocytes
+SO CANCER EPIDEMIOLOGY BIOMARKERS & PREVENTION
+VL 8
+IS 2
+BP 139
+EP 146
+PD FEB 1999
+PY 1999
+AB Exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD or dioxin) results
+   in a broad spectrum of biological responses, including altered
+   metabolism, disruption of normal hormone signaling pathways,
+   reproductive and developmental effects, and cancer. Cytochrome P450 1B1
+   (CYP1B1) is a dioxin-inducible gene that is active in the formation of
+   4-hydroxyestradiol, a potentially genotoxic catechol estrogen,
+   Therefore, the analysis of CYP1B1 in humans may be useful in
+   establishing relationships between dioxin exposure and adverse health
+   effects. In this study, we examined the expression of CYP1B1 in human
+   peripheral blood lymphocytes of unexposed individuals using a
+   quantitative reverse transcription-PCR method. Absolute CYP1B1 RNA
+   levels varied more than 30-fold in uncultured mononuclear cells obtained
+   from 10 individuals. In vitro treatment of mitogen-stimulated
+   lymphocytes with TCDD for 1-5 days of culture resulted in a peak
+   induction of CYP1B1 after 3 days. The induction of CYP1B1 RNA levels
+   after 3 days of culture was dose-dependent, exhibited a maximum response
+   above 10 nM TCDD, and varied greatly among different individuals.
+   However, the half maximal dose required for this induction was similar
+   between individuals and comparable to that observed in the MCF-7 and
+   HepG2 human cell lines, These observations indicate that CYP1B1 exhibits
+   variable constitutive expression and is inducible in vitro by TCDD in
+   human lymphocytes and that the magnitude of induction varies within the
+   population. These data define the suitability of CYP1B1 for use as a
+   mechanistically based biomarker in ongoing molecular epidemiological
+   studies of human populations exposed to dioxins and related chemicals
+   that bind the aromatic hydrocarbon receptor.
+TC 55
+ZB 45
+Z8 0
+Z9 56
+SN 1055-9965
+UT WOS:000078552500004
+ER
+
+PT J
+AU Kensler, TW
+   Groopman, JD
+   Sutter, TR
+   Curphey, TJ
+   Roebuck, BD
+TI Development of cancer chemopreventive agents: Oltipraz as a paradigm
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 12
+IS 2
+BP 113
+EP 126
+DI 10.1021/tx980185b
+PD FEB 1999
+PY 1999
+TC 125
+ZB 101
+Z8 1
+Z9 127
+SN 0893-228X
+UT WOS:000078684300001
+ER
+
+PT J
+AU Walker, NJ
+   Portier, CJ
+   Lax, SF
+   Crofts, FG
+   Li, Y
+   Lucier, GW
+   Sutter, TR
+TI Characterization of the dose-response of CYP1B1, CYP1A1, and CYP1A2 in
+   the liver of female Sprague-Dawley rats following chronic exposure to
+   2,3,7,8-tetrachlorodibenzo-p-dioxin
+SO TOXICOLOGY AND APPLIED PHARMACOLOGY
+VL 154
+IS 3
+BP 279
+EP 286
+DI 10.1006/taap.1998.8595
+PD FEB 1 1999
+PY 1999
+AB One of the current knowledge gaps in the evaluation of risk for human
+   exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) is the
+   relationship between gene expression induced by TCDD and more complex
+   biological responses such as altered growth, differentiation, and
+   neoplasia This study investigates the dose-dependent expression of
+   CYP1A1, CYP1A2, and CYP1B1 in the livers of female Sprague-Dawley rats
+   chronically exposed to TCDD. Animals were treated biweekly for 30 weeks
+   with daily averaged doses of 0 to 125 ng TCDD/kg/day. Immunoblot
+   analysis showed that protein levels for CYP1B1, CYP1A1, and CYP1A2
+   exhibited a dose-dependent induction by TCDD. However, CYP1A1 and CYP1A2
+   protein levels were approximately 100-fold higher than CYP1B1, which
+   could not be detected by either immunoblot analysis or
+   immunohistochemistry in the livers of rats treated with TCDD for 30
+   weeks at a dose-equivalent less than 35.7 ng/kg/day. In control animals,
+   CYP1A1 and CYP1A2 RNA levels, measured by quantitative RT-PCR, were
+   1100- and 15,000-fold higher than that of CYP1B1, respectively. TCDD
+   induced CYP1B1 RNA levels at all doses, although absolute TCDD-induced
+   levels of CYP1A1 and CYP1A2 at the highest dose (125 ng/kg/day) were
+   more than 40-fold higher than that of CYP1B1. While the liver
+   concentration of TCDD required for half-maximal induction of CYP1A1,
+   CYP1A2, and CYP1B1 RNA levels was similar, the shaping parameter (Hill
+   coefficient) of the dose-response curve for CYP1B1 was significantly
+   higher than that for CYP1A1 or CYP1A2. The low level of TCDD-induced
+   CYP1B1 expression in the liver relative to that of the CYP1A1 and CYP1A2
+   suggest that, if CYP1B1 is involved in TCDD-induced
+   hepatocarcinogenesis, its endogenous function is likely to be unique and
+   not overlapping with that of CYP1A1 or CYP1A2. (C) 1999 Academic Press.
+TC 66
+ZB 62
+Z8 0
+Z9 68
+SN 0041-008X
+UT WOS:000078623400009
+ER
+
+PT J
+AU Crofts, FG
+   Sutter, TR
+   Strickland, PT
+TI Metabolism of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine by human
+   cytochrome P4501A1, P4501A2 and P4501B1
+SO CARCINOGENESIS
+VL 19
+IS 11
+BP 1969
+EP 1973
+DI 10.1093/carcin/19.11.1969
+PD NOV 1998
+PY 1998
+AB While the metabolic activation of
+   2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) by
+   N-hydroxylation has been well documented, the relative roles of the
+   human cytochrome P450 (CYP) enzymes that catalyze this reaction have not
+   been established, Previous studies indicated that the mutagenic
+   activation product, 2-hydroxyamino-PhIP (N-2-OH-PhIP), is produced
+   primarily by CYP1A2, and to a lesser extent by CYP1A1, We recently
+   reported that human CYP1B1 also produces N-2-OH-PhIP (Carcinogenesis,
+   18, 1793-1798, 1997), In the present study, we examined PhIP metabolism
+   by microsomes containing recombinant human CYP1A1, 1A2 or 1B1 expressed
+   in Sf9 insect cells and compared the kinetic values for PhIP metabolite
+   formation. PhIP metabolites were analyzed by high pressure liquid
+   chromatography with fluorescence and absorbance detection. V-max values
+   for N-2-OH-PhIP formation were 90, 16 and 0.2 nmol/min/nmol P450, and
+   the apparent K-m values were 79, 5.1 and 4.5 mu M for human CYP1A2, 1A1
+   and 1B1, respectively. The non-mutagenic metabolite, 4'-hydroxy-PhIP,
+   was also formed by all three CYP enzymes with V-max values of 1.5, 7.8
+   and 0.3 nmol/min/mmol P450 and apparent K-m values of 43, 8.2 and 2.2 mu
+   M for human CYP1A2, 1A1 and 1B1, respectively. Although the V-max for
+   N-2-OH-PhIP production was highest for CYP1A2, the catalytic efficiency
+   (V-max/K-m) of CYP1A1 was greater than that of CYP1A2, These results
+   suggest that, for humans, extrahepatic CYP1A1 may be more important than
+   previously thought for the metabolic activation of the dietary
+   carcinogen PhIP.
+TC 111
+ZB 105
+Z8 0
+Z9 113
+SN 0143-3334
+UT WOS:000077084600015
+ER
+
+PT J
+AU Kim, JH
+   Stansbury, KH
+   Walker, NJ
+   Trush, MA
+   Strickland, PT
+   Sutter, TR
+TI Metabolism of benzo[a]pyrene and benzo[a]pyrene-7,8-diol by human
+   cytochrome P450 1B1
+SO CARCINOGENESIS
+VL 19
+IS 10
+BP 1847
+EP 1853
+DI 10.1093/carcin/19.10.1847
+PD OCT 1998
+PY 1998
+AB Benzo[a]pyrene (B[a]P), a ubiquitous environmental, tobacco and dietary
+   carcinogen, has been implicated in human cancer etiology, The role of
+   human cytochrome P450 1B1 in the metabolism of B[a]P is poorly
+   understood. Using microsomal preparations of human P450 1A1, 1A2 and 1B1
+   expressed in baculovirus-infected insect cells, as well as human and rat
+   P450 1B1 expressed in yeast, we have determined the metabolism of B[a]P,
+   with and without the addition of exogenous epoxide hydrolase, and
+   B[a]P-7,8-dihydrodiol (7,8-diol), each substrate at a concentration of
+   10 mu M. HPLC analysis detected eight major metabolites of B[a]P and
+   four metabolites of the 7,8-diol, The results of these studies indicate
+   that cytochrome P450 1B1 carries out metabolism of B[a]P along the
+   pathway to the postulated ultimate carcinogen, the diol epoxide 2, at
+   rates much higher than P450 1A2 but less than P450 1A1, The rates of
+   formation of the 7,8-diol metabolite in incubations with epoxide
+   hydrolase are 0.17 and 0.38 nmol/min/nmol P450 for human P450 1B1 and
+   1A1, respectively, and undetectable for 1A2, The rates of total tetrol
+   metabolite formation from the 7,8-diol, which are indicative of diol
+   epoxide formation, are 0.60, 0.43 and 2.58 nmol/min/nmol P450 for 1B1,
+   1A2 and 1A1 respectively. In agreement with other reports of rat P450
+   1B1 activity, our data show this rat enzyme to be very active for B[a]P
+   and 7,8-diol, with rates higher than human P450 1B1, In addition to the
+   established role of P450 1A1 in B[a]P metabolism P450 1B1 may
+   significantly contribute to B[a]P and 7,8-diol metabolism and
+   carcinogenesis in rodent tumor models and in humans.
+TC 148
+ZB 141
+Z8 0
+Z9 154
+SN 0143-3334
+UT WOS:000076511800020
+ER
+
+PT J
+AU Shimada, T
+   Wunsch, RM
+   Hanna, IH
+   Sutter, TR
+   Guengerich, FP
+   Gillam, EMJ
+TI Recombinant human cytochrome P450 1B1 expression in Escherichia coli
+SO ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+VL 357
+IS 1
+BP 111
+EP 120
+DI 10.1006/abbi.1998.0808
+PD SEP 1 1998
+PY 1998
+AB Human cytochrome P450 (P450) 1B1 was expressed in Escherichia coli at a
+   level of 200 nmol/liter culture using a pCW vector by removal of codons
+   2-4 and modification of the nucleotide sequence of the resulting
+   N-terminal seven codons; a similar level of expression was found with a
+   bicistronic construct that also expressed human NADPH-P450 reductase,
+   P450 1B1 was purified (from the monocistronic system) to electrophoretic
+   homogeneity and a specific content of 9.2 nmol P450/mg protein using
+   DEAE, CM, and hydroxylapatite chromatography, The absolute spectra
+   showed a considerable fraction of high-spin iron and little cytochrome
+   P420, The catalytic activity of the purified enzyme was considerably
+   enhanced in the presence of cholate. Both reconstituted P450 1B1 and the
+   bacterial membranes prepared from the bicistronic vector system had
+   similar 7-ethoxyresorufin O-deethylation activities; as expected, 17
+   beta-estradiol was hydroxylated primarily at the 4-position. The ability
+   of human P450 1B1 to activate several heterocyclic amines and polycyclic
+   hydrocarbon dihydrodiols was confirmed with reconstituted P450 1B1 and
+   the P450 1B1 membranes in which NADPH-P450 reductase was coexpressed.
+   (C) 1998 Academic Press.
+TC 67
+ZB 66
+Z8 1
+Z9 69
+SN 0003-9861
+UT WOS:000075742300014
+ER
+
+PT J
+AU Primiano, T
+   Li, YB
+   Kensler, TW
+   Trush, MA
+   Sutter, TR
+TI Identification of dithiolethione-inducible gene-1 as a leukotriene B-4
+   12-hydroxydehydrogenase: implications for chemoprevention
+SO CARCINOGENESIS
+VL 19
+IS 6
+BP 999
+EP 1005
+DI 10.1093/carcin/19.6.999
+PD JUN 1998
+PY 1998
+AB Cancer chemoprevention is inhibition of neoplastic disease by naturally
+   occurring or synthetic chemical agents. Dithiolethiones inhibit
+   production of experimentally produced tumors by elevating the expression
+   of several genes that encode for known cytoprotective enzymes. In an
+   effort to discover additional molecular mechanisms mediating
+   chemoprevention, cDNA clones representing a gene that is
+   transcriptionally activated by dithiolethiones, hence named
+   dithiolethione-inducible gene-1 (DIG-1), were isolated from rat liver
+   via differential hybridization screening. The deduced amino acid
+   sequence of DIG-1 was found to have 80% identity with the human liver
+   enzyme leukotriene B-4 (LTB4) 12-hydroxydehydrogenase. DIG-1, purified
+   >400-foId from the liver of rats dosed with
+   1,2-dithiole-3-dithiolethione, possessed an NADP(+)-dependent activity
+   to convert LTB4 to 12-oxo-LTB4. Kinetic analysis of DIG-1 revealed
+   apparent K-m and V-max values of 28 mM and 8.1 nmol 12-oxo-LTB4
+   formed/min/mg purified protein respectively. Since LTB4 is a potent
+   chemotactic factor and stimulator of production of reactive oxygen
+   species from neutrophils, the effects of DIG-1 on these LTB4-mediated
+   processes were examined. Pre-incubation of LT]B4 with purified rat
+   hepatic DIG-1 greatly diminished LTB4-stimulated migration of
+   neutrophils. In addition, preincubation of LTB4 with purified rat
+   hepatic DIG-1 reduced LTB4-stimulated production of superoxide anions in
+   neutrophils, as evidenced by decreased lucigenin-derived
+   chemiluminescence. These results suggest that DIG-1-catalyzed
+   dehydrogenation of LTB4 to 12-oxo-LTB4 inhibits the proinflammatory
+   actions of LTB4. Consequently, elevation of LTB4 catabolism via enhanced
+   DIG-1 activity may suppress inflammatory processes implicated in
+   tumorigenesis.
+TC 42
+ZB 40
+Z8 1
+Z9 44
+SN 0143-3334
+UT WOS:000074361300007
+ER
+
+PT J
+AU Walker, NJ
+   Crofts, FG
+   Li, Y
+   Lax, SF
+   Hayes, CL
+   Strickland, PT
+   Lucier, GW
+   Sutter, TR
+TI Induction and localization of cytochrome P4501B1 (CYP1B1) protein in the
+   livers of TCDD-treated rats: detection using polyclonal antibodies
+   raised to histidine-tagged fusion proteins produced and purified from
+   bacteria
+SO CARCINOGENESIS
+VL 19
+IS 3
+BP 395
+EP 402
+DI 10.1093/carcin/19.3.395
+PD MAR 1998
+PY 1998
+AB Knowledge of the response of cytochrome P450 1B1 (CYP1B1) to exposure to
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) in both humans and rodents is
+   limited. To improve the analysis of CYP1 proteins, specific CYP1B1 and
+   CYP1A1 polypeptides were expressed as hexahistidine-tagged fusion
+   proteins in Escherichia coli, purified to homogeneity and used to
+   produce polyclonal antibodies in rabbits. Immunoblot analyses showed
+   that these antibodies were specific and sensitive, detecting both the
+   human and rat forms of the respective isozymes and exhibiting negligible
+   cross-reactivity between the two known CYP1 subfamilies. We show that
+   CYP1B1, CYP1A1 and CYP1A2 protein levels were induced in the livers of
+   female Sprague-Dawley rats following either acute (single dose of 25 mu
+   g TCDD/kg) or chronic (125 ng TCDD/kg/day for 30 weeks) exposure to
+   TCDD, CYP1B1 protein exhibited a dose-response to TCDD that was
+   different from those of CYP1A1 and CYP1A2, CYP1B1 induction appeared to
+   be less sensitive to TCDD exposure, with induction occurring at higher
+   doses of TCDD than that required for induction of CYP1A1 or CYP1A2.
+   Immunohistochemical analysis showed that in animals chronically exposed
+   to TCDD (35 ng/kg/day for 30 weeks), CYP1B1 was induced only in
+   centrilobular hepatocytes, a pattern of expression similar to that of
+   CYP1A1 and CYP1A2. These observations of cellular co-localization of the
+   CYP1 cytochromes in livers of TCDD-treated rats and apparent differences
+   in both protein amounts and dose-response are indicative of both common
+   and unique regulation of CYP1 induction.
+TC 32
+ZB 29
+Z8 1
+Z9 34
+SN 0143-3334
+UT WOS:000072481100003
+ER
+
+PT J
+AU Spink, DC
+   Spink, BC
+   Cao, JQ
+   DePasquale, JA
+   Pentecost, BT
+   Fasco, MJ
+   Li, Y
+   Sutter, TR
+TI Differential expression of CYP1A1 and CYP1B1 in human breast epithelial
+   cells and breast tumor cells
+SO CARCINOGENESIS
+VL 19
+IS 2
+BP 291
+EP 298
+DI 10.1093/carcin/19.2.291
+PD FEB 1998
+PY 1998
+AB Human cytochromes P450 1A1 (CYP1A1) and P450 1B1 (CYP1B1) catalyze the
+   metabolic activation of a number of procarcinogens and the hydroxylation
+   of 17 beta-estradiol (E-2) at the C-2 and C-4 positions, respectively.
+   The aromatic hydrocarbon receptor (AhR) agonist
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) has a marked effect on
+   estrogen metabolism in MCF-7 breast-tumor cells by induction of these
+   two enzymes. To investigate whether induction of CYP1A1 and CYP1B1 by
+   AhR agonists and the associated increase in E-2 metabolism are common to
+   all breast epithelial cells and breast-tumor cells, we determined the
+   effects of TCDD on E-2 metabolism, and CYP1A1 and CYP1B1 mRNA levels in
+   a series of non-tumor-derived breast epithelial (184A1 and MCF-10A) and
+   breast-tumor (MCF-7, T-47D, ZR-75-1, BT-20, MDA-MB-157, MDA-MB-231 and
+   MB-231 and MDA-MB-436) cell lines. In 184A1 cells, which did not express
+   detectable estrogen receptor (ER) a mRNA, CYP1A1 mRNA and activity were
+   induced by TCDD, and enhanced E-2 metabolism in TCDD-treated cells was
+   predominantly E-2 2-hydroxylation. In MCF-10A, MCF-7, T-47D, ZR-75-1 and
+   BT-20 cells, which expressed varying levels of ER alpha mRNA, both
+   CYP1A1 and CYP1B1 mRNA levels and rates of both E-2 2- and
+   4-hydroxylation were highly elevated following exposure to TCDD, In
+   MIDA-MB157, MDA-MB-231 and MDA-MB-436 cells, which did not express
+   detectable ER alpha mRNA and generally displayed fibroblastic or
+   mesenchymal rather than epithelial morphology CYP1B1 induction was
+   favored, and the rate of E-2 4-hydroxylation exceeded that of
+   2-hydroxylation in TCDD-treated cells, These results show that breast
+   epithelial cells and tumor cells vary widely with regard to AhR-mediated
+   CYP1A1 and CYP1B1 induction, suggesting that factors in addition to the
+   AhR regulate CYP1A1 and CYP1B2 gene expression, In these cell lines,
+   significant CYP1A1 inducibility was restricted to cultures displaying
+   epithelial morphology, whereas CYP1B1 inducibility was observed in cells
+   of both epithelial and mesenchymal morphology.
+TC 189
+ZB 167
+Z8 0
+Z9 192
+SN 0143-3334
+UT WOS:000072109000009
+ER
+
+PT J
+AU Shimada, T
+   ElBayoumy, K
+   Upadhyaya, P
+   Sutter, TR
+   Guengerich, FP
+   Yamazaki, H
+TI Inhibition of human cytochrome p450-catalyzed oxidations of xenobiotics
+   and procarcinogens by synthetic organoselenium compounds
+SO CANCER RESEARCH
+VL 57
+IS 21
+BP 4757
+EP 4764
+PD NOV 1 1997
+PY 1997
+AB The effects of synthetic chemopreventive organoselenium compounds 1,2-,
+   1,3-, and 1,4-phenylenebis(methylene)selenocyanate (o-, m-, and p-XSC,
+   respectively), benzyl selenocyanate (BSC), and dibenzyl diselenide (DDS)
+   and inorganic sodium selenite on the oxidation of xenobiotics and
+   procarcinogens by human cytochrome p450 (P450 or CYP) enzymes were
+   determined in vitro. Spectral studies showed that BSC and three XSC
+   compounds (but not sodium selenite or DDS) induced type II difference
+   spectrum when added to the suspension of liver microsomes isolated from
+   beta-naphthoflavone-treated rats, with m-XSC being the most potent in
+   inducing spectral interactions with P450 enzymes; m-XSC also produced a
+   type II spectral change with human liver microsomes. o-, m-, and p-XSC
+   inhibited 7-ethoxyresorufin O-deethylation catalyzed by human liver
+   microsomes when added at concentrations below 1 mu M levels, but BSC and
+   DDS were less effective. All of these compounds inhibited the oxidation
+   of model substrates for human P450s to varying extents. We studied the
+   effects of these compounds on the activation of procarcinogens by
+   recombinant human CYP1A1, 1A2, and 1B1 enzymes using Salmonella
+   typhimurium NM2009 tester strain for the detection of DNA damage. The
+   three XSCs were found to be very potent inhibitors of metabolic
+   activation of 3-amino-1,4-dimethyl-5H-pyrido[4,3-b]indole,
+   2-amino-3,5-dimethylimidazo[4,5-f]quinoline, and 2-aminoanthracene,
+   catalyzed by CYP1A1, 1A2, and 1B1, respectively. The potency of
+   inhibition of m-XSC on CYP1B1-dependent activation of 2-aminoanthracene
+   was compatible to those of alpha-naphthoflavone. These inhibitory
+   actions my, in part, account for the mechanisms responsible for cancer
+   prevention by organoselenium compounds in laboratory animals.
+TC 41
+ZB 34
+Z8 0
+Z9 42
+SN 0008-5472
+UT WOS:A1997YD35800021
+ER
+
+PT J
+AU Primiano, T
+   Sutter, TR
+   Kensler, TW
+TI Redox regulation of genes that protect against carcinogens
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 118
+IS 3
+BP 487
+EP 497
+DI 10.1016/S0305-0491(97)00221-6
+PD NOV 1997
+PY 1997
+AB Most carcinogens require activation to electrophilic metabolites or
+   species that generate reactive oxygen in order to initiate the
+   tumorigenic process. These reactive intermediates can, in turn, be
+   detoxified by endogenous enzyme systems that aid in the protection of
+   cells from either toxic or mutagenic product formation. The levels of
+   many of these enzymes are elevated by numerous compounds found in the
+   diet, or by antioxidants. Recent evidence describes the mechanism for
+   this induction of carcinogen detoxication enzymes to be regulated at the
+   transcriptional level. Nuclear transcription factors bound to sites
+   common among these carcinogen detoxication genes are activated by as yet
+   unknown signal transduction pathways. The activity of these nuclear
+   transcription factors are modulated by pro-and antioxidant reagents,
+   suggesting that a redox-sensitive component governs the induction of
+   enzymes involved in carcinogen metabolism. In this review, evidence for
+   the redox regulation of the genes encoding carcinogen detoxication
+   enzymes is presented. Evidence is also presented suggesting the
+   participation of nuclear factor kappa B (NF-kappa B), mitogen-activated
+   protein (MAP) kinase, and basic leucine zipper (bZIP) proteins and their
+   activation pathways in this induction. (C) 1997 Elsevier Science Inc.
+TC 32
+ZB 30
+Z8 1
+Z9 34
+SN 0305-0491
+UT WOS:000071228800004
+ER
+
+PT J
+AU Crofts, FG
+   Strickland, PT
+   Hayes, CL
+   Sutter, TR
+TI Metabolism of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) by
+   human cytochrome P4501B1
+SO CARCINOGENESIS
+VL 18
+IS 9
+BP 1793
+EP 1798
+DI 10.1093/carcin/18.9.1793
+PD SEP 1997
+PY 1997
+AB Cytochrome P4501B1 (CYP1B1) is the most recently identified member of
+   the dioxin-inducible CYP1 family, CYP1B1 is constitutively expressed in
+   most human tissues, including colon and breast, and can activate
+   numerous chemically diverse carcinogens, We evaluated the metabolism of
+   the dietary heterocyclic amine carcinogen
+   2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) by microsomes
+   from yeast expressing the human CYP1B1 protein, PhIP metabolites were
+   analysed by HPLC with fluorescence and absorbance detection, We found
+   that human CYP1B1 metabolizes PhIP to three products: N-2-OH-PhIP, a
+   mutagenic activation product; 4'-OH-PhIP, a detoxification product; and
+   2-OH-PhIP, the mutagenic potential of which is unknown, Metabolite
+   identity was confirmed by coelution with authentic standards and
+   synchronous fluorescence spectroscopy, The identity of the 2-OH-PhIP
+   standard was additionally confirmed by mass spectrometry, Kinetic
+   studies of the formation of N-2-OH-PhIP, 4'-OH-PhIP and 2-OH-PhIP by
+   CYP1B1 indicated apparent K-m values of 5.7 +/- 1.3, 2.2 +/- 0.5 and 1.3
+   +/- 0.2 mu M, respectively, Apparent turnover rates were 0.40 +/- 0.03,
+   0.93 +/- 0.02 and 0.04 +/- 0.00 nmol product/min nmol P450,
+   respectively, At saturating levels of substrate, CYP1B1-mediated
+   formation of the non-mutagenic metabolite 4'-OH-PhIP was favored
+   two-fold over that of the mutagenic metabolite, N-2-OH-PhIP and >10-fold
+   over that of 2-OH-PhIP. The formation of N-2-OH-PhIP, a potent mutagen
+   implicated in the etiology of human colon and breast cancer, indicates
+   that CYP1B1 may play an important role in PhIP-mediated carcinogenesis.
+TC 49
+ZB 45
+Z8 0
+Z9 50
+SN 0143-3334
+UT WOS:A1997XX92600016
+ER
+
+PT J
+AU Sutter, TJ
+   Newman, RM
+TI Is predation by sunfish (Lepomis spp.) an important source of mortality
+   for the Eurasian watermilfoil biocontrol agent Euhrychiopsis lecontei?
+SO JOURNAL OF FRESHWATER ECOLOGY
+VL 12
+IS 2
+BP 225
+EP 234
+DI 10.1080/02705060.1997.9663530
+PD JUN 1997
+PY 1997
+AB The aquatic weevil Euhrychiopsis Lecontei is a potential control agent
+   for Eurasian watermilfoil (Myriophyllum spicatum). Predation by fishes
+   may influence populations of this beneficial insect. To determine if
+   fish predation is an important source of mortality for E. Lecontei, fish
+   stomachs from two Minnesota lakes, Lake Auburn and Cedar Lake, were
+   sampled monthly during the summer of 1994. None of the black crappie
+   (Pomoxis nigromaculatus) or yellow perch (Perca flavescens) stomachs
+   from either lake contained E. lecontei. The frequency of occurrence of
+   E. lecontei larvae and adults in sunfish (bluegill (Lepomis macrochirus)
+   and pumpkinseed (Lepomis gibbosus)) stomachs from Lake Auburn ranged
+   from 10.3% in September to 28.6% in August. The mean number of E.
+   lecontei adults per sunfish stomach from Lake Auburn ranged from 0.18
+   +/- 0.13 (+/- 2 S.E.) in May and July to 2.14 +/- 2.90 in August. Larvae
+   of E. lecontei were found only in stomachs collected in August (mean =
+   0.21 +/- 0.31) and September (mean = 0.33 +/- 0.41). Euhrychiopsis
+   lecontei pupae were not found in fish stomachs from either lake.
+   Euhrychiopsis lecontei was rarely represented in the diet of sunfish
+   from Cedar Lake. Larvae and adults were found in sunfish. stomachs from
+   Cedar Lake only during September (3.7% of stomachs; mean = 0.037 +/-
+   0.052 per stomach). Densities of E, lecontei were much higher in Lake
+   Auburn than Cedar Lake, however, within lakes there was no correlation
+   between E, lecontei density and either mean number or percent occurrence
+   in sunfish stomachs. These data suggest that sunfish predation may be
+   important and that with low E, lecontei population densities and high
+   sunfish densities, E. lecontei populations could be limited by sunfish
+   predation.
+TC 15
+ZB 12
+Z8 0
+Z9 16
+SN 0270-5060
+UT WOS:A1997WZ07300007
+ER
+
+PT J
+AU Spink, DC
+   Spink, BC
+   Cao, JQ
+   Gierthy, JF
+   Hayes, CL
+   Li, Y
+   Sutter, TR
+TI Induction of cytochrome P450 1B1 and catechol estrogen metabolism in
+   ACHN human renal adenocarcinoma cells
+SO JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
+VL 62
+IS 2-3
+BP 223
+EP 232
+DI 10.1016/S0960-0760(97)00024-1
+PD JUN 1997
+PY 1997
+AB The catechol estrogen metabolites of 17 beta-estradiol (E-2),
+   2-hydroxyestradiol (OHE2) and 4-OHE2, differ in hormonal properties and
+   carcinogenic potential. In Syrian hamster kidney, 4-OHE2 induces
+   clear-cell carcinoma whereas 2-OHE2 does not, and an E-2 4-hydroxylase
+   appears to be involved in E-2-induced carcinogenesis in these animals.
+   Specific E-2 4-hydroxylase activity has been observed in extrahepatic
+   tissues from several species. In humans, cytochrome P450 1B1 (CYP1B1)
+   appears to be an extrahepatic E-2 4-hydroxylase under the regulatory
+   control of the aromatic hydrocarbon receptor (AhR). As an initial
+   approach to investigating CYP1B1 expression and E-2 4-hydroxylase
+   activity in human kidney, we used the ACHN cell line, derived from a
+   human renal adenocarcinoma. In untreated ACHN cells, a very low level of
+   CYP1B1 mRNA expression was observed and CYP1B1 protein could not be
+   detected; however, in ACHN cells exposed to the high-affinity AhR
+   ligand, 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), CYP1B1 mRNA levels
+   were elevated 28-fold, and the CYP1B1 protein was detected by immunoblot
+   analysis. Exposure of ACHN cells to TCDD resulted in minimal induction
+   of the CYP1A1 mRNA, and the CYP1A1 protein was not detectable prior to
+   or after exposure to TCDD. E-2 hydroxylase activity could not be
+   detected with microsomes from untreated ACHN cells, although activities
+   at C-4 and, to a lesser extent, at C-2 of E-2 were observed with
+   microsomes from TCDD-treated ACHN cells. In experiments with intact ACHN
+   cells, elevated rates of formation of 4-methoxyestradiol (MeOE2) and
+   2-MeOE2 were observed in response to treatment with TCDD. The EC50 for
+   induction of the CYP1B1 mRNA was 1.5 nM TCDD; EC(50)s for the
+   stimulation of 2- and 4-MeOE2 formation were 0.68 and 1.1 nM TCDD. These
+   results indicate that the ACHN cell line may be a useful in vitro model
+   system to study the regulation of CYP1B1 expression and the cytotoxic
+   effects associated with E-2 4-hydroxylation. (C) 1997 Elsevier Science
+   Ltd.
+TC 52
+ZB 50
+Z8 0
+Z9 53
+SN 0960-0760
+UT WOS:A1997YG08400012
+ER
+
+PT J
+AU Shimada, T
+   Gillam, EMJ
+   Sutter, TR
+   Strickland, PT
+   Guengerich, FP
+   Yamazaki, H
+TI Oxidation of xenobiotics by recombinant human cytochrome P450 1B1
+SO DRUG METABOLISM AND DISPOSITION
+VL 25
+IS 5
+BP 617
+EP 622
+PD MAY 1997
+PY 1997
+AB Human cytochrome P450 (P450) 1B1 (CYP1B1) has recently been shown to be
+   an important enzyme in the activation of diverse procarcinogens such as
+   arylarenes, nitroarenes, and arylamines to reactive metabolites that
+   cause DNA damage in the cells. However, it is not known whether this
+   P450 enzyme also plays roles in the oxidation of certain drugs or model
+   substrates commonly used in P450 assays. We examined the substrate
+   oxidation activities of recombinant human CYP1B1 in yeast microsomes and
+   compared these activities with those catalyzed by reconstituted systems
+   containing recombinant CYP1A1 and CYP1A2 which were isolated from
+   membranes of Escherichia coli in which respective cDNAs have been
+   expressed. Catalytic activities towards some of the model substrates of
+   other human P450 enzymes including CYP2A6, 2C9, 2C19, 2D6, 2E1, and 3A4
+   were also determined and compared. CYP1B1 catalyzed benzo[a]pyrene
+   3-hydroxylation at rates lower than those of CYP1A1 but higher than
+   those of CYP1A2. The activity towards 7-ethoxyresorufin O-deethylation
+   catalyzed by CYP1B1 was about one-tenth of that of CYP1A1, but the K-m
+   values were lower for CYP1B1 than those for CYP1A1 and CYP1A2. CYP1B1
+   was also able to catalyze the oxidation of theophylline and caffeine,
+   two prototypic substrates for CYP1A2. CYP1B1 did not oxidize other
+   typical P450 substrates such as coumarin, tolbutamide, S-mephenytoin,
+   chlorzoxazone, nifedipine, and testosterone, while low rates of
+   oxidation of bufuralol and 7-ethoxycoumarin were found for CYP1B1. These
+   results indicate that CYP1B1 has catalytic activities overlapping CYP1A1
+   and CYP1A2 with respect to the oxidation of drugs and model P450
+   substrates, although the relative catalytic roles in these three P450
+   enzymes differ depending upon the substrates examined. A distinct marker
+   activity of CYP1B1 has not been identified.
+TC 109
+ZB 105
+Z8 0
+Z9 113
+SN 0090-9556
+UT WOS:A1997WZ11500013
+ER
+
+PT J
+AU Crespi, CL
+   Penman, BW
+   Steimel, TD
+   Smith, T
+   Yang, CS
+   Sutter, TR
+TI Development of a human lymphoblastoid cell line constitutively
+   expressing human CYP1B1 cDNA: Substrate specificity with model
+   substrates and promutagens
+SO MUTAGENESIS
+VL 12
+IS 2
+BP 83
+EP 89
+DI 10.1093/mutage/12.2.83
+PD MAR 1997
+PY 1997
+AB An AHH-1 TK+/- cell derivative was developed that stably expresses human
+   cytochrome P4501B1 (CYP1B1) cDNA in an extrachromosomal vector which
+   confers resistance to I-histidinol and co-expresses NADPH cytochrome
+   P450 oxidoreductase (OR), The CYP1B1-expressing cell line was designated
+   h1B1/OR, Microsomes prepared from CYP1B1 cDNA expressing cells exhibit
+   elevated levels of 7-ethoxy-resorufin deethylase (EROD),
+   7-ethoxy-4-trifluoromethyl-coumarin deethylase (EFCD), benzo(a)pyrene
+   hydroxylase (BPH), bufuralol 1'-hydroxylase, testosterone hydroxylase
+   activities and spectrally quantifiable cytochrome P450,
+   CYP1B1-containing microsomes did not contain detectable coumarin
+   7-hydroxylase, p-nitrophenol hydroxylase, lauric acid hydroxylase,
+   (S)-mephenytoin 4'-hydroxylase or diclofenac 4'-hydroxylase activities,
+   Kinetic parameters for selected substrates were compared among CYP1B1
+   and the two additional members of the CYP1 family, CYP1A1 and CYP1A2,
+   For BPH and EFCD, the rank order of rates of substrate metabolism were
+   CYP1A1>CYP1B1>CYP1A2, For EROD, the rank order of substrate metabolism
+   was CYP1A1>CYP1A2>CYP1B1. For both EROD and EFCD the apparent K-m values
+   for CYP1B1 were more similar to CYP1A1 than to CYP1A2, In order to begin
+   to characterize the promutagen activating ability of CYP1B1, the
+   mutagenicity of selected chemicals was examined in h1B1/OR cells; there
+   was increased sensitivity (CYP1B1-expressing relative to control cells)
+   to the mutagenicity of benzo(a)pyrene, cyclopenta(c,d)pyrene,
+   4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone and aflatoxin B-1 (AFB),
+   CYP1B1, expressed in this system, appears to be particularly efficient
+   at activating AFB.
+TC 67
+ZB 62
+Z8 0
+Z9 68
+SN 0267-8357
+UT WOS:A1997WQ76600005
+ER
+
+PT J
+AU Sutter, T
+   Doi, S
+   Carnevale, KA
+   Arber, N
+   Weinstein, IB
+TI Expression of cyclins D1 and E in human colon adenocarcinomas
+SO JOURNAL OF MEDICINE
+VL 28
+IS 5-6
+BP 285
+EP 309
+PD 1997
+PY 1997
+AB Cyclins D1 and E play critical roles in the progression of cells through
+   the G1 phase of the cell cycle. Amplification and/or overexpression of
+   the cyclin D1 gene and aberrant expression of cyclin E have been
+   described in several forms of human cancer. In the present study, we
+   examined the expression of these two genes by Western, Northern and
+   Southern blot analyses in a series of primary human colon carcinomas of
+   various stages and degrees of differentiation and in paired adjacent
+   normal mucosa samples, and also in a series of human colon carcinoma
+   cell lines. About 50% of the colon carcinomas displayed a two to five
+   fold increase in the expression of cyclin D1 mRNA and protein, when
+   compared with the paired normal mucosa samples. Six out of eight
+   carcinomas examined showed a four to nine fold increase in cyclin E mRNA
+   and about 50% of the carcinomas displayed a two to three fold increase
+   in cyclin E protein. Low molecular weight cyclin E-related proteins were
+   observed in four out of ten carcinomas. These changes in cyclins D1 and
+   E occurred in both early and late stage tumors. Three of the six cell
+   lines examined displayed a high expression of cyclin D1 mRNA and
+   protein. A very high level of cyclin E mRNA expression was seen in
+   HCT116 cells and this was associated with the presence of low molecular
+   weight cyclin E-related proteins. None of the primary colon carcinomas
+   nor the six cell lines examined displayed amplification of either the
+   cyclin D1 or cyclin E genes. Thus, an aberrant expression of both
+   cyclins D1 and E occurs in a significant fraction of human colon
+   carcinomas.
+TC 63
+ZB 56
+Z8 2
+Z9 66
+SN 0025-7850
+UT WOS:000072896500003
+ER
+
+PT J
+AU Selmin, O
+   Lucier, GW
+   Clark, GC
+   Tritscher, AM
+   VandenHeuvel, JP
+   Gastel, JA
+   Walker, NJ
+   Sutter, TR
+   Bell, DA
+TI Isolation and characterization of a novel gene induced by
+   2,3,7,8-tetrachlorodibenzo-p-dioxin in rat liver
+SO CARCINOGENESIS
+VL 17
+IS 12
+BP 2609
+EP 2615
+DI 10.1093/carcin/17.12.2609
+PD DEC 1996
+PY 1996
+AB The differential display technique was used to identify genes whose
+   expression was regulated by 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD),
+   Expression of a novel sequence was up-regulated in a dose-dependent
+   fashion in liver of Sprague-Dawley male rats exposed to both chronic and
+   acute treatment with TCDD, as measured by densitometry of Northern blot
+   analyses (P < 0.01). A rapid amplification of cDNA ends (RACE) procedure
+   was used to isolate a 1.8 kb cDNA from a rat liver cDNA preparation,
+   This cloned cDNA, called 25-Dx, was sequenced and found to encode a
+   peptide of 223 amino acids, In control rats, the 25-Dx gene was
+   expressed at high levels in lung and liver, A hydrophobic domain of 14
+   residues followed by a proline-rich domain, both located in the
+   N-terminal region, showed 71% homology with the transmembrane domain of
+   the precursor for the interleukin-6 receptor and a conserved consensus
+   sequence found in the cytokine/growth factor/prolactin receptor
+   superfamily respectively.
+TC 77
+ZB 70
+Z8 0
+Z9 78
+SN 0143-3334
+UT WOS:A1996WC82000011
+ER
+
+PT J
+AU Primiano, T
+   Kensler, TW
+   Kuppusamy, P
+   Zweier, JL
+   Sutter, TR
+TI Induction of hepatic heme oxygenase-1 and ferritin in rats by cancer
+   chemopreventive dithiolethiones
+SO CARCINOGENESIS
+VL 17
+IS 11
+BP 2291
+EP 2296
+DI 10.1093/carcin/17.11.2291
+PD NOV 1996
+PY 1996
+AB Treatment of rats with the cancer chemopreventive agent
+   1,2-dithiole-3-thione (D3T) resulted in a significant increase in
+   hepatic heme oxygenase (HO) activity, which corresponded to increased
+   protein levels of HO-1. Upon further analysis of proteins related to
+   heme metabolism, the level of ferritin, the major iron storage protein
+   in liver, was also found to be elevated, Diminished levels of
+   intracellular free iron were monitored by EPR spectroscopy at times
+   after administration of D3T that suggested that increased ferritin
+   content sequesters intracellular iron, The increased levels of protein
+   were associated with increased levels of steady-state RNA of HO-1 and
+   the light (FL) and heavy (FH) subunits of ferritin. A direct
+   relationship between enhanced rates of gene transcription and elevated
+   levels of HO-1 and ferritin RNA was found. The inductions of FL and FH,
+   but not HO-1, were sensitive to cycloheximide, suggesting that in vivo
+   these genes are regulated by distinct D3T-responsive transcriptional
+   mechanisms. The known protective roles for induced HO-1 and ferritin in
+   cellular stress have been suggested to include increased levels of the
+   antioxidant bilirubin and enhanced sequestration of intracellular iron
+   into ferritin, which can effectively reduce iron-mediated reactive
+   oxygen generation, Thus, protective actions of D3T against the cytotoxic
+   and carcinogenic consequences of chemicals that exert electrophilic or
+   oxidative stresses may be mediated, in part, by the induction of HO-1,
+   FL and FH.
+TC 48
+ZB 47
+Z8 0
+Z9 49
+SN 0143-3334
+UT WOS:A1996VW45800003
+ER
+
+PT J
+AU Primiano, T
+   Gastel, JA
+   Kensler, TW
+   Sutter, TR
+TI Isolation of cDNAs representing dithiolethione-responsive genes
+SO CARCINOGENESIS
+VL 17
+IS 11
+BP 2297
+EP 2303
+DI 10.1093/carcin/17.11.2297
+PD NOV 1996
+PY 1996
+AB Dithiolethiones inhibit tumorigenicity elicited by many structurally
+   diverse carcinogens in numerous target tissues. These protective actions
+   are associated with the induction of several carcinogen detoxification
+   enzymes, some of which have only recently been discovered. In order to
+   identify additional novel inducible detoxification response genes, a
+   cDNA library was prepared from liver of rats treated with
+   1,2-dithiole-3-thione (D3T) and was screened by a differential
+   hybridization method. Complementary DNA clones for several known
+   D3T-inducible genes were isolated, such as epoxide hydrolase, aflatoxin
+   B-1-aldehyde reductase, quinone reductase and multiple submits of
+   glutathione S-transferase. Clones representing genes not previously
+   associated with detoxification were isolated, including those for
+   ferritin heavy and light subunits, ribosomal proteins L18a and S16 and
+   two novel genes, termed dithiolethione-inducible genes (or DIG-1 and
+   DIG-2). Levels of mRNA recognized by each clone were increased from 2-
+   to 31-fold, with maximum induction between 6 and 30 h after treatment
+   with D3T. Except for epoxide hydrolase, the kinetics of induction of
+   each mRNA was coordinate with increased rates of gene transcription.
+   However, based on the time of response to D3T, at least two sets of
+   responsive genes were identified. One set of genes, including
+   glutathione S-transferase Yp, aflatoxin B-1 aldehyde reductase, quinone
+   reductase and DIG-1, had low constitutive and highly inducible
+   expression (similar to 20-fold) and the other, including glutathione
+   S-transferase Ya and Yb, epoxide hydrolase, ferritin heavy and light
+   submits, ribosomal proteins L18a and S16 and DIG-2, had relatively high
+   constitutive and modestly inducible expression (similar to 5-fold). The
+   simplest explanation for this differential expression of D3T-inducible
+   genes is that multiple regulatory mechanisms govern their response. The
+   transcriptional activation of ferritin, ribosomal protein, DIG-1 and
+   DIG-2 genes in conjunction with those of carcinogen detoxification
+   enzymes suggests that they participate in the pleiotropic cellular
+   defense response to dithiolethiones that inhibits chemically produced
+   tumorigenesis.
+TC 55
+ZB 50
+Z8 0
+Z9 56
+SN 0143-3334
+UT WOS:A1996VW45800004
+ER
+
+PT J
+AU Hayes, CL
+   Spink, DC
+   Spink, BC
+   Cao, JQ
+   Walker, NJ
+   Sutter, TR
+TI 17 beta-estradiol hydroxylation catalyzed by human cytochrome P450 1B1
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 93
+IS 18
+BP 9776
+EP 9781
+DI 10.1073/pnas.93.18.9776
+PD SEP 3 1996
+PY 1996
+AB The 4-hydroxy metabolite of 17 beta-estradiol (E(2)) has been implicated
+   in the carcinogenicity of this hormone. Previous studies showed that
+   aryl hydrocarbon-receptor agonists induced a cytochrome P450 that
+   catalyzed the 4-hydroxylation of E(2). This activity was associated with
+   human P450 1B1. To determine the relationship of the human P450 1B1 gene
+   product and E(2) 4-hydroxylation, the protein was expressed in
+   Saccharomyces cerevisiae. Microsomes from the transformed yeast
+   catalyzed the 4- and 2-hydroxylation of E(2) with K-m values of 0.71 and
+   0.78 mu M and turnover numbers of 1.39 and 0.27 nmol product min(-1).
+   nmol P450(-1), respectively. Treatment of MCF-7 human breast cancer
+   cells with the aryl hydrocarbon-receptor ligand indolo[3,2-b]carbazole
+   resulted in a concentration-dependent increase in P450 1B1 and P450 1A1
+   mRNA levels, and caused increased rates of 2-, 4-, 6 alpha-, and 15
+   alpha-hydroxylation of E(2). At an E(2) concentration of 10 nM, the
+   increased rates of 2- and 40-hydroxylation were approximately equal,
+   emphasizing the significance of the low K-m P450 1B1-component of E(2)
+   metabolism. These studies demonstrate that human P450 1B1 is a
+   catalytically efficient E(2) 4-hydroxylase that is likely to participate
+   in endocrine regulation and the toxicity of estrogens.
+TC 399
+ZB 363
+Z8 1
+Z9 408
+SN 0027-8424
+UT WOS:A1996VF61400083
+ER
+
+PT J
+AU Shimada, T
+   Hayes, CL
+   Yamazaki, H
+   Amin, S
+   Hecht, SS
+   Guengerich, FP
+   Sutter, TR
+TI Activation of chemically diverse procarcinogens by human cytochrome
+   P-450 1B1
+SO CANCER RESEARCH
+VL 56
+IS 13
+BP 2979
+EP 2984
+PD JUL 1 1996
+PY 1996
+AB A human cytochrome P-450 (P450) 1B1 cDNA was expressed in Saccharomyces
+   cerevisiae, and the microsomes containing P450 1B1 were used to examine
+   the selectivity of this enzyme in the activation of a variety of
+   environmental carcinogens and mutagens in Salmonella typhimurium
+   TA1535/pSK1002 or NM2009 tester strains, using the SOS response as an
+   end point of DNA damage. We also determined and compared these
+   activities of P450 1B1 with those catalyzed by recombinant human P450s
+   1A1 and 1A2, which were purified from membranes of Escherichia coli. The
+   carcinogenic chemicals tested included 27 polycyclic aromatic hydro
+   carbons and their dihydrodiol derivatives, 17 heterocyclic and aryl
+   amines and aminoazo dyes, three mycotoxins, two nitroaromatic
+   hydrocarbons, N-nitrosodimethylamine, vinyl carbamate, and
+   acrylonitrile. Among the three P450 enzymes examined here, P450 1B1 was
+   found to have the highest catalytic activities for the activation of
+   11,12-dihydroxy-11,12-dihydrodibenzo[a,l]pyrene,
+   1,2-dihydroxy-1,2-dihydro-5-methylchrysene,
+   (+)-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene,
+   11,12-dihydroxy-11,12-dihydrobenzo[g]chrysene,
+   3,4-dihydroxy-3,4-dihydrobenzo[c]phenanthrene,
+   3-amino-1,4-dimethyl-5H-pyrido[4,3-b]indol, 2-aminoanthracene,
+   3-methoxy-4-aminoazobenzene, and 2-nitropyrene. P450 1B1 also catalyzed
+   the activation of 2-amino-3,5-dimethylimidazo[4,5-f]quinoline,
+   2-amino-3,8-dimethylimidazo[4,5-f]quinoxaline,
+   2-amino-3-methylimidazo[4,5-f]quinoline, 2-aminofluorene,
+   6-aminochrysene and its 1,2-dihydroxy,
+   (-)-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene,
+   1,2-dihydroxy-1,2-dihydrochrysene,
+   1-2-dihydroxy-1,2-dihydro-5,6-dimethylchrysene,
+   2,3-dihydroxy-2,3-dihydrofluoranthene,
+   3,4-dihydroxy-3,4-dihydro-7,12-dimethylbenz[a]anthracene, and
+   6-nitrochrysene to appreciable extents, However, P450 1B1 did not
+   produce genotoxic products from benzo[a]pyrene,
+   trans-3,4-dihydroxy-3,4-dihydrobenzo[a]anthracene,
+   trans-8,9-dihydroxy-8,9-dihydrobenzo[a]anthracene,
+   7,12-dimethylbenz[a]anthracene and its cis-5,6-dihydrodiol,
+   5-methyl-chrysene, 11,12-dihydroxy-11,12-dihydro-3-methylcholanthrene,
+   1,2-dihydroxy-1,2-dihydro-6-methylchrysene, benzo[c]phenanthrene,
+   2-amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole, 2-acetylaminofluorene,
+   2-naphthylamine, aflatoxin B-1, aflatoxin G(1), sterigmatocystin,
+   N-nitrosodimethylamine, vinyl carbamate, or acrylonitrile in this assay
+   system. P450 1B1 is expressed constitutively in extrahepatic organs,
+   including fetal tissue samples, and is highly inducible in various
+   organs by 2,3,7,8-tetrachlorodibenzo-p-dioxin and related compounds in
+   experimental animal models. Thus, activation of procarcinogens by P450
+   1B1 may contribute to human tumors of extrahepatic origin.
+TC 558
+ZB 512
+Z8 4
+Z9 573
+SN 0008-5472
+UT WOS:A1996UT39800022
+ER
+
+PT J
+AU Gastel, JA
+   Sutter, TR
+TI A control system for cDNA enrichment reactions
+SO BIOTECHNIQUES
+VL 20
+IS 5
+BP 870
+EP 875
+PD MAY 1996
+PY 1996
+AB Most cDNA enrichment techniques involve technically complicated
+   subtractive and hybridization reactions whose kinetics have not been
+   characterized. We describe a control for cDNA enrichment procedures
+   based on commercially available reagents, and we use this control to
+   optimize a commonly used subtractive hybridization reaction. Using this
+   control, we show that high-abundance transcripts can be efficiently
+   removed following very short hybridization reactions. With the addition
+   of unlabeled rat liver cDNA, we develop a system that mimics the
+   reaction kinetics of complex cDNA pools. Because this system enables the
+   measurement of specific vs. nonspecific hybridization and subtraction in
+   the same tube and is and effective control in all steps in the cDNA
+   enrichment procedure, it facilitates the development and optimization of
+   novel cloning techniques for a desired abundance level of differentially
+   expressed cDNAs.
+TC 1
+ZB 2
+Z8 0
+Z9 2
+SN 0736-6205
+UT WOS:A1996UJ63800027
+ER
+
+PT J
+AU Arber, N
+   Hibshoosh, H
+   Moss, SF
+   Sutter, T
+   Zhang, Y
+   Begg, M
+   Wang, SB
+   Weinstein, IB
+   Holt, PR
+TI Increased expression of cyclin D1 is an early event in multistage
+   colorectal carcinogenesis
+SO GASTROENTEROLOGY
+VL 110
+IS 3
+BP 669
+EP 674
+DI 10.1053/gast.1996.v110.pm8608874
+PD MAR 1996
+PY 1996
+AB Background & Aims: Cyclin D1 gene amplification and/or overexpression
+   occurs in several human cancers. The level of expression of cyclin D1
+   protein during the multistage process of human colon carcinogenesis was
+   determined. Methods: Cyclin D1 protein abundance was determined by
+   immunostaining samples of normal colonic mucosa (n = 23), transitional
+   normal mucosa adjacent to adenomas or adenocarcinomas (n = 41),
+   hyperplastic polyps (n = 8), adenomatous polyps (n = 35), and
+   adenocarcinomas (n = 27), using a polyclonal anti-human cyclin D1
+   antibody. Results: Cyclin D1 nuclear staining occurred in 30% of
+   adenocarcinomas and 34% of adenomatous polyps but not in hyperplastic
+   polyps or normal or transitional mucosa. Nuclear staining did not
+   correlate with sex, age, size, or dysplasia of the adenomatous polyps or
+   with differentiation and Dukes' staging of the adenocarcinomas.
+   Left-sided colon neoplasms showed nuclear staining more frequently than
+   those right-sided lesions. Diffuse or supranuclear cytoplasmic staining
+   occurred in about one third of hyperplastic polyps, adenomas, and
+   adenocarcinomas and in transitional mucosa adjacent to adenocarcinoma.
+   Conclusions: Increased nuclear expression of cyclin D1 occurs in around
+   one third of colonic tumors as an early event during multistage process
+   of colon carcinogenesis. increased expression of cyclin D1 may perturb
+   cell-cycle control in benign adenomas and thereby enhance tumor
+   progression.
+TC 230
+ZB 187
+Z8 9
+Z9 240
+SN 0016-5085
+UT WOS:A1996TY21500002
+ER
+
+PT J
+AU Tritscher, AM
+   Seacat, AM
+   Yager, JD
+   Groopman, JD
+   Miller, BD
+   Bell, D
+   Sutter, TR
+   Lucier, GW
+TI Increased oxidative DNA damage in livers of
+   2,3,7,8-tetrachlorodibenzo-p-dioxin treated intact but not
+   ovariectomized rats
+SO CANCER LETTERS
+VL 98
+IS 2
+BP 219
+EP 225
+DI 10.1016/S0304-3835(06)80035-2
+PD JAN 2 1996
+PY 1996
+AB 2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) is a more potent
+   hepatocarcinogen in female than in male or ovariectomized rats. A
+   possible mechanism for this increased sensitivity is through enhanced
+   metabolic activation of estrogens by TCDD-induced enzymes leading to
+   oxidative damage in the cell. As a marker for oxidative DNA damage,
+   8-oxo-deoxyguanosine (8-oxo-dC) was quantitated in livers of intact and
+   ovariectomized Sprague-Dawley rats chronically treated with TCDD (125
+   ng/kg per day) with and without diethylnitrosamine as initiator.
+   Elevated levels of 8-oxo-dG were detected in a significantly greater
+   number of the intact compared to ovariectomized TCDD-treated rats.
+   Expression of CYP1B1 mRNA, a newly identified cytochrome P450 with
+   proposed estrogen hydroxylase activity, was highly induced by TCDD, The
+   results are consistent with the hypothesis that increased metabolism of
+   endogenous estrogens to catechols by TCDD-induced enzymes may lead to
+   increased oxidative DNA damage and hence contribute to TCDD-mediated
+   hepatocarcinogenicity in female rats.
+TC 52
+ZB 50
+Z8 0
+Z9 54
+SN 0304-3835
+UT WOS:A1996TM80300014
+ER
+
+PT J
+AU Sutter, T
+   Arber, N
+   Moss, SF
+   Findling, RI
+   Neugut, AI
+   Weinstein, IB
+   Holt, PR
+TI Frequent K-ras mutations in small bowel adenocarcinomas
+SO DIGESTIVE DISEASES AND SCIENCES
+VL 41
+IS 1
+BP 115
+EP 118
+DI 10.1007/BF02208591
+PD JAN 1996
+PY 1996
+AB The reasons for the relatively rare occurrence of small bowel
+   adenocarcinomas when compared to the high frequency of colonic
+   adenocarcinomas are unknown, Activating mutations in the K-ras oncogene
+   occur in about 40% of colonic adenocarcinomas, possibly reflecting the
+   consequences of carcinogenic exposure, To study whether the low
+   incidence of small bowel adenocarcinomas might be due to the absence of
+   activation of cellular oncogenes in small bowel adenocarcinomas, we
+   examined the frequency of K-ras mutations in small bowel
+   adenocarcinomas. K-ras mutations were determined using a polymerase
+   chain reaction (PCR)-based method to detect codon 12 mutations by
+   restriction fragment length polymorphism, PCR amplification was
+   successful in six of nine small bowel adenocarcinoma samples, and
+   revealed point mutations of K-ras at codon 12 in five of these six
+   cases, We conclude that the small bowel might be exposed to carcinogens
+   similar to those responsible for colorectal cancer, but may have
+   developed protective mechanisms against cancer formation.
+TC 23
+ZB 16
+Z8 0
+Z9 23
+SN 0163-2116
+UT WOS:A1996TU03200016
+ER
+
+PT J
+AU Tang, Yong Ming
+   Wo, Yu-Yuan P.
+   Stewart, Jane
+   Hawkins, Anita L.
+   Griffin, Constance A.
+   Sutter, Thomas R.
+   Greenlee, William F.
+TI Isolation and characterization of the human cytochrome P450 CYP1B1 gene
+SO Journal of Biological Chemistry
+VL 271
+IS 45
+BP 28324
+EP 28330
+PD 1996
+PY 1996
+AB Previously, we identified a novel human cytochrome P450 cDNA that is
+   inducible by 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) and represents
+   the first member of a new subfamily designated cytochrome P4501B1
+   (CYP1B1; Sutter, T. R., Tang, Y. M., Hayes, C. L., Wo, Y. P., Jabs, E.
+   W., Li, X., Yin, H., Cody, C. W., and Greenlee, W. F. (1994) J. Biol.
+   Chem. 269, 13092-13099). Here, we report on the isolation and initial
+   characterization of the CYP1B1 gene. The CYP1B1 gene maps to human
+   chromosome 2 at 2p21-22 and contains three exons and two introns. The
+   putative open reading frame starts in the second exon and is 1629 base
+   pairs in length. Southern analysis using DNA probes directed to each of
+   the three exons confirmed that CYP1B1 is a single copy gene. Human
+   CYP1B1 differs from its two most closely related members of the
+   cytochrome P450 superfamily, CYP1A1 and CYP1A2, in the number of exons
+   (3 versus 7) and chromosome location (2 versus 15). A single
+   transcription initiation site was identified by primer extension
+   analysis and S1 nuclease mapping. Based on nucleotide sequence analysis,
+   the CYP1B1 gene lacks a consensus TATA box in the promoter region and
+   contains nine TCDD-responsive enhancer core binding motifs (5'-GCGTG-3')
+   located within a 2.5-kilobase pair genomic fragment 5'-ward of the
+   transcription initiation start site. Deletion analysis of
+   chloramphenicol acetyltransferase reporter gene constructs containing 5'
+   CYP1B1 genomic fragments indicates that a region from - 1022 to -835
+   containing three of the nine core binding motifs contributes to the
+   TCDD-inducible expression of CYP1B1.
+TC 24
+ZB 22
+Z8 2
+Z9 30
+SN 0021-9258
+UT BIOABS:BACD199799290356
+ER
+
+PT J
+AU Gastel, JA
+   Sutter, TR
+TI Biologically bounded risk assessment for receptor-mediated nongenotoxic
+   carcinogens
+SO REGULATORY TOXICOLOGY AND PHARMACOLOGY
+VL 22
+IS 3
+BP 273
+EP 282
+DI 10.1006/rtph.1995.0010
+PD DEC 1995
+PY 1995
+AB We have developed a biologically bounded marginal effect model for use
+   in risk assessment of human exposure to receptor-mediated nongenotoxic
+   carcinogens. Schematically this model can be reduced to four components:
+   CI, the absence of an observable biological response; CII, observable
+   biochemical responses but no observable pathology; CIII, observable
+   pathology; and CIV both observable pathology and lethality. The
+   inflection point in the marginal response curve between CI and CII is
+   defined as the biologically evaluated scientifically tested no
+   observable effect level (BESTNOEL). We demonstrate the utility of this
+   approach by applying it to the well-studied nongenotoxic carcinogen
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD). Using a well-developed
+   mechanistic understanding of the initial interactions of TCDD with the
+   cell, we justify the selection of the minimal effective dose for CYP1A1
+   mRNA induction as the BESTNOEL. With allowance for variation in human
+   sensitivity to TCDD, the BESTNOEL is assigned a human liver tissue
+   burden of approximately 0.25-25 ppt and an allowable daily intake level
+   in the range of 15-1500 fg/kg/day. In the future, the BESTNOEL can help
+   establish a lower boundary for acceptable extrapolation when using
+   either statistical or biologically based attributable risk models. (C)
+   1995 Academic Press,Inc.
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 0273-2300
+UT WOS:A1995TX02900010
+ER
+
+PT J
+AU PRIMIANO, T
+   EGNER, PA
+   SUTTER, TR
+   KELLOFF, GJ
+   ROEBUCK, BD
+   KENSLER, TW
+TI INTERMITTENT DOSING WITH OLTIPRAZ - RELATIONSHIP BETWEEN CHEMOPREVENTION
+   OF AFLATOXIN-INDUCED TUMORIGENESIS AND INDUCTION OF GLUTATHIONE
+   S-TRANSFERASES
+SO CANCER RESEARCH
+VL 55
+IS 19
+BP 4319
+EP 4324
+PD OCT 1 1995
+PY 1995
+AB Oltipraz [5-(2-pyrazinyl)-4-methyl-1,2-dithiole-3-thione] protects
+   against chemical carcinogenesis in several animal models and is
+   currently under evaluation as a possible chemopreventive agent in
+   humans. Ideally, clinical chemopreventive interventions use dosing
+   regimens that maximize efficacy while minimizing toxicity. Toward this
+   end, the chemopreventive efficacy achieved by administration of
+   intermittent doses of oltipraz was evaluated in rats. F344 rats were
+   treated with oltipraz (0.5 mmol/kg, p.o.) once weekly, twice weekly, or
+   daily over a 5-week period. After the first week, all rats were gavaged
+   with 20 mu g/kg of aflatoxin B-1 for 28 consecutive days. Livers were
+   analyzed 2 months after the last aflatoxin B-1 dose, and the volume of
+   liver occupied by glutathione S-transferase (GST)-P positive foci, a
+   presumptive marker of neoplasia, was observed to be decreased >95%,
+   >97%, or >99% in livers of rats receiving once-, twice-weekly or daily
+   oltipraz treatments, respectively. The chemopreventive actions of
+   oltipraz have been associated with increases in the levels of phase 2
+   detoxifying enzymes, such as the glutathione S-transferase isozymes.
+   Accordingly, GST conjugation activity measured with
+   1-chloro-2,4-dinitrobenzene as substrate increased 1.5-, 1.8-, or
+   2.4-fold for the once-weekly, twice-weekly or daily treatments,
+   respectively, throughout a 7-day period. Quantitative HPLC analyses of
+   GST subunits 24 h after 2 or 7 daily administrations of oltipraz showed
+   that the levels of subunits Yb-1, Yp, Yc(2), and Ya(2) were increased
+   with maximum elevations of 5.6-, 11.1-, 6.4-, and 10.4-fold,
+   respectively. In comparison, levels of subunits Yb-2 and Yc(1) were
+   modestly elevated 1.8- to 2.6-fold, respectively, whereas subunit Ya,
+   was not induced. Remarkably, the levels of subunit Yp and Ya, remained
+   elevated approximate to 2.3-fold 7 days after a single dose of oltipraz.
+   In contrast, the levels of subunits Yb-1 and Yc(2) diminished to
+   approximate control levels within 7 days after a single dose of
+   oltipraz. GST mRNA levels for Ya, Yb, and Yp were measured by Northern
+   blot analysis and were found to be elevated maximally to 13.7-, 13.5-,
+   and 3.9-fold, respectively, after two daily oltipraz doses.
+   Interestingly, GST Ya and Yb mRNA diminished to constitutive levels
+   after 7 daily doses of oltipraz, with no corresponding decreases in GST
+   subunit or activity levels. The levels of GST Ya and Yb mRNA decreased
+   to constitutive levels within 4 days after a single oltipraz
+   administration, whereas GST Yp mRNA levels remained elevated throughout
+   the 7-day follow-up period. These results suggest that the protracted
+   pharmacodynamic actions of oltipraz on enzyme induction may account for
+   the marked reduction in the hepatic burden of aflatoxin B-1-induced
+   putative preneoplastic tumors after intermittent dosing. Consequently,
+   scheduling of intermittent dosing protocols may sustain efficacy while
+   improving drug tolerance and patient compliance over long-term
+   treatments. These properties of oltipraz increase its attractiveness for
+   clinical chemopreventive interventions.
+TC 75
+ZB 59
+Z8 1
+Z9 76
+SN 0008-5472
+UT WOS:A1995RX11400024
+ER
+
+PT J
+AU WALKER, NJ
+   GASTEL, JA
+   COSTA, LT
+   CLARK, GC
+   LUCIER, GW
+   SUTTER, TR
+TI RAT CYP1B1 - AN ADRENAL CYTOCHROME-P450 THAT EXHIBITS SEX-DEPENDENT
+   EXPRESSION IN LIVERS AND KIDNEYS OF TCDD-TREATED ANIMALS
+SO CARCINOGENESIS
+VL 16
+IS 6
+BP 1319
+EP 1327
+DI 10.1093/carcin/16.6.1319
+PD JUN 1995
+PY 1995
+AB The broad spectrum of biological responses associated with exposure to
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD, dioxin) is believed to be due
+   to the alteration in expression of TCDD-inducible genes. The aim of this
+   study was to investigate the effects of TCDD on the in vivo
+   tissue-specific expression of the recently identified TCDD-inducible
+   cytochrome P450 CYP1B1 [Sutter et al, (1994) J. Biol. Chem., 269,
+   13092-13099] in Sprague-Dawley rats. We cloned the 5.0 kb rat homolog of
+   CYP1B1 from a TCDD-treated rat liver cDNA library and showed that the
+   rat and human CYP1B1 predicted amino acid sequences are 80% identical.
+   RNA hybridization analysis showed that CYP1B1 is constitutively
+   expressed in the adrenal glands and also in the testes of untreated
+   rats. This tissue distribution suggests that CYP1B1 may be a
+   physiological steroid hydroxylase. Seventy-two hours post-administration
+   of 25 mu g/kg body wt TCDD by gavage, steady-state levels of the 5.1 kb
+   CYP1B1 RNA were increased > 50-fold in liver, and to a lesser extent in
+   kidneys, lung, heart and ovaries. Average CYP1B1 RNA levels were
+   significantly higher in the kidneys and livers of TCDD-treated females
+   than in those from similarly treated males. In contrast, no significant
+   sex-difference was observed in the levels of CYP1A1 in these tissues in
+   TCDD-treated animals. In Sprague-Dawley rats, TCDD is a more potent
+   hepatocarcinogen in females than in males. The induction of CYP1B1 in
+   TCDD rat liver may be a contributing factor to the carcinogenic action
+   of this persistent environmental pollutant.
+TC 96
+ZB 84
+Z8 0
+Z9 98
+SN 0143-3334
+UT WOS:A1995RE77400010
+ER
+
+PT J
+AU SPINK, DC
+   HAYES, CL
+   YOUNG, NR
+   CHRISTOU, M
+   SUTTER, TR
+   JEFCOATE, CR
+   GIERTHY, JF
+TI THE EFFECTS OF 2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN ON ESTROGEN
+   METABOLISM IN MCF-7 BREAST-CANCER CELLS - EVIDENCE FOR INDUCTION OF A
+   NOVEL 17-BETA-ESTRADIOL 4-HYDROXYLASE
+SO JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
+VL 51
+IS 5-6
+BP 251
+EP 258
+DI 10.1016/0960-0760(94)90037-X
+PD DEC 1994
+PY 1994
+AB Rates of microsomal 17 beta-estradiol (E(2)) hydroxylation at the C-2,
+   -4, -6 alpha, and -15 alpha positions are each induced greater than
+   10-fold by treating MCF-7 breast cancer cells with
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD). The TCDD-induced activities
+   at the C-2, -6 alpha and -15 alpha positions have been attributed to
+   cytochrome P450 1A1 (CYP1A1); however, the low K-m 4-hydroxylase induced
+   by TCDD appears to be a distinct enzyme. We report here that antibodies
+   to cytochrome P450-EF (mouse CYP1B1) selectivity inhibited the C-4
+   hydroxylation of E, catalyzed by microsomes from TCDD-treated MCF-7
+   cells. Western blots probed with anti-CYP1B antibodies showed the
+   induction of a 52 kDa microsomal protein in response to treatment with
+   TCDD in MCF-7 cells. Western blots of microsomes from HepG2 cells did
+   not show the TCDD-induced 52 kDa protein, and microsomes from
+   TCDD-treated HepG2 cells did not catalyze a low K-m hydroxylation of
+   E(2) at C-4. Cellular metabolism experiments also showed induction of
+   both the C-2 and -4 hydroxylation pathways in TCDD-treated MCF-7 cells
+   as evidenced by elevated 2- and 4-methoxyestradiol (MeOE(2)) formation.
+   In contrast, TCDD-treated HepG2 cells showed 2-MeOE(2) formation
+   predominantly over 4-MeOE(2). Northern blots of RNA isolated from
+   untreated and TCDD-treated cells, when probed with the human CYP1B1
+   cDNA, showed induction of a 5.2 kb RNA in MCF-7 cells but not in HepG2
+   cells in response to treatment with TCDD. These results provide
+   additional evidence for the induction by TCDD of a novel E(2)
+   4-hydroxylase in MCF-7 cells but not in HepG2 cells and indicate
+   possible endocrine regulatory roles for the newly discovered group of
+   enzymes of the CYP1B subfamily.
+TC 157
+ZB 139
+Z8 0
+Z9 158
+SN 0960-0760
+UT WOS:A1994QC31300004
+ER
+
+PT J
+AU SUTTER, TR
+   TANG, YM
+   HAYES, CL
+   WO, YYP
+   JABS, EW
+   LI, X
+   YIN, H
+   CODY, CW
+   GREENLEE, WF
+TI COMPLETE CDNA SEQUENCE OF A HUMAN DIOXIN-INDUCIBLE MESSENGER-RNA
+   IDENTIFIES A NEW GENE SUBFAMILY OF CYTOCHROME-P450 THAT MAPS TO
+   CHROMOSOME-2
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 269
+IS 18
+BP 13092
+EP 13099
+PD MAY 6 1994
+PY 1994
+AB Previously, levels of a novel human mRNA detected by a recombinant cDNA
+   designated clone 1, were shown to be increased 50-fold in response to
+   treatment of a keratinocyte cell line with
+   2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), in part as a function of
+   increased rates of gene transcription (Sutter, T. R., Guzman, K., Dold,
+   K. M., and Greenlee, W. F. (1991) Science 254, 415-418). Here we report
+   the complete corresponding 5.1-kilobase cDNA sequence. A single open
+   reading frame that predicts a protein of 543 amino acid residues was
+   determined by computer-assisted analysis of the cDNA sequence. This
+   predicted protein identifies a new gene subfamily of cytochrome P450,
+   cytochrome P4501B1 (CYP1B1), that maps to human chromosome 2. Southern
+   blot analysis of genomic DNA indicates that the human CYP1B subfamily is
+   likely to contain only this single gene. Northern blot analysis of RNA
+   isolated from primary cultures of normal human epidermal keratinocytes
+   showed similar to 100-fold increased levels of the CYP1B1 mRNA after
+   treatment with 10 nM TCDD for 24 h. Low levels of constitutive CYP1B1
+   mRNA were detected in 15 different human tissue samples. These results
+   indicate that CYP1B1 is expressed in many normal human tissues and
+   advance our understanding of the complexity of a gene family of
+   cytochromes P450 whose expression is altered by TCDD.
+TC 371
+ZB 333
+Z8 1
+Z9 377
+SN 0021-9258
+UT WOS:A1994NK18400010
+ER
+
+PT J
+AU YIN, H
+   LI, Y
+   SUTTER, TR
+TI DIOXIN-ENHANCED EXPRESSION OF INTERLEUKIN-1-BETA IN HUMAN
+   EPIDERMAL-KERATINOCYTES - POTENTIAL ROLE IN THE MODULATION OF IMMUNE AND
+   INFLAMMATORY RESPONSES
+SO EXPERIMENTAL AND CLINICAL IMMUNOGENETICS
+VL 11
+IS 2-3
+BP 128
+EP 135
+PD 1994
+PY 1994
+AB Human keratinocytes are an important source of cytokines that
+   participate in inflammatory and immunological processes of the skin.
+   2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) has been shown to enhance the
+   expression of the cytokine, interleukin-1 beta (IL-1 beta), in a human
+   keratinocyte cell line. Here we have expanded this observation to
+   primary cultures of normal human epidermal keratinocytes. Treatment of
+   these cells with TCDD resulted in increased expression of IL-1 beta
+   mRNA. Both the magnitude and relative fold increase of levels of IL-1
+   beta mRNA were affected by specific culture conditions. In specific
+   analyses of each culture medium supplement, bovine pituitary extract
+   (BPE) was shown to exert the greatest effect on bath the constitutive
+   and TCDD-inducible expression of IL-1 beta mRNA, and this effect of BPE
+   was shown to be concentration-dependent. These results indicate that, in
+   vitro, enhanced expression of IL-1 beta is a response of normal human
+   epidermal keratinocytes to TCDD and furthermore, that the intensity of
+   this response may be modulated by additional growth factors, including
+   those present in BPE.
+TC 19
+ZB 18
+Z8 1
+Z9 20
+SN 0254-9670
+UT WOS:A1994PL32700009
+ER
+
+EF

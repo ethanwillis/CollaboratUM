@@ -1,0 +1,747 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Baud, Donald R.
+   Pezeshki, S. Reza
+TI Root Porosity Changes in Salix nigra Cuttings in Response to Copper and
+   Ultraviolet-B Radiation Exposure
+SO WATER AIR AND SOIL POLLUTION
+VL 221
+IS 1-4
+BP 99
+EP 105
+DI 10.1007/s11270-011-0772-2
+PD OCT 2011
+PY 2011
+AB Cuttings of black willow (Salix nigra), a naturally occurring wetland
+   species, are used for restoration and streambank stabilization. As an
+   adaptation to their wetland habitat, this species develops aerenchyma
+   tissue to avoid root anoxia. To determine the effects of combined copper
+   and ultraviolet-B radiation exposure on aerenchyma tissue (measured as
+   root porosity), black willow cuttings were grown hydroponically and
+   exposed to three ultraviolet-B (UV-B) intensities and three Cu
+   concentrations in a completely randomized 3x3 factorial design. While
+   both UV-B (F(2,42)=11.45; p=0.0001) and Cu (F(2,42)=6.14; p=0.0046)
+   exposure increased root porosity, total biomass decreased in response to
+   both UV-B (F(2,43)=3.36; p=0.0441) and to Cu (F(2,43)=4.03; p=0.0249).
+   Root biomass decreased only in response to Cu (F(2,41)=3.41; p=0.0427)
+   resulting in a decrease in the root/shoot ratio (F(2,42)=3.5; p=0.0393).
+   Copper exposure also resulted in a decrease in the number of
+   leaves/shoot (F(2,42)=7.03; P=0.0023). No UV-B and Cu interaction was
+   found. While the present research indicates the negative effects of Cu
+   contamination and elevated UV-B intensities on S. nigra, it also points
+   out potential mechanisms that S. nigra uses to alleviate these stresses.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0049-6979
+UT WOS:000296696000008
+ER
+
+PT J
+AU Franklin, Scott B.
+   Kupfer, John A.
+   Pezeshki, S. Reza
+   Gentry, Randy
+   Smith, R. Daniel
+TI COMPLEX EFFECTS OF CHANNELIZATION AND LEVEE CONSTRUCTION ON WESTERN
+   TENNESSEE FLOODPLAIN FOREST FUNCTION
+SO WETLANDS
+VL 29
+IS 2
+BP 451
+EP 464
+PD JUN 2009
+PY 2009
+AB Data on vegetation composition and structure, soil and leaf nutrient
+   pools, soil redox potential, and surface water hydrologic connectivity
+   were collected from floodplains along six river reaches in western
+   Tennessee to examine the effects of channel modifications on associated
+   riparian systems. Comparisons among channelization treatments
+   (non-channelized reaches, channelized and leveed reaches, channelized
+   but non-leveed reaches) and floodplain geomorphology (depression and
+   nondepressional sites) showed that hydrologic connectivity was affected
+   by channelization treatments, particularly leveeing. The disconnected
+   floodplains were drier, maintained higher nutrient pools, and had
+   greater herbaceous biomass than floodplains still connected to channel
+   hydrology. Runoff onto floodplains from the agriculturally dominated
+   landscape of channelized and leveed tributaries, and flooding stress in
+   the form of scour on floodplains along streams without levees may
+   explain the observed pattern. Channel and floodplain hydrologic
+   processes were most strongly connected for unchannelized streams.
+   Unchannelized streams were varied in soil redox potential, water table,
+   and nutrient pools. Vegetation composition reflects both historical
+   hydrologic regimes and disturbances, and thus complex relationships to
+   channel modifications. Results suggest both the subsidy (i.e., nutrient
+   inputs) and the stress of flood events have been altered by
+   anthropogenic activities, but these alterations were greatest in
+   channelized systems compared to unchannelized systems.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0277-5212
+UT WOS:000268987300004
+ER
+
+PT J
+AU Shields, F. Douglas, Jr.
+   Pezeshki, S. Reza
+   Wilson, Glen V.
+   Wu, Weiming
+   Dabney, Seth M.
+TI Rehabilitation of an Incised Stream Using Plant Materials: the Dominance
+   of Geomorphic Processes
+SO ECOLOGY AND SOCIETY
+VL 13
+IS 2
+AR 54
+PD DEC 2008
+PY 2008
+AB The restoration of potentially species-rich stream ecosystems in
+   physically unstable environments is challenging, and few attempts have
+   been evaluated scientifically. Restoration approaches that involve
+   living and dead native vegetation are attractive economically and from
+   an ecological standpoint. A 2-km reach of an incised, sand-bed stream in
+   northern Mississippi was treated with large wood structures and willow
+   plantings to trigger responses that would result in increasing
+   similarity with a lightly degraded reference stream. Experimental
+   approaches for stream bank and gully stabilization were also examined.
+   Although the project was initially successful in producing improved
+   aquatic habitat, after 4 yr it had failed to effectively address issues
+   related to flashy watershed hydrology and physical instability manifest
+   by erosion and sedimentation. The success of ecosystem rehabilitation
+   was thus governed by landscape-scale hydrological and geomorphological
+   processes.
+TC 8
+ZB 3
+Z8 0
+Z9 8
+SN 1708-3087
+UT WOS:000262291600036
+ER
+
+PT J
+AU Brown, Christopher E.
+   Pezeshki, S. Reza
+TI Threshhold for recovery in the marsh halophyte Spartina alterniflora
+   grown under the combined effects of salinity and soil drying
+SO JOURNAL OF PLANT PHYSIOLOGY
+VL 164
+IS 3
+BP 274
+EP 282
+DI 10.1016/j.jplph.2006.01.002
+PD MAR 2007
+PY 2007
+AB A study quantifying the physiological threshold at which Spartina
+   alterniflora plants are able to tolerate the interactive effects of
+   salinity and soil drying was conducted in a climate controlled
+   greenhouse. The experiment consisted of two levels of salinity (3-5 ppt,
+   L and 35-38 ppt, H) as well as four dynamic water levels: flooding
+   (water level maintained 3-5 cm above the soil surface at high tide and
+   10 cm below the soil surface at tow tide for entire study duration, F),
+   8-day drought (water level maintained at least 20 cm below the soil
+   surface at high tide for 8 days then flooded, 8 days), 16-day drought
+   (water level, maintained at least 20cm below the soil surface at high
+   tide for 16 days then flooded, 16 days), and 24-day drought (water
+   level, maintained at least 20cm below the soil surface at high tide for
+   24 days then flooded, 24 days). Plant gas exchange and growth responses
+   were measured along with soil conditions of redox potential and water
+   potential. Significant decreases were seen in plant gas exchange and
+   growth in response to increases in salinity and soil drying. Survival
+   was 100% for all flooded treatments white increased salinity combined
+   with soil drying decreased survival to 86% in both low salt/24-day
+   drought plants (LD24) and high salt/16-day drought plants (HD16). The
+   lowest survival rate was seen in the high salt/24-day drought treatment
+   (HD24) at 29%. Therefore, it appears that the critical time for recovery
+   from the combined effects of increased salinity and soil drying may
+   greatly diminish after two weeks from the onset of stress conditions.
+   Consequently, if salinity continues to increase along the MRDP, marshes
+   dominated by S. alterniflora may be more susceptible to short-term
+   drought and likewise large-scale marsh browning. (c) 2006 Elsevier GmbH.
+   All rights reserved.
+TC 8
+ZB 7
+Z8 1
+Z9 9
+SN 0176-1617
+UT WOS:000244837800006
+ER
+
+PT J
+AU Pezeshki, S. Reza
+   Li, Shuwen
+   Shields, F. Douglas, Jr.
+   Martin, Lili T.
+TI Factors governing survival of black willow (Salix nigra) cuttings in a
+   streambank restoration project
+SO ECOLOGICAL ENGINEERING
+VL 29
+IS 1
+BP 56
+EP 65
+DI 10.1016/j.ecoleng.2006.07.014
+PD JAN 2007
+PY 2007
+AB A field study was conducted at Little Topashaw Creek in northern
+   Mississippi, aimed at expanding the limited database on the survivorship
+   of Salix nigra (black willow) cuttings planted on riparian restoration
+   sites. We tested the hypothesis that sediment moisture availability
+   (deficit, excess) as mediated by sediment texture and depth to the
+   prevailing water table is a major factor governing black willow survival
+   during the initial stage of establishment following transplanting.
+   Replicated plots were established across elevational gradients and a
+   range of soil texture. Each plot contained 16 planted cuttings (2.5 cm
+   diameter x 2.5 m length). Plot depth to water table, soil texture, and
+   soil redox potential were measured. Plant gas exchange, leaf chlorophyll
+   content, growth, and survival were monitored periodically over two
+   growing seasons. Survival was best at low elevation compared to cuttings
+   planted at mid- and high elevations. Poor survival and growth were noted
+   for cuttings that encountered sediment moisture deficits in plots with
+   coarse texture while the best cutting survival was recorded for
+   intermediate sand content plots. Results indicated that plot location on
+   the bank and soil texture are two important factors that influence
+   riverbank restoration success. Therefore, any riparian restoration plan
+   should include careful assessment of these factors prior to undertaking
+   such efforts. (c) 2006 Elsevier B.V All rights reserved.
+TC 15
+ZB 12
+Z8 2
+Z9 18
+SN 0925-8574
+UT WOS:000243600700007
+ER
+
+PT J
+AU Li, SW
+   Pezeshki, SR
+   Shields, FD
+TI Partial flooding enhances aeration in adventitious roots of black willow
+   (Salix nigra) cuttings
+SO JOURNAL OF PLANT PHYSIOLOGY
+VL 163
+IS 6
+BP 619
+EP 628
+DI 10.1016/j.jplph.2005.06.010
+PD APR 2006
+PY 2006
+AB Black willow (Salix nigra) cuttings are used for streambank
+   stabilization where they are subjected to a range of soil moisture
+   conditions including flooding. Flooding has been shown to adversely
+   impact cutting performance, and improved understanding of natural
+   adaptations to flooding might suggest handling and planting techniques
+   to enhance success. However, data assessing the root aeration in
+   adventitious roots that are developed on cuttings of woody species are
+   scant. In addition, it appears that no data are available regarding
+   aeration of the root system under partially flooded conditions. This
+   experiment was designed to examine the effects of continuous flooding
+   (CF) and partial flooding (PF) on aerenchyma formation and radial oxygen
+   loss (ROL) in black willow cuttings. Photosynthetic and growth responses
+   to these conditions were also investigated. Under laboratory condition,
+   replicated potted cuttings were subjected to three treatments: no
+   flooding (control, C), CF, and PF Water was maintained above the soil
+   surface in CF and at 10cm depth in PF Results indicated that after the
+   28-d treatments, root porosity ranged between 28.6% and 33.0% for the CF
+   and C plants but was greater for the PF plants (39.2% for the drained
+   and 37.2% for the flooded portions). A similar response pattern was
+   found for ROL. In addition, CF treatment led to decreases in final root
+   biomass and root/shoot ratio. Neither CF nor PF had any detectable
+   adverse effects on plant gas exchange or photosystem II functioning. Our
+   results indicated that S. nigra cuttings exhibited avoidance mechanisms
+   in response to flooding, especially the partially flooded condition
+   which is the most common occurrence in riparian systems. (c) 2005
+   Elsevier GmbH. All rights reserved.
+TC 9
+ZB 5
+Z8 0
+Z9 9
+SN 0176-1617
+UT WOS:000237411200004
+ER
+
+PT J
+AU Li, SW
+   Martin, LT
+   Pezeshki, SR
+   Shields, FD
+TI Responses of black willow (Salix nigra) cuttings to simulated herbivory
+   and flooding
+SO ACTA OECOLOGICA-INTERNATIONAL JOURNAL OF ECOLOGY
+VL 28
+IS 2
+BP 173
+EP 180
+DI 10.1016/j.actao.2005.03.009
+PD SEP-OCT 2005
+PY 2005
+AB Herbivory and flooding influence plant species composition and diversity
+   in many wetland ecosystems. Black willow (Salix nigra) naturally occurs
+   in floodplains and riparian zones of the southeastern United States.
+   Cuttings from this species are used as a bioengineering tool for
+   streambank stabilization and habitat rehabilitation. The present study
+   was conducted to evaluate the photosynthetic and growth responses of
+   black willow to simulated herbivory and flooding. Potted cuttings were
+   subjected to three levels of single-event herbivory: no herbivory
+   (control), light herbivory, and heavy herbivory; and three levels of
+   flooding conditions: no flooding (control), continuous flooding, and
+   periodic flooding. Results indicated that elevated stomata] conductance
+   partially contributed to the increased net photosynthesis noted under
+   both levels of herbivory on day 30. However, chlorophyll content was not
+   responsible for the observed compensatory photosynthesis. Cuttings
+   subjected to heavy herbivory accumulated the lowest biomass even though
+   they had the highest height growth by the conclusion of the experiment.
+   In addition, a reduction in root/shoot ratio was noted for plants
+   subjected to continuous flooding with no herbivory. However,
+   continuously flooded, lightly clipped plants allocated more resources to
+   roots than shoots. This study provides evidence that it is feasible to
+   use black willow for habitat rehabilitation along highly eroded
+   streambanks where both flooding and herbivory are present. (c) 2005
+   Elsevier SAS. All rights reserved.
+TC 7
+ZB 6
+Z8 1
+Z9 8
+SN 1146-609X
+UT WOS:000232880600012
+ER
+
+PT J
+AU DeLaune, RD
+   Pezeshki, SR
+   Jugsujinda, A
+TI Impact of Mississippi River freshwater reintroduction on Spartina patens
+   marshes: Responses to nutrient input and lowering of salinity
+SO WETLANDS
+VL 25
+IS 1
+BP 155
+EP 161
+DI 10.1672/0277-5212(2005)025[0155:IOMRFR]2.0.CO;2
+PD MAR 2005
+PY 2005
+AB Greenhouse studies using soil-plant plugs extracted from a Spartina
+   patens marsh receiving diverted Mississippi River water shows that
+   lowering of salinity and increased nutrient input associated with
+   freshwater reintroduction into Louisiana estuaries will enhance nutrient
+   uptake and biomass production of wiregrass (Spartina patens). Biomass
+   production doubled in response to the addition of 10g N m(-2). A
+   salinity-nutrient interaction was shown. Plants grown in fertilized
+   treatments at 0 ppt had significantly greater biomass production than
+   plants grown under fertilized treatment and 8 ppt salinity. However, a
+   significantly greater amount of biomass was measured in both fertilized
+   treatments (0 and 8 ppt) as compared to control. Lowering of salinity
+   alone also stimulated plant growth. Results demonstrated that proposed
+   reintroduction of Mississippi River water into Spartina patens marshes
+   of Breton Sound should enhance plant growth and improve marsh stability.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0277-5212
+UT WOS:000228542000014
+ER
+
+PT J
+AU Cirtain, MC
+   Franklin, SB
+   Pezeshki, SR
+TI Effects of nitrogen and moisture regimes on Arundinaria gigantea (Walt.)
+   Muhl. Seedling growth
+SO NATURAL AREAS JOURNAL
+VL 24
+IS 3
+BP 251
+EP 257
+PD JUL 2004
+PY 2004
+AB A greater than 98% decline in Arundinaria gigantea (Walt.) Muhl. (giant
+   cane or river cane) canebrake communities have resulted in a critically
+   endangered ecosystem. Historical accounts suggest loss of canebrake
+   habitat has resulted in the extirpation (and perhaps extinction) of many
+   species. Thus, canebrake restoration is necessary for maintaining and
+   enhancing biodiversity in the southeastern United States. The purpose of
+   this study is to facilitate reestablishing A. gigantea canebrakes by
+   optimizing growth and survivorship conditions for seedlings. To this
+   end, we developed a lab experiment to test the effects of soil moisture
+   (periodic drought, periodic flooding, and well-drained) and nitrogen
+   fertilization on A. gigantea seedling growth and physiology. Arundinaria
+   gigantea, while able to survive both drought and flooding, had
+   significantly greater growth under well-drained conditions. Shoot growth
+   averaged 28 cm and root growth averaged 11 cm in well-drained pots.
+   Seedlings grown in flooded and drought treatments were not significantly
+   different, averaging 20 cm in shoot growth and 4 cm in root growth.
+   Biomass results mirrored shoot and root growth; biomass of roots and
+   shoots was 30% greater under well-drained conditions. Nitrogen
+   fertilization did not significantly affect seedling growth or
+   physiology. Neither stomatal conductance nor net photosynthesis was
+   significantly affected by moisture regime or nitrogen fertilization.
+   However, results imply soil moisture regime as a significant factor
+   controlling the growth and distribution of A. gigantea, and thus
+   canebrake restoration will likely be most successful on well-drained
+   soils.
+TC 17
+ZB 17
+Z8 0
+Z9 18
+SN 0885-8608
+UT WOS:000222614700011
+ER
+
+PT J
+AU Schaff, SD
+   Pezeshki, SR
+   Shields, FD
+TI Effects of soil conditions on survival and growth of black willow
+   cuttings
+SO ENVIRONMENTAL MANAGEMENT
+VL 31
+IS 6
+BP 748
+EP 763
+DI 10.1007/s00267-002-2909-y
+PD JUN 2003
+PY 2003
+AB Current streambank restoration efforts focus on providing bank
+   stability, enhancing water quality, and improving woody habitat using
+   native vegetation rather than traditional engineering techniques.
+   However, in most cases harsh site conditions limit restoration success.
+   A two-year field study was conducted at Twentymile Creek, in northern
+   Mississippi, investigating edaphic factors governing the survival of
+   black willow (Salix nigra) cuttings used for streambank restoration. Low
+   height growth, above-ground biomass production, and average leaf area
+   were observed in willow cuttings grown in plots subjected to moisture
+   deficits. However, sediment texture emerged as the dominant factor
+   determining willow post growth, health, and survival, Shoot biomass,
+   leaf biomass, and total above-ground biomass were 15-, 10-, and 14-fold
+   greater for large willow cuttings (posts) grown in plots with sandy
+   sediments relative to those grown in plots with similar moisture and
+   soil redox potential but with silt and clay sediments. Average leaf
+   size, average leaf mass and specific leaf area were all lower in fine
+   textured plots. Under moisture conditions present at our sites,
+   coarse-grained sediment (sand) was more conducive to willow growth,
+   biomass production, and survival than were fine-grained sediments
+   (silt/clay). Our results strongly suggest that soil texture and moisture
+   conditions can determine restoration success. Therefore, it is critical
+   that site conditions are factored into the selection of project
+   locations prior to the initiation of willow planting restoration
+   projects.
+TC 23
+ZB 18
+Z8 1
+Z9 25
+SN 0364-152X
+UT WOS:000184714800006
+ER
+
+PT J
+AU Schaff, SD
+   Pezeshki, SR
+   Shields, FD
+TI Effects of pre-planting soaking on growth and survival of black willow
+   cuttings
+SO RESTORATION ECOLOGY
+VL 10
+IS 2
+BP 267
+EP 274
+DI 10.1046/j.1526-100X.2002.02035.x
+PD JUN 2002
+PY 2002
+AB Black willow (Salix nigra ) uses periodic flood events for dispersal of
+   vegetative propagules, subjecting them to periods of soaking before
+   their deposition along the streambank. It was hypothesized that this
+   life history trait results in optimal conditions for willow growth and
+   survival. To test this hypothesis, a greenhouse experiment was conducted
+   using 1.2-m-long black willow cuttings (posts) with a basal diameter of
+   5 cm. Cuttings were subjected to three soaking treatments (0, 3, and 10
+   days) and then grown under four soil moisture regimes (control, drought,
+   permanently flooded, and intermittently flooded). Growth, biomass, and
+   survival were recorded. Results showed that soaking posts for 10 days
+   was most beneficial in the control soil moisture regime, enhancing root,
+   shoot, leaf, and total biomass production. Shoot abundance and growth
+   were also enhanced by 10 days of soaking in the control and permanently
+   flooded moisture regimes. Finally, survival increased significantly in
+   control and drought moisture regimes in response to the 10-day soaking
+   treatment. Results clearly demonstrated that soaking had significant
+   effects on willow post success when evaluated across all soil moisture
+   regimes. Posts subjected to the 10-day soaking treatment consistently
+   had greatest growth and biomass and displayed a doubling of the survival
+   rate. Therefore, soaking willow cuttings before planting is a simple,
+   inexpensive technique that may be used to bolster streambank restoration
+   success.
+TC 13
+ZB 11
+Z8 0
+Z9 14
+SN 1061-2971
+UT WOS:000175832600010
+ER
+
+PT J
+AU Anderson, PH
+   Pezeshki, SR
+TI Effects of flood pre-conditioning on responses of three bottomland tree
+   species to soil waterlogging
+SO JOURNAL OF PLANT PHYSIOLOGY
+VL 158
+IS 2
+BP 227
+EP 233
+DI 10.1078/0176-1617-00267
+PD FEB 2001
+PY 2001
+AB The potential for improving the performance of seedlings of woody
+   species under flood stress was evaluated. Seedlings of baldcypress
+   (Taxodium distichum), nuttall oak (Quercus nuttallii), and swamp
+   chestnut oak (Quercus michauxii) were subjected to a two-phase study in
+   which soil moisture regime was controlled. During Phase I, plants were
+   randomly assigned to either: Control, well-watered and drained
+   conditions; or intermittent flooding, alternating flooding and drained
+   conditions. Following completion of Phase I, seedlings in each treatment
+   were assigned randomly to one of two treatments: well-watered but
+   drained or continuously flooded. Thus during Phase II, plants were
+   divided into four groups: Control (A), intermittent flooding during
+   Phase I and draining during Phase II (B), control during Phase I and
+   continuously flooding during Phase II (C), and intermittently flooded
+   during Phase I and continuously flooded during Phase II (D). Stomatal
+   conductance (gw) in baldcypress increased in flooded treatments ranging
+   from 112 to 128% of controls. Net photosynthesis (Pn) in baldcypress was
+   not significantly affected by flooding while in oaks, Pn and gw
+   decreased significantly in response to flooding. In oaks, flood
+   pre-conditioning did not affect growth or physiological responses during
+   phase ii significantly. However, stomatal conductance of flood-hardened
+   baldcypress was increased compared to seedlings that were not hardened.
+   The study species developed significantly higher root porosity under
+   flooded conditions compared to controls. Flood pre-conditioning did not
+   appear to increase root porosity although it may have accelerated the
+   process.
+TC 10
+ZB 11
+Z8 2
+Z9 13
+SN 0176-1617
+UT WOS:000167105500012
+ER
+
+PT J
+AU Brown, CE
+   Pezeshki, SR
+TI A study on waterlogging as a potential tool to control Ligustrum sinense
+   populations in western Tennessee
+SO WETLANDS
+VL 20
+IS 3
+BP 429
+EP 437
+DI 10.1672/0277-5212(2000)020<0429:ASOWAA>2.0.CO;2
+PD SEP 2000
+PY 2000
+AB Ligustrum sinense (Chinese privet) is an introduced species in the
+   United States. Dense stands of L. sinense are found in the understory in
+   many bottomland forests in western Tennessee. The widespread abundance
+   of this species is problematic because of the potential loss of valuable
+   native bottomland species due to competition. Flooding has been proposed
+   as a potential means of eradicating this species. Therefore, the
+   objectives of this experiment were to examine survival, growth, and
+   physiological responses of L. sinense under various flooding and shading
+   regimes. An experiment consisting of three levels of flooding (control,
+   shallow flooding, and deep flooding) and three levels of shading (full
+   sun, 30-35% full sun (photosynthetic active radiation), and 10-15% sun)
+   was performed in a greenhouse. Plant gas exchange was adversely affected
+   in all flooded plants. Likewise, growth (height and diameter) was lower
+   in those plants that were flooded as compared to non-flooded plants.
+   However, morphological adaptations (i.e., lenticels and adventitious
+   roots) were observed by the third week of the experiment. Plant survival
+   in flooded treatments was 75% by the conclusion of the experiment, with
+   an equal rate of survival seen in the shaded treatments compared to
+   non-shaded. Although flooding alone did have significant effects on
+   physiological function and growth, shading and shading x flooding
+   interaction were not significant. Our data support the hypothesis that
+   L. sinense is capable of withstanding both short-term flooding and
+   shading; thus, shea-term flooding is unlikely to irradicate this species
+   from the infested bottomland stands.
+TC 11
+ZB 10
+Z8 0
+Z9 13
+SN 0277-5212
+UT WOS:000089532100001
+ER
+
+PT J
+AU Pezeshki, SR
+   Anderson, PH
+   Shields, FD
+TI Effects of soil moisture regimes on growth and survival of black willow
+   (Salix nigra) posts (cuttings)
+SO WETLANDS
+VL 18
+IS 3
+BP 460
+EP 470
+PD SEP 1998
+PY 1998
+AB A study was conducted under greenhouse conditions to examine the effects
+   of various soil moisture regimes on black willow (Salix nigra) posts
+   (cuttings). Five treatments representing a range of soil moisture
+   regimes, from continuous flooding to mild drought, were imposed
+   separately. A well-watered, well-drained treatment served as the
+   control. Leaf gas exchange (stomatal conductance and net
+   photosynthesis), survival, and biomass production of posts were
+   evaluated. The stomatal conductance and net photosynthesis data clearly
+   demonstrated the sensitivity:of willow posts to low oxygen conditions
+   (under flooded treatments) as well as to soil drought. Growth and
+   biomass were also adversely affected by flooding and drought treatments.
+   The patterns of roof development along the posts seemed to be associated
+   with the watering regime. Root biomass was depressed in zones subjected
+   to flooding and low soil redox potential. In addition, leaf area, leaf
+   biomass, and shoot (leaf + branch) biomass were significantly lower in
+   the continuously-hooded and drought treatments as compared to control
+   plants. Results indicated that maximum photosynthesis and growth in
+   willow posts required ample soil-moisture (but-non-waterlogging
+   conditions) and adequate drainage in the top 60 cm of soil. The use of
+   willow posts for streambank restoration remains as a viable strategy;
+   however, considerations should be given to water-table elevations, soil
+   Eh conditions, soil moisture regime, and soil texture in order to
+   improve the prospect for successful results.
+TC 29
+ZB 24
+Z8 0
+Z9 31
+SN 0277-5212
+UT WOS:000076139900013
+ER
+
+PT J
+AU Allen, JA
+   Chambers, JL
+   Pezeshki, SR
+TI Effects of salinity on baldcypress seedlings: Physiological responses
+   and their relation to salinity tolerance
+SO WETLANDS
+VL 17
+IS 2
+BP 310
+EP 320
+PD JUN 1997
+PY 1997
+AB Growth and physiological responses of 15 open-pollinated families of
+   baldcypress (Taxodium distichum var. distichum) subjected to flooding
+   with saline water were evaluated in this study. Ten of the families were
+   from coastal sites in Louisiana and Alabama, USA that have elevated
+   levels of soil-water salinity. The other five families were from inland,
+   freshwater sites in Louisiana. Seedlings from all families tolerated
+   flooding with water of low (2 g l(-1)) salinity. Differences in biomass
+   among families became most apparent at the highest: salinity levels (6
+   and 8 g l(-1)), Overall, increasing salinity reduced leaf biomass more
+   than root biomass, which in turn was reduced more than stem biomass. A
+   subset of seedlings from the main greenhouse experiment was periodically
+   placed indoors under artificial light, and measurements were made of gas
+   exchange and leaf water potential, Also, tissue concentrations of Cl-,
+   Na+, K+, and Ca2+ were determined at the end of the greenhouse
+   experiment. Significant intraspecific variation was found for nearly all
+   the physiological parameters evaluated, but only leaf concentrations of
+   Na+ and Cl- were correlated with an index of family-level differences in
+   salt tolerance.
+TC 23
+ZB 24
+Z8 4
+Z9 28
+SN 0277-5212
+UT WOS:A1997XG35600013
+ER
+
+PT J
+AU Pezeshki, SR
+   DeLaune, RD
+   Kludze, HK
+   Choi, HS
+TI Photosynthetic and growth responses of cattail (Typha domingensis) and
+   sawgrass (Cladium jamaicense) to soil redox conditions
+SO AQUATIC BOTANY
+VL 54
+IS 1
+BP 25
+EP 35
+DI 10.1016/0304-3770(96)01033-9
+PD JUN 1996
+PY 1996
+AB Under controlled laboratory conditions, cattail (Typha domingensis
+   Pers.) and sawgrass (Cladium jamaicense Crantz) were subjected to a
+   range of soil redox potential (Eh) including +500, +250, 0 and -200 mV
+   and plant photosynthetic activity and growth responses were measured. In
+   both species, light saturation was not achieved at the highest photon
+   irradiance of 1100 mu mol m(-2) s(-1). Sawgrass showed greater
+   photosynthetic capacity per unit area of leaf at higher irradiances than
+   cattail. However, light compensation points were estimated at 25 and 60
+   mu mol m(-2) s(-1) for cattail and sawgrass, respectively, In both
+   species, stomatal conductance was reduced significantly in response to
+   the lowest Eh condition (-200 mV). Net photosynthesis decreased
+   significantly in both species in response to the reduced Eh conditions,
+   but there were differences, The reductions were proportionally greater
+   in sawgrass than in cattail. Thus, at -200 mV Eh, net photosynthesis was
+   reduced by 71% for cattail; while in sawgrass there was no net
+   photosynthesis, only respiration. Cattail showed significantly greater
+   net photosynthetic rates as compared with sawgrass at the lowest Eh
+   treatment (-200 mV). Although total biomass was reduced in both species
+   in response to low Eh conditions, it nevertheless was significantly
+   greater in cattail than sawgrass under 0 and -200 mV soil Eh treatments.
+   However, the biomass allocation pattern did not differ between the two
+   species across treatments. Results of the present study support the
+   hypothesis that in both species differences in pattern of site occupancy
+   and competition under low soil oxygen conditions may be partially
+   explained by differences in their photosynthetic characteristics and
+   photosynthetic acclimation to oxygen-deficient environments.
+TC 30
+ZB 28
+Z8 2
+Z9 33
+SN 0304-3770
+UT WOS:A1996VE12000003
+ER
+
+PT J
+AU Allen, JA
+   Pezeshki, SR
+   Chambers, JL
+TI Interaction of flooding and salinity stress on baldcypress (Taxodium
+   distichum)
+SO TREE PHYSIOLOGY
+VL 16
+IS 1-2
+BP 307
+EP 313
+PD JAN-FEB 1996
+PY 1996
+AB Coastal wetlands of the southeastern United States are threatened by
+   increases in flooding and salinity as a result of both natural processes
+   and man-induced hydrologic alterations. Furthermore, global climate
+   change scenarios suggest that, as a consequence of rising sea levels,
+   much larger areas of coastal wetlands may be affected by flooding and
+   salinity in the next 50 to 100 years. In this paper, we review studies
+   designed to improve our ability to predict and ameliorate the impacts of
+   increased flooding and salinity stress on baldcypress (Taxodium
+   distichum (L.) Rich.), which is a dominant species of many coastal
+   forested wetlands. Specifically, we review studies on species-level
+   responses to flooding and salinity stress, alone and in combination, we
+   summarize two studies on intraspecific variation in response to flooding
+   and salinity stress, we analyze the physiological mechanisms thought to
+   be responsible for the interaction between flooding and salinity stress,
+   and we discuss the implications for coastal wetland loss and the
+   prospects for developing salt-tolerant lines of baldcypress.
+CT Traveling Workshop on Interactive Environmental Effects on Forest Stands
+CY JAN 27-FEB 07, 1995
+CL NEW ZEALAND
+SP Int Union Forest Res Org
+TC 32
+ZB 36
+Z8 1
+Z9 39
+SN 0829-318X
+UT WOS:A1996TT02400038
+ER
+
+EF

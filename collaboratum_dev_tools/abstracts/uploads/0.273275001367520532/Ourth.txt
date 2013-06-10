@@ -1,0 +1,967 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Ourth, Donald D.
+   Rose, Wendy M.
+TI Purification, characterization and seasonal variation of mannose-binding
+   C-type lectin in Ictalurid catfish
+SO AQUACULTURE
+VL 321
+IS 3-4
+BP 191
+EP 196
+DI 10.1016/j.aquaculture.2011.09.003
+PD DEC 1 2011
+PY 2011
+AB Mannose-binding C-type lectin (MBL) was purified by mannan-agarose
+   affinity chromatography from blue catfish D + B (Ictalurus furcatus) and
+   channel catfish NWAC 103 (Ictalurus punctatus) sera. The MBLs of blue
+   catfish D + B and channel catfish NWAC 103 strains have not been
+   purified by affinity chromatography, characterized and quantified. The
+   affinity-purified and 2-ME reduced catfish MBLs showed one band of 66
+   kDa for blue catfish D + B, and one band of 63 kDa for channel catfish
+   NWAC 103 by SDS-PAGE and Western blotting. Amino acid composition
+   analysis (mol%) of the isolated catfish MBLs was done. The amount of
+   methionine-S present in blue catfish D + B (0.78 mol%) was 2.2-times
+   greater when compared with channel catfish NWAC 103 (0.35 mol%). The
+   amount of proline present was 1.9-times greater in channel catfish NWAC
+   103 (8.0 mol%) when compared with blue catfish D + B (4.3 mol%).
+   Tyrosine (2.5 mol%) was present in blue catfish D + B but not detected
+   in channel catfish NWAC 103. N-terminal amino acid sequencing by Edman
+   degradation for the first 10 residues gave two amino acid sequences of
+   XRQPESFRIV and XXEDGYGKMF that were identical for both blue catfish D +
+   B and channel catfish NWAC 103. This could represent the presence of two
+   different isoforms of catfish MBL. Blue catfish D + B had 21.3 mu g of
+   MBL/ml of serum. Channel catfish NWAC 103 (#1 serum pool) had 15.1 mu g
+   of MBL/ml of serum (obtained in late Fall season), and channel catfish
+   NWAC 103 (#2 serum pool) had 10.2 mu g of MBL/ml of serum (obtained in
+   Spring season). A seasonal variation in the channel catfish serum MBL
+   was therefore seen. A standard curve for mu g/ml of MBL in catfish serum
+   was constructed with these data. The presence of MBL in blue catfish D +
+   B and channel catfish NWAC 103 sera should be important in their innate
+   immunity and resistance to Edwardsiella ictaluri and other microbial
+   infections. This study describes the presence of MBL in these two
+   Ictalurus species and evidence for a C-type lectin complement pathway of
+   innate immunity. The channel catfish is used in aquaculture in the
+   Southeast USA and is susceptible to bacterial infections acquired from
+   its pond environment. (C) 2011 Elsevier B.V. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0044-8486
+UT WOS:000297187800005
+ER
+
+PT J
+AU Ourth, Donald D.
+TI Antitumor cell activity in vitro by myristoylated-peptide
+SO BIOMEDICINE & PHARMACOTHERAPY
+VL 65
+IS 4
+BP 271
+EP 274
+DI 10.1016/j.biopha.2011.02.015
+PD JUL 2011
+PY 2011
+AB New anticancer drugs are needed to support cancer treatment. Cancer
+   involves the uncontrolled proliferation of tumor cells, and many
+   anticancer drugs are agents that inhibit tumor cell growth. The
+   antitumor cell N-myristoylated-peptide is a natural product purified
+   from Heliothis virescens insect hemolymph with essentially no
+   cytotoxicity against human foreskin fibroblast cells. A synthesized
+   structure of six amino acids (Myristoyl-Cys-Ala-Val-Ala-Tyr-[3 methyl]
+   His-OMe; M. W. 902.2 Da) was screened at 10 mu M for in vitro antitumor
+   activity against 56 human tumor cell lines by the National Cancer
+   Institute (NCI). The NCI found that 34 of the 56 tumor cell lines
+   (representing eight major tumor types) were sensitive (> 50% growth
+   inhibition of tumor cells) to the myristoylated-peptide. The best
+   overall antitumor activities (> 60% average growth inhibition) were seen
+   against 17 tumor cell lines for non-small cell lung cancer, leukemia and
+   melanoma and for eight other tumor cell lines. The NCI finds that their
+   in vitro screen is an effective selector of compounds with in vivo
+   antitumor activity. (C) 2011 Elsevier Masson SAS. All rights reserved.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0753-3322
+UT WOS:000296960900005
+ER
+
+PT J
+AU Ourth, Donald D.
+TI Susceptibility in vitro of Epstein-Barr Virus to myristoylated-peptide
+SO PEPTIDES
+VL 31
+IS 7
+BP 1409
+EP 1411
+DI 10.1016/j.peptides.2010.03.031
+PD JUL 2010
+PY 2010
+AB The anti-Epstein-Barr Virus (EBV) myristoylated-peptide (M.W. 916.2 Da)
+   is a natural product isolated from Heliothis virescens insect larval
+   hemolymph (blood) that essentially has no cytotoxicity against human
+   foreskin fibroblast cells. A (3 methyl only) version (M.W. 902.2 Da) of
+   the structure was synthesized and tested for in vitro anti-EBV activity
+   and cytotoxicity. The N-terminal end is lipophilic and used to get the
+   compound across the cell membrane. The C-terminal end with its
+   ring-shaped structures is likely used to inhibit DNA synthesis. The
+   synthetic compound inhibited DNA synthesis/replication of EBV in Akata
+   cells (B-lymphocyte from Burkitt's lymphoma patient) in in vitro tissue
+   culture. A DNA hybridization assay for anti-EBV activity using the Akata
+   B-cell and two cytotoxicity assays using human foreskin fibroblast cells
+   were done with the synthetic peptide. Effective concentration (EC90) at
+   20 mu M inhibited viral replication by 90%. The EBV, known as Human
+   Herpesvirus-4 (HHV-4) of the Herpesviridae family, has been described as
+   a cancer-promoting double-stranded DNA virus that may also be involved
+   in autoimmune disease. There are no antiviral drugs in clinical use for
+   diseases caused by the EBV. (C) 2010 Elsevier Inc. All rights reserved.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0196-9781
+UT WOS:000279078700026
+ER
+
+PT J
+AU Rose, Wendy M.
+   Ourth, Donald D.
+TI Isolation of lysozyme and an antifungal peptide from sea lamprey
+   (Petromyzon marinus) plasma
+SO VETERINARY IMMUNOLOGY AND IMMUNOPATHOLOGY
+VL 132
+IS 2-4
+BP 264
+EP 269
+DI 10.1016/j.vetimm.2009.05.013
+PD DEC 15 2009
+PY 2009
+AB The sea lamprey (Petromyzon marinus) belongs to the most primitive class
+   of fish and has only innate immunity. The innate immune factors,
+   lysozyme and an antifungal peptide, were isolated from sea lamprey
+   plasma. Sea lamprey plasma (40.1 mg protein/ml) was assayed for lysozyme
+   activity by gel diffusion assay. Using hen egg white lysozyme standards,
+   plasma concentration of lamprey lysozyme was 5 mu g lysozyme/mg total
+   protein. The presence of lysozyme in such high concentration in lamprey
+   plasma could be important in their innate immunity and resistance to
+   infection. Lysozyme and the antifungal peptide were isolated by low
+   molecular weight gel filtration chromatography from sea lamprey plasma.
+   Gel filtration chromatography yielded two peak tubes containing lysozyme
+   (1 mu g/211 mu g total protein) and antifungal peptide (1 mu g/66 mu g
+   total protein). Lysozyme and antifungal activity of each fraction were
+   determined by well diffusion assay using Gram-negative bacteria,
+   Gram-positive bacteria and two fungal species. The molecular weight of
+   lamprey lysozyme was 14.3 kDa. The sea lamprey lysozyme was effective
+   against Gram-positive bacteria but not against Gram-negative bacteria or
+   fungi. Molecular weight of the antifungal peptide was approximately 3000
+   Da. Antifungal plasma activity was seen against Penicillium notatum and
+   Aspergillus flavus. No plasma antibacterial peptide was found. (C) 2009
+   Elsevier B.V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+Z9 1
+SN 0165-2427
+UT WOS:000272861100025
+ER
+
+PT J
+AU Ourth, Donald D.
+   Rose, Wendy M.
+   Siefkes, Michael J.
+TI Isolation of mannose-binding C-type lectin from sea lamprey (Petromyzon
+   marinus) plasma and binding to Aeromonas salmonicida
+SO VETERINARY IMMUNOLOGY AND IMMUNOPATHOLOGY
+VL 126
+IS 3-4
+BP 407
+EP 412
+DI 10.1016/j.vetimm.2008.08.008
+PD DEC 15 2008
+PY 2008
+AB The sea lamprey (Petromyzon marinus) is a parasitic cartilaginous fish
+   of the North American Great Lakes and a predator of many bony fish
+   species of commercial importance to the fishing industry.
+   Mannose-binding C-type lectin (MBL) was isolated by mannanagarose
+   affinity chromatography from sea lamprey plasma. Mannose-binding lectin
+   has not before been identified and quantitated in the plasma of this sea
+   lamprey species. The affinity-purified and 2-ME reduced lamprey MBL
+   showed two bands of 35 kDa and 65 kDa by SDS-PAGE and Western blotting
+   using guinea pig anti-MBL IgG as the primary antibody. Amino acid
+   composition analysis (mol%) of the purified lamprey MBL found high
+   amounts of histidine, threonine, tyrosine and phenylalanine present when
+   compared with three other vertebrate MBLs. N-terminal amino acid
+   sequencing by Edman degradation for the first 10 residues gave
+   XXXTKGCPDA. Lamprey plasma contained 261 mu g of MBL/ml of plasma.
+   Plasma protein concentration was 40.1 mg/ml. Lamprey MBL was present
+   then in plasma at 6.5 mu g MBL/mg total protein. The sea lamprey MBL
+   also specifically binds to mannose on the surface of the pathogen
+   Aeromonas salmonicida. The presence of MBL in high concentration in
+   lamprey plasma could be important in their innate immunity and
+   resistance to infection. This Study describes the presence of MBL in sea
+   lamprey plasma and evidence for a C-type lectin complement pathway of
+   innate immunity. (C) 2008 Elsevier B.V. All rights reserved.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0165-2427
+UT WOS:000261867500027
+ER
+
+PT J
+AU Ourth, Donald D.
+   Naffa, Madhu B.
+   Simco, Bill A.
+TI Comparative study of mannose-binding C-type lectin isolated from channel
+   catfish (Ictalurus punctatus) and blue catfish (Ictalurus furcatus)
+SO FISH & SHELLFISH IMMUNOLOGY
+VL 23
+IS 6
+BP 1152
+EP 1160
+DI 10.1016/j.fsi.2007.03.014
+PD DEC 2007
+PY 2007
+AB Mannose-binding C-type lectin (MBL) was isolated from channel catfish
+   (Ictaturus punctatus) NWAC 102 and 103 strains, blue catfish (Ictalurus
+   furcatus) D+B and Rio Grande strains, hybrid catfish (channel catfish
+   female NWAC 103 x blue catfish male D+B) sera, and purified by affinity
+   chromatography from channel catfish Norris strain serum. Reduction of
+   purified channel catfish MBL with 2-ME yielded a single band of 62 kDa
+   by SDS-PAGE and Western blot analysis using guinea pig anti-MBL IgG as
+   primary antibody. Channel catfish NWAC 102 strain, channel catfish NWAC
+   103 strain and hybrid catfish sera had molecular masses of 63 kDa for
+   MBL. Blue catfish (D+B strain) serum MBL had a molecular mass of 66 kDa.
+   Rio Grande blue catfish serum MBL had a molecular mass of 65 kDa. Amino
+   acid composition analysis (mol%) of the affinity-purified channel
+   catfish MBL found a high content of serine present. Functional binding
+   studies of channel catfish and blue catfish MBLs binding to Edwardsiella
+   ictaluri were done using a dot-immunoblot ELISA method. A dot-immunoblot
+   ELISA binding assay was done to compare nine different strains and
+   species of channel catfish and blue catfish for their levels of serum
+   MBL. Blue catfish had higher levels of MBL than did the various strains
+   of channel catfish tested. MBL could be used as a genetic marker for
+   selection of disease resistance in the different strains of catfish used
+   in aquaculture. This study describes the presence of serum MBL in
+   catfish and evidence for a C-type lectin complement pathway of innate
+   immunity. (c) 2007 Elsevier Ltd. All rights reserved.
+TC 10
+ZB 9
+Z8 1
+Z9 11
+SN 1050-4648
+UT WOS:000251472700002
+ER
+
+PT J
+AU Ourth, DD
+   Narra, MB
+   Chung, KT
+TI Isolation of mannose-binding C-type lectin from Heliothis virescens
+   pupae
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 335
+IS 4
+BP 1085
+EP 1089
+DI 10.1016/j.bbrc.2005.07.189
+PD OCT 7 2005
+PY 2005
+AB A mannose-binding C-type lectin (MBL) was isolated by affinity
+   chromatography from Heliothis virescens immune pupal hemolymph. The
+   immune pupal hemolymph was obtained after bacterial injection of live
+   Enterobacter cloacae bacteria. MBL in mammals acts as an opsonin for
+   phagocytosis and activates the lectin complement pathway of the innate
+   immune response, which leads to killing of gram-negative bacteria and
+   enveloped viruses. The affinity-purified and reduced pupal MBL showed a
+   single band of 36 kDa by SDS-PAGE (12% gel). A dot-immunoblot ELISA
+   (using guinea pig anti-MBL IgG as primary antibody) demonstrated
+   specificity of the antibody for the affinity-purified pupal MBL. The
+   immune pupal hemolymph contained 21 mu g of MBL per ml of hemolymph. The
+   amino acid composition of the purified pupal MBL was determined with
+   high amounts of arginine and histidine detected. The presence of MBL in
+   insect pupae has not before been reported and could be important in
+   pupal innate immunity to bacterial infection. (c) 2005 Elsevier Inc. All
+   rights reserved.
+TC 8
+ZB 10
+Z8 0
+Z9 11
+SN 0006-291X
+UT WOS:000231817600013
+ER
+
+PT J
+AU Benstein, BD
+   Ourth, DD
+   Crouse, DT
+   Shanklin, DR
+TI Ureaplasma urealyticum binds mannose-binding lectin
+SO EXPERIMENTAL AND MOLECULAR PATHOLOGY
+VL 77
+IS 2
+BP 138
+EP 144
+DI 10.1016/j.yexmp.2004.05.006
+PD OCT 2004
+PY 2004
+AB Mannose-binding C-type lectin (MBL) is an important component of innate
+   immunity in mammals. Mannose-binding lectin (MBL), an acute phase
+   protein, acts as an opsonin for phagocytosis and also activates the
+   mannan-binding lectin complement pathway. It may play a particularly
+   significant role during infancy before adequate specific protection can
+   be provided by the adaptive immune system. Ureaplasma urealyticum has
+   been linked to several diseases including pneumonia and chronic lung
+   disease (CLD) in premature infants. We therefore investigated the
+   ability of U. urealyticum to bind MBL. A guinea pig IgG anti-rabbit-MBL
+   antiserum was produced. An immunoblot (dot-blot) assay done on
+   nitrocellulose membrane determined that the anti-MBL antibody had
+   specificity against both rabbit and human MBL. Pure cultures of U.
+   urealyticum, serotype 3, were used to make slide preparations. The
+   slides containing the organisms were then incubated with nonimmune
+   rabbit serum containing MBL. Ureaplasma was shown to bind rabbit MBL
+   with an immunocytochemical assay using the guinea pig IgG anti-rabbit
+   MBL antiserum. Horseradish peroxidase (HRP)-labeled anti-guinea pig IgG
+   was used to localize the reaction. The anti-MBL antiserum was also used
+   in an immunocytochemical assay to localize U. urealyticum in
+   histological sections of lungs from mice specifically infected with this
+   organism. The same method also indicated binding of MBL by ureaplasma in
+   human lung tissue obtained at autopsy from culture positive infants. Our
+   results demonstrate that ureaplasma has the capacity to bind MBL. The
+   absence of MBL may play a role in the predisposition of diseases related
+   to this organism. (C) 2004 Elsevier Inc. All rights reserved.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0014-4800
+UT WOS:000224193600009
+ER
+
+PT J
+AU Ourth, DD
+TI Antiviral activity against human immunodeficiency virus-1 in vitro by
+   myristoylated-peptide from Heliothis vireseens
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 320
+IS 1
+BP 190
+EP 196
+DI 10.1016/j.bbrc.2004.05.137
+PD JUL 16 2004
+PY 2004
+AB An insect antiviral compound was purified from Heliothis virescens
+   larval hemolymph by gel-filtration high pressure liquid chromatography
+   (HPLC) and C-18 reverse-phase HPLC and its structure was determined by
+   mass spectrometry. The antiviral compound is an N-myristoylated-peptide
+   containing six amino acids with calculated molecular weight of 916 Da.
+   The N-terminus contains the fatty acid myristoyl, and the C-terminus
+   contains histidine with two methyl groups giving the histidine a
+   permanent positive charge. The remainder of the compound is essentially
+   non-polar. The structure of the compound corresponds with the 'myristate
+   plus basic' motif expressed by certain viral proteins in their binding
+   to the cytoplasmic side of the plasma membrane to initiate viral
+   assembly and budding from a host cell. The insect antiviral compound may
+   inhibit viral assembly and/or budding of viruses from host cells that
+   could include the human immunodeficiency virus-1 (HIV-1) and herpes
+   simplex virus-1 that use this motif for exit from a host cell. Using the
+   formazan assay, the myristoylated-peptide was effective against HIV-1,
+   with a nine times increase in the viability and protection in vitro of
+   treated CEM-SS cells when compared with infected but untreated control
+   cells. (C) 2004 Elsevier Inc. All rights reserved.
+TC 15
+ZB 12
+Z8 1
+Z9 16
+SN 0006-291X
+UT WOS:000222494500028
+ER
+
+PT J
+AU Ourth, DD
+   Chung, KT
+TI Purification of antimicrobial factor from granules of channel catfish
+   peripheral blood leucocytes
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 313
+IS 1
+BP 28
+EP 36
+DI 10.1016/j.bbrc.2003.11.093
+PD JAN 2 2004
+PY 2004
+AB The channel catfish (Ictalurus punctatus) is extensively used in
+   aquaculture in the Southeast US and is susceptible to many bacterial
+   infections acquired from its pond environment. Research is needed to
+   better understand the defensive response and innate immunity of channel
+   catfish against fish pathogens like Edivardsiella ictaluri and Aeromonas
+   hydrophila. The main objectives were purification and characterization
+   of an innate antimicrobial factor isolated from catfish leucocytes that
+   has both bactericidal and antiviral activities. Oxygen-independent
+   mechanisms of innate immunity for killing microorganisms have not been
+   identified in leucocytes of channel catfish. Leucocytes were separated
+   from catfish blood, and granule extracts were obtained by
+   homogenization, centrifugation, and extraction with 10% acetic acid. The
+   granule extracts were further purified by gel filtration chromatography.
+   Bactericidal assays against the two fish pathogens and SDS-PAGE analysis
+   were done on the isolated antimicrobial factor. Determination of
+   antiviral activity of the factor was done by in vitro tissue culture
+   using herpes simplex virus-type 1. Mass spectrometry analyses were done
+   for molecular weight (655 Da), purity, and structural characterization
+   of the innate non-peptide antimicrobial factor. (C) 2003 Elsevier Inc.
+   All rights reserved.
+TC 11
+ZB 10
+Z8 0
+Z9 11
+SN 0006-291X
+UT WOS:000187745900006
+ER
+
+PT J
+AU Benstein, BD
+   Crouse, DT
+   Shanklin, DR
+   Ourth, DD
+TI Ureaplasma in lung 1. Localization by in situ hybridization in a mouse
+   model
+SO EXPERIMENTAL AND MOLECULAR PATHOLOGY
+VL 75
+IS 2
+BP 165
+EP 170
+DI 10.1016/S0014-4800(03)00051-0
+PD OCT 2003
+PY 2003
+AB Ureaplasma urealyticum is a common inhabitant of mucosal surfaces but is
+   also associated with a higher incidence of pneumonia and
+   bronchopulmonary dysplasia in preterm infants. Culture and polymerase
+   chain reaction demonstrate high isolation rates of ureaplasma in
+   clinical specimens documenting their presence but do not associate the
+   organism directly with the diseased tissue. In this study, lung tissue
+   samples from newborn mice inoculated intranasally with U. urealyticum
+   were used to develop an in situ hybridization (ISH) test for the
+   organism. In situ hybridization allows the localization of gene
+   expression for visualization within the context of tissue morphology.
+   New techniques which use biotinyl-tyramide based signal amplification
+   have been able to greatly enhance the sensitivity of ISH. Using the Dako
+   GenPoint Catalyzed Signal Amplification system to detect a biotinylated
+   DNA probe specific for an internal nucleotide sequence within the urease
+   gene of U. urealyticum, the organism was detected within the infected
+   murine lung tissues. Electron microscopy was used to verify the presence
+   of the organisms in the positive ISH areas. The ISH procedure developed
+   in this study can be used to analyze the presence of ureaplasma in human
+   neonatal lung tissue with the corresponding histopathology. (C) 2003
+   Elsevier Science (USA). All rights reserved.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0014-4800
+UT WOS:000185723200010
+ER
+
+PT J
+AU Benstein, BD
+   Crouse, DT
+   Shanklin, DR
+   Ourth, DD
+TI Ureaplasma in lung 2. Association with bronchopulmonary dysplasia in
+   premature newborns
+SO EXPERIMENTAL AND MOLECULAR PATHOLOGY
+VL 75
+IS 2
+BP 171
+EP 177
+DI 10.1016/S0014-4800(03)00052-2
+PD OCT 2003
+PY 2003
+AB Infants with Ureaplasma urealyticum in the lower respiratory tract are
+   at risk for chronic lung disease (CLD) or bronchopulmonary dysplasia
+   (BPD) but causality has been difficult to prove. The goal of this study
+   was to identify ureaplasma in human neonatal lung tissue using the in
+   situ hybridization (ISH) procedure described in Part I (Exp. Mol.
+   Pathol., in press) of this report. By correlating their presence with
+   the histopathologic findings. it may be possible to provide further
+   evidence of the pathogenicity of ureaplasmas and their association with
+   BPD. Lung autopsy tissue from seven infants with positive cultures and
+   seven infants with negative cultures for ureaplasma were included in the
+   study. All culture-positive infants were positive for ureaplasma on ISH
+   and all had histopathologic evidence of BPD. Two of the seven infants
+   with negative cultures were positive for ureaplasma with ISH. Of
+   interest, these two infants were also found to have BPD at autopsy. The
+   other five infants with negative cultures were also negative for
+   ureaplasma on ISH and had no evidence of BPD. This study correlates the
+   presence of U. urealylticum by ISH with the finding of BPD on
+   histopathologic evaluation and provides evidence that it has a role in
+   the development of CLD. (C) 2003 Elsevier Science (USA). All rights
+   reserved.
+TC 10
+ZB 6
+Z8 0
+Z9 10
+SN 0014-4800
+UT WOS:000185723200011
+ER
+
+PT J
+AU Chung, KT
+   Ourth, DD
+TI Purification and characterization of apolipophorin III from immune
+   hemolymph of Heliothis virescens pupae
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 132
+IS 2
+BP 505
+EP 514
+AR PII S1096-4959(02)00064-7
+DI 10.1016/S1096-4959(02)00064-7
+PD JUN 2002
+PY 2002
+AB Apolipophorin III (ApoLp-III) from Heliothis virescens pupae was
+   purified by heat-treatment followed by Sephadex G-50 filtration and
+   reverse phase-HPLC. The molecular mass of the purified ApoLp-III was
+   determined as 17 965.9 +/- 5 Da by mass spectrometry. The N-terminal
+   sequence confirmed the protein as ApoLp-III with homology of 56-83% to
+   other insect ApoLp-III molecules. The amino acid spatial arrangement of
+   the predicted a-helix I of Heliothis ApoLp-III was nearly identical to
+   that of the amphipatic alpha-helix 1 of Manduca sexta ApoLp-III. The
+   absorption spectrum from 240-340 nm of the Heliothis ApoLp-III was the
+   same as the UV spectra of ApoLp-III from Manduca sexta and Galleria
+   mellonella, showing absorption maxima at 280, 268, 264 and 259 nm. These
+   results indicated that the primary structure of ApoLp-III is conserved
+   in lepidopterans. The Heliothis ApoLp-III was not a glycoprotein and
+   showed hem agglutination activity against rabbit red blood cells. This
+   hemagglutination activity was abolished by Tween 80, but not by six
+   different carbohydrates. Hydrophobic interaction of Apol-p-III with red
+   blood cells agreed with structural studies since ApoLp-III binds lipid
+   through hydrophobic interaction after conformational change. Bacterial
+   injection apparently increased the amount of ApoLp-III in immune
+   hemolymph when compared with normal hemolymph, and may indicate that
+   ApoLpIII plays a role in insect immunity. (C) 2002 Elsevier Science Inc.
+   All rights reserved.
+TC 17
+ZB 17
+Z8 0
+Z9 18
+SN 1096-4959
+UT WOS:000176788200023
+ER
+
+PT J
+AU Chung, KT
+   Ourth, DD
+TI Larval and pupal induction and N-terminal amino acid sequence of
+   lysozyme from Heliothis virescens
+SO JOURNAL OF INSECT PHYSIOLOGY
+VL 46
+IS 4
+BP 563
+EP 572
+DI 10.1016/S0022-1910(99)00142-0
+PD APR 2000
+PY 2000
+AB Fifth instar larvae and prepupae of Heliothis virescens (tobacco
+   budworm) were injected with live Enterobacter cloacae and bled at
+   different times after vaccination. Immune pupal hemolymph showed a 54
+   times increase in lysozyme activity when compared with normal larval
+   hemolymph, and an 11 times increase of lysozyme activity when compared
+   with immune larval hemolymph. Lysozyme activity of the normal pupal
+   hemolymph increased as greatly as did lysozyme activity of the immune
+   larval hemolymph after metamorphosis. The pupal immune response with
+   regard to lysozyme was much greater than the larval immune response in
+   H. virescens. Lysozyme was purified by heat treatment at 100 degrees C
+   and a chromatography series that included reverse-phase HPLC. The
+   molecular mass of H, virescens lysozyme was approximately 16 kDa by
+   SDS-PAGE which is greater than other insect lysozymes and chicken
+   lysozyme. Amino acid sequence of the N-terminus showed that H. virescens
+   lysozyme is 82% homologous with lysozyme of Manduca sexta and Galleria
+   mellonella. CNBr cleavage of H. virescens lysozyme produced 11 and 6 kDa
+   peptide fragments indicating that one methionine was present, which was
+   also supported by amino acid analysis. However, methionine was located
+   at the carboxyl terminal side rather than the N-terminal side as judged
+   by the N-terminal sequences of each peptide fragment. The residue 22 in
+   most lepidopteran lysozymes is methionine, whereas H. virescens lysozyme
+   had a leucine at residue 22. There was an amino acid deletion near the
+   carboxyl terminal side of H. virescens lysozyme as also found in
+   Trichoplusia ni. (C) 2000 Elsevier Science Ltd. All rights reserved.
+TC 11
+ZB 11
+Z8 1
+Z9 12
+SN 0022-1910
+UT WOS:000085842500020
+ER
+
+PT J
+AU Parker, MS
+   Ourth, DD
+TI Binding sites for human interferon-gamma in protocerebrum and hemolymph
+   of tobacco hornworm (Manduca sexta) larvae differ in sensitivity to
+   polycationic peptides
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 125
+IS 3
+BP 337
+EP 345
+DI 10.1016/S0305-0491(99)00189-3
+PD MAR 2000
+PY 2000
+AB We have recently characterized specific binding sites for human
+   interferon-gamma on particulates prepared from the protocerebrum and
+   hemolymph of tobacco hornworm larvae, Manduca sexta {(Parker, M.S.,
+   Ourth, D.D., 1999. Comp. Biochem, Physiol. B 122, 155-163). The
+   sensitivity to sulfated polysaccharides indicated an involvement of
+   oligobasic epitopes of hIFN-gamma in the binding. In the present study,
+   we found that polycationic peptides inhibited the binding of
+   [I-125]hIFN-gamma to particulates from either the hemolymph or the
+   protocerebrum of Manduca sexta larvae. With amino acid homopolymers, the
+   rank order of potency was poly-L-lysine > poly-L-arginine >>
+   poly-L-ornithine, while the acidic side chain polymer poly-L-aspartate
+   was not inhibitory. However, the potency of all polycationic peptides
+   was at least three-fold greater at the hemolymph particulates. Also,
+   acidic polysaccharides such as heparin were much more efficacious in the
+   inhibition of hIFN-gamma binding to hemolymph relative to protocerebral
+   particulates. The peptide polycations inhibited the binding of
+   [I-125](Leu(31),Pro(34))human peptide YY, a ligand selective for the Y-1
+   subtype of the neuropeptide Y receptor, to rabbit kidney or to parietal
+   cortex particulates with the expected rank order of poly-L-arginine >
+   poly-L-lysine >> poly-L-ornithine, and with little cross-tissue
+   difference in affinity. The selectivity observed with M. sexta
+   particulates indicates a preferential involvement of oligobasic
+   lysine-rich C-terminal sequences of IFN-gamma, while large insect
+   tissue-related affinity differences point to involvement of diverse
+   oligoacidic sequences in binding to protocerebrum and hemolymph sites.
+   This study provides evidence for the presence of molecules in
+   lepidopteran larvae that are similar in structure to vertebrate
+   co-receptors of IFN-gamma, and adds to the characterization of these
+   binding sites. (C) 2000 Elsevier Science Inc. All rights reserved.
+TC 5
+ZB 5
+Z8 0
+Z9 5
+SN 0305-0491
+UT WOS:000087435000004
+ER
+
+PT J
+AU Chung, KT
+   Ourth, DD
+TI Viresin - A novel antibacterial protein from immune hemolymph of
+   Heliothis virescens pupae
+SO EUROPEAN JOURNAL OF BIOCHEMISTRY
+VL 267
+IS 3
+BP 677
+EP 683
+DI 10.1046/j.1432-1327.2000.01034.x
+PD FEB 2000
+PY 2000
+AB Immune hemolymph was collected from fifth instar larvae and 1-day-old
+   pupae of Heliothis virescens after injection of prepupae with live
+   Enterobacter cloacae. Induction of antibacterial activity against
+   Escherichia coli K12 D31 was 7.5 times greater in pupal than in larval
+   immune hemolymph. Lysozyme activity of immune pupal hemolymph against
+   Micrococcus lysodeikticus was Il times greater when compared with
+   lysozyme activity of immune larval hemolymph. Early pupal immune
+   response with regard to antibacterial activity was much greater than
+   larval immune response in H, virescens. Normal pupal hemolymph showed an
+   increase in antibacterial activity and lysozyme that was induced during
+   metamorphosis. Antibacterial protein was isolated together with lysozyme
+   by gel filtration chromatography and then separated from lysozyme by
+   sequential electrophoresis with a native acid gel and SDS gel. Molecular
+   mass of antibacterial protein was estimated to be 12 kDa. The N-terminal
+   amino acid sequence of 12-kDa protein was different from those of
+   antibacterial molecules found in other insects and has not been
+   identified before. A sample containing 12-kDa protein was negative for
+   immunoblotting with anti-synthetic cecropin B antibody. We have named
+   the novel 12-kDa antibacterial protein viresin. Viresin showed
+   antibacterial activity against several Gram-negative bacteria including
+   E. cloacae but not against Gram-positive bacteria.
+TC 17
+ZB 17
+Z8 2
+Z9 20
+SN 0014-2956
+UT WOS:000085368500007
+ER
+
+PT J
+AU Parker, MS
+   Ourth, DD
+TI Specific binding of human interferon-gamma to particulates from
+   hemolymph and protocerebrum of tobacco hornworm (Manduca sexta) larvae
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 122
+IS 2
+BP 155
+EP 163
+DI 10.1016/S0305-0491(98)10155-4
+PD FEB 1999
+PY 1999
+AB Specific binding sites for human interferon-gamma (hIFN-gamma) were
+   found on particulates prepared from the hemolymph and protocerebrum of
+   fifth-instar larvae of the tobacco hornworm, Manduca sexta. A portion of
+   these sites could be solubilized in an active form by the zwitterionic
+   detergent 3-[(3-cholamidopropyl)dimethylammonio]-1-propane sulfonate
+   (CHAPS). A well-defined specific binding was also associated with
+   hemolymph particulate residue after solubilization by CHAPS. About
+   one-half of [I-125]hIFN-gamma binding could be displaced by heparin. The
+   bound hIFN-gamma could be covalently cross-linked to the binding sites
+   using disuccinylamide suberate, and the molecular weight range of these
+   complexes was 200-800 kDa as determined by density gradient
+   sedimentation and gel-exclusion chromatography. Only a small fraction of
+   the hemolymph IFN-gamma binding could be competed by another mammalian
+   cytokine, rat prolactin (rPRL), while there was no sensitivity to rat
+   growth hormone. The small specific rPRL binding found in Manduca
+   hemolymph showed an affinity similar to the prolactin sites found in the
+   liver of pregnant rats. The detergent-insoluble Manduca hIFN-gamma
+   binding was bimodal and similar in affinity distribution to the binding
+   found with human platelet membranes (K-diss range 0.1-2 nM). The
+   detergent-solubilized IFN-gamma sites were homogenous, with a K-diss of
+   about 1.5 nM. The IFN-gamma binding sites in Manduca tissues may
+   therefore include molecular species similar to the known invertebrate
+   cytokine receptors and proteoglycan co-receptors. (C) 1999 Elsevier
+   Science Inc. All rights reserved.
+TC 4
+ZB 5
+Z8 4
+Z9 8
+SN 0305-0491
+UT WOS:000079316800002
+ER
+
+PT J
+AU Kollars, Thomas M., Jr
+   Ourth, Donald D.
+   Lockey, Timothy D.
+   Markowski, Daniel
+TI IgG antibodies to Borrelia burgdorferi in rodents in Tennessee.
+SO Journal of Spirochetal and Tick-Borne Diseases
+VL 3
+IS 3-4
+BP 130
+EP 134
+PD Fall-Winter 1996
+PY 1996
+TC 1
+ZB 2
+Z8 0
+Z9 2
+UT ZOOREC:ZOOR13600043362
+ER
+
+PT J
+AU Lockey, TD
+   Ourth, DD
+TI Purification and characterization of lysozyme from hemolymph of
+   Heliothis virescens larvae
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 220
+IS 3
+BP 502
+EP 508
+DI 10.1006/bbrc.1996.0434
+PD MAR 27 1996
+PY 1996
+AB Lysozyme is an important antibacterial protein in the insect defense
+   system. Lysozyme was isolated from hemolymph of Heliothis virescens
+   larvae using gel filtration and ion-exchange chromatography. Heliothis
+   lysozyme had a molecular mass of 16,000 daltons by SDS-PAGE. Using acid
+   gel electrophoresis, Heliothis lysozyme migrated faster than egg white
+   lysozyme. The pi of Heliothis lysozyme was estimated as greater than
+   9.5. Heliothis lysozyme had specific bactericidal activity against three
+   Gram-positive bacteria but no activity against Escherichia coil. The
+   bactericidal activity was stable at 100 degrees C at pH 3.0 after 60 min
+   incubation, but was labile at 100 degrees C at pH 6.8 after 60 min
+   incubation. Heliothis lysozyme was an inducible protein that increased 9
+   times when comparing unvaccinated with vaccinated larvae. Lysozyme from
+   H. virescens was more similar in molecular mass, heat sensitivity and pH
+   sensitivity to lysozyme isolated from Galleria mellonella and Bombyx
+   mori than to lysozyme isolated from Hyalophora cecropia. (C) 1996
+   Academic Press, Inc.
+TC 30
+ZB 32
+Z8 1
+Z9 33
+SN 0006-291X
+UT WOS:A1996UE85300005
+ER
+
+PT J
+AU Lockey, TD
+   Ourth, DD
+TI Formation of pores in Escherichia coli cell membranes by a cecropin
+   isolated from hemolymph of Heliothis virescens larvae
+SO EUROPEAN JOURNAL OF BIOCHEMISTRY
+VL 236
+IS 1
+BP 263
+EP 271
+DI 10.1111/j.1432-1033.1996.00263.x
+PD FEB 15 1996
+PY 1996
+AB The insect humoral defense system produces antibacterial peptides called
+   cecropins. Cecropins were initially isolated from Hyalophora cecropia
+   pupae and have since been isolated and identified in various insects. In
+   this study, we have isolated and identified a cecropin from Heliothis
+   virescens larvae. Rabbit IgG were raised against synthetic cecropin B.
+   Affinity chromatography with the rabbit anti-(cecropin B) IgG was used
+   to isolate a cecropin from hemolymph of H. virescens larvae. Acid gel
+   electrophoresis followed by a bacterial-overlay analysis showed that
+   Heliothis cecropin is a basic peptide of low molecular mass with
+   bactericidal activity against Escherichia coli K12 D31. Heliothis
+   cecropin is therefore analogous to synthetic cecropin B. One unresolved
+   issue concerning cecropins and other antibiotic peptides is the mode of
+   action by which they kill bacteria. By means of electron microscopy and
+   immunocytochemistry with gold-labeled rabbit anti-cecropin IgG, binding
+   of purified and synthetic cecropin to the cell membranes of E. coli K12
+   D31 cells was observed. Small lesions in the cell membrane were seen
+   that had a diameter of 9.6 nm and internal pore of 4.2 nm. The Heliothis
+   cecropin was found to be a pore-forming molecule that causes lesions in
+   the cell membrane of E. coli K12 D31. The lesions lead to leakage of
+   cytoplasmic contents and death of bacteria.
+TC 34
+ZB 28
+Z8 10
+Z9 44
+SN 0014-2956
+UT WOS:A1996TW74000034
+ER
+
+PT J
+AU Kollars, Thomas M., Jr
+   Ourth, Donald D.
+   Lockey, Timothy D.
+TI IgG antibodies to Borrelia burgdorferi in raccoons in Tennessee.
+SO Journal of Spirochetal and Tick-Borne Diseases
+VL 2
+IS 4
+BP 87
+EP 91
+PD December 1995
+PY 1995
+TC 2
+ZB 2
+Z8 0
+Z9 2
+UT ZOOREC:ZOOR13600043357
+ER
+
+PT J
+AU OURTH, DD
+   LOCKEY, TD
+   RENIS, HE
+TI INDUCTION OF CECROPIN-LIKE AND ATTACIN-LIKE ANTIBACTERIAL BUT NOT
+   ANTIVIRAL ACTIVITY IN HELIOTHIS-VIRESCENS LARVAE
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+VL 200
+IS 1
+BP 35
+EP 44
+DI 10.1006/bbrc.1994.1410
+PD APR 15 1994
+PY 1994
+AB Inducible cecropin-like and attacin-like proteins were isolated from
+   immune hemolymph obtained from vaccinated Heliothis virescens larvae.
+   The attacin-like protein had a molecular weight of approximately 25,000
+   daltons and was not dialyzable. The cecropin-like peptide had an
+   estimated molecular weight of 6,000-7,000 daltons and was dialyzable,
+   heat-stable and sensitive to trypsin digestion. The cecropin-like
+   peptide showed bactericidal activity against Escherichia coli and
+   Enterobacter cloacae, and the attacin-like protein showed bactericidal
+   activity against E. coli. The immune hemolymph was bactericidal against
+   E. coli, E. cloacae and Pseudomonas aeruginosa. Ultrastructural cell
+   envelope damage to E. coil, produced by the immune hemolymph, was
+   observed by scanning electron microscopy. No antiviral activity by the
+   inducible cecropin-like and attacin-like proteins was detected against
+   herpes simplex virus-1 and the vesicular stomatitis virus. (C) 1994
+   Academic Press, Inc.
+TC 31
+ZB 30
+Z8 3
+Z9 34
+SN 0006-291X
+UT WOS:A1994NG38700005
+ER
+
+PT J
+AU JENKINS, JA
+   OURTH, DD
+TI OPSONIC EFFECT OF THE ALTERNATIVE COMPLEMENT PATHWAY ON CHANNEL CATFISH
+   PERIPHERAL-BLOOD PHAGOCYTES
+SO VETERINARY IMMUNOLOGY AND IMMUNOPATHOLOGY
+VL 39
+IS 4
+BP 447
+EP 459
+DI 10.1016/0165-2427(93)90074-E
+PD DEC 1993
+PY 1993
+AB This study determined the effect of the alternative complement pathway
+   (ACP) on neutrophil and monocyte phagocytes from peripheral blood of
+   channel catfish, Ictalurus punctatus. Fluorescent-labeled latex
+   microspheres, Edwardsiella ictaluri and Escherichia coli were used to
+   quantify phagocytic attachment and ingestion. Activation of the ACP
+   enhanced the attachment of bacteria and microspheres to neutrophils and
+   monocytes. Activation of the ACP by serum opsonization of Esherichia
+   coil increased its ingestion by neutrophils in comparison with
+   Edwaidsiella ictaluri and microspheres. Inactivation of the ACP and C3b
+   diminished attachment by neutrophils and monocytes, and ingestion by
+   neutrophils of microspheres and bacteria. Ingestion by monocytes was not
+   affected by activation of the ACP. In the present study, we found that
+   the ACP functions in opsonophagocytosis in catfish and that ingestion by
+   neutrophils was especially enhanced.
+TC 13
+ZB 13
+Z8 1
+Z9 15
+SN 0165-2427
+UT WOS:A1993MM91700011
+ER
+
+PT J
+AU OURTH, DD
+   RENIS, HE
+TI ANTIVIRAL MELANIZATION REACTION OF HELIOTHIS-VIRESCENS HEMOLYMPH AGAINST
+   DNA AND RNA VIRUSES IN-VITRO
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 105
+IS 3-4
+BP 719
+EP 723
+DI 10.1016/0305-0491(93)90111-H
+PD JUL-AUG 1993
+PY 1993
+AB 1. Antiviral activity of Heliothis virescens larval hemolymph was
+   determined using a cytotoxicity/virus inhibition test (TClD50) done in
+   Vero cell tissue cultures. Excellent antiviral activity was found
+   especially against herpes simplex viruses-1 and -2 and also against
+   vesicular stomatitis, parainfluenza-3, coxsackie B3 and sindbis viruses.
+   2. Prolonged incubation of herpes simplex virus-1 and vesicular
+   stomatitis virus with hemolymph was virucidal and greatly reduced
+   infectivity of the two viruses in tissue culture.
+   3. Antiviral activity was produced by both normal and immune (vaccinated
+   larvae) cell-free hemolymphs.
+   4. Antiviral activity against herpes simplex virus-1 could be generated
+   in vitro with hemolymph phenoloxidase or mushroom tyrosinase using four
+   different substrates including tyrosine.
+   5. Activation of the insect melanization reaction by phenoloxidase was
+   necessary for antiviral activity to occur.
+TC 38
+ZB 38
+Z8 2
+Z9 40
+SN 0305-0491
+UT WOS:A1993LK64200041
+ER
+
+EF

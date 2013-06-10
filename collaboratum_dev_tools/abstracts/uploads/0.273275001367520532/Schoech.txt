@@ -1,0 +1,2296 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Heiss, Rebecca S.
+   Schoech, Stephan J.
+TI Oxidative Cost of Reproduction Is Sex Specific and Correlated with
+   Reproductive Effort in a Cooperatively Breeding Bird, the Florida Scrub
+   Jay
+SO PHYSIOLOGICAL AND BIOCHEMICAL ZOOLOGY
+VL 85
+IS 5
+BP 499
+EP 503
+DI 10.1086/666840
+PD SEP-OCT 2012
+PY 2012
+AB Reproduction is energetically demanding, and how much an individual is
+   able to invest in reproduction is often a function of its health state.
+   An understanding of the relationship between oxidative balance and
+   reproductive decisions, especially in free-living species, is still very
+   limited. We evaluated the relationship between oxidative health and
+   reproductive effort in a free-living population of the cooperatively
+   breeding Florida scrub jay Aphelocoma coerulescens. Specifically, we
+   assessed whether prebreeding oxidative damage levels predicted
+   reproductive effort and subsequently whether postbreeding oxidative
+   damage levels reflected reproductive effort. Prebreeding oxidative
+   damage levels were negatively correlated with reproductive effort in
+   males. In males, postbreeding levels of oxidative damage were
+   significantly greater than prebreeding levels. Given that females
+   exhibited no such patterns, our results suggest that in this species,
+   males bear the brunt of the oxidative costs associated with
+   reproduction.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1522-2152
+UT WOS:000308067900009
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Hahn, Thomas P.
+TI Latitude affects degree of advancement in laying by birds in response to
+   food supplementation: a meta-analysis (Retraction of vol 157, pg 369,
+   2008)
+SO OECOLOGIA
+VL 169
+IS 2
+BP 579
+EP 579
+DI 10.1007/s00442-012-2345-5
+PD JUN 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0029-8549
+UT WOS:000304166600027
+ER
+
+PT J
+AU Heiss, Rebecca S.
+   Schoech, Stephan J.
+TI Experimental supplementation with antioxidants reduces
+   reproduction-associated oxidative damage in breeding male Florida
+   Scrub-Jays
+SO INTEGRATIVE AND COMPARATIVE BIOLOGY
+VL 52
+BP E76
+EP E76
+SU 1
+PD APR 2012
+PY 2012
+CT Annual Meeting of the Society-for-Integrative-and-Comparative-Biology
+   (SICB)
+CY JAN 03-07, 2012
+CL Charleston, SC
+SP Soc Integrat & Comparat Biol (SICB)
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1540-7063
+UT WOS:000303165000302
+ER
+
+PT J
+AU Morgan, Gina M.
+   Wilcoxen, Travis E.
+   Rensel, Michelle A.
+   Schoech, Stephan J.
+TI Are roads and traffic sources of physiological stress for the Florida
+   scrub-jay?
+SO WILDLIFE RESEARCH
+VL 39
+IS 4
+BP 301
+EP 310
+DI 10.1071/WR11029
+PD 2012
+PY 2012
+AB Context. Anthropogenic disturbances induce physiological and behavioural
+   responses in numerous species. The negative effects of human disturbance
+   are of special concern to threatened and endangered species.
+   Aims. The present study aims to compare physiological stress measures
+   and reproductive success of Florida scrub-jays (Aphelocoma coerulescens)
+   living near roads with jays that live away from roads. Specifically, it
+   aims to test whether roads are stressful.
+   Methods. We assessed physiological measures that can serve as indicators
+   of 'stress' to determine whether a highway that bisects our study site
+   had physiological effects on adult male Florida scrub-jays. We captured
+   male breeders from three territory types, including scrub habitat that
+   (1) bordered a highway with a grassy shoulder that created an 'edge'
+   habitat (roadside), (2) bordered human-maintained habitat (a plowed
+   firebreak of sand with adjacent pasture) that served as a control for
+   the edge-effect of the road (pasture) and (3) contained only natural
+   scrub habitat (interior). We measured baseline concentrations of the
+   stress hormone corticosterone (CORT), body mass, and a suite of
+   longitudinal body measures to generate a body condition index in males
+   from each territory type over three breeding seasons.
+   Key results. Roadside jays had greater body mass than did interior and
+   pasture jays, although there were no differences in overall baseline
+   CORT concentrations or body condition among territory classes. There was
+   no difference in clutch initiation date or size and nestling and
+   independent-young survival.
+   Conclusions. Our results suggest that the road through our study site
+   has physiological effects on Florida scrub-jays; however, there is mixed
+   evidence as to whether it acts as a chronic stressor.
+   Implications. Our findings provide evidence that roads and
+   road-associated disturbance has neutral or potentially beneficial
+   physiological effects of roads on Florida scrub-jays. Knowledge of these
+   effects of roads and disturbance on jays will hopefully provide
+   additional opportunities to improve conservation of this species.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1035-3712
+UT WOS:000304450100004
+ER
+
+PT J
+AU Reynolds, S. James
+   Schoech, Stephan J.
+TI A known unknown: elaboration of the observer effect' on nest success?
+SO IBIS
+VL 154
+IS 1
+BP 1
+EP 4
+DI 10.1111/j.1474-919X.2011.01201.x
+PD JAN 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0019-1019
+UT WOS:000298333400001
+ER
+
+PT J
+AU Wilcoxen, Travis E.
+   Boughton, Raoul K.
+   Bridge, Eli S.
+   Rensel, Michelle A.
+   Schoech, Stephan J.
+TI Age-related differences in baseline and stress-induced corticosterone in
+   Florida scrub-jays
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 173
+IS 3
+BP 461
+EP 466
+DI 10.1016/j.ygcen.2011.07.007
+PD SEP 15 2011
+PY 2011
+AB In physiological studies of free-living species, it is essential to
+   consider the context of the life history stage at which an individual
+   was observed in order to link measures of physiology with ecological
+   parameters. One such measure that is important to consider is the age of
+   an individual. We tested whether baseline or stress-induced
+   corticosterone levels vary with age in free-living Florida scrub-jays
+   (Aphelocoma coerulescens) during the pre-breeding period. Corticosterone
+   (CORT), the primary avian stress hormone, is released in response to
+   stressful stimuli, and stimulates gluconeogenesis; however, it also
+   serves as a chemical messenger that can influence other physiological
+   processes, reproduction, and behavior. We monitored both baseline CORT
+   levels longitudinally throughout a five-year period and stress-induced
+   CORT responses over a shorter two-year period. We predicted that older
+   jays would have lower baseline CORT levels and a dampened stress
+   response compared to younger birds, as has been shown in other avian
+   species. We found no significant differences in baseline CORT levels
+   with age. We found a decrease in total corticosterone responses to a
+   stressor with age, however, the oldest birds in the population showed
+   greater total corticosterone responses to a stressor. These results may
+   be a product of age-related changes in physiological processes related
+   to the stress response or a result of selection acting on the
+   population, resulting in only the most responsive individuals surviving
+   to old age. (C) 2011 Elsevier Inc. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0016-6480
+UT WOS:000294978300012
+ER
+
+PT J
+AU Rensel, Michelle A.
+   Wilcoxen, Travis E.
+   Schoech, Stephan J.
+TI Corticosterone, brood size, and hatch order in free-living Florida
+   scrub-jay (Aphelocoma coerulescens) nestlings
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 171
+IS 2
+BP 197
+EP 202
+DI 10.1016/j.ygcen.2011.01.011
+PD APR 1 2011
+PY 2011
+AB It is well known that variation in developmental conditions can have
+   profound effects upon lifetime fitness. In altricial avian species,
+   nestlings undergo a substantial portion of development in the nest after
+   hatching, often in the presence of nest-mates. This can result in the
+   formation of brood hierarchies based on age, size, and competitive
+   ability. Measurement of baseline corticosterone (CORT) levels in
+   developing birds may provide a means to assess whether individuals
+   within a brood experience stress due to sibling competition or
+   nutritional state. However, few studies have attempted to correlate
+   corticosterone concentrations with brood hierarchies in free-living,
+   developing birds. We investigated the degree to which corticosterone
+   levels in nestling Florida scrub-jays (Aphelocoma coerulescens) were
+   predicted by brood size, hatching order, and body mass. Nestling
+   corticosterone levels were inversely correlated with body mass but did
+   nor differ among brood sizes. Within broods of two, second-hatched
+   nestlings had lower CORT than first-hatched nestlings, although there
+   was no effect of hatch order in broods of three or four nestlings. The
+   results of this study suggest that conditions within the nest,
+   particularly those associated with within-brood hierarchies, are
+   manifested through differential body condition and nestling
+   corticosterone secretion. The consequences of this variation in nestling
+   corticosterone are unknown, but development of the adult phenotype, as
+   well as life-long survival, may be impacted. (C) 2011 Elsevier Inc. All
+   rights reserved.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 0016-6480
+UT WOS:000288590100010
+ER
+
+PT J
+AU Rensel, Michelle A.
+   Schoech, Stephan J.
+TI Repeatability of baseline and stress-induced corticosterone levels
+   across early life stages in the Florida scrub-jay (Aphelocoma
+   coerulescens)
+SO HORMONES AND BEHAVIOR
+VL 59
+IS 4
+BP 497
+EP 502
+DI 10.1016/j.yhbeh.2011.01.010
+PD APR 2011
+PY 2011
+AB Recent studies have posited that the pattern of glucocorticoid secretion
+   within an individual represents a stable, fixed physiological trait To
+   test this hypothesis, we assessed the repeatability of baseline and
+   stress-induced corticosterone (CORT) secretion across developmental
+   stages and years in Florida scrub-jays. We sampled individuals from
+   multiple cohorts repeatedly from the age of 11 days post-hatch up to 4
+   years of age. We found a significant degree of repeatability within
+   individuals in stress-induced corticosterone levels, i.e., the amount of
+   hormone secreted during a standardized stress protocol (corrected
+   integrated corticosterone). However, baseline corticosterone levels were
+   not statistically repeatable, although there was some indication that
+   nestling levels predicted levels at 1 year of age. The results of this
+   study indicate that stress-induced CURT levels are consistent within
+   individual scrub-jays, and the degree to which a young jay mounts an
+   acute stress response appears to be somewhat "set" by the age of
+   nutritional independence. Thus stress-induced corticosterone secretion
+   appears to be a stable, repeatable trait within individuals and as such
+   may be subject to natural selection. (C) 2011 Elsevier Inc. All rights
+   reserved.
+TC 7
+ZB 7
+Z8 1
+Z9 8
+SN 0018-506X
+UT WOS:000290086100010
+ER
+
+PT J
+AU Heiss, Rebecca S.
+   Schoech, Stephan J.
+TI Oxidative damage reduces reproductive output in the cooperatively
+   breeding Florida Scrub-Jay
+SO INTEGRATIVE AND COMPARATIVE BIOLOGY
+VL 51
+BP E56
+EP E56
+SU 1
+PD MAR 2011
+PY 2011
+CT Annual Meeting of the Society-for-Integrative-and-Comparative-Biology
+CY JAN 03-07, 2011
+CL Salt Lake City, UT
+SP Soc Integrat & Comparat Biol
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1540-7063
+UT WOS:000288278100670
+ER
+
+PT J
+AU Heiss, Rebecca S.
+   Cohen, Alan A.
+   Bowman, Reed
+   Boughton, Raoul K.
+   Bridge, Eli
+   McGraw, Kevin J.
+   Schoech, Stephan J.
+TI Circulating Carotenoid Concentrations are Positively Correlated With
+   Later Clutch Initiation in Florida Scrub-Jays (Aphelocoma coerulescens)
+SO JOURNAL OF EXPERIMENTAL ZOOLOGY PART A-ECOLOGICAL GENETICS AND
+   PHYSIOLOGY
+VL 315A
+IS 2
+BP 101
+EP 110
+DI 10.1002/jez.654
+PD FEB 1 2011
+PY 2011
+AB Antioxidants play key roles in preventing free radical damage to various
+   molecules, cells, and tissues, but it is not well understood how
+   variation in antioxidant levels may relate to the reproductive success
+   or health of wild animals. We explored the relationship between
+   circulating antioxidant concentrations and both body condition and
+   timing of reproduction in male and female Florida Scrub-Jays (Aphelocoma
+   coerulescens), a cooperatively breeding passerine bird. We examined
+   whether levels of uric acid, vitamin E, and carotenoids (all potentially
+   important antioxidants) were linked to body condition and timing of
+   reproduction, two measures that are directly related to reproductive
+   success. Antioxidant concentrations were not correlated with body
+   condition, but they were related to timing of first clutch initiation,
+   though not always in the predicted direction. Elevated circulating
+   levels of carotenoids were associated with delayed clutch initiation in
+   female breeders. Relatively higher vitamin E levels in control birds
+   were associated with earlier clutch initiation, whereas male breeders
+   that received long-term food supplementation had elevated levels of
+   vitamin E and delayed reproduction. Several potential explanations for
+   the link between elevated levels of antioxidants and delayed clutch
+   initiation are discussed. Separate explanations for each sex include,
+   but are not limited to, oxidative stress as a result of territory
+   defense efforts in males, different dietary regimes due to
+   supplementation, and mobilized plasma antioxidants in females that were
+   coping with a stressor. J. Exp. Zool. 315: 101-110, 2011. (C) 2010
+   Wiley-Liss, Inc.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 1932-5223
+UT WOS:000288035200005
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Rensel, Michelle A.
+   Heiss, Rebecca S.
+TI Short- and long-term effects of developmental corticosterone exposure on
+   avian physiology, behavioral phenotype, cognition, and fitness: A review
+SO CURRENT ZOOLOGY
+VL 57
+IS 4
+BP 514
+EP 530
+PD 2011
+PY 2011
+AB A growing body of evidence from across taxa suggests that exposure to
+   elevated levels of glucocorticoids during early development can have
+   long-term effects upon physiological and behavioral phenotypes.
+   Additionally, there is some, though limited, evidence that similar early
+   exposure can also negatively impact cognitive ability. Following
+   pioneering mammalian studies, several avian studies have revealed that
+   the responsiveness of the hypothalamo-pituitary-adrenal (HPA) axis as an
+   adult can be explained by levels of corticosterone, the avian
+   glucocorticoid, the individual experienced as a nestling or even as an
+   embryo via yolk exposure. Studies also suggest that perinatal exposure
+   to corticosterone can have effects upon avian 'personalities' or coping
+   styles, and findings from mammalian studies suggest that these long-term
+   effects are mediated epigenetically via altered expression of relevant
+   DNA sequences. Although a consistent pattern across-species has yet to
+   emerge, recent work in Florida scrub-jays Aphelocoma coerulescens found
+   that baseline corticosterone levels in 11-day-old nestlings explained
+   84% of the variation in 'personality' (bold vs. timid) when those
+   individuals were tested approximately seven months later. Nestlings with
+   elevated corticosterone levels were more timid than those individuals
+   that as nestlings experienced relatively low corticosterone levels. Some
+   researchers have suggested that parents might use such mechanisms to
+   'program' their offsprings' phenotype to best fit prevailing
+   environmental conditions. This review will visit what is known about the
+   links between stressful developmental conditions that result in exposure
+   to elevated corticosterone and the short-and long-term effects of this
+   steroid hormone upon central nervous system function and whether
+   alterations thereof are beneficial, deleterious, or neutral. It will
+   concentrate on examples from birds, although critical supporting studies
+   from the mammalian literature will be included as appropriate [ Current
+   Zoology 57 (4): 514-530, 2011].
+TC 5
+ZB 5
+Z8 0
+Z9 5
+SN 1674-5507
+UT WOS:000291482600012
+ER
+
+PT J
+AU Wilcoxen, Travis E.
+   Bridge, Eli S.
+   Boughton, Raoul K.
+   Rensel, Michelle A.
+   Reynolds, S. James
+   Schoech, Stephan J.
+TI Parental, social and environmental factors associated with hatching
+   failure in Florida Scrub-Jays Aphelocoma coerulescens
+SO IBIS
+VL 153
+IS 1
+BP 70
+EP 77
+DI 10.1111/j.1474-919X.2010.01078.x
+PD JAN 2011
+PY 2011
+AB Hatching failure within clutches of eggs occurs to varying degrees in
+   many avian species. We investigated predictors of hatching failure in a
+   population of Florida Scrub-Jays, for which hatching success has been
+   monitored for 15 years. We assessed whether hatching failure was related
+   to parental traits (e. g. age, experience as a pair or body condition),
+   lay date, social structure (e. g. number of helpers), environmental
+   conditions, or some combination of these. We used linear mixed models
+   and Akaike's information criterion to determine the models that best
+   explain observed patterns of hatching failure. The best model showed
+   that increased hatching failure was associated with below-average
+   rainfall during the breeding season, and was more common for newly
+   established breeding pairs than for pairs that had previously produced
+   one or more clutches together. Other contributing models suggested that
+   hatching failure was greatest for the youngest and oldest female
+   breeders. Some aspects of our findings are consistent with conclusions
+   drawn from other species. However, as a whole, our analyses suggest that
+   hatching failure in the Florida Scrub-Jay is influenced by a complex set
+   of environmental and parental factors.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0019-1019
+UT WOS:000285008400008
+ER
+
+PT J
+AU Wilcoxen, Travis E.
+   Boughton, Raoul K.
+   Schoech, Stephan J.
+TI Older can be better: physiological costs of paternal investment in the
+   Florida scrub-jay
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 64
+IS 10
+BP 1527
+EP 1535
+DI 10.1007/s00265-010-0966-4
+PD OCT 2010
+PY 2010
+AB In species that undergo actuarial senescence, the value of current
+   reproduction is predicted to increase relative to the value of future
+   reproduction with age, as the probability of survival to another
+   reproductive event is reduced. Therefore, life history theory predicts
+   that aging animals should increase their investment in reproduction.
+   However, an increase in reproductive investment may carry significant
+   costs to the breeding individuals. We recorded provisioning rates of
+   Florida scrub-jay male breeders, followed by their immediate capture to
+   assess body condition and collect blood for an in vitro test of
+   immunocompetence and an assay of baseline corticosterone for a measure
+   of stress. Older males provisioned offspring and brooding mates at the
+   highest rates. There was no evidence of any physiological deficits in
+   males with high provisioning rates, independent of age. It appears that
+   birds that survive to old age are high quality birds that maintain good
+   physiological condition, which complements the value of experience and
+   permits maximal investment in offspring.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0340-5443
+UT WOS:000281897000002
+ER
+
+PT J
+AU Schoech, Stephan J.
+TI A reply to Dhondt: broodedness and latitude affect the response of
+   reproductive timing of birds to food supplementation
+SO JOURNAL OF ORNITHOLOGY
+VL 151
+IS 4
+BP 959
+EP 961
+DI 10.1007/s10336-010-0547-3
+PD OCT 2010
+PY 2010
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0021-8375
+UT WOS:000281859400025
+ER
+
+PT J
+AU Wilcoxen, Travis E.
+   Boughton, Raoul K.
+   Schoech, Stephan J.
+TI Selection on innate immunity and body condition in Florida scrub-jays
+   throughout an epidemic
+SO BIOLOGY LETTERS
+VL 6
+IS 4
+BP 552
+EP 554
+DI 10.1098/rsbl.2009.1078
+PD AUG 23 2010
+PY 2010
+AB Opportunities to investigate selection in free-living species during a
+   naturally occurring epidemic are rare; however, we assessed innate
+   immunocompetence in Florida scrub-jays before the population suffered
+   the greatest over-winter mortality in 20 years of study. Propitiously,
+   three months prior to the epidemic, we had sampled a number of male
+   breeders to evaluate a suite of physiological measures that are commonly
+   used to estimate the overall health-state of an individual. There was a
+   significant, positive selection gradient for both Escherichia coli
+   bacterial killing capability and body condition, suggesting that
+   directional selection had occurred upon each of these traits during the
+   disease epidemic.
+TC 9
+ZB 8
+Z8 0
+Z9 9
+SN 1744-9561
+UT WOS:000279725700031
+ER
+
+PT J
+AU Morgan, Gina M.
+   Boughton, Raoul K.
+   Rensel, Michelle A.
+   Schoech, Stephan J.
+TI ROAD EFFECTS ON FOOD AVAILABILITY AND ENERGETIC INTAKE IN FLORIDA
+   SCRUB-JAYS (APHELOCOMA COERULESCENS)
+SO AUK
+VL 127
+IS 3
+BP 581
+EP 589
+DI 10.1525/auk.2010.09033
+PD JUL 2010
+PY 2010
+AB Roads may have detrimental effects on many bird species, but areas
+   adjacent to roads also provide habitat and food for some species. To
+   address the influence of roadside habitat on the federally threatened
+   Florida Scrub-Jay (Aphelocoma coerulescens), we compared foraging
+   effort, the amount of food collected, and estimated energy intake in
+   three habitat types: (1) edges along a paved road (roadside), (2) edges
+   created by human-maintained habitat without a road (pasture), and (3)
+   natural scrub-dominated areas with minimal human-maintained edges
+   (interior). We used focal watches of male breeders during three stages
+   of the breeding season (incubation, nestling, and fledged young) in two
+   consecutive years to assess variation in food availability and energetic
+   intake among the three habitat types. Florida Scrub-Jays in roadside
+   habitats handled (consumed, cached, or fed to their mate or offspring)
+   significantly more food items and spent less time foraging during the
+   nestling stage than interior and pasture jays, but no differences in
+   handled food were found among the three habitat types during the
+   incubation and fledgling stages. Although they spent less time foraging,
+   roadside jays had higher rates of energy intake than interior and
+   pasture jays during the incubation stage. There were no differences in
+   these measures of foraging during the incubation, nestling, and
+   fledgling stages between interior and pasture jays. Our results suggest
+   that roads or roadside habitat, not simply edge habitats, have a
+   positive effect on food availability and energy intake in Florida
+   Scrub-Jays, although the patterns differ across breeding stages.
+   Received 23 June 2009, accepted 28 February 2010.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0004-8038
+UT WOS:000280858300012
+ER
+
+PT J
+AU Rensel, Michelle A.
+   Wilcoxen, Travis E.
+   Schoech, Stephan J.
+TI The influence of nest attendance and provisioning on nestling stress
+   physiology in the Florida scrub-jay
+SO HORMONES AND BEHAVIOR
+VL 57
+IS 2
+BP 162
+EP 168
+DI 10.1016/j.yhbeh.2009.10.009
+PD FEB 2010
+PY 2010
+AB Stressful conditions during development may have lasting consequences
+   for an animal's lifetime fitness. We investigated the degree to which
+   parental provisioning and nest attendance influenced baseline levels of
+   the stress hormone corticosterone in nestling Florida scrub-jays.
+   Provisioning rates of male and female breeders and nest attendance of
+   female breeders were recorded during focal watches conducted between
+   days 3 and 5 post-hatch. A small blood sample was taken from each
+   nestling on day 11 post-hatch and used to quantify levels of baseline
+   corticosterone. The proportion of time spent by female breeders at a
+   considerable distance from the nest was positively related to nestling
+   corticosterone levels. Nestling corticosterone was also negatively
+   related to parental provisioning rate, although this effect seemed to be
+   secondary to the effect of the female's time away from the nest. These
+   results indicate that parental behavior contributes to nestling stress
+   physiology, which may in turn direct the formation of the adult
+   phenotype and influence an individual's chances of survival. (c) 2009
+   Elsevier Inc. All rights reserved.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 0018-506X
+UT WOS:000274434100009
+ER
+
+PT J
+AU Rensel, Michelle A.
+   Boughton, Raoul K.
+   Schoech, Stephan J.
+TI Development of the adrenal stress response in the Florida scrub-jay
+   (Aphelocoma coerulescens)
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 165
+IS 2
+BP 255
+EP 261
+DI 10.1016/j.ygcen.2009.07.002
+PD JAN 15 2010
+PY 2010
+AB Nestlings of altricial species undergo a period of substantial growth
+   and development in the nest after hatching. The
+   hypothalamic-pituitary-adrenal axis regulates the release of stress
+   hormones such as corticosterone, which in adults is critical in allowing
+   an animal to respond to a stressor. However, activation of this axis in
+   young birds may be detrimental to growth and possibly survival. The
+   developmental hypothesis predicts that altricial nestlings should
+   display a dampened corticosterone response to stress as a means of
+   protection against the potentially harmful effects of elevated
+   corticosterone. We examined this hypothesis in Florida scrub-jays, a
+   cooperatively breeding species with altricial young. Blood samples were
+   collected from nestlings, nutritionally independent young, and yearlings
+   for measurement of corticosterone levels. Baseline corticosterone levels
+   did not differ between age-classes; however, stress-induced
+   corticosterone levels were highest in yearlings, intermediate in
+   independent young, and lowest in nestlings. The nestling stress response
+   was also of a shorter duration than the response in independent young
+   and yearlings. This variation in stress responsiveness across ages may
+   be an adaptive mechanism to protect the developing bird from the
+   negative effects of corticosterone on growth and cognitive development.
+   (C) 2009 Elsevier Inc. All rights reserved.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 0016-6480
+UT WOS:000273517500010
+ER
+
+PT J
+AU Schoech, Stephan J.
+TI Food supplementation experiments: A tool to reveal mechanisms that
+   mediate timing of reproduction
+SO INTEGRATIVE AND COMPARATIVE BIOLOGY
+VL 49
+IS 5
+BP 480
+EP 492
+DI 10.1093/icb/icp005
+PD NOV 2009
+PY 2009
+AB Food supplementation of free-living animals has been used to address the
+   role of availability of resources in the timing of reproduction. A
+   meta-analysis by Schoech and Hahn suggested that responsiveness of the
+   reproductive axis to the supplementary cue of food is lessened at higher
+   latitudes, presumably because the brief time during which conditions are
+   appropriate to rear offspring has led to an evolved resistance to
+   supplementary cues with a primary reliance on photoperiod.
+   Unfortunately, few investigators have examined the potential underlying
+   mechanisms that mediate this differential responsiveness to supplemental
+   food across latitudes. Considerable research, however, links nutritional
+   state and plasma glucocorticoid levels, both of which impinge upon the
+   reproductive axis. Long-term research, on Florida scrub-jays (Aphelocoma
+   coerulescens) in my laboratory shows that suburban birds with access to
+   ad libitum supplemental food express early breeding and lower plasma
+   corticosterone (CORT) levels in comparison to jays in nearby natural
+   habitat. Furthermore, supplementation in natural habitat advances
+   laying, with the largest effects occurring in bad years (i.e., years
+   defined by late breeding and poor reproductive output by
+   non-supplemented controls). Similarly, reproductive output of
+   supplemented jays is greater and exhibits considerably less variance
+   than do controls, suggesting fitness benefits of supplementation that
+   are tied to advanced breeding. Generally, CORT levels in early-breeding
+   supplemented jays are lower than are those of controls. Also, regression
+   analysis suggests that clutch-initiation dates of non-supplemented
+   female breeders are predicted by baseline CORT levels. Although these
+   data are not conclusive and trends can be obscured by year-effects, they
+   suggest a role for CORT in timing of breeding. Whether this link might
+   help to explain the above-referenced latitudinal trends remains to be
+   characterized.
+CT Annual Meeting of the Society-for-Integrative-and-Comparative-Biology
+CY JAN 03-07, 2011
+CL Salt Lake City, UT
+SP Soc Integrat & Comparat Biol
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 1540-7063
+UT WOS:000271946500002
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Rensel, Michelle A.
+   Bridge, Eli S.
+   Boughton, Raoul K.
+   Wilcoxen, Travis E.
+TI Environment, glucocorticoids, and the timing of reproduction
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 163
+IS 1-2
+BP 201
+EP 207
+DI 10.1016/j.ygcen.2008.09.009
+PD AUG-SEP 2009
+PY 2009
+AB Glucocorticoids mediate glucose availability under stressful and
+   non-stressful conditions and, therefore, are essential for life.
+   However, data across taxa demonstrate that chronic or elevated secretion
+   of corticosterone or cortisol (CORT) can have negative effects at many
+   levels and can trigger physiological or behavioral responses that may
+   delay or, even halt reproduction. We present a brief overview of the
+   effects that glucocorticoids, primarily the avian form, corticosterone,
+   can have on the reproductive axis. Considerable data have demonstrated
+   that environmental perturbations can result in elevated CORT levels that
+   alter a bird's investment in current reproduction. Studies in our
+   laboratory have shown a link between CORT and timing of reproduction in
+   Florida scrub-jays: in "bad" years, clutch initiation dates are
+   positively correlated with baseline CORT levels of female breeders.
+   Also, population-level differences in CORT levels may explain timing of
+   reproduction as lower CORT levels in suburban-dwelling jays are coupled
+   with early breeding.
+   Most research on stress and CORT concentrates on transient effects of
+   CORT secretion. However, developmental CORT exposure, either from the
+   yolk or embryo, may have long-term effects upon adult phenotype. For
+   example, CORT levels in nestling scrub-jays predicts later
+   'personality,' as levels were highly correlated (r(2) = 0.84) with
+   fearfulness at 7 months of age. One can imagine that such 'personality'
+   traits might also translate into differential success in gaining a
+   territory or a mate. While speculative, it may be that early CORT
+   exposure effectively programs adult behaviors that have wide ranging
+   effects, including upon reproduction. (C) 2008 Elsevier Inc. All rights
+   reserved.
+CT 9th International Symposium on Avian Endocrinology
+CY JUL 11-15, 2008
+CL Leuven, BELGIUM
+TC 22
+ZB 21
+Z8 2
+Z9 24
+SN 0016-6480
+UT WOS:000268213200031
+ER
+
+PT J
+AU Schoech, Stephan J.
+TI Food supplementation experiments: A tool to reveal mechanisms that
+   mediate timing of reproduction
+SO INTEGRATIVE AND COMPARATIVE BIOLOGY
+VL 49
+BP E152
+EP E152
+PD FEB 2009
+PY 2009
+CT Annual Meeting of the Society-for-Integrative-and-Comparative-Biology
+CY JAN 03-07, 2009
+CL Boston, MA
+SP Soc Integrat & Comparat Biol
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 1540-7063
+UT WOS:000268808800606
+ER
+
+PT J
+AU Bridge, Eli S.
+   Schoech, Stephan J.
+   Bowman, Reed
+   Wingfield, John C.
+TI Temporal Predictability in Food Availability: Effects Upon the
+   Reproductive Axis in Scrub-Jays
+SO JOURNAL OF EXPERIMENTAL ZOOLOGY PART A-ECOLOGICAL GENETICS AND
+   PHYSIOLOGY
+VL 311A
+IS 1
+BP 35
+EP 44
+DI 10.1002/jez.493
+PD JAN 1 2009
+PY 2009
+AB Florida Scrub-Jays (Aphelocoma coerulescens) in a suburban environment
+   with year-round access to multiple sources of abundant, human-source
+   foods consistently breed earlier each year and have lower baseline
+   levels of circulating corticosterone (CORT) than jays in a nearby
+   wildland setting. These findings suggest that food supplies influence
+   CORT levels, which in turn may partially determine the timing of
+   reproduction. However, wildland birds with access to high-quality
+   supplemental foods did not advance breeding or lower CORT levels to the
+   degree observed in the suburbs. Therefore, rather than quality or
+   quantity of food consumed, the perception of a reliable and predictable
+   food supply may be an important factor in determining laying dates. If a
+   predictable food Supply accelerates the reproductive process, it follows
+   that food provided on an unpredictable schedule may slow reproduction.
+   We subjected captive Western Scrub-Jays (A. californica) to a 30day
+   photoperiod transition from short- to long-days and tested whether birds
+   with access to food on an unpredictable schedule exhibited delayed or
+   reduced production of reproductive hormones compared with birds given
+   food on a predictable schedule. Baseline CORT concentrations increased
+   slightly during the experiment, but did not differ between treatment
+   groups. Birds with unpredictable food had slightly lower testosterone
+   levels relative to controls, but there was no effect on estradiol or
+   luteinizing hormone. Our findings offer weak support for the hypothesis
+   that an unpredictable food supply will delay the onset of reproduction;
+   however, the artificial lab environment may limit the application of
+   these findings to free-living populations. J. Exp. Zool. 311A:35 44,
+   2009. (C) 2008 Wiley-Liss, Inc.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 1932-5223
+UT WOS:000262389400004
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Hahn, Thomas P.
+TI Latitude affects degree of advancement in laying by birds in response to
+   food supplementation: a meta-analysis
+SO OECOLOGIA
+VL 157
+IS 3
+BP 369
+EP 376
+DI 10.1007/s00442-008-1091-1
+PD SEP 2008
+PY 2008
+AB Food supplementation experiments have provided considerable information
+   about the importance of resource availability in timing reproduction.
+   Supplemented birds usually advance breeding over non-supplemented
+   controls. Initial observations suggested that degree of advancement in
+   studies conducted at higher latitudes was less than in those at lower
+   latitudes. We hypothesized that birds at high latitudes are less
+   responsive to the "supplementary" cue of food. We tested this hypothesis
+   using a literature-based meta-analysis of 36 papers which, because
+   several papers presented separate data sets from different years,
+   yielded 56 "studies." We used step-wise regression to determine whether
+   latitude, elevation, the duration of supplementation, and the migratory
+   status of the species predicted the degree to which mean clutch
+   initiation dates of food supplemented birds differed from
+   non-supplemented controls (i.e., effect size = (X) over bar (cnt) -(X)
+   over bar (suppl) ). Consistent with our predictions, there was a
+   significant inverse relationship between effect size and latitude:
+   elevation, migratory status, and duration of treatment contributed
+   little to the model. Because the response of animals' reproductive
+   systems to environmental information is mediated by the neuroendocrine
+   system, we discuss two models: (1) the adaptive specialization
+   hypothesis in which higher latitude species that experience a relatively
+   short breeding season have evolved a reliance on photic cues while
+   exhibiting reduced sensitivity to non-photic cues; and (2) the
+   conditional plasticity hypothesis in which an individual might show a
+   marked response to non-photic information if it lived at low latitudes,
+   but be largely driven by photic cues, endogenous rhythms, or both to the
+   relative exclusion of non-photic information if it lived at higher
+   latitudes.
+TC 16
+ZB 13
+Z8 0
+Z9 16
+SN 0029-8549
+UT WOS:000258285300001
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Bridge, Eli S.
+   Boughton, Raoul K.
+   Reynolds, S. James
+   Atwell, Jonathan W.
+   Bowman, Reed
+TI Food supplementation: A tool to increase reproductive output. A case
+   study in the threatened Florida Scrub-Jay
+SO BIOLOGICAL CONSERVATION
+VL 141
+IS 1
+BP 162
+EP 173
+DI 10.1016/j.biocon.2007.09.009
+PD JAN 2008
+PY 2008
+AB The federally threatened Florida Scrub-Jay (Aphelocoma coerulescens) has
+   suffered dramatic losses in recent years primarily because of
+   overdevelopment of its unique scrub habitat. Ensuring the survival of
+   this species will require not only measures to reduce habitat loss, but
+   also efforts to increase the numbers of birds in small scattered
+   populations to a point at which they are resilient to extinction from
+   stochastic population fluctuations. Here we evaluate the utility of
+   providing supplementary food during the pre-breeding season as a means
+   of increasing the reproductive output of Florida Scrub-jays. Data
+   collected from 2000 to 2007 at Archbold Biological Station in
+   south-central Florida indicate a marked effect of supplemental feeding
+   on reproductive output. This increased output appeared to result
+   primarily from larger clutch sizes produced by supplemented female
+   breeders as a result of their advanced laying. Supplementation also
+   increased offspring survival probabilities and the early laying
+   permitted more renesting attempts. Furthermore, annual variation in
+   several reproductive measures was dampened in supplemented birds,
+   suggesting that supplemental feeding may reduce environmental or
+   stochastic effects on reproductive output. Although a number of
+   potential problems may be associated with supplemental feeding (e.g.,
+   predator entrainment and increased opportunity for disease
+   transmission), it can serve as a valuable tool for management agencies
+   that wish to rapidly increase local carrying capacity. In addition, food
+   supplementation might benefit translocation efforts both by increasing
+   the number of potential translocation candidates from a donor population
+   and then by supplementing the newly established population to promote
+   rapid growth. (c) 2007 Elsevier Ltd. All rights reserved.
+TC 23
+ZB 22
+Z8 0
+Z9 24
+SN 0006-3207
+UT WOS:000252206900018
+ER
+
+PT J
+AU Schmaltz, Gregory
+   Quinn, James S.
+   Schoech, Stephan J.
+TI Do group size and laying order influence maternal deposition of
+   testosterone in smooth-billed ani eggs?
+SO HORMONES AND BEHAVIOR
+VL 53
+IS 1
+BP 82
+EP 89
+DI 10.1016/j.yhbeh.2007.09.001
+PD JAN 2008
+PY 2008
+AB The avian egg contains maternal hormones that affect behavior, growth,
+   morphology, and offspring survival. Evidence to date suggests that
+   patterns of yolk androgen deposition could provide females with a means
+   to manipulate sibling competition and, thereby, increase their fitness.
+   We examined yolk testosterone (T) concentrations in eggs of the
+   smooth-billed ani (Crotophaga ani) to understand patterns of androgen
+   deposition in eggs of this plural-breeding joint-nesting cooperatively
+   breeding species. We tested the hatching; asynchrony adjustment
+   hypothesis, which states that increases in yolk androgen levels over the
+   laying sequence function to mitigate the disadvantage of being a
+   later-hatched chick in species without adaptive brood reduction. We also
+   investigated the effect of group size on yolk T deposition to test the
+   hypothesis that females in multi-female groups could give a competitive
+   edge to their own chicks by depositing higher T levels in their eggs.
+   Predictions of the hatching asynchrony adjustment hypothesis were
+   supported in both single- and multi-female groups as yolk testosterone
+   levels increased from early- to late-laid eggs. This suggests that ani
+   females can influence nestling competition and chick survival by
+   within-clutch differential T allocation. Unexpectedly, we did not
+   observe an effect of group size on yolk T deposition. Yolk testosterone
+   concentrations may not be a mere reflection of a female's hormonal
+   status as female plasma circulating levels of T did not vary in the same
+   direction as yolk T levels. Results of this study therefore support the
+   idea that females may adaptively manipulate chick behavior through
+   hormonal deposition in eggs. (c) 2007 Elsevier Inc. All rights reserved.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 0018-506X
+UT WOS:000252976700010
+ER
+
+PT J
+AU Bridge, Eli S.
+   Hylton, Jennifer
+   Eaton, Muir D.
+   Gamble, Louis
+   Schoech, Stephan J.
+TI Cryptic plumage signaling in Aphelocoma Scrub-Jays
+SO JOURNAL OF ORNITHOLOGY
+VL 149
+IS 1
+BP 123
+EP 130
+DI 10.1007/s10336-007-0253-y
+PD JAN 2008
+PY 2008
+AB Recent studies of avian vision and plumage coloration have revealed a
+   surprising degree of cryptic sexual dimorphism, with many examples of
+   male-female differences in UV reflectance that are invisible to humans.
+   We examined the potential for male-female and adult-subadult differences
+   in plumage coloration in the genus Aphelocoma. This group of jays
+   comprises 10 phylogenetic species, which are found across southern and
+   central North America and include cooperatively breeding species, as
+   well as species that form socially monogamous pair-bonds typical of most
+   species of birds. Our goal was to determine whether male-female and
+   adult-subadult differences in plumage coloration were more common in
+   species with complex social systems (i.e., cooperative breeders). We
+   collected a series of reflectance measurements from hundreds of museum
+   specimens and analyzed the results using a model of an avian visual
+   system. We found that age- and sex-related differences were not more
+   frequent in species that practice cooperative breeding. Hence, plumage
+   signaling relating sex and age may not be strongly associated with
+   complex social systems. Rather, the relative lack of a stable and
+   familiar social environment, as well as other selective pressures and
+   constraints (e.g., habitat use and plumage complexity), may have favored
+   a greater degree of age- and sex-related differences in plumage
+   coloration in jays that practice simple biparental care.
+TC 5
+ZB 5
+Z8 0
+Z9 5
+SN 0021-8375
+UT WOS:000251592100014
+ER
+
+PT J
+AU Bridge, Eli S.
+   Boughton, Raoul K.
+   Aldredge, Robert A.
+   Harrison, Timothy J. E.
+   Bowman, Reed
+   Schoech, Stephan J.
+TI Measuring egg size using digital photography: testing Hoyt's method
+   using Florida Scrub-Jay eggs
+SO JOURNAL OF FIELD ORNITHOLOGY
+VL 78
+IS 1
+BP 109
+EP 116
+DI 10.1111/j.1557-9263.2006.00092.x
+PD WIN 2007
+PY 2007
+AB Egg volumes are most often estimated using a mathematical model that
+   incorporates length and width measurements and a species-specific shape
+   variable. Although adequate in many respects, this technique does not
+   account for intraspecific variation in egg shape. We developed a
+   computer-automated technique that uses calibrated digital photographs to
+   render precise measurements of several egg-size parameters including
+   length, width, volume, and surface area. The system extracts egg
+   outlines from photographs, and divides each egg into latitudinal slices
+   that are subsequently regarded as simple geometric shapes (cylinders or
+   cone frustra) with volumes and surface areas that can be summed to
+   generate size parameters for the entire egg. We tested this technique
+   using 491 eggs from Florida Scrub-Jay (Aphelocoma coerulescens) nests
+   and compared the resulting egg volumes with volumes calculated using the
+   preeminent method of estimating volume from linear measurements. Our
+   method was highly accurate, and differences between the volumes from our
+   method and the alternative method were strongly associated with
+   variation in egg shape. Advantages of our technique include decreased
+   handling of eggs and increased accuracy. Software resources and
+   additional information regarding the technique are available at
+   http://www.archbold-station.org/abs/data/birddata/Bridge-JFO-eggsize.htm
+   .
+TC 4
+ZB 5
+Z8 0
+Z9 5
+SN 0273-8570
+UT WOS:000244553500013
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Hahn, Thomas P.
+TI Food supplementation and timing of reproduction: does the responsiveness
+   to supplementary information vary with latitude?
+SO JOURNAL OF ORNITHOLOGY
+VL 148
+BP S625
+EP S632
+DI 10.1007/s10336-007-0177-6
+SU 2
+PD DEC 2007
+PY 2007
+AB Food supplementation usually advances the timing of laying. Here, we
+   report a meta-analysis of 35 food supplementation studies demonstrating
+   that species at high latitudes are less responsive to food
+   supplementation than those at lower latitudes. Because the length of the
+   breeding season varies with latitude, species at high latitudes may rely
+   mostly upon photic cues and be less responsive to other environmental
+   information. Lower latitude species, where times suitable for breeding
+   vary from year-to-year, are predicted to be more responsive to
+   "supplementary'' information to adjust reproduction to coincide with
+   conditions that favor the successful rearing of young. Studies by
+   Wingfield et al. (Gen Comp Endocrinol 101: 242-255, 1996; Gen Comp
+   Endocrinol 107: 44 62, 1997; Gen Comp Endocrinol 131: 143-158, 2003)
+   suggest a physiological underpinning to this reduced responsiveness to
+   supplementary information in high-latitude species. Given that
+   temperature increases resulting from global climate change are most
+   pronounced at high latitude, reduced plasticity to respond to these
+   changes in individuals of high-latitude species could cause
+   high-latitude breeders to be poorly synchronized with a resource base
+   that emerges earlier than usual. If high-latitude breeders indeed lack
+   sufficient individual-level plasticity to cope effectively with climate
+   fluctuations, effective optimization of reproductive timing in a rapidly
+   changing environment would require similarly rapid evolutionary change.
+   It remains to be seen whether this will be possible.
+TC 3
+ZB 2
+Z8 0
+Z9 3
+SN 0021-8375
+UT WOS:000255199000056
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Bowman, Reed
+   Bridge, Eli S.
+   Boughton, Raoul K.
+TI Baseline and acute levels of corticosterone in Florida Scrub-Jays
+   (Aphelocoma coerulescens): Effects of food supplementation, suburban
+   habitat, and year
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 154
+IS 1-3
+BP 150
+EP 160
+DI 10.1016/j.ygcen.2007.05.027
+PD OCT-DEC 2007
+PY 2007
+AB Recent work has shown that Florida Scrub-Jays (Aphelocoma coeruloscens)
+   living in suburban habitats, as well as birds that reside in a natural
+   habitat (hereafter referred to as wildland birds) provided Supplemental
+   food during the pre-breeding period, have lower baseline corticosterone
+   (CORT) levels than nonsupplemented wildland birds, suggesting that
+   predictable and abundant foods can lower stress levels. Here, we
+   investigate whether the acute CORT response to capture stress reflects
+   our earlier findings. During the pre-breeding seasons in 2004 and 2005
+   we captured over 200 Florida Scrub-Jays and collected four blood samples
+   from each bird over a 30 min time period. We compared hormonal and
+   morphometric data from birds in four treatment groups: wildland birds
+   that were provided with supplemental food during the pre-breeding
+   period, wildland birds that were provided with supplemental food during
+   the winter and pre-breeding period, nonsupplemented wildland birds, and
+   suburban birds that effectively have access to ad libitum human-source
+   food year-round. Suburban birds had lower baseline levels, and a more
+   acute initial CORT response (i.e., rate of increase) than wildland
+   birds, but we did not observe any differences among the treatment groups
+   of wildland birds. Baseline CORT concentrations were unusually low
+   across treatments in 2005, a year that was characterized by increased
+   adult body mass, superior body condition, and a high fledgling success
+   rate. all of which suggest favorable environmental conditions. Thus,
+   abundant or more reliable food sources in 2005 may have overwhelmed any
+   potential benefits of supplemental feeding and explain the absence of
+   any strong experimental effects on CORT for that year. (C) 2007 Elsevier
+   Inc. All rights reserved.
+TC 26
+ZB 25
+Z8 0
+Z9 26
+SN 0016-6480
+UT WOS:000249641100019
+ER
+
+PT J
+AU Boughton, Raoul K.
+   Bridge, Eli S.
+   Schoech, Stephan J.
+TI Energitic trade-offs between immunity and reproduction in male japanese
+   quail (Coturnix coturnix)
+SO JOURNAL OF EXPERIMENTAL ZOOLOGY PART A-ECOLOGICAL GENETICS AND
+   PHYSIOLOGY
+VL 307A
+IS 9
+BP 479
+EP 487
+DI 10.1002/jez.402
+PD SEP 1 2007
+PY 2007
+AB We investigated a postulated trade-off between reproduction and immune
+   function by comparing the energetic costs of an immune response with
+   phytohemagglutinin challenge (or injection) in castrated (low
+   testosterone [T]) and intact (high T) Japanese Quail (Coturnix
+   coturnix). Intact birds had higher resting metabolic rate (RMR) and
+   significantly lower immune response than castrates. RMR of intact birds
+   did not change in response to an immune challenge, suggesting that
+   maintenance of reproductive tissues and associated high T is both
+   immunosuppressive and energetically costly. Despite having a greater
+   immune response than intact quail, castrates had a lower pre-challenge
+   RMR than intact birds and paradoxically tended to decrease RMR during an
+   immune challenge. This paradox may be because of pro-inflammatory
+   cytokines that are released during immune responses. Cytokines promote
+   energy conservation through malaise and soporific behaviors, possibly
+   explaining the co-occurrence of a relatively strong immune response and
+   a decrease in nocturnal RMR in castrates. The lower immune response in
+   intact birds may not elicit as great a response of pro-inflammatory
+   cytokines owing to an already elevated RMR from reproductive state, thus
+   reducing any effect on RMR. The suppressed immune response and elevated
+   RMR in intact birds may be because of T; however, we cannot separate the
+   effects of T per se from the metabolic requirements of reproductive
+   tissues.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 1932-5223
+UT WOS:000248990300001
+ER
+
+PT J
+AU Schoech, Stephan J.
+   Bowman, Reed
+   Bridge, Eli S.
+   Morgan, Gina M.
+   Rensel, Michelle A.
+   Wilcoxen, Travis E.
+   Boughton, Raoul K.
+TI Corticosterone administration does not affect timing of breeding in
+   Florida scrub-jays (Aphelocoma coerulescens)
+SO HORMONES AND BEHAVIOR
+VL 52
+IS 2
+BP 191
+EP 196
+DI 10.1016/j.yhbeh.2007.04.004
+PD AUG 2007
+PY 2007
+AB Providing supplemental food to Florida scrub-jays (Aphelocoma
+   coerulescens) causes a reliable advance in clutch initiation of 1 to 2
+   weeks. In some years, supplemental food appeared to not only advance
+   laying date but also decrease baseline concentrations of corticosterone
+   (CORT) relative to controls. The coincidence of low CORT levels and
+   early breeding led us to hypothesize that CORT serves to communicate
+   information about environmental conditions to the
+   hypothalamic-pituitary-gonadal (HPG) axis, which ultimately influences
+   the timing of breeding. To test this hypothesis, we administered small
+   oral doses of CORT three times each day to female breeders that were
+   provisioned with supplemental food. We compared clutch initiation dates
+   of the CORT-dosed females to females with supplementation but no
+   exogenous CORT and to females with neither CORT nor supplemental food.
+   CORT administration had a strong temporary effect on circulating CORT
+   concentrations but clutch initiation did not differ between the two
+   groups of supplemented birds, both of which laid eggs approximately 10
+   days earlier than nonsupplemented birds. Furthermore, during the year of
+   our study we found no reduction in baseline CORT concentrations in our
+   undosed supplemental groups, as had been observed in past studies. (c)
+   2007 Elsevier Inc. All rights reserved.
+TC 6
+ZB 6
+Z8 0
+Z9 6
+SN 0018-506X
+UT WOS:000249004500009
+ER
+
+PT J
+AU Sauter, Annette
+   Bowman, Reed
+   Schoech, Stephan J.
+   Pasinelli, Gilberto
+TI Does optimal foraging theory explain why suburban Florida scrub-jays
+   (Aphelocoma coerulescens) feed their young human-provided food?
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 60
+IS 4
+BP 465
+EP 474
+DI 10.1007/s00265-006-0187-z
+PD AUG 2006
+PY 2006
+AB Optimal foraging theory assumes that a forager can adequately assess the
+   quality of its prey and predicts that parents feed their young
+   low-quality foods only when suffering unpredicted reductions in their
+   ability to provision. Wildland Florida scrub-jays feed their young
+   exclusively arthropods, but suburban parents include human-provided
+   foods in the nestling diet, with possible costs in terms of reduced
+   growth and survival. We tested experimentally whether parents feed
+   human-provided foods, given the apparent costs, because: 1) they do not
+   discriminate between food types, 2) they switch to low-quality, abundant
+   foods when natural food availability in the environment is low, or 3)
+   they switch when the time needed to obtain natural food is high. Parents
+   discriminated between natural and human-provided foods by showing a
+   preference for natural foods when rearing young. When the handling time
+   of natural foods was increased experimentally, parents in the suburban
+   and wildland habitats switched to human-provided foods. Supplementation
+   with natural foods increased preference for this food in both habitats.
+   Suburban parents chose more natural foods than wildland parents,
+   suggesting that they have a greater preference for natural foods.
+   Regardless of preferences demonstrated at feeders, parents in both the
+   suburbs and wildlands delivered mostly natural foods to nestlings,
+   independent of natural food availability. Nonetheless, natural foods are
+   likely to be scarcer in the environment than in our experimental tests.
+   Because natural food availability is lower in the suburbs than in the
+   wildland habitat, parents in the suburbs may be forced to switch to
+   human-provided foods when feeding nestlings.
+TC 8
+ZB 7
+Z8 0
+Z9 8
+SN 0340-5443
+UT WOS:000238847200002
+ER
+
+PT J
+AU Garvin, Mary C.
+   Schoech, Stephan J.
+TI Hormone levels and infection of Haemoproteus danilewskyi in free-ranging
+   blue jays (Cyanocitta cristata)
+SO JOURNAL OF PARASITOLOGY
+VL 92
+IS 3
+BP 659
+EP 662
+DI 10.1645/GE-759R.1
+PD JUN 2006
+PY 2006
+AB Annual spring relapse of blood parasite infections in birds is believed
+   to be the result of hormonal changes associated with breeding. As part
+   of it larger study on the epizootiology of Haemoproteus danilewskyi in
+   blue jays in south-central Florida. we studied the relationship between
+   H. danilewskyi infections and levels of luteinizing hormone, prolactin,
+   progesterone, testosterone, estradiol, and corticosterone. We found a
+   positive association between intensity of H. lewskyi infection and
+   corticosterone levels in females but not in males. We also found no
+   association between infection and levels of prolactin. luteinizing
+   hormone, progesterone, testosterone, or estradiol in males or females.
+   In addition, we found a positive relationship between levels of
+   corticosterone and handling time and between corticosterone and
+   testosterone levels. We suggest a possible influence of corticosterone
+   oil spring relapse of Haemoproteus spp. infections in birds but provide
+   no support for the influence of breeding hormones on relapse of these
+   parasites.
+TC 4
+ZB 3
+Z8 0
+Z9 4
+SN 0022-3395
+UT WOS:000239136100039
+ER
+
+PT J
+AU Schoech, SJ
+   Bowman, R
+   Reynolds, SJ
+TI Food supplementation and possible mechanisms underlying early breeding
+   in the Florida Scrub-Jay (Aphelocoma coerulescens)
+SO HORMONES AND BEHAVIOR
+VL 46
+IS 5
+BP 565
+EP 573
+DI 10.1016/j.yhbeh.2004.06.005
+PD DEC 2004
+PY 2004
+AB Food supplementation studies demonstrate the importance of resources in
+   the timing of reproduction. Studies of Florida Scrub-Jays (Aphelocoma
+   coerulescens) found that supplemented jays bred earlier than
+   unsupplemented jays and that protein may play a critical role. In this
+   study, free-living scrub-jays were provided with supplemental diets high
+   in fat and protein (HFHP) or high in fat and low in protein (HFLP). Jays
+   in both treatments bred earlier than unsupplemented controls (CNT), but
+   HFHP-supplemented jays bred earlier than HFLP jays. To assess possible
+   mechanisms, we measured testosterone (T) in males, estradiol (E-2) in
+   females, and corticosterone (CORT) in both. HFHP males had higher T than
+   HFLP and CNT males, but treatment did not affect E-2 levels of females.
+   Pilot studies of scrub-jays in suburban environments suggest that the
+   spatial and temporal predictability of food may influence corticosterone
+   (CORT) levels. Suburban jays have year-round access to human-provided
+   foods and breed earlier than wildland jays; thus, we compared CORT in
+   all treatments in the natural site (wildlands) with those of suburban
+   jays. CORT levels of suburban jays were lower than HFLP, HFHP, and CNT
+   jays. HFHP-supplemented jays had lower CORT levels than those of HFLP
+   and CNT jays. The observed differences in the timing of breeding, both
+   between suburban and wildland populations and between experimental
+   groups in the wildlands, may result from differences in the spatial and
+   temporal predictability of food, and the nutritional differences in
+   diets. Because CORT can negatively affect the reproductive axis, we
+   postulate that nutrient availability, the predictability of food, CORT
+   levels, and initiation of reproduction are inextricably linked. (C) 2004
+   Elsevier Inc. All rights reserved.
+TC 53
+ZB 49
+Z8 1
+Z9 55
+SN 0018-506X
+UT WOS:000225520800008
+ER
+
+PT B
+AU Schoech, Stephan J.
+   Reynolds, S. James
+   Boughton, Raoul K.
+BE Koenig, Walter
+   Dickinson, Janis
+TI Endocrinology.
+SO Ecology and evolution of cooperative breeding in birds.
+BP 128
+EP 141
+DI 10.1017/CBO9780511606816.009
+PD 2004
+PY 2004
+TC 20
+ZB 18
+Z8 0
+Z9 20
+BN 0-521-53099-7
+UT ZOOREC:ZOOR14011067225
+ER
+
+PT J
+AU Reynolds, SJ
+   Schoech, SJ
+   Bowman, R
+TI Diet quality during pre-laying and nestling periods influences growth
+   and survival of Florida scrub-jay (Aphelocoma coerulescens) chicks
+SO JOURNAL OF ZOOLOGY
+VL 261
+BP 217
+EP 226
+DI 10.1017/S0952836903004023
+PN Part 3
+PD NOV 2003
+PY 2003
+AB Food availability is one of the most important determinants of
+   successful reproduction in birds. In a previous study, it was shown that
+   Florida scrub-jays Aphelocoma coerulescens maintained a third egg mass
+   when supplemented with a high fat and high protein diet during
+   pre-breeding, as opposed to birds that were not supplemented that laid
+   third eggs markedly lighter in mass than first- and second-laid eggs.
+   Increases in egg quality promote chick growth and survival in many avian
+   species. In this study, scrub-jays were provided with supplements
+   throughout the pre-laying and nestling periods of 2001 and 2002 to
+   investigate whether diet quality influenced growth and survival of
+   chicks. Fledging success and survival to independence of unsupplemented
+   chicks were higher for 2002 compared with 2001 indicating that breeding
+   conditions (e.g. natural food availability) for jays were probably
+   improved in the former year. Consistent growth patterns were found
+   during the first I I days post-hatch between chicks on supplemented and
+   those on unsupplemented territories. Of the three growth measures, only
+   seventh primary feather growth tended to be greater for third-hatched
+   chicks on supplemented territories compared with third-hatched chicks on
+   control territories. Food supplementation influenced survival of chicks.
+   Compared with chicks hatching on unsupplemented territories, fledging
+   success of chicks hatching from second-laid eggs was significantly
+   greater in 2001, but not in 2002. Chicks from third-laid eggs on
+   supplemented territories also tended to survive better in 2001 compared
+   with chicks from unsupplemented territories, but, again, no such effect
+   was found in 2002. We conclude that food supplementation in the
+   pre-laying and nestling periods results in little measurable improvement
+   in chick growth. However, improvements were found in survival of chicks
+   that may be mediated through improvements in egg quality, but also may
+   be the result of changes in foraging strategies of provisioning birds on
+   supplemented territories. Chicks on supplemented territories might be in
+   better body condition than those on unsupplemented ones. Methods other
+   than morphometrics may be required to detect elevations in body
+   condition of chicks raised on supplemented territories.
+TC 19
+ZB 17
+Z8 0
+Z9 19
+SN 0952-8369
+UT WOS:000186710900001
+ER
+
+PT J
+AU Schoech, SJ
+   Bowman, R
+TI Does differential access to protein influence differences in timing of
+   breeding of florida scrub-jays (Aphelocoma coerulescens) in suburban and
+   wildland habitats?
+SO AUK
+VL 120
+IS 4
+BP 1114
+EP 1127
+DI 10.1642/0004-8038(2003)120[1114:DDATPI]2.0.CO;2
+PD OCT 2003
+PY 2003
+AB Timing of breeding in Florida Scrub-jays (Aphelocoma coerulescens)
+   varies both within and between years. Social status and breeding
+   experience may explain much of the within-year variation, but the
+   availability of certain foods may partially explain between-year
+   patterns. Scrub-jays in suburban habitats with access to unlimited
+   human-provided foods breed earlier and with less between-year variation
+   in timing of breeding than jays in wildland habitats. We hypothesized
+   that those differences in timing of breeding result from access to
+   human-provided foods in the suburban site. Human-provided food may
+   influence timing of breeding by improving the overall body condition of
+   females, or it may influence breeding by providing nutrients essential
+   for breeding. If condition mediated, breeding females in the two
+   habitats should differ in certain physiological parameters relative to
+   time before egg laying and calendar date. If the effect is not related
+   to body condition, we expect differences in pre-breeding females
+   relative to calendar date, but not in relation to time before egg
+   laying. To test those predictions, we measured plasma levels of total
+   protein, calcium, luteinizing hormone, and estradiol. We also measured
+   variables associated with body condition-body mass, a size-corrected
+   condition index, and total body lipids. Most variables tended to
+   increase with both days before laying and calendar date, except total
+   body lipids, which decreased. Suburban females had higher levels of
+   plasma protein relative to both days before egg laying and calendar date
+   than female breeders in the wildland habitat. Luteinizing hormone
+   differed between sites relative to calendar date but not days before
+   laying. Our data suggest that suburban scrub-jays with access to
+   predictable sources of high-quality human-provided foods accumulate
+   endogenous protein that can be used to breed earlier. Received 25
+   January 2002, accepted 14 June 2003.
+TC 27
+ZB 25
+Z8 0
+Z9 27
+SN 0004-8038
+UT WOS:000186338400018
+ER
+
+PT J
+AU Wingfield, JC
+   Hahn, TP
+   Maney, DL
+   Schoech, SJ
+   Wada, M
+   Morton, ML
+TI Effects of temperature on photoperiodically induced reproductive
+   development, circulating plasma luteinizing hormone and thyroid
+   hormones, body mass, fat deposition and molt in mountain white-crowned
+   sparrows, Zonotrichia leucophrys oriantha
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 131
+IS 2
+BP 143
+EP 158
+DI 10.1016/S0016-6480(02)00648-2
+PD APR 2003
+PY 2003
+AB The mountain white-crowned sparrow, Zonotrichia leucophrys oriantha,
+   breeds in subalpine meadows throughout many mountainous regions of
+   western North America. Mathematical analysis of 20 years of egg-laying
+   dates at Tioga Pass, California (3030m elevation) indicated a highly
+   predictable breeding season suggesting that precise environmental cues
+   such as the annual change in day length were important for regulating
+   reproductive function. Additionally, it appeared that there was
+   sufficient yearly variation in the timing of breeding to suggest that
+   other environmental cues may also be important for regulating
+   adjustments in reproductive development and regression. Captive
+   populations of Z. l. oriantha showed strong responses in gonadal
+   development following transfer to longs days (15L 913) and low
+   temperature (5degreesC) slowed down photoperiodically induced gonadal
+   growth and subsequent regression, in both males and females. High
+   temperature of 30degreesC tended to accelerate gonadal development and
+   regression whereas gonadal development was intermediate in a group
+   exposed to 20 degreesC. Prior exposure to these temperature regimes
+   while on short days (9L 15D) had no effect on body mass, fat, or plasma
+   levels of luteinizing hormone (LH) and thyroid hormones. Curiously there
+   was no effect of temperature on photoperiodically induced rises in LH in
+   either sex despite marked effects on gonadal growth. Brood patch
+   development was also enhanced in females exposed to 30degreesC.
+   Corticosterone levels measured in a subset of plasma samples from this
+   experiment indicated no effect of temperature suggesting that the
+   retarded gonadal development at 5 degreesC was not a result of thermal
+   stress. Although there was a robust effect of photo stimulation on
+   thyroid hormone levels in blood of both sexes, temperature treatment had
+   no effect on tri-iodothyronine (T3) concentrations. However, plasma
+   levels of thyroxine (T4) were lower initially at 5 degreesC versus 20
+   and 30 degreesC treatments. This may be related to the protracted
+   gonadal cycle at 5 degreesC versus the truncated gonadal cycle at 30
+   degreesC. Molt score, an indication of post-reproductive state and onset
+   of photorefractoriness, was delayed in birds exposed to 5 degreesC. Body
+   mass, and to a lesser extent fat score, tended to be lowest in birds
+   exposed to 5 degreesC compared with those at 20 and 30 degreesC. These
+   results demonstrate that ambient temperature significantly affected
+   photoperiodically induced gonadal development and regression in these
+   birds. The endocrine mechanisms underlying these effects require further
+   study. (C) 2003 Published by Elsevier Science (USA).
+TC 50
+ZB 50
+Z8 1
+Z9 51
+SN 0016-6480
+UT WOS:000182190100007
+ER
+
+PT J
+AU Reynolds, SJ
+   Schoech, SJ
+   Bowman, R
+TI Nutritional quality of prebreeding diet influences breeding performance
+   of the Florida scrub-jay
+SO OECOLOGIA
+VL 134
+IS 3
+BP 308
+EP 316
+DI 10.1007/s00442-002-1126-y
+PD FEB 2003
+PY 2003
+AB Food supplementation studies of breeding birds have traditionally
+   concentrated on energetic constraints on breeding performance. It is
+   only recently that the nutritional quality of the prebreeding diet has
+   also been considered influential. We examined the importance of specific
+   nutrients in the prebreeding diet of the Florida scrub-jay (Aphelocoma
+   coerulescens). Birds were provided with one of two supplements (rich in
+   protein and fat or rich in fat only) prior to breeding in 2000 and 2001
+   and their breeding performance, in relation to unsupplemented (control)
+   birds, was examined. Birds receiving both supplements significantly
+   advanced laying in both years, and increased clutch size in 2000 but not
+   in 2001. Laying date explained variation in clutch size in birds on
+   dietary supplements. Egg mass and volume declined with laying order,
+   irrespective of dietary treatment, but birds on the high fat, high
+   protein diet laid heavier third eggs than controls and this was
+   independent of laying date. Laboratory analysis of 14 abandoned and
+   unhatched eggs revealed that as egg mass increased so did the absolute
+   amount of protein and water while fat content remained relatively fixed.
+   Using these relationships between the masses of egg components and fresh
+   egg mass, we calculated that heavier third eggs laid by birds on high
+   fat and high protein, compared with those laid by controls, contained
+   more water that may be fundamental to chick growth and survival. This is
+   the first demonstration for an avian species that nutritional quality of
+   prebreeding diet can simultaneously influence laying date, clutch size,
+   and egg size and composition.
+TC 47
+ZB 44
+Z8 0
+Z9 47
+SN 0029-8549
+UT WOS:000181645100003
+ER
+
+PT J
+AU Owen-Ashley, NT
+   Schoech, SJ
+   Mumme, RL
+TI Context-specific response of Florida Scrub-Jay pairs to Northern
+   Mockingbird vocal mimicry
+SO CONDOR
+VL 104
+IS 4
+BP 858
+EP 865
+DI 10.1650/0010-5422(2002)104[0858:CSROFS]2.0.CO;2
+PD NOV 2002
+PY 2002
+AB It is well established that vocal mimicry serves an intraspecific
+   function in birds by increasing repertoire size. On an interspecific
+   level, territorial exclusion of other species by deceptive mimicry may
+   occur if the model (i.e., mimicked) species song is effectively
+   reproduced by the mimicking species. Few studies have effectively
+   demonstrated deceptive mimicry because they did not use the context of
+   the mimic's song as a control stimulus. We addressed this shortcoming by
+   using isolated and context-dependent playback stimuli to assess the
+   response of Florida Scrub-Jay (Aphelocoina coerulescens) pairs to
+   Northern Mockingbird (Mimus polyglottos) imitation. Scrubjay pairs
+   responded more aggressively to isolated scrub-jay weep calls than to
+   playbacks consisting of either isolated imitation calls, imitated calls
+   embedded in mockingbird song, or control mockingbird song. These results
+   fail to support the hypothesis that mimicry deceives the model species.
+   Whether mockingbird imitation of scrub-jays deceives other species
+   requires further investigation.
+TC 6
+ZB 6
+Z8 0
+Z9 6
+SN 0010-5422
+UT WOS:000179190400018
+ER
+
+PT J
+AU Garvin, JC
+   Reynolds, SJ
+   Schoech, SJ
+TI Conspecific egg predation by Florida Scrub-Jays
+SO WILSON BULLETIN
+VL 114
+IS 1
+BP 136
+EP 139
+DI 10.1676/0043-5643(2002)114[0136:CEPBFS]2.0.CO;2
+PD MAR 2002
+PY 2002
+AB We report an observation of egg predation by conspecifics in the Florida
+   Scrub-Jay (Aphelocoma coerulescens) at Archbold Biological Station in
+   Highlands County, Florida. This is the first confirmed account of
+   intraspecific egg predation in this threatened and declining species. We
+   observed a group of five jays harass an established breeding pair at
+   their nest that contained four warm eggs. One female intruder alighted
+   on the nest and carried off an egg in its beak. Other intruding females
+   also were seen at the nest and presumably removed two more eggs. The
+   following day, the nest was deserted and contained only one cold egg. We
+   discuss potential reasons for such conspecific egg predation, focusing
+   on resource limitation. We believe that further research in this area is
+   essential for this species in which competition for resources (e.g.,
+   nesting habitat) intensifies as suitable habitat declines.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0043-5643
+UT WOS:000178580800014
+ER
+
+PT B
+AU Schoech, Stephan J.
+   Bowman, Reed
+BA Marzluff, John M.
+   Bowman, Reed
+   Donnelly, Roarke
+TI Variation in the timing of breeding between suburban and wildland
+   Florida scrub-jays: do physiologic measures reflect different
+   environments?
+SO Avian ecology and conservation in an urbanizing world.
+BP 289
+EP 306
+PD 2001
+PY 2001
+TC 10
+ZB 9
+Z8 0
+Z9 10
+BN 0-7923-7458-4
+UT ZOOREC:ZOOR13800061788
+ER
+
+PT J
+AU Mumme, RL
+   Schoech, SJ
+   Woolfenden, GW
+   Fitzpatrick, JW
+TI Life and death in the fast lane: Demographic consequences of road
+   mortality in the Florida Scrub-Jay
+SO CONSERVATION BIOLOGY
+VL 14
+IS 2
+BP 501
+EP 512
+DI 10.1046/j.1523-1739.2000.98370.x
+PD APR 2000
+PY 2000
+AB We examined the demographic consequences of road mortality in the
+   cooperatively breeding Florida Scrub-Jay (Aphelocoma coerulescens), a
+   threatened species restricted to the oak scrub of peninsular Florida.
+   Between May 1986 and July 1995 we monitored the survival and
+   reproductive success of a color-banded population of jays along a
+   two-lane highway at Archbold Biological Station. Annual mortality of
+   breeding adults was 0.38 on road territories, significantly higher than
+   the rate of 0.23 for breeders on nonroad territories. High mortality on
+   road territories appeared to be a direct result of automobile traffic
+   per se and not a consequence of road-induced changes in habitat
+   characteristics. Mortality was especially high for immigrants without
+   previous experience living along the road: in their first two years as
+   breeders on road territories, naive immigrants experienced annual
+   mortality of 0.50 and 0.45. From year 3 onward, however, annual
+   mortality dropped to 0.29, not significantly different from the rate for
+   birds on nonroad territories. This experience-dependent decline in road
+   mortality could be caused either by surviving jays learning to avoid
+   automobiles or by selective mortality operating through time
+   (demographic heterogeneity). Proximity to the road had no effect on
+   nesting success beyond its indirect effects on breeder experience and
+   group size. Because the mortality of 30- to 90-day-old fledglings was
+   significantly higher on road territories than on nonroad territories,
+   however, breeder mortality greatly exceeded production of yearlings on
+   road territories. Roadside territories therefore are sinks that can
+   maintain populations of Florida Scrub-Jays only via immigration. Because
+   Florida Scrub-Jays do not avoid roadside habitats and may even be
+   attracted to them, road mortality presents a difficult challenge for the
+   management and conservation of this threatened and declining species.
+TC 62
+ZB 62
+Z8 3
+Z9 71
+SN 0888-8892
+UT WOS:000086275800018
+ER
+
+PT J
+AU Schoech, Stephan J.
+TI Florida Scrub-Jay nestlings preyed upon by an eastern coachwhip
+SO Florida Field Naturalist
+VL 27
+IS 2
+BP 57
+EP 58
+PD May, 1999
+PY 1999
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0738-999X
+UT BIOABS:BACD199900227050
+ER
+
+PT J
+AU Maney, DL
+   Schoech, SJ
+   Sharp, PJ
+   Wingfield, JC
+TI Effects of vasoactive intestinal peptide on plasma prolactin in
+   passerines
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 113
+IS 3
+BP 323
+EP 330
+DI 10.1006/gcen.1998.7220
+PD MAR 1999
+PY 1999
+AB Vasoactive intestinal peptide (VIP) is a potent releaser of prolactin
+   (PRL) in domestic fowl, turkey, and ring doves. However, few comparative
+   studies have investigated this in wild species. We tested the effects of
+   intravenously administered chicken VIP on plasma PRL concentrations in
+   four passerine species: the white-crowned sparrow (Zonotrichia
+   leucophrys gambelii), the dark-eyed junco (Junco hyemalis), the Florida
+   scrub-jay (Aphelocoma coerulescens), and the western scrub-jay (A.
+   californica). In the white-crowned sparrow, junco, and Florida
+   scrub-jay, which were tested during the breeding season, VIP induced a
+   rapid increase in plasma PRL. Serial plasma sampler taken after VIP
+   injection in the white-crowned sparrow show a 10-fold increase in PRL
+   within 2 min of treatment, followed by a gradual decline. Effects of
+   VIP, as compared to saline, remained significant for at least 20 min
+   after treatment. Western scrub-jays did not respond to intravenous VIP
+   with a significant rise in PRL secretion, possibly because they were
+   tested after termination of the breeding season. This study indicates
+   that VIP control of PRL release may be widespread among avian species,
+   and that seasonal changes in plasma PRL may be mediated in part at the
+   level of the pituitary. In addition, analysis of the control data
+   revealed no increase in plasma PRL as a result of injection or
+   restraint, suggesting that unlike in mammals, PRL is not released during
+   acute stress in passerines. (C) 1999 Academic Press.
+TC 25
+ZB 22
+Z8 0
+Z9 25
+SN 0016-6480
+UT WOS:000079122600001
+ER
+
+PT J
+AU Maney, DL
+   Hahn, TP
+   Schoech, SJ
+   Sharp, PJ
+   Morton, ML
+   Wingfield, JC
+TI Effects of ambient temperature on photo-induced prolactin secretion in
+   three subspecies of white-crowned sparrow, Zonotrichia leucophrys
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 113
+IS 3
+BP 445
+EP 456
+DI 10.1006/gcen.1998.7219
+PD MAR 1999
+PY 1999
+AB We tested the effects of naturally relevant ambient temperatures (4, 20,
+   and 30 degrees C) on photoinduced prolactin (PRL) secretion in three
+   subspecies of white-crowned sparrow Zonotrichia leucophrys. In all three
+   subspecies, transfer from short to long days triggered an increase in
+   plasma PRL typical of an avian seasonal breeder. In z. l. gambelii,
+   which breeds at high latitudes, temperature does not affect the rate of
+   photoinduced gonadal maturation or luteinizing hormone (LH) secretion.
+   In this subspecies, we found that changes in plasma PRL concentrations
+   were similar in all temperature treatments. In Z. l. pugetensis, which
+   breeds in the Pacific Northwest, high temperatures accelerate gonadal
+   development in females but not males and does not affect LH secretion.
+   In this subspecies, we found that like gonadal growth, photoinduced
+   changes in PRL secretion in z. l. pugetensis vary with ambient
+   temperature in females but not males, In Z. l. oriantha, which breeds in
+   alpine regions of the West, both males and females respond to
+   temperature cues by modulating gonadal growth but not LH secretion. We
+   found in Z. l. oriantha that ambient temperature affects PRL secretion
+   in both sexes. These results suggest that PRL may be involved in the
+   transduction of ambient temperature cues used to time reproductive
+   development and the termination of seasonal breeding. Alternatively,
+   temperature-mediated differences in plasma PRL may be a result rather
+   than a cause of differences in gonadal development, since sex steroids
+   affect PRL secretion in some species. (C) 1999 Academic Press.
+TC 35
+ZB 33
+Z8 0
+Z9 35
+SN 0016-6480
+UT WOS:000079122600012
+ER
+
+PT J
+AU Schoech, SJ
+   Ketterson, ED
+   Nolan, V
+TI Exogenous testosterone and the adrenocortical response in Dark-eyed
+   Juncos
+SO AUK
+VL 116
+IS 1
+BP 64
+EP 72
+PD JAN 1999
+PY 1999
+AB Hormonal manipulations with implants allow examination of the costs and
+   benefits of behaviors and physiologic states mediated by a given
+   hormone. As a part of ongoing research into the effects of the steroid
+   hormone testosterone (T) in Dark-eyed Juncos (Junco hyemalis), we
+   measured the corticosterone (B, a steroid hormone secreted by the
+   adrenal in response to stress) response to the stress of capture and
+   handling in males treated with T (T-males) and in control males
+   (C-males). Although B may be essential for energy mobilization, chronic
+   or repeated exposure to elevated levels of B can have many negative
+   effects. Because T mediates many behaviors that may increase the
+   likelihood that an individual will encounter stressors, we predicted
+   that plasma B would rise more rapidly in T-males than in controls. In
+   the first few minutes post-capture, the increase in B levels was
+   significantly higher in T-males than in controls. B levels in samples
+   collected 10, 30, and 60 min post-capture were consistently higher in
+   T-males than in C-males; however, the difference was not statistically
+   significant. Because previous work has shown that T-males reduce their
+   parental contribution, we compared females that were mated to T-males
+   and C-males (hereafter T- and C-females). B levels of T-females
+   increased sharply in the first few minutes post-capture, whereas in
+   C-females they did not; however, the responses were not statistically
+   different. Males had higher initial levels and a greater B-response to
+   stress than females when data were compared irrespective of treatment.
+   Our results suggest that the behaviors or physiological changes induced
+   by T are potentially costly and that such costs may in part be incurred
+   through elevated B.
+TC 62
+ZB 60
+Z8 0
+Z9 62
+SN 0004-8038
+UT WOS:000078244500007
+ER
+
+PT J
+AU Schoech, SJ
+   Ketterson, ED
+   Nolan, V
+   Sharp, PJ
+   Buntin, JD
+TI The effect of exogenous testosterone on parental behavior, plasma
+   prolactin, and prolactin binding sites in dark-eyed juncos
+SO HORMONES AND BEHAVIOR
+VL 34
+IS 1
+BP 1
+EP 10
+DI 10.1006/hbeh.1998.1455
+PD AUG 1998
+PY 1998
+AB Numerous studies have shown that parental behaviors are mediated by
+   prolactin (PRL), while testosterone (T) interferes with their full
+   expression. The limited data available suggest that reduced parental
+   behavior induced by T is not mediated by reduced concentrations of
+   plasma PRL. We hypothesized that T reduces parental behaviors by
+   reducing PRL receptor binding activity at central neural sites that
+   promote the expression of parental behaviors. To test this hypothesis we
+   implanted male dark-eyed juncos (Junco hyemalis) with
+   testosterone-filled or empty implants and measured T and PRL levels,
+   paternal behavior, and specific binding of radio-labeled PRL at selected
+   brain regions that have been implicated in the mediation of parental
+   behaviors. Our findings concurred with previous studies in that
+   T-treated males reduced their parental contributions, had higher levels
+   of T, and had equivalent levels of PRL compared with controls. We found
+   no differences in the capacity to bind I-125-oPRL in three brain regions
+   previously implicated in the mediation of parental care in birds, i.e.,
+   the preoptic area, ventromedial nucleus of the hypothalamus, and
+   paraventricular nucleus of the hypothalamus. Thus our findings do not
+   support the hypothesis that T interferes with the expression of parental
+   behavior by reducing PRL receptor binding activity at central sites. (C)
+   1998 Academic Press.
+TC 51
+ZB 49
+Z8 0
+Z9 52
+SN 0018-506X
+UT WOS:000075737900001
+ER
+
+PT B
+AU Schoech, Stephan J.
+   Lipar, Joseph L.
+BE Fiedler, Peggy L.
+   Kareiva, Peter M.
+TI Conservation endocrinology: field endocrinology meets conservation
+   biology.
+SO Conservation biology: for the coming decade. Second edition.
+BP 461
+EP 477
+PD 1998
+PY 1998
+TC 3
+ZB 3
+Z8 0
+Z9 4
+BN 0-412-09661-7
+UT ZOOREC:ZOOR13500053195
+ER
+
+PT J
+AU Wingfield, JC
+   Hahn, TP
+   Wada, M
+   Schoech, SJ
+TI Effects of day length and temperature on gonadal development, body mass,
+   and fat depots in white-crowned sparrows, Zonotrichia leucophrys
+   pugetensis
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 107
+IS 1
+BP 44
+EP 62
+DI 10.1006/gcen.1997.6894
+PD JUL 1997
+PY 1997
+AB We tested the effects of ambient temperature (5 degrees, 20 degrees, and
+   30 degrees) on photoperiodically induced reproductive functions in male
+   and female white-crowned sparrows, Zonotrichia leucophrys pugetensis.
+   Transfer from short days (9L 15D) to long days (16L 8D) resulted in
+   rapid testicular growth and partial ovarian development in all three
+   temperature treatments. There were no differences in sizes of testes and
+   cloacal protuberance following 30 or 70 days of exposure to long days at
+   the different temperatures. However, brood patch and follicular
+   development were enhanced in females at 30 degrees compared with the 5
+   degrees and 20 degrees groups. Many of these females exposed to 30
+   degrees had large yolky follicles by Day 70. This enhancement was
+   evident only when females were housed in the same room with males,
+   however. Despite the effects of high temperature on ovarian development,
+   there were no differences among groups in plasma levels of
+   follicle-stimulating hormone or luteinizing hormone, suggesting that
+   differential ovarian development may have been mediated by gonadal
+   sensitivity to gonadotropins rather than by differential secretion of
+   these hormones. We examined circulating levels of corticosterone (B) and
+   both tri-iodothyronine (T-3) and thyroxine (T-4) as possible regulators
+   of this differential ovarian sensitivity to gonadotropins. Plasma B
+   levels showed transitory increases in males at 5 degrees and 20 degrees,
+   but were suppressed in males at 30 degrees. Titers of B were not
+   influenced by temperature treatments in females. Circulating T-4
+   increased following photostimulation in both sexes, but this increase
+   was reduced at 5 degrees. T-3 concentrations in plasma were highly
+   variable and not influenced by either photoperiod or temperature in
+   males, but were significantly lower in females exposed to 30 degrees by
+   Day 70. Thus, B and T-4 levels do not appear to help explain
+   differential ovarian development, but circulating T-3 levels cannot yet
+   be excluded as a regulator of ovarian sensitivity to gonadotropins. Long
+   days resulted in no change, or a gradual decrease, in body mass and fat
+   deposit in males and females, and temperature regimes had no further
+   effects on fattening or body mass. Thus, reproductive development under
+   long days appears to be resistant to naturally relevant temperature
+   extremes in male Z.l. pugetensis, whereas follicular development (i.e.,
+   yolk deposition in follicles leading to ovulation and onset of nesting)
+   can be enhanced by high temperature. Reasons for the dimorphism in this
+   response are unknown, but may be explained by the role of females in
+   determining onset of final ovarian maturation and nesting in relation to
+   favorable environmental conditions. In a second experiment, in which the
+   sexes were isolated from one another, we determined the effects of the
+   same treatments on Z.l. pugetensis. Again there was no effect of
+   temperature on photoperiodically induced testicular growth, and the
+   enhancement of follicular development in females at 30 degrees was
+   greatly reduced in the absence of males. We also continued this
+   experiment up to 116 days of treatment to investigate effects on onset
+   of photorefractoriness (spontaneous gonadal regression) and onset of
+   prebasic moult. In both sexes it was clear that low temperature (5
+   degrees) retarded gonadal regression and high temperature (30 degrees)
+   advanced it. Similarly, the prebasic moult score was greater at 30
+   degrees and less at 5 degrees in both sexes.
+   There were no effects of temperature on plasma levels of LH at Day 116
+   of treatment, but plasma levels of T-4 were higher in the 5 degrees
+   group of both males and females sampled at Day 116. Clearly, the effects
+   of temperature can have different effects on gonadal recrudescence,
+   onset of breeding (yolk deposition), and termination of breeding.
+   Whether these influences of temperature on reproductive function at
+   different stages in the breeding cycle have different mechanisms remains
+   to be determined. (C) 1997 Academic Press.
+TC 57
+ZB 57
+Z8 1
+Z9 59
+SN 0016-6480
+UT WOS:A1997XF36300006
+ER
+
+PT J
+AU Schoech, SJ
+   Mumme, RL
+   Wingfield, JC
+TI Corticosterone, reproductive status, and body mass in a cooperative
+   breeder, the Florida scrub-jay (Aphelocoma coerulescens)
+SO PHYSIOLOGICAL ZOOLOGY
+VL 70
+IS 1
+BP 68
+EP 73
+PD JAN-FEB 1997
+PY 1997
+AB In the cooperatively breeding Florida scrub-jay, nonbreeders are
+   subordinate to the breeders with which they share a territory.
+   Corticosterone is secreted in response to a wide range of stressors,
+   including social stress, and suppresses reproductive and territorial
+   behaviors in several taxa; thus, elevated baseline levels of
+   corticosterone might be a causal mechanism of reproductive suppression.
+   To test the hypothesis that nonbreeder Florida scrub-jays are
+   reproductively suppressed through the actions of corticosterone, we
+   compared corticosterone levels of nonbreeders and breeders and found no
+   differences. However, baseline corticosterone levels only provide
+   information about a bird's current hormonal status. Virtually all
+   species exhibit a rapid rise in glucocorticoids in response to an acute
+   stressor. If the adrenocortical response of nonbreeders is greater than
+   that of breeders, this might be a mechanism whereby nonbreeders remain
+   reproductively quiescent. We compared the responses of breeders and
+   nonbreeders to the acute stress of being captured and held for 1 h. Both
+   exhibited significant but equivalent increases in corticosterone titers.
+   Because in some species heavier or fatter individuals have reduced
+   glucocorticoid responses to stressors, we examined whether body mass was
+   correlated with corticosterone titers. Both baseline and maximum
+   corticosterone levels covaried with body mass, and the effect of body
+   mass on corticosterone levels explained the increase due to capture and
+   handling. Our data do not support the hypothesis that Florida scrub-jay
+   nonbreeders are reproductively suppressed through the actions of
+   corticosterone.
+TC 44
+ZB 43
+Z8 0
+Z9 44
+SN 0031-935X
+UT WOS:A1997WJ62400009
+ER
+
+PT J
+AU Schoech, SJ
+   Mumme, RL
+   Wingfield, JC
+TI Prolactin and helping behaviour in the cooperatively breeding Florida
+   scrub-jay, Aphelocoma c-coerulescens
+SO ANIMAL BEHAVIOUR
+VL 52
+BP 445
+EP 456
+DI 10.1006/anbe.1996.0189
+PN Part 3
+PD SEP 1996
+PY 1996
+AB The relationship between parental and alloparental behaviours and
+   prolactin was examined by measuring plasma levels of prolactin in
+   cooperatively breeding Florida scrub-jays during three breeding seasons.
+   The seasonal trends were similar to those in several other avian
+   species, with low prolactin titres during the pre-nesting phase that
+   steadily increased to a maximum during the incubation and nestling
+   periods. Females had higher prolactin levels than males, and breeders
+   had higher levels than non-breeders. Circulating prolactin in
+   non-breeders was elevated prior to the time when they were exposed to a
+   nest or young, suggesting that high prolactin levels were not a simple
+   response to the stimulus of begging young. To further assess
+   correlations between prolactin and parent-like behaviours, the number of
+   nest visits and the amount of food delivered to focal nests was
+   monitored. Prolactin levels were significantly correlated with the
+   number of visits to the nest, as well as the amount of food delivered to
+   the young. Non-breeders that fed nestlings had higher prolactin titres
+   than non-breeders that did not help, lending further support to the
+   hypothesis that helping behaviours are mediated by prolactin. (C) 1996
+   The Association for the Study of Animal Behaviour
+TC 64
+ZB 58
+Z8 0
+Z9 64
+SN 0003-3472
+UT WOS:A1996VM76000002
+ER
+
+PT J
+AU Schoech, SJ
+   Mumme, RL
+   Wingfield, JC
+TI Delayed breeding in the cooperatively breeding Florida scrub-jay
+   (Aphelocoma coerulescens): Inhibition or the absence of stimulation?
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 39
+IS 2
+BP 77
+EP 90
+DI 10.1007/s002650050269
+PD AUG 1996
+PY 1996
+AB To determine whether fundamental differences exist in the reproductive
+   physiology of breeder and nonbreeder Florida scrub-jays (Aphelocoma
+   coerulescens), we compared plasma levels of testosterone (T) and
+   luteinizing hormone (LH) in males, and estradiol (E(2)) and LH in
+   females. Although male breeders had higher overall T and larger testes,
+   nonbreeders' T paralleled that of breeders, and their testes were more
+   than an order of magnitude larger than regressed testes. Breeder and
+   nonbreeder males had equivalent baseline LH, and equivalent changes in
+   LH following a gonadotropin-releasing hormone (cGnRH-I) challenge. The T
+   LH and GnRH challenge data indicate that nonbreeder males have
+   functional hypothalamo-pituitary-gonadal (HPG) axes. We found no
+   hormonal evidence of inbreeding suppression in males: nonbreeders that
+   did not live with their mothers and those that did had similar T Male
+   nonbreeders that were exposed to E(2)-implanted females had higher T
+   than did controls, suggesting that the lack of within-pair stimulation
+   is a key factor in whether an individual delays breeding. Female
+   nonbreeders had E(2) titres equal to or higher than breeders and neither
+   basal LH nor LH following GnRH challenge differed by breeding status.
+   Nonbreeders' ovarian follicles were smaller than breeders', but were
+   larger than they would be during the nonbreeding season. These data
+   suggest that nonbreeders were primed for breeding and were simply
+   waiting for an opportunity or a required stimulus. Female nonbreeders
+   that lived in a territory with an unrelated male breeder had
+   significantly higher E(2) than those that remained with their fathers.
+   Similarly, nonbreeders that were captured away from their home
+   territories had elevated E(2). However, nonbreeders that lived with
+   their fathers had E(2) that was equivalent to breeding females,
+   suggesting that inbreeding avoidance may not be the primary factor
+   leading to delayed breeding in females.
+TC 43
+ZB 41
+Z8 0
+Z9 43
+SN 0340-5443
+UT WOS:A1996VD79500002
+ER
+
+PT J
+AU Schoech, SJ
+TI The effect of supplemental food on body condition and the timing of
+   reproduction in a cooperative breeder, the Florida scrub-jay
+SO CONDOR
+VL 98
+IS 2
+BP 234
+EP 244
+DI 10.2307/1369141
+PD MAY 1996
+PY 1996
+AB I examined the importance of food availability on when or whether to
+   breed in cooperatively breeding Florida Scrub-Jays (Aphelocoma
+   coerulescens). Two of the major factors known to influence the timing of
+   reproduction are adequate food for offspring and sufficient available
+   food for breeding females to produce a clutch. If the nutritive needs of
+   a breeding female affect the timing of clutch initiation, food
+   supplemented females should lay before controls. Supplemented female
+   breeders initiated clutches earlier and produced larger clutches than
+   unsupplemented birds. If food abundance declines as the breeding season
+   progresses to the point where fewer young can be fed, clutch size should
+   also decline. Florida Scrub-Jay females laid smaller clutches as the
+   season progressed. Additionally, female breeders given supplemental food
+   had higher levels of body lipids than controls prior to clutch
+   initiation.
+   The food supplementation protocol also allows the testing of the
+   hypothesis that nonbreeder Florida Scrub-Jays forgo breeding because
+   they are food limited. If food limitation were the only factor in the
+   'decision' by nonbreeders to forgo breeding, individuals provided with
+   food would become breeders at a higher frequency than unsupplemented
+   birds. However, equal frequencies of control and supplemented
+   nonbreeders became breeders. I also compared body mass and body lipid of
+   breeders and nonbreeders and found that breeders were heavier and had
+   higher percentages of body lipids than nonbreeders. However, these
+   differences probably do not cause them to be nonbreeders but rather are
+   a result of their being nonbreeders.
+TC 47
+ZB 45
+Z8 1
+Z9 48
+SN 0010-5422
+UT WOS:A1996UR91300007
+ER
+
+EF

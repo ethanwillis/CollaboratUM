@@ -1,0 +1,623 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Lessman, Charles A.
+TI The Developing Zebrafish (Danio rerio): A Vertebrate Model for
+   High-throughput Screening of Chemical Libraries
+SO BIRTH DEFECTS RESEARCH PART C-EMBRYO TODAY-REVIEWS
+VL 93
+IS 3
+SI SI
+BP 268
+EP 280
+DI 10.1002/bdrc.20212
+PD SEP 2011
+PY 2011
+AB The zebrafish, Danio rerio, a small, tropical freshwater species native
+   to Pakistan and India, has become a National Institutes of
+   Health-sanctioned model organism and, due to its many advantages as an
+   experimental vertebrate, it has garnered intense interest from the
+   world's scientific community. Some have labeled the zebrafish, the
+   "vertebrate Drosophila," due to its genetic tractability, small size,
+   low cost, and rapid development. The transparency of the embryo,
+   external development, and the many hundreds of mutant and transgenic
+   lines available add to the allure. Now it appears, the zebrafish can be
+   used for high-throughput screening (HTS) of drug libraries in the
+   discovery process of promising new therapeutics. In this review, various
+   types of screening methods are briefly outlined, as are a variety of
+   screens for different disease models, to highlight the range of
+   zebrafish HTS possibilities. High-content screening (HCS) has been
+   available for cell-based screens for some time and, very recently, HCS
+   is being adapted for the zebrafish. This will allow analysis, at high
+   resolution, of drug effects on whole vertebrates; thus, whole body
+   effects as well as those on specific organs and tissues may be
+   determined. Birth Defects Research (Part C) 93:268-280, 2011. (C) 2011
+   Wiley-Liss, Inc.
+TC 3
+ZB 3
+Z8 1
+Z9 4
+SN 1542-975X
+UT WOS:000296854800006
+ER
+
+PT S
+AU Lessman, Charles A.
+   Taylor, Michael R.
+   Orisme, Wilda
+   Carver, Ethan A.
+BE Detrich, HW
+   Westerfield, M
+   Zon, LI
+TI Use of Flatbed Transparency Scanners in Zebrafish Research: Versatile
+   and Economical Adjuncts to Traditional Imaging Tools for the Danio rerio
+   Laboratory
+SO ZEBRAFISH: CELLULAR AND DEVELOPMENTAL BIOLOGY, PT A, THIRD EDITION
+SE Methods in Cell Biology
+VL 100
+BP 295
+EP 322
+DI 10.1016/B978-0-12-384892-5.00012-8
+PD 2010
+PY 2010
+AB Flatbed transparency scanners are typically relegated to routine office
+   tasks, yet they do offer a variety of potentially useful imaging tools
+   for the zebrafish laboratory. These include motility screens, oocyte
+   maturation and egg activation assays as well as counting and measuring
+   tasks. When coupled with Macroscheduler (http://www.mjtnet.com) and
+   ImageJ (http://rsbweb.nih.gov/ij), the scanner becomes a stable platform
+   for imaging large arrays of zebrafish oocytes, embryos, larvae, and
+   adults. Such large arrays are a prerequisite to the development of
+   high-throughput screens for small molecules as potential therapeutic
+   drugs in the treatment of many diseases including cancer and epilepsy.
+   Thus the scanner may have a role in adapting zebrafish to future drug
+   and mutagenesis screening. In this chapter, some of the uses of scanners
+   are outlined to bring attention to the potentials of this simple-to-use,
+   flexible, inexpensive device for the zebrafish research community.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0091-679X
+BN 978-0-12-384892-5
+UT WOS:000285524800012
+ER
+
+PT J
+AU Lessman, Charles A.
+TI Oocyte maturation: Converting the zebrafish oocyte to the fertilizable
+   egg
+SO GENERAL AND COMPARATIVE ENDOCRINOLOGY
+VL 161
+IS 1
+BP 53
+EP 57
+DI 10.1016/j.ygcen.2008.11.004
+PD MAR 2009
+PY 2009
+AB The process of oogenesis culminates in steroid-induced oocyte maturation
+   to produce the fertilizable egg. A quintessential biological entity, the
+   egg is central to the production of new individuals. The result of egg
+   fertilization by a sperm cell is the production of the mother of all
+   stem cells (i.e. the zygote). Furthermore, the egg cytoplasm is the only
+   one known to support reprogramming a transplanted nucleus to give rise
+   to an individual (i.e. animal cloning). Zebrafish oocyte maturation is a
+   complex event encompassing a number of cellular changes including
+   germinal vesicle migration (GVM) and dissolution or breakdown (GVD),
+   ooplasmic clearing (OC) with correlated yolk protein changes (YP),
+   development of osmoregulation (OR) in fresh water, the formation of the
+   future embryonic pole, the blastodisc (BF) and activatibility (AC) or
+   cortical maturation. In zebrafish, and many other teleosts, 17 alpha, 20
+   beta-dihydroxy-4-pregnen-3-one (17 alpha, 20 beta-DP) has been shown to
+   be the normal inducer of oocyte maturation. A 17 alpha, 20 beta-DP
+   membrane-resident receptor mediates oocyte maturation via non-genomic
+   mechanisms that are beginning to be understood. This paper will
+   highlight some of the cellular markers resulting from the signaling
+   initiated by 17 alpha, 20 beta-DP. By describing these markers, it is
+   hoped that workers in the field will have additional tools to help
+   further elucidate the signaling events of oocyte maturation. (c) 2008
+   Elsevier Inc. All rights reserved.
+TC 8
+ZB 8
+Z8 0
+Z9 8
+SN 0016-6480
+UT WOS:000264012300008
+ER
+
+PT J
+AU Liu, Jianxiong
+   Lessman, Charles A.
+TI Changes of gamma-tubulin expression and distribution in the zebrafish
+   (Danio rerio) ovary, oocyte and embryo
+SO GENE EXPRESSION PATTERNS
+VL 8
+IS 4
+BP 237
+EP 247
+DI 10.1016/j.gep.2007.12.004
+PD APR 2008
+PY 2008
+AB The tubulin gene family is important for individual zebrafish
+   development from the oocyte through to hatching. This involves often
+   rapid, complex changes in the gametes and embryonic cells that are
+   reflected in underlying gene expression changes. Tubulin dynamics, i.e.,
+   the interchange of polymeric and soluble forms in zebrafish oogenesis
+   and embryogenesis, is important for microtubule (MT) cellular functions.
+   Nevertheless, our understanding of how tubulin gene expression changes
+   during zebrafish development is not clear. Previous data showed that
+   soluble alpha-tubulin and gamma-tubulin are associated with large
+   molecular weight complexes (>2 MDa) which are reduced by the blastula
+   stage, with a concomitant decrease in soluble tubulin amount. Complexes
+   (<2 MDa) then increased in the gastrula with an increase in soluble
+   tubulin. Microarray revealed similar patterns of tubulin gene product
+   expression for zebrafish ovary and eggs while both differed from day 4
+   larva. In situ hybridization with gamma-tubulin oligonucleotide probes
+   revealed diffuse label in oocytes, with a marked localization to the
+   primordial blastodise upon maturation. These findings, together with
+   recent work on gamma-tubulin ring complexes in other species, suggest
+   that gamma-tubulin (protein complexes) may be involved in regulating
+   tubulin dynamics, thus is important for zebrafish oogenesis and
+   embryogenesis. (C) 2007 Elsevier B.V. All rights reserved.
+TC 2
+ZB 2
+Z8 0
+Z9 2
+SN 1567-133X
+UT WOS:000254697000003
+ER
+
+PT J
+AU Liu, Jianxiong
+   Lessman, Charles A.
+TI Soluble tubulin complexes, gamma-tubulin, and their changing
+   distribution in the zebrafish (Danio rerio) ovary, oocyte and embryo
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 147
+IS 1
+BP 56
+EP 73
+DI 10.1016/j.cbpb.2006.12.014
+PD MAY 2007
+PY 2007
+AB Tubulin dynamics, i.e., the interchange of polymeric and soluble forms,
+   is important for microtubule (MTs) cellular functions, and thus plays
+   essential roles in zebrafish oogenesis and embryogenesis. A novel
+   finding in this study revealed that there were soluble pools of tubulins
+   in zebrafish oocytes that were sequestered and maintained in a temporary
+   "oligomeric" state, which retained assembling and disassembling
+   potential (suggested by undetected acetylated tubulin, marker of stable
+   tubulin), but lacked abilities to assemble into MTs spontaneously in
+   vivo. Using differential centrifugation, gel chromatography and
+   DM1A-probed western blot, soluble alpha-tubulin was found to be
+   associated with large molecular weight complexes (MW range to over 2
+   MDa) which were reduced in amount by the blastula stage, especially in
+   some batches of embryos, with a concomitant decrease in soluble tubulin.
+   Complexes (MW range less than 2 MDa) then increased in the gastrula with
+   an increase in soluble alpha-tubulin. Two different anti-gamma-tubulin
+   monoclonal antibodies, GTU 88 and TU 30, revealed the existence of
+   soluble-gamma-tubulin in both zebrafish oocytes and embryos, which also
+   decreased by the blastula stage and increased in the gastrula stage.
+   Soluble alpha-tubulin and gamma-tubulin extracted from zebrafish
+   ovaries, oocytes and embryos co-localized in fractions on three
+   different columns: S-200 Sephacryl, DEAE and Superose-6b. The soluble
+   tubulin complexes were competent to assemble into MTs in vitro induced
+   by taxol, and gamma-tubulin was co-localized with assembled MTs. These
+   soluble tubulin complexes were stable during freeze-thaw cycles and
+   resisted high ionic interaction (up to 1.5 M NaC1). Furthermore, some
+   ovarian soluble alpha-tubulin could be co-immunoprecipitated with
+   gamma-tubulin, and vice versa. Two antibodies specific for Xenopus
+   gamma-tubulin ring complex proteins (Xgrip 109 and Xgrip 195) detected
+   single bands from ovarian extracts in western blots, suggesting the
+   existence of Xgrip 109 and Xgrip 195 homologues in zebrafish. These
+   findings, together with recent work on gamma-tubulin ring complexes in
+   oocytes, eggs and embryos of other species, suggest that soluble
+   gamma-tubulin-associated protein complexes may be involved in regulating
+   tubulin dynamics during zebrafish oogenesis and embryogenesis. (c) 2007
+   Elsevier Inc. All rights reserved.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 1096-4959
+UT WOS:000245996000008
+ER
+
+PT J
+AU Lessman, Charles A.
+   Nathani, Ravikanth
+   Uddin, Rafique
+   Walker, Jamie
+   Liu, Jianxiong
+TI Computer-aided meiotic maturation assay (GAMMA) of zebrafish (Danio
+   rerio) oocytes in vitro
+SO MOLECULAR REPRODUCTION AND DEVELOPMENT
+VL 74
+IS 1
+BP 97
+EP 107
+DI 10.1002/mrd.20530
+PD JAN 2007
+PY 2007
+AB We have developed a new technique called Computer-Aided Meiotic
+   Maturation Assay (GAMMA) for imaging large arrays of zebrafish oocytes
+   and automatically collecting image files at regular intervals during
+   meiotic maturation. This novel method uses a transparency scanner
+   interfaced to a computer with macro programming that automatically scans
+   and archives the image files. Images are stacked and analyzed with
+   ImageJ to quantify changes in optical density characteristic of
+   zebrafish oocyte maturation. Major advantages of GAMMA include (1)
+   ability to image very large arrays of oocytes and follow individual
+   cells over time, (2) simultaneously image many treatment groups, (3)
+   digitized images may be stacked, animated, and analyzed in programs such
+   as ImageJ, NIH-Image, or ScionImage, and (4) GAMMA system is
+   inexpensive, costing less than most microscopes used in traditional
+   assays. We have used GAMMA to determine the dose response and time
+   course of oocyte maturation induced by 17 alpha-hydroxyprogesterone
+   (HP). Maximal decrease in optical density occurs around 5 hr after 0.1
+   ug/ml HP (28.5 degrees C), approximately 3 hr after germinal vesicle
+   migration (GVM) and dissolution (GVD). In addition to changes in optical
+   density, GVD is accompanied by streaming of ooplasm to the animal pole
+   to form a blastodisc. These dynamic changes are readily visualized by
+   animating image stacks from GAMMA; thus, GAMMA provides a valuable
+   source of time-lapse movies for those studying zebrafish oocyte
+   maturation. The oocyte clearing documented by GAMMA is correlated to
+   changes in size distribution of major yolk proteins upon SDS-PAGE, and,
+   this in turn, is related to increased cyclin B-1 protein.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 1040-452X
+UT WOS:000242388100013
+ER
+
+PT J
+AU Lessman, CA
+   Kim, H
+TI Soluble tubulin complexes in oocytes of the common leopard frog, Rana
+   pipiens, contain gamma-tubulin
+SO MOLECULAR REPRODUCTION AND DEVELOPMENT
+VL 60
+IS 1
+BP 128
+EP 136
+DI 10.1002/mrd.1069
+PD SEP 2001
+PY 2001
+AB Oocytes of the leopard frog, Rana pipiens, contain soluble tubulin which
+   was previously shown to exist predominately in megadalton (MDa)
+   fractions and that fails to readily assemble in vitro. In order to
+   further characterize these tubulin complexes, DEAE Sepharose
+   chromatography, Sephacryl S-300 size exclusion columns and specific
+   immunoprecipitation were used. The results revealed the presence of
+   alpha-, beta-, and gamma -tubulin associated with several other proteins
+   in the soluble fraction of Rana pipiens ovarian oocytes. These Rana
+   oocyte tubulin complexes appear to be analogous to those recently
+   reported in Xenopus ovulated eggs as gamma -tubulin ring complexes. This
+   seems true since both size (estimates, i.e. similar to 2MDa) and protein
+   components are similar. Furthermore, both alpha- and gamma -tubulin
+   antibodies immunoprecipitated identical protein bands from Rana oocyte
+   soluble fraction. These putative Rana gamma -tubulin ring proteins
+   include 107, 97, 95, 90 and 75 kDa components which are similar in size
+   to those found in Xenopus and other species. Rana appears to belong to a
+   select group in which gamma -tubulin complexes contain significant
+   alpha- and beta -tubulin (i.e., Xenopus and sheep), while other species
+   such as Drosophila, Aspergillus, Saccharomyces, human cells and many
+   other mammalian cells tested lack the other tubulin components. The
+   heterogeneity in both size and protein components of Rana oocyte gamma
+   -tubulin ring complexes may reflect different states of tubulin complex
+   assembly. The lower vertebrate oocyte is hypothesized to act as a
+   repository and prestaging point for the assembly of gamma -tubulin ring
+   complexes which will become the maternal contribution to the centrosomes
+   of the embryo. While the gamma -tubulin ring complexes of vertebrate
+   eggs have been described previously, this is the first report
+   biochemically characterizing soluble gamma -tubulin complexes in
+   vertebrate ovarian oocytes.
+TC 7
+ZB 7
+Z8 0
+Z9 7
+SN 1040-452X
+UT WOS:000170321100015
+ER
+
+PT J
+AU Wang, T
+   Lessman, CA
+TI The major soluble tubulins are found in mega Dalton (MDa) fractions in
+   fully-grown oocytes and eggs but not in brain of the frog, Rana pipiens
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 118
+IS 2
+BP 421
+EP 430
+DI 10.1016/S0305-0491(97)00108-9
+PD OCT 1997
+PY 1997
+AB During progesterone-induced oocyte maturation, the cell is converted
+   from prophase I to metaphase II, which is known to involve microtubule
+   changes. We hypothesize that progesterone affects the polymeric state of
+   tubulins, isoform dynamics, as well as tubulin synthesis and
+   degradation. To test the former, leopard frog (Rana pipiens) oocytes
+   were treated with progesterone, homogenized and centrifuged at 16,000 x
+   g. The resulting pellet and supernatant fractions were analyzed using
+   immunoblots probed with anti-beta-tubulin antibody DM1A and
+   anti-beta-tubulin antibody DM1B. The results indicate that the majority
+   of tubulins are in supernatant fractions (soluble cellular component)
+   and further indicate changes in size of pelletable tubulins with time
+   post-progesterone treatment. To characterize the supernatant tubulins,
+   Superose-Gb columns were used to fractionate 16,000 x g supernatant
+   materials. The results indicate tubulins in fractions of up to 5 MDa
+   (equivalent in size to c. 50 tubulin dimers or 5,000 kDa) predominate,
+   while tubulin dimers and monomers of 110 kDa and 55 kDa, respectively,
+   are relatively minor components. The tubulin in MDa fraction pools in
+   the oocyte soluble component seem to be tissue specific, since the
+   reverse patterns were found in either frog brain or rat (Rattus
+   norvegicus) brain tissue under the same conditions. Microtubule poisons,
+   taxol and nocodazole, were used to test the dynamics of tubulin in MDa
+   fractions and the results were opposite to that expected, i.e., taxol, a
+   microtubule stabilizer, decreased tubulin in large MDa fractions while
+   nocodazole, a microtubule destabilizer, increased it. Preliminary data
+   also indicated that progesterone treatment alters the tubulin size
+   classes (size-shift) in comparison with that in immature oocytes. These
+   results, in combination with other research reports, suggest that
+   tubulin in MDa fractions may either be associated with other cellular
+   components or act as intermediates in microtubule dynamics, perhaps via
+   oligomerization, during oocyte maturation and early development. (C)
+   1997 Elsevier Science Inc.
+TC 3
+ZB 3
+Z8 0
+Z9 3
+SN 0305-0491
+UT WOS:A1997YJ80000024
+ER
+
+PT J
+AU Lessman, CA
+   Wang, T
+   Gara, DL
+   Woods, CW
+TI Microinjection of anti-alpha-tubulin antibody (DM1A) inhibits
+   progesterone-induced meiotic maturation and deranges the microtubule
+   array in follicle-enclosed oocytes of the frog, Rana pipiens
+SO ZYGOTE
+VL 5
+IS 1
+BP 83
+EP 95
+PD FEB 1997
+PY 1997
+AB Microinjection of anti-alpha-tubulin (Dm1A) inhibited
+   progesterone-induced meiotic maturation in large follicle-enclosed
+   oocytes of the frog, Rana pipiens. DM1A (46 nl; 10 mg/ml) injection
+   significantly increased the ED50 value for progesterone as determined by
+   germinal vesicle dissolution (GVD) bioassay. By contrast, low doses of
+   microinjected DM1A (46 nl; 2.5 mg/ml), anti-actin (clone KJ43A),
+   anti-cytokeratin (C-11), anti-intermediate filament antibody (IFA),
+   generic IgG (46 nl; 20 mg/ml) or sodium azide (46 nl; 1 mg/ml), an
+   antibody preservative, were without inhibitory effect in this bioassay.
+   Microinjected, affinity-purified DM1A (46 nl; 7.5 mg/ml) was also
+   inhibitory, but preabsorption with pure tubulin prior to injection
+   significantly reduced the inhibitory effect. DM1A injection had no
+   effect on centrifugation-induced germinal vesicle migration (GVM).
+   Previous work indicated that drugs (e.g. demecolcine and nocodazole),
+   which destabilise microtubules, enhance both centrifugation-induced GVM
+   and progesterone-induced GVD in Rana oocytes. Taking these results
+   together, it is suggested that DM1A injection may have differential
+   effects on microtubules in this cell. Thus, while the majority of
+   microtubules were apparently depolymerised by DM1A (46 nl; 10 mg/ml)
+   injection, a small subpopulation appeared to be stabilised as bundles.
+   Confocal immunofluorescence microscopy of follicle-enclosed oocytes
+   after DM1A injection revealed a major loss of microtubules throughout
+   the cell; however, apparent sparse bundles of microtubules arranged in
+   an approximately 600 mu m shell were associated with the injectate
+   region 24h post-injection. By contrast, control follicle-enclosed
+   oocytes topically labelled with DM1A post-fixation had extensive
+   microtubule arrays similar to those previously reported in Xenopus
+   oocytes. Intracellular recording after DM1A injection and progesterone
+   treatment yielded an intermediate membrane potential (V-m = -31.8 mV)
+   compared with control (immature) DM1A-injected cells (V-m = -44.7mV) or
+   potassium balanced salt solution (KBS)-injected cells matured with
+   progesterone (V-m = -13.9mV). These results suggest that DM1A injection
+   does not completely inhibit electrophysiological changes initiated by
+   progesterone. Working hypotheses are proposed that suggest a role for
+   microtubules in the action of progesterone which normally lifts the
+   prophase I block in the Rana follicle-enclosed oocyte.
+TC 1
+ZB 1
+Z8 0
+Z9 1
+SN 0967-1994
+UT WOS:A1997XK85300010
+ER
+
+PT J
+AU Ritke, Mark E.
+   Lessman, Charles A.
+TI Longitudinal study of ovarian dynamics in female gray treefrogs (Hyla
+   chrysoscelis).
+SO Copeia
+VL 4
+BP 1014
+EP 1022
+PD December 19 1994
+PY 1994
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0045-8511
+UT ZOOREC:ZOOR13100065343
+ER
+
+PT J
+AU COONS, LB
+   LESSMAN, CA
+   WARD, MW
+   BERG, RH
+   LAMOREAUX, WJ
+TI EVIDENCE OF A MYOEPITHELIAL CELL IN TICK SALIVARY-GLANDS
+SO INTERNATIONAL JOURNAL FOR PARASITOLOGY
+VL 24
+IS 4
+BP 551
+EP 562
+DI 10.1016/0020-7519(94)90147-3
+PD JUL 1994
+PY 1994
+AB Type III acini from feeding female Dermacentor variabilis varied in size
+   during in vitro and in vivo fluid production. As the type III acinus
+   enlarged, its lumen enlarged and the adlumenal cell became thinner. As
+   the acinus contracted, its lumen became smaller while the adlumenal cell
+   became wider. Actin was demonstrated in salivary glands using an
+   immunoblot technique. Actin was localized in the adlumenal cells of type
+   III acini with fluorescent microscopy using rhodamine-phalloidin and
+   with electron microscopy using heavy meromyosin to decorate actin
+   filaments. Pre-treatment of salivary glands with cytochalasin D
+   abolished fluorescence in adlumenal cells subsequently treated with
+   rhodamine-phalloidin. These results support the hypothesis that the
+   adlumenal cell in type III acini functions as a myoepithelial cell.
+TC 7
+ZB 6
+Z8 0
+Z9 7
+SN 0020-7519
+UT WOS:A1994NY68700012
+ER
+
+PT J
+AU Ritke, Mark E.
+   Lessman, Charles A.
+TI Longitudinal study of ovarian dynamics in female gray treefrogs (Hyla
+   chrysoscelis)
+SO Copeia
+VL 1994
+IS 4
+BP 1014
+EP 1022
+DI 10.2307/1446725
+PD 1994
+PY 1994
+AB Biopsies were performed to study the ovarian dynamics of a breeding
+   population of free-living female gray treefrogs, Hyla chrysoscelis, in
+   western Tennessee. This study used a longitudinal design in which
+   individual females were biopsied up to four separate times in the same
+   breeding season. All of the postspawning ovaries (n = 149) contained a
+   series of enlarged follicles (mean follicle diameter = 0.305 mm), a
+   condition that apparently facilitates repeated spawning during a
+   prolonged breeding season. The size-frequency distribution of follicles
+   remaining in the ovary after spawning was similar among all females
+   (unimodal between 0.10 and 0.30 mm diameter) indicating that
+   vitellogenic growth of this pool of follicles is slowed or arrested
+   while another series of larger follicles (those that will comprise the
+   next clutch) nears maturation. The average size of the follicles
+   remaining in the ovary after spawning was not correlated with female
+   body size, clutch number, time (month) during the breeding season, the
+   number of days since last oviposition, or the number of days it took
+   females to oviposit their next clutch. Thus, the ability to oviposit
+   more than one clutch in a breeding season may depend primarily on the
+   foraging success of females, an idea supported by the observation that
+   fat bodies were generally not available as an energy source for the
+   production of multiple clutches after the start of the breeding season.
+   Ovarian biopsies performed in Nov. on captive frogs indicated that
+   females may enter winter dormancy with or without enlarged ovaries, a
+   condition that may also depend on the nutritional condition of the
+   female.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0045-8511
+UT BIOABS:BACD199598090107
+ER
+
+PT J
+AU LESSMAN, CA
+   ZHANG, JS
+   MACRAE, TH
+TI POSTTRANSLATIONAL MODIFICATIONS AND ASSEMBLY CHARACTERISTICS OF GOLDFISH
+   TUBULIN
+SO BIOLOGY OF THE CELL
+VL 79
+IS 1
+BP 63
+EP 70
+DI 10.1016/0248-4900(93)90264-F
+PD 1993
+PY 1993
+AB Cell-free extracts from goldfish brain, ovarian follicles, testes and
+   the cell line, ATCC CCL-71, were analyzed for posttranslationally
+   modified tubulins. All samples, with the exception of that from brain
+   where the reverse was true, contained more tyrosinated than
+   detyrosinated alpha-tubulin. Additionally, extracts from brain and
+   testes exhibited acetylated alpha-tubulin whereas this isoform was not
+   visualized on blots of cell-free preparations from follicles and CCL-71
+   cells. Assembly of brain and ovary tubulin was induced with taxol. Brain
+   tubulin, partially purified through three cycles of assembly/disassembly
+   was associated with a variety of putative microtubule-associated
+   proteins (MAPs), most of which had a high molecular mass. There were
+   very few cold stable microtubules in brain preparations whereas, for
+   ovary, purification of tubulin was hampered by significant losses of
+   cold stable polymer. Comparison son of brain and ovary showed there was
+   no correlation between the extent of alpha-tubulin detyrosination or
+   acetylation and cold stability of microtubules. Moreover, cycled tubulin
+   from ovary contained acetylated tubulin even though this was not
+   observed on blots of cell-free extracts from ovary or from follicles.
+   Cultured goldfish cells contained extensive arrays of microtubules, many
+   of which originated from discrete organizing centers. The results reveal
+   the widespread distribution of posttranslationally modified tubulins in
+   goldfish tissues, the differing assembly/disassembly characteristics of
+   tubulin from brain versus ovary, and the presence of putative neural
+   MAPs, mostly with a high molecular mass.
+TC 5
+ZB 5
+Z8 0
+Z9 5
+SN 0248-4900
+UT WOS:A1993MQ45700009
+ER
+
+PT J
+AU LESSMAN, CA
+TI TAXOL-INDUCED ASSEMBLY OF BRAIN AND TESTIS TUBULINS, AND OVARIAN
+   FOLLICLE TUBULIN DYNAMICS IN THE FROG (GENUS-RANA), INVITRO
+SO COMPARATIVE BIOCHEMISTRY AND PHYSIOLOGY B-BIOCHEMISTRY & MOLECULAR
+   BIOLOGY
+VL 104
+IS 1
+BP 155
+EP 162
+DI 10.1016/0305-0491(93)90352-6
+PD JAN 1993
+PY 1993
+AB 1. Tubulins from brain and testes of the frog (genus Rana) were purified
+   by taxol and cyclic assembly-disassembly.
+   2. Attempts to purify ovarian tubulins by this same method were
+   unsuccessful.
+   3. Oocyte fractions isolated in microtubule-stabilizing detergent buffer
+   were analyzed by SDS-PAGE and Western blots were probed with monoclonal
+   antibodies to tubulins.
+   4. In the fully-grown ovarian follicle (diameter approx. 1.7 mm), the
+   majority of tubulin was present in the supernatant fraction.
+   5. Tubulin was routinely detected in the medium speed (16,000 g)
+   prophase I oocyte pellet.
+   6. Nocodazole treatment of ovarian follicles in vitro reduced the
+   pelletable tubulin detected, while taxol increased tubulin in the pellet
+   and decreased the supernatant tubulin.
+   7. These results indicate that taxol is useful in the purification of
+   brain and testes tubulin from Rana tissue; while oocyte tubulin appears
+   to respond to taxol in vivo, another method will be required for in
+   vitro assembly and purification of ovarian tubulin.
+TC 9
+ZB 7
+Z8 0
+Z9 9
+SN 0305-0491
+UT WOS:A1993KH78300023
+ER
+
+EF

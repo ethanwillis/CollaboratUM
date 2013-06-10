@@ -1,0 +1,507 @@
+﻿FN Thomson Reuters Web of Knowledge
+VR 1.0
+PT J
+AU Khan, Sanjoy K.
+   Xu, Haiyan
+   Ukai-Tadenuma, Maki
+   Burton, Brittany
+   Wang, Yongmei
+   Ueda, Hiroki R.
+   Liu, Andrew C.
+TI Identification of a Novel Cryptochrome Differentiating Domain Required
+   for Feedback Repression in Circadian Clock Function
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+VL 287
+IS 31
+BP 25917
+EP 25926
+DI 10.1074/jbc.M112.368001
+PD JUL 27 2012
+PY 2012
+AB Circadian clocks in mammals are based on a negative feedback loop in
+   which transcriptional repression by the cryptochromes, CRY1 and CRY2,
+   lies at the heart of the mechanism. Despite similarities in sequence,
+   domain structure, and biochemical activity, they play distinct roles in
+   clock function. However, detailed biochemical studies have not been
+   straightforward and Cry function has not been examined in real clock
+   cells using kinetic measurements. In this study, we demonstrate, through
+   cell-based genetic complementation and real-time molecular recording,
+   that Cry1 alone is able to maintain cell-autonomous circadian rhythms,
+   whereas Cry2 cannot. Using this novel functional assay, we identify a
+   cryptochrome differentiating alpha-helical domain within the photolyase
+   homology region (PHR) of CRY1, designated as CRY1-PHR(313-426), that is
+   required for clock function and distinguishes CRY1 from CRY2. Contrary
+   to speculation, the divergent carboxyl-terminal tail domain (CTD) is
+   dispensable, but serves to modulate rhythm amplitude and period length.
+   Finally, we identify the biochemical basis of their distinct function;
+   CRY1 is a much more potent transcriptional repressor than CRY2, and the
+   strength of repression by various forms of CRY proteins significantly
+   correlates with rhythm amplitude. Taken together, our results
+   demonstrate that CRY1-PHR(313-426), not the divergent CTD, is critical
+   for clock function. These findings provide novel insights into the
+   evolution of the diverse functions of the photolyase/cryptochrome family
+   of flavoproteins and offer new opportunities for mechanistic studies of
+   CRY function.
+TC 0
+ZB 0
+Z8 0
+Z9 0
+SN 0021-9258
+UT WOS:000306916300020
+ER
+
+PT J
+AU Marpegan, Luciano
+   Swanstrom, Adrienne E.
+   Chung, Kevin
+   Simon, Tatiana
+   Haydon, Philip G.
+   Khan, Sanjoy K.
+   Liu, Andrew C.
+   Herzog, Erik D.
+   Beaule, Christian
+TI Circadian Regulation of ATP Release in Astrocytes
+SO JOURNAL OF NEUROSCIENCE
+VL 31
+IS 23
+BP 8342
+EP 8350
+DI 10.1523/JNEUROSCI.6537-10.2011
+PD JUN 8 2011
+PY 2011
+AB Circadian clocks sustain daily oscillations in gene expression,
+   physiology, and behavior, relying on transcription-translation feedback
+   loops of clock genes for rhythm generation. Cultured astrocytes display
+   daily oscillations of extracellular ATP, suggesting that ATP release is
+   a circadian output. We hypothesized that the circadian clock modulates
+   ATP release via mechanisms that regulate acute ATP release from glia. To
+   test the molecular basis for circadian ATP release, we developed methods
+   to measure in real-time ATP release and Bmal1:: dLuc circadian reporter
+   expression in cortical astrocyte cultures from mice of different
+   genotypes. Daily rhythms of gene expression required functional Clock
+   and Bmal1, both Per1 and Per2, and both Cry1 and Cry2 genes. Similarly,
+   high-level, circadian ATP release also required a functional clock
+   mechanism. Whereas blocking IP(3) signaling significantly disrupted ATP
+   rhythms with no effect on Bmal1:: dLuc cycling, blocking vesicular
+   release did not alter circadian ATP release or gene expression. We
+   conclude that astrocytes depend on circadian clock genes and IP(3)
+   signaling to express daily rhythms in ATP release.
+TC 4
+ZB 4
+Z8 0
+Z9 4
+SN 0270-6474
+UT WOS:000291387200003
+ER
+
+PT J
+AU Ukai-Tadenuma, Maki
+   Yamada, Rikuhiro G.
+   Xu, Haiyan
+   Ripperger, Juergen A.
+   Liu, Andrew C.
+   Ueda, Hiroki R.
+TI Delay in Feedback Repression by Cryptochrome 1 Is Required for Circadian
+   Clock Function
+SO CELL
+VL 144
+IS 2
+BP 268
+EP 281
+DI 10.1016/j.cell.2010.12.019
+PD JAN 21 2011
+PY 2011
+AB Direct evidence for the requirement of delay in feedback repression in
+   the mammalian circadian clock has been elusive. Cryptochrome 1 (Cry1),
+   an essential clock component, displays evening-time expression and
+   serves as a strong repressor at morning-time elements (E box/E' box). In
+   this study, we reveal that a combination of day-time elements (D box)
+   within the Cry1-proximal promoter and night-time elements (RREs) within
+   its intronic enhancer gives rise to evening-time expression. A synthetic
+   composite promoter produced evening-time expression, which was further
+   recapitulated by a simple phase-vector model. Of note, coordination of
+   day-time with night-time elements can modulate the extent of phase
+   delay. A genetic complementation assay in Cry1(-/-):Cry2(-/-) cells
+   revealed that substantial delay of Cry1 expression is required to
+   restore circadian rhythmicity, and its prolonged delay slows circadian
+   oscillation. Taken together, our data suggest that phase delay in Cry1
+   transcription is required for mammalian clock function.
+TC 18
+ZB 17
+Z8 0
+Z9 18
+SN 0092-8674
+UT WOS:000286459900011
+ER
+
+PT J
+AU Zhang, Eric E.
+   Liu, Yi
+   Dentin, Renaud
+   Pongsawakul, Pagkapol Y.
+   Liu, Andrew C.
+   Hirota, Tsuyoshi
+   Nusinow, Dmitri A.
+   Sun, Xiujie
+   Landais, Severine
+   Kodama, Yuzo
+   Brenner, David A.
+   Montminy, Marc
+   Kay, Steve A.
+TI Cryptochrome mediates circadian regulation of cAMP signaling and hepatic
+   gluconeogenesis
+SO NATURE MEDICINE
+VL 16
+IS 10
+BP 1152
+EP U133
+DI 10.1038/nm.2214
+PD OCT 2010
+PY 2010
+AB During fasting, mammals maintain normal glucose homeostasis by
+   stimulating hepatic gluconeogenesis1. Elevations in circulating glucagon
+   and epinephrine, two hormones that activate hepatic gluconeogenesis,
+   trigger the cAMP-mediated phosphorylation of cAMP response
+   element-binding protein (Creb) and dephosphorylation of the
+   Creb-regulated transcription coactivator-2 (Crtc2)-two key
+   transcriptional regulators of this process(2). Although the underlying
+   mechanism is unclear, hepatic gluconeogenesis is also regulated by the
+   circadian clock, which coordinates glucose metabolism with changes in
+   the external environment(3-6). Circadian control of gene expression is
+   achieved by two transcriptional activators, Clock and Bmal1, which
+   stimulate cryptochrome (Cry1 and Cry2) and Period (Per1, Per2 and Per3)
+   repressors that feed back on Clock-Bmal1 activity. Here we show that
+   Creb activity during fasting is modulated by Cry1 and Cry2, which are
+   rhythmically expressed in the liver. Cry1 expression was elevated during
+   the night-day transition, when it reduced fasting gluconeogenic gene
+   expression by blocking glucagon-mediated increases in intracellular cAMP
+   concentrations and in the protein kinase A-mediated phosphorylation of
+   Creb. In biochemical reconstitution studies, we found that Cry1
+   inhibited accumulation of cAMP in response to G protein-coupled receptor
+   (GPCR) activation but not to forskolin, a direct activator of adenyl
+   cyclase. Cry proteins seemed to modulate GPCR activity directly through
+   interaction with G(s)alpha. As hepatic overexpression of Cry1 lowered
+   blood glucose concentrations and improved insulin sensitivity in
+   insulin-resistant db/db mice, our results suggest that compounds that
+   enhance cryptochrome activity may provide therapeutic benefit to
+   individuals with type 2 diabetes.
+TC 35
+ZB 30
+Z8 1
+Z9 36
+SN 1078-8956
+UT WOS:000282644800047
+ER
+
+PT J
+AU Ko, Caroline H.
+   Yamada, Yujiro R.
+   Welsh, David K.
+   Buhr, Ethan D.
+   Liu, Andrew C.
+   Zhang, Eric E.
+   Ralph, Martin R.
+   Kay, Steve A.
+   Forger, Daniel B.
+   Takahashi, Joseph S.
+TI Emergence of Noise-Induced Oscillations in the Central Circadian
+   Pacemaker
+SO PLOS BIOLOGY
+VL 8
+IS 10
+AR e1000513
+DI 10.1371/journal.pbio.1000513
+PD OCT 2010
+PY 2010
+AB Bmal1 is an essential transcriptional activator within the mammalian
+   circadian clock. We report here that the suprachiasmatic nucleus (SCN)
+   of Bmal1-null mutant mice, unexpectedly, generates stochastic
+   oscillations with periods that overlap the circadian range. Dissociated
+   SCN neurons expressed fluctuating levels of PER2 detected by
+   bioluminescence imaging but could not generate circadian oscillations
+   intrinsically. Inhibition of intercellular communication or cyclic-AMP
+   signaling in SCN slices, which provide a positive feed-forward signal to
+   drive the intracellular negative feedback loop, abolished the stochastic
+   oscillations. Propagation of this feed-forward signal between SCN
+   neurons then promotes quasi-circadian oscillations that arise as an
+   emergent property of the SCN network. Experimental analysis and
+   mathematical model ingargue that both intercellular coupling and
+   molecular noise are required for the stochastic rhythms, providing a
+   novel biological example of noise-induced oscillations. The emergence of
+   stochastic circadian oscillations from the SCN network in the absence of
+   cell-autonomous circadian oscillatory function highlights a previously
+   unrecognized level of circadian organization.
+TC 25
+ZB 22
+Z8 0
+Z9 25
+SN 1544-9173
+UT WOS:000283495100013
+ER
+
+PT J
+AU Zhang, Eric E.
+   Liu, Andrew C.
+   Hirota, Tsuyoshi
+   Miraglia, Loren J.
+   Welch, Genevieve
+   Pongsawakul, Pagkapol Y.
+   Liu, Xianzhong
+   Atwood, Ann
+   Huss, Jon W., III
+   Janes, Jeff
+   Su, Andrew I.
+   Hogenesch, John B.
+   Kay, Steve A.
+TI A Genome-wide RNAi Screen for Modifiers of the Circadian Clock in Human
+   Cells
+SO CELL
+VL 139
+IS 1
+BP 199
+EP 210
+DI 10.1016/j.cell.2009.08.031
+PD OCT 2 2009
+PY 2009
+AB Two decades of research identified more than a dozen clock genes and
+   defined a biochemical feedback mechanism of circadian oscillator
+   function. To identify additional clock genes and modifiers, we conducted
+   a genome-wide small interfering RNA screen in a human cellular clock
+   model. Knockdown of nearly 1000 genes reduced rhythm amplitude. Potent
+   effects on period length or increased amplitude were less frequent; we
+   found hundreds of these and confirmed them in secondary screens.
+   Characterization of a subset of these genes demonstrated a
+   dosage-dependent effect on oscillator function. Protein interaction
+   network analysis showed that dozens of gene products directly or
+   indirectly associate with known clock components. Pathway analysis
+   revealed these genes are overrepresented for components of insulin and
+   hedgehog signaling, the cell cycle, and the folate metabolism. Coupled
+   with data showing many of these pathways are clock regulated, we
+   conclude the clock is interconnected with many aspects of cellular
+   function.
+TC 53
+ZB 48
+Z8 0
+Z9 53
+SN 0092-8674
+UT WOS:000270388600027
+ER
+
+PT J
+AU Mirsky, Henry P.
+   Liu, Andrew C.
+   Welsh, David K.
+   Kay, Steve A.
+   Doyle, Francis J., III
+TI A model of the cell-autonomous mammalian circadian clock
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 106
+IS 27
+BP 11107
+EP 11112
+DI 10.1073/pnas.0904837106
+PD JUL 7 2009
+PY 2009
+AB Circadian timekeeping by intracellular molecular clocks is evident
+   widely in prokaryotes and eukaryotes. The clockworks are driven by
+   autoregulatory feedback loops that lead to oscillating levels of
+   components whose maxima are in fixed phase relationships with one
+   another. These phase relationships are the key metric characterizing the
+   operation of the clocks. In this study, we built a mathematical model
+   from the regulatory structure of the intracellular circadian clock in
+   mice and identified its parameters using an iterative evolutionary
+   strategy, with minimum cost achieved through conformance to phase
+   separations seen in cell-autonomous oscillators. The model was evaluated
+   against the experimentally observed cell-autonomous circadian phenotypes
+   of gene knockouts, particularly retention of rhythmicity and changes in
+   expression level of molecular clock components. These tests reveal
+   excellent de novo predictive ability of the model. Furthermore,
+   sensitivity analysis shows that these knockout phenotypes are robust to
+   parameter perturbation.
+TC 30
+ZB 27
+Z8 0
+Z9 30
+SN 0027-8424
+UT WOS:000267796100045
+ER
+
+PT J
+AU Hirota, Tsuyoshi
+   Lewis, Warren G.
+   Liu, Andrew C.
+   Lee, Jae Wook
+   Schultz, Peter G.
+   Kay, Steve A.
+TI A chemical biology approach reveals period shortening of the mammalian
+   circadian clock by specific inhibition of GSK-3 beta
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 105
+IS 52
+BP 20746
+EP 20751
+DI 10.1073/pnas.0811410106
+PD DEC 30 2008
+PY 2008
+AB The circadian clock controls daily oscillations of gene expression at
+   the cellular level. We report the development of a high-throughput
+   circadian functional assay system that consists of luminescent reporter
+   cells, screening automation, and a data analysis pipeline. We applied
+   this system to further dissect the molecular mechanisms underlying the
+   mammalian circadian clock using a chemical biology approach. We analyzed
+   the effect of 1,280 pharmacologically active compounds with diverse
+   structures on the circadian period length that is indicative of the core
+   clock mechanism. Our screening paradigm identified many compounds
+   previously known to change the circadian period or phase, demonstrating
+   the validity of the assay system. Furthermore, we found that small
+   molecule inhibitors of glycogen synthase kinase 3 (GSK-3) consistently
+   caused a strong short period phenotype in contrast to the well-known
+   period lengthening by lithium, another presumed GSK-3 inhibitor.
+   siRNA-mediated knockdown of GSK-3 beta also caused a short period,
+   confirming the phenotype obtained with the small molecule inhibitors.
+   These results clarify the role of GSK-3 beta in the period regulation of
+   the mammalian clockworks and highlight the effectiveness of chemical
+   biology in exploring unidentified mechanisms of the circadian clock.
+TC 50
+ZB 45
+Z8 0
+Z9 50
+SN 0027-8424
+UT WOS:000262092800034
+ER
+
+PT J
+AU Liu, Andrew C.
+   Tran, Hien G.
+   Zhang, Eric E.
+   Priest, Aaron A.
+   Welsh, David K.
+   Kay, Steve A.
+TI Redundant function of REV-ERB alpha and beta and non-essential role for
+   BMAL1 cycling in transcriptional regulation of intracellular circadian
+   rhythms
+SO PLOS GENETICS
+VL 4
+IS 2
+AR e1000023
+DI 10.1371/journal.pgen.1000023
+PD FEB 2008
+PY 2008
+AB The mammalian circadian clockwork is composed of a core PER/CRY feedback
+   loop and additional interlocking loops. In particular, the ROR/REV/Bmal1
+   loop, consisting of ROR activators and REV-ERB repressors that regulate
+   Bmal1 expression, is thought to "stabilize'' core clock function.
+   However, due to functional redundancy and pleiotropic effects of gene
+   deletions, the role of the ROR/REV/Bmal1 loop has not been accurately
+   defined. In this study, we examined cell-autonomous circadian
+   oscillations using combined gene knockout and RNA interference and
+   demonstrated that REV-ERB alpha and beta are functionally redundant and
+   are required for rhythmic Bmal1 expression. In contrast, the RORs
+   contribute to Bmal1 amplitude but are dispensable for Bmal1 rhythm. We
+   provide direct in vivo genetic evidence that the REV-ERBs also
+   participate in combinatorial regulation of Cry1 and Rorc expression,
+   leading to their phase-delay relative to Rev-erb alpha. Thus, the
+   REV-ERBs play a more prominent role than the RORs in the basic clock
+   mechanism. The cellular genetic approach permitted testing of the
+   robustness of the intracellular core clock function. We showed that
+   cells deficient in both REV-ERB alpha and beta function, or those
+   expressing constitutive BMAL1, were still able to generate and maintain
+   normal Per2 rhythmicity. Our findings thus underscore the resilience of
+   the intracellular clock mechanism and provide important insights into
+   the transcriptional topologies underlying the circadian clock. Since
+   REV-ERB function and Bmal1 mRNA/protein cycling are not necessary for
+   basic clock function, we propose that the major role of the
+   ROR/REV/Bmal1 loop and its constituents is to control rhythmic
+   transcription of clock output genes.
+TC 65
+ZB 58
+Z8 0
+Z9 65
+SN 1553-7390
+UT WOS:000255386100017
+ER
+
+PT J
+AU Liu, Andrew C.
+   Lewis, Warren G.
+   Kay, Steve A.
+TI Mammalian circadian signaling networks and therapeutic targets
+SO NATURE CHEMICAL BIOLOGY
+VL 3
+IS 10
+BP 630
+EP 639
+DI 10.1038/nchembio.2007.37
+PD OCT 2007
+PY 2007
+AB Virtually all cells in the body have an intracellular clockwork based on
+   a negative feedback mechanism. The circadian timekeeping system in
+   mammals is a hierarchical multi- oscillator network, with the
+   suprachiasmatic nuclei ( SCN) acting as the central pacemaker. The SCN
+   synchronizes to daily light- dark cycles and coordinates rhythmic
+   physiology and behavior. Synchronization in the SCN and at the
+   organismal level is a key feature of the circadian clock system. In
+   particular, intercellular coupling in the SCN synchronizes neuron
+   oscillators and confers robustness against perturbations. Recent
+   advances in our knowledge of and ability to manipulate circadian rhythms
+   make available cell- based clock models, which lack strong coupling and
+   are ideal for target discovery and chemical biology.
+TC 54
+ZB 48
+Z8 1
+Z9 55
+SN 1552-4450
+UT WOS:000249642700011
+ER
+
+PT J
+AU Liu, Andrew C.
+   Welsh, David K.
+   Ko, Caroline H.
+   Tran, Hien G.
+   Zhang, Eric E.
+   Priest, Aaron A.
+   Buhr, Ethan D.
+   Singer, Oded
+   Meeker, Kirsten
+   Verma, Inder M.
+   Doyle, Francis J., III
+   Takahashi, Joseph S.
+   Kay, Steve A.
+TI Intercellular coupling confers robustness against mutations in the SCN
+   circadian clock network
+SO CELL
+VL 129
+IS 3
+BP 605
+EP 616
+DI 10.1016/j.cell.2007.02.047
+PD MAY 4 2007
+PY 2007
+AB Molecular mechanisms of the mammalian circadian clock have been studied
+   primarily by genetic perturbation and behavioral analysis. Here, we used
+   bioluminescence imaging to monitor Per2 gene expression in tissues and
+   cells from clock mutant mice. We discovered that Per1 and Cry1 are
+   required for sustained rhythms in peripheral tissues and cells, and in
+   neurons dissociated from the suprachiasmatic nuclei (SCN). Per2 is also
+   required for sustained rhythms, whereas Cry2 and Per3 deficiencies cause
+   only period length defects. However, oscillator network interactions in
+   the SCN can compensate for Per1 or Cry1 deficiency, preserving sustained
+   rhythmicity in mutant SCN slices and behavior. Thus, behavior does not
+   necessarily reflect cell-autonomous clock phenotypes. Our studies reveal
+   previously unappreciated requirements for Per1, Per2, and Cry1 in
+   sustaining cellular circadian rhythmicity and demonstrate that SCN
+   intercellular coupling is essential not only to synchronize component
+   cellular oscillators but also for robustness against genetic
+   perturbations.
+TC 172
+ZB 155
+Z8 1
+Z9 176
+SN 0092-8674
+UT WOS:000246373600025
+ER
+
+EF
