@@ -34,10 +34,6 @@
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 		<link rel="stylesheet" href="../res/css/jquery-ui.css">
 		<style type="text/css">
-			body {
-				padding: 40px;
-			}
-			
 			#explorerTabContent {
 				height: 100% !important;
 			}

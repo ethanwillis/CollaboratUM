@@ -566,6 +566,9 @@
 		<!-- End Modals -->
 		
 		<!-- Begin load JS -->
+		<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
+        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
+        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
