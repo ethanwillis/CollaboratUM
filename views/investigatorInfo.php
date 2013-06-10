@@ -40,7 +40,7 @@
 	$institution = $row['institution'];
 	$fax = $row['fax_number'];
 	$department = $row['department'];
-	$picture_url = $row['picture'];
+	$picture_url = $row['picture_url'];
 	
 	// Get similarity data for histogram
 	mysql_select_db($dbNameNetwork) or die(mysql_error());
@@ -155,7 +155,7 @@
 								<div class="tab-pane fade active in" id="Profile">
 									<div class="media">
 							            <a class="pull-left" href="#">
-							            	<img class="media-object" data-src="<?php echo $baseURL.$picture_url; ?>" alt="64x64" style="width: 64px; height: 64px;" src="">
+							            	<img class="media-object" alt="<?php echo $name; ?>" style="width: 64px; height: 64px;" src="<?php echo $baseURL.$picture_url; ?>">
 							            </a>
 						            	<div class="media-body">
 								            <h4 class="media-heading"><a href=""><?php echo "<p class=\"text-center\">".$name."</p>"; ?></a><?php if( !(empty($title)) ){ echo "<small> - ".$title."</small>"; } ?></h4>
