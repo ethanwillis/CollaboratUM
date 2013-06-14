@@ -5,6 +5,6 @@
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
-	$baseURL = "http://projects.codemelody.com/Collaboratum"
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	
 ?>
