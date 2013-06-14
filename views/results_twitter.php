@@ -1,4 +1,7 @@
 <?php 
+	// load Configuration options
+	require_once("../config.php");
+	
     /*
 	 * Get the search query and the type of query.
 	 * 
