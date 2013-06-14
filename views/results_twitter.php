@@ -17,6 +17,7 @@
     $searchType = $_GET['searchType'];
 	$largestSimilarity = 0;
 	$unresolved;
+	$histogram;
 	
 	if( isset($_GET['exactSearch']) )
 	{
@@ -40,6 +41,7 @@
 			$unresolved = $queryResult;
 			$queryResult = resolveIDs( $queryResult );
         }
+		// TODO finish implementing histogram widget
 		// Otherwise we want to use Keyword search
         else
         {
@@ -47,6 +49,15 @@
             $queryResult = querySearchService("localhost", "50004", $query, $searchType);
             $queryResult = explode("\n", $queryResult);
 			$largestSimilarity = findLargestSimilarity( $queryResult );
+			if($exactSearch === "true" )
+			{
+				// pass the largest similarity from the keyword search
+				$histogram = generateHistogramData($queryResult, 0, $largestSimilarity);
+			}
+			else {
+				// the range of similarity scores for LSI is -1 to 1.
+				$histogram = generateHistogramData($queryResult, -1, 1);
+			}
 			$unresolved = $queryResult;
 			$queryResult = resolveIDs( $queryResult );
         }
@@ -58,6 +69,27 @@
     {
         echo "There was an error performing the search";
     }
+	
+	/*
+	 * $data is the array that contains scores.
+	 * $min is the minimum score that can be encountered.
+	 * $max is the maximum score that can be encountered.
+	 */ 
+	function generateHistogramData( $data, $min, $max )
+	{
+		// for each similarity score.
+		for($i = 0; $i < count($data) - 1; $i++)
+	    {
+	    	// get the similarity
+			$entry = explode(" ", $data[$i]);
+		    $name = "";
+			$entry = explode(" ", $data[count($entry)]);
+			$similarity = $entry[count($entry) - 1 ];
+			
+			// update the count depending on the range that $similarity falls into.
+	    }
+		return $largest + 0.5;
+	}
     
 	function findLargestSimilarity( $data )
 	{
@@ -78,7 +110,6 @@
 			 $entry = explode(" ", $data[$i]);
 		     $name = "";
 			 $entry = explode(" ", $data[count($entry)]);
-		     $score = $entry[count($entry) - 1 ];
 			 
 			
 			$similarity = $entry[count($entry) - 1 ];
@@ -460,7 +491,64 @@
 						
 						           			</div><!-- End results -->
 											<div class="tab-pane fade" id="statistics">
-												<h1>Histogram and other statistics widgets go here.</h1>
+												<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+												<script type="text/javascript">
+											      google.load("visualization", "1", {packages:["corechart"]});
+											      google.setOnLoadCallback(drawChart);
+											      function drawChart() {
+											        var data = new google.visualization.DataTable();
+											        data.addColumn('string', 'Similarity Range'); // Implicit domain label col.
+													data.addColumn('number', '# Entities');
+													data.addColumn({type: 'string', role: 'tooltip'});
+													
+													
+											        data.addRows([ 
+											          <?php
+											          	// if we are using LSI. Use 20 columns from -1 to 1
+											          	if($exactSearch === "false")
+														{
+												          	echo "['>=-1',  ".$histogram[0].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
+														          ['>0.9',  ".$histogram[1].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
+														          ['>0.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
+														          ['>0.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
+														          ['>0.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
+														          ['>0.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
+														          ['>0.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
+														          ['>0.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
+														          ['>0.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
+														          ['>0.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
+														          ['<0.1',  ".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
+														          ['<0.2',  ".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
+														          ['<0.3',  ".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
+														          ['<0.4',  ".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
+														          ['<0.5',  ".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
+														          ['<0.6',  ".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
+														          ['<0.7',  ".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
+														          ['<0.8',  ".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
+														          ['<0.9',  ".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
+														          ['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
+														}
+														// Otherwise using Keyword, use 20 columns from 0 to max.
+														else {
+															
+														}
+											          ?>
+											        ]);
+											
+											        var options = {
+											          title: 'Distribution of Related Entities',
+											          bar:  {groupWidth: "100%"},
+											          width: 600,
+											          height: 450,
+											          backgroundColor: {strokeWidth: 2, stroke: "#000"},
+											          hAxis: {title: 'Similarity',  titleTextStyle: {color: 'red'}}
+											        };
+											
+											        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+											        chart.draw(data, options);
+											      }
+											    </script>
+												<div id="chart_div" class="span11" style="width: 600px; height: 450px;"></div>
 											</div>
 										</div>
 						      		</div>
@@ -512,13 +600,45 @@
 				<h3 id="helpModalLabel">Help</h3>
 			</div>
 			<div class="modal-body">
-				<ul class="thumbnails">
-  				<li class="span4 center vspace-small">
-			    	<a href="#" class="thumbnail">
-			    	<img data-src="holder.js/360x270" alt="360x270" style="width: 360px; height: 270px;" src="data:image/png;base64,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">
-			    	</a>
-				</li>
-			</ul>
+				<b>Help Index</b>
+				<ul>
+					<li><a href="#help1">Search Interface - Overview</a></li>
+					<li><a href="#help2">Search Interface - Search Methods</a></li>
+					<li><a href="#help3">Search Interface - Filters</a></li>
+				</ul>
+				<br>
+				<br>
+				
+				<h3><a name="help1">Search Interface(Overview):</a></h3>
+				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface.png"><br>
+				
+				<p style="text-indent: 3em;">The search interface is the first way in which you'll interact with CollaboratUM. It has several components that allow you to specify what datasets you'd like to search and how you'd like to search them. The interface is composed of 2 drop down lists, a text input for entering queries, and a submit button. The first drop down list, labeled as "Keyword" by default, allows you to select your search method. The second drop down list, labeled as "Filter" by default, allows you to specify the datasets you'd like to search within. 
+				<br>
+				<br>
+				<h3><a name="help2">Search Interface (Search Methods):</a></h3>
+				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface2.png"><br>
+				<p>The search methods available at this time are a keyword search algorithm, and an LSI search algorithm.  What’s the difference between the two?</p>
+				<ul>
+					<li>Keyword Search - A keyword search is what most users will be familiar with. It looks for direct associations between a datum and the given keywords. This is done by measuring how frequently a keyword is seen within that datum. </li>
+					<li>LSI Search - A LSI(Latent Semantic Indexing) search differs from keyword search in that it looks for implied associations in a dataset using the given keyword(s). </li>
+				</ul>
+
+
+
+
+
+				<h3><a name="help3">Search Interface (Filters):</a></h3>
+				
+				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface3.png"><br>
+				<p style="text-indent: 3em;">As well as several searching methods there are several "filters" that can be applied. Filters basically allow you to specify what datasets you would like to limit your search to. Our current datasets include a list of Grants automatically pulled from the NIH, Biology classes at the University of Memphis, and a set of 57 Investigators and Faculty at University of Memphis. </p>
+				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, or Collaborators, or Classes that are relevant to your query. </p>
+				<p style="text-indent: 3em;">While selecting a single dataset or all datasets would be preferable in most cases, sometimes it will be desired to search a "mix-and-match" of different datasets. </p>
+				<p style="text-indent: 3em;">By clicking "Build Custom Filter" you can select any and all datasets you wish to search within. </p>
+				<br>
+				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface4.png">
+				<br>
+				<br>
+				<p style="text-indent: 3em;">Simply check the checkboxes next to the datasets you wish to include in your results and click "Close." The filter will then be applied and you can begin searching with it. </p>
 			</div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
