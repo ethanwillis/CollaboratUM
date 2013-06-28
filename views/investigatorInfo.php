@@ -1,6 +1,6 @@
 <?php
-	// load Configuration options
-	require_once("../config.php");
+		//import config file
+	include_once(__DIR__."../config.php");
 	
 	// get the ID for this grant
 	$id = $_GET['id'];
@@ -301,7 +301,7 @@
 											<div class="tab-pane fade active in" id="search">
 												<div class="span12 well">
 													<!-- Begin search widget -->
-													<form class="form-inline" action="/Collaboratum/views/results_twitter.php">
+													<form class="form-inline" action="/Collaboratum/views/results.php">
 														<div class="span11">
 															<div class="input-prepend input-append text-left">
 																<div class="btn-group">

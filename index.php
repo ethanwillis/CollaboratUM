@@ -1,6 +1,6 @@
 <?php
 	// load Configuration options
-	require_once("config.php");
+	include_once(__DIR__."/config.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -70,7 +70,7 @@
   						<img src="/Collaboratum/res/images/collaboratum_logo_dark.png" alt="CollaboratUM">
   					</div>
   					<div class="span10 center text-center well vspace-small alpha">
-						<form class="form-inline" action="/Collaboratum/views/results_twitter.php">
+						<form class="form-inline" action="/Collaboratum/views/results.php">
 							<div class="span11">
 								<div class="input-prepend input-append text-left">
 									<div class="btn-group">

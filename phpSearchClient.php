@@ -1,10 +1,12 @@
 <?php
-
+	//import config file
+	include_once(__DIR__."/config.php");
+	
 	 // get query
     $query = "cancer";
     echo "Query String: ".$query;
-    //$numRuns = $_GET['stressTest'];
-    $queryResult = querySearchService("localhost", "50005", $query, 0);
+	
+    $queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, 0);
     $queryResult = explode("\r\n", $queryResult);
 
     echo "<div id='lsi' style='float: left; border-width: 1px;'>numResults: ".count($queryResult)."<br>";
@@ -13,8 +15,8 @@
     {
     	$entry = explode(" ", $queryResult[$i]);
 
-    	mysql_connect("127.0.0.1", "root", "") or die(mysql_error());
-		mysql_select_db("collaboratum") or die(mysql_error());
+    	mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+		mysql_select_db($dbNameGeneral) or die(mysql_error());
 
 		// Retrieve all the data from the "example" table
 		$result = mysql_query("SELECT `investigator`.name FROM investigator WHERE `investigator`.investigator_id = ".$entry[0]."")
@@ -29,7 +31,7 @@
     }
     echo "</div>";
 
-    $queryResult = querySearchService("localhost", "50004", $query, 0);
+    $queryResult = querySearchService($keywdQueryHost, $keywdQueryPort, $query, 0);
     $queryResult = explode("\r\n", $queryResult);
     echo "<div id='keywd' style='float: left; border-width: 1px;'>numResults: ".count($queryResult)."<br>";
     for($i = 0; $i < count($queryResult); $i++)

@@ -4,7 +4,7 @@
 * This script takes search results and transforms them into a JSON data structure to be used by cytoscape.
 */
 
-// get a php imploded array seperated by ~
+// get a php imploded array separated by ~
 $queryTerm = $_POST['queryTerm'];
 $queryResult = explode("~", $_POST['queryResult']);
 $threshHold = $_POST['threshHold'];

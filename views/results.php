@@ -1,6 +1,6 @@
 <?php 
-	// load Configuration options
-	require_once("../config.php");
+	//import config file
+	include_once(__DIR__."../config.php");
 	
     /*
 	 * Get the search query and the type of query.
@@ -38,7 +38,7 @@
         if($exactSearch === "false")
         {
         	// connect to the LSI query service on port 50005 and query it.
-        	$queryResult = querySearchService("localhost", "50005", $query, $searchType);
+        	$queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
         	$queryResult = explode("\n", $queryResult);  
 			$largestSimilarity = 1;
 			$unresolved = $queryResult;
@@ -49,7 +49,7 @@
         else
         {
         	// connect to the Keyword query service on port 50004 and query it.
-            $queryResult = querySearchService("localhost", "50004", $query, $searchType);
+            $queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
             $queryResult = explode("\n", $queryResult);
 			$largestSimilarity = findLargestSimilarity( $queryResult );
 			if($exactSearch === "true" )
@@ -136,8 +136,8 @@
 	function resolveIDs( $unresolvedIDs )
 	{
 		// Now we connect to the Collaboratum database
-	        mysql_connect("localhost", "root", "baseg") or die(mysql_error());
-	        mysql_select_db("collaboratum") or die(mysql_error());
+	        mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+	        mysql_select_db($dbNameGeneral) or die(mysql_error());
 			
 		$resolvedIDs = array();
 		// for each line in $unresolvedIDs
@@ -209,7 +209,7 @@
             die("Couldn't create socket: [$errorcode] $errormsg \n");
         }
         
-        if(!socket_connect($sock , 'localhost' , $port))
+        if(!socket_connect($sock , $hostname, $port))
         {
             $errorcode = socket_last_error();
             $errormsg = socket_strerror($errorcode);
@@ -368,7 +368,7 @@
 											<div class="tab-pane fade" id="search">
 												<div class="span12 well">
 													<!-- Begin search widget -->
-													<form class="form-inline" action="/Collaboratum/views/results_twitter.php">
+													<form class="form-inline" action="/Collaboratum/views/results.php">
 														<div class="span11">
 															<div class="input-prepend input-append text-left">
 																<div class="btn-group">
@@ -902,33 +902,27 @@
         	{
         		if(filterType == 0)
         		{
-        			
         			$("#filterButton").text("Everything");
         			$("#filterType").val('0');
         		}
         		if(filterType == 1)
         		{
-        			
         			$("#filterButton").text("Grants");
         			$("#filterType").val('1');
         		}
         		if(filterType == 2)
         		{
-        			
         			$("#filterButton").text("Collaborators");
         			$("#filterType").val('2');
         		}
         		if(filterType == 3)
         		{
-        			
         			$("#filterButton").text("Classes");
         			$("#filterType").val('3');
         		}
         		if(filterType == 4)
         		{
-        			
         			$("#filterButton").text("Custom");
-        			
         			$('#customFilterModal').modal('show');
         		}
         	}
@@ -993,11 +987,11 @@
         		{
         			
         			$("#filterButton").text("Custom");
-				// Wipe the current filter and set all checkboxes to unchecked.
-				$("#filterType").val("");
-				// clear checboxes
-				clearCheckboxes();
-				// Show the modal to allow the client to build a new custom filter.				 
+					// Wipe the current filter and set all checkboxes to unchecked.
+					$("#filterType").val("");
+					// clear checboxes
+					clearCheckboxes();
+					// Show the modal to allow the client to build a new custom filter.				 
         			$("#customFilterModal").modal({
 					show: true,
 					keyboard: true
