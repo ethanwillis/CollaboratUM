@@ -1,16 +1,16 @@
 <?php
-		//import config file
-	include_once(__DIR__."../config.php");
+	//import config file
+	include_once("../config.php");
 	
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
 	// Connect to database
-	mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-	mysql_select_db($dbNameGeneral) or die(mysql_error());
+	$con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+	mysql_select_db($dbNameGeneral, $con) or die(mysql_error());
 	
 	// Get the investigator's name, phone number, email, office, city, and state.
-	$query = "SELECT I.name, I.title, Ph.phone_number, E.email_address, 
+	$query = "SELECT I.first_name, I.last_name, I.title, Ph.phone_number, E.email_address, 
 		L.city, L.address, L.state, L.country, L.zipcode, L.office, L.institution, F.fax_number, D.department, 
 		Pi.picture_url FROM investigator as I 
 		LEFT JOIN phone_number AS Ph ON Ph.investigator_id = ".$id." 
@@ -27,7 +27,8 @@
 	$row = mysql_fetch_array($queryResult);
 	
 	// Store the profile data from the mysql query.
-	$name = $row['name'];
+	$first_name = $row['first_name'];
+	$last_name = $row['last_name'];
 	$title = $row['title'];
 	$phone = $row['phone_number'];
 	$email = $row['email_address'];
@@ -86,12 +87,26 @@
 		<link href="../res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 		<link rel="stylesheet" href="../res/css/jquery-ui.css">
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
+		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
+		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 		<style type="text/css">
 			#explorerTabContent {
 				height: 100% !important;
 			}
 		</style>
 		<link rel="stylesheet" href="../res/css/index.css">
+		<script>
+		  $(function() {
+		    $( "#publication_list" ).accordion({
+		    	heightStyle: "content",
+		    	collapsilbe: true
+		    });
+		  });
+		 </script>
 	</head>
 	<body>
 		
@@ -155,10 +170,10 @@
 								<div class="tab-pane fade active in" id="Profile">
 									<div class="media">
 							            <a class="pull-left" href="#">
-							            	<img class="media-object" alt="<?php echo $name; ?>" style="width: 64px; height: 64px;" src="<?php echo $baseURL.$picture_url; ?>">
+							            	<img class="media-object" alt="<?php echo $first_name." ".$last_name; ?>" style="width: 64px; height: 64px;" src="<?php echo $baseURL.$picture_url; ?>">
 							            </a>
 						            	<div class="media-body">
-								            <h4 class="media-heading"><a href=""><?php echo "<p class=\"text-center\">".$name."</p>"; ?></a><?php if( !(empty($title)) ){ echo "<small> - ".$title."</small>"; } ?></h4>
+								            <h4 class="media-heading"><a href=""><?php echo "<p class=\"text-center\">".$first_name." ".$last_name."</p>"; ?></a><?php if( !(empty($title)) ){ echo "<small> - ".$title."</small>"; } ?></h4>
 								            <address>
 							            		<?php
 							            			// show the institution and department only if that information is available.
@@ -216,7 +231,131 @@
 						            </div>
 								</div>
 								<div class="tab-pane fade" id="Publications">
-									<h1> Publications will be listed here </h1>
+									<!-- TODO insert js for accordion in head -->
+									<div id="publication_list">
+									<?php
+										$result = mysql_query( "SELECT collaboratum.publication_information.publication_id FROM collaboratum.publication_information WHERE collaboratum.publication_information.investigator_id = ".$id." GROUP BY collaboratum.publication_information.publication_id") or die(mysql_error());
+
+										for($i = 0; $i < mysql_num_rows($result); $i++)
+										{
+											$row = mysql_fetch_array($result);
+											
+											$publicationInfo = getPubInfo($row['publication_id']);
+											
+											$authorText = "";
+											foreach( $publicationInfo['authors'] as $author )
+											{
+												$authorText .= $author."<br>";
+											}
+											
+											$publication = "<h3>". $publicationInfo['TI'] ."</h3><div>
+													<table>
+													<td>
+													
+													
+													<tr>
+														<b><em>Journal: </em></b>
+															".$publicationInfo['JT']."
+													</tr>
+													<br>
+													<tr>
+														<b><em>DOI Link: </em></b>
+															<a href=http://dx.doi.org/".$publicationInfo['DI'].">".$publicationInfo['DI']."<i class=\"icon-share-alt\"></i></a>
+													</tr>
+													<br>
+													<tr>
+														<b><em>PMID: </em></b>
+															".$publicationInfo['PMID-']."
+													</tr>
+													<br>
+													<tr>
+													<b><em>Authors: </em></b>
+															".$authorText."
+											
+													</tr>
+													<tr>
+														<b><em>Publication Date: </em></b>
+															".$publicationInfo['PD']."
+													</tr>
+													<br>
+													<tr>
+														<b><em>Publication Year: </em></b>
+															".$publicationInfo['PY']."
+													</tr>
+													<br>
+													<tr>
+														<b><em>Copyright Information: </em></b>
+															".$publicationInfo['CI']."
+													</tr>
+													
+													<br>
+													<tr>
+													<b><em>Abstract: </em></b>
+															".$publicationInfo['AB']."
+													</tr>
+													<br>
+													
+													</td>
+													</table>
+											</div>";
+											echo $publication;
+										}
+										
+										function getPubInfo($pubId)
+										{
+											$info = array();
+											$sqlGetSingular = "SELECT collaboratum.publication_information.field_value, collaboratum.publication_information.medline_field FROM collaboratum.publication_information WHERE (collaboratum.publication_information.medline_field = 'AB' OR collaboratum.publication_information.medline_field = 'TI' OR collaboratum.publication_information.medline_field = 'CI' OR collaboratum.publication_information.medline_field = 'PY' OR collaboratum.publication_information.medline_field = 'PD' OR collaboratum.publication_information.medline_field = 'JT' OR collaboratum.publication_information.medline_field = 'PMID-' OR collaboratum.publication_information.medline_field = 'DI') AND collaboratum.publication_information.publication_id = ".$pubId;
+											//echo $sqlGetSingular;
+											$result = mysql_query( $sqlGetSingular ) or die(mysql_error());
+											
+											for( $i = 0; $i < mysql_num_rows($result); $i++ )
+											{
+			
+												$row = mysql_fetch_array($result);
+												if($row['medline_field'] === 'AB'){
+													$info['AB'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'TI'){
+													$info['TI'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'CI'){
+													$info['CI'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'PY'){
+													$info['PY'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'PD'){
+													$info['PD'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'JT'){
+													$info['JT'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'PMID-'){
+													$info['PMID-'] = $row['field_value'];
+												}
+												else if($row['medline_field'] === 'DI'){
+													$info['DI'] = $row['field_value'];
+												}
+											}
+											
+											$sqlAuthors = "SELECT collaboratum.publication_information.field_value FROM collaboratum.publication_information WHERE collaboratum.publication_information.medline_field = 'AU' AND collaboratum.publication_information.publication_id = ".$pubId;
+											$result = mysql_query ( $sqlAuthors );
+											$authors = array();
+											for( $i = 0; $i < mysql_num_rows($result); $i++ )
+											{
+												$row = mysql_fetch_array($result);
+												$authors[$i] = $row['field_value'];
+											}
+											$info['authors'] = $authors;
+
+											return $info;
+										}
+										
+											
+										
+									?>
+									</div>
+									
 								</div>
 								<div class="tab-pane fade" id="ResearchNetwork">
 									<h1> Research Network will be displayed here </h1>
@@ -482,12 +621,6 @@
 		<!-- End Modals -->
 		
 		<!-- Begin load JS -->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
-		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
-		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
-		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
-		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 		
 		<script type="text/javascript" charset="utf-8">
 			$(function(){ $("label").inFieldLabels(); });

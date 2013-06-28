@@ -1,13 +1,13 @@
 <?php
 	//import config file
-	include_once(__DIR__."/config.php");
+	include_once("../config.php");
 
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
 	// Connect to database
-	mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-	mysql_select_db($dbNameGeneral) or die(mysql_error());
+	$con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+	mysql_select_db($dbNameGeneral, $con) or die(mysql_error());
 	
 	// Get the agency, guidelink, purpose, section1, and title
 	$resolvedID = mysql_query("SELECT `grant_information`.agency, `grant_information`.guidelink, `grant_information`.purpose, `grant_information`.section1, `grant_information`.title, `grant_information`.expiry_date, `grant_information`.posted_date, `grant_information`.open_date FROM grant_information WHERE `grant_information`.grant_id = ".$id."")

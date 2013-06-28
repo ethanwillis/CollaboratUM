@@ -1,6 +1,6 @@
 <?php 
 	//import config file
-	include_once(__DIR__."../config.php");
+	include_once("../config.php");
 	
     /*
 	 * Get the search query and the type of query.
@@ -42,7 +42,7 @@
         	$queryResult = explode("\n", $queryResult);  
 			$largestSimilarity = 1;
 			$unresolved = $queryResult;
-			$queryResult = resolveIDs( $queryResult );
+			$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
         }
 		// TODO finish implementing histogram widget
 		// Otherwise we want to use Keyword search
@@ -62,7 +62,7 @@
 				$histogram = generateHistogramData($queryResult, -1, 1);
 			}
 			$unresolved = $queryResult;
-			$queryResult = resolveIDs( $queryResult );
+			$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
         }
 		
 		
@@ -133,11 +133,11 @@
 	 * $unresolvedIDs: This is an array that contains all of the IDs from the query service
 	 * that need to be resolved into names using the Collaboratum database.
 	*/
-	function resolveIDs( $unresolvedIDs )
+	function resolveIDs( $unresolvedIDs, $dbHost, $dbUser, $dbPass )
 	{
 		// Now we connect to the Collaboratum database
-	        mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-	        mysql_select_db($dbNameGeneral) or die(mysql_error());
+		
+	    $con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
 			
 		$resolvedIDs = array();
 		// for each line in $unresolvedIDs
@@ -168,14 +168,14 @@
 		}
 		$entry = array_values($entry);
 
-	        $resolvedID = mysql_query("SELECT `investigator`.name, `investigator`.type FROM investigator WHERE `investigator`.investigator_id = ".$entry[0]."")
+	        $resolvedID = mysql_query("SELECT collaboratum.investigator.first_name, collaboratum.investigator.type FROM collaboratum.investigator WHERE collaboratum.investigator.investigator_id = ".$entry[0]."")
 	        or die(mysql_error());  
 	
 			// Then we take the results from the database and store them in
 	        $row = mysql_fetch_array( $resolvedID);
 	        // Then we overwrite the id with the textual name from the database.
 		$entry[2] = $entry[0];  
-	        $entry[0] = $row['name'];
+	        $entry[0] = $row['first_name'];
 		// also store the type
 		$entry[3] = $row['type'];
 	        $resolvedIDs[$i] = implode("`", $entry);
@@ -303,17 +303,17 @@
 							    </a>
 							    <ul class="dropdown-menu">
 							    	<li>
-							    		<a href="#">
+							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
 							    			Biology 
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="#">
+							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
 							    			Chemistry
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="#">
+							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
 							    			Biomedical Engineering
 							    		</a>
 							    	</li>

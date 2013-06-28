@@ -4,17 +4,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="../res/css/sidebar_container.css"/>
-        <link rel="stylesheet" type="text/css" href="../res/css/style.css"/>
-        <link rel="stylesheet" type="text/css" href="../res/css/cytoscape_web.css"/>
-        <link rel="stylesheet" type="text/css" href="../res/css/um-theme/jquery-ui-1.9.0.custom.css"/>
-        <script src="/Collaboratum/res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
-        <script src="/Collaboratum/res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
-
+       
         
         <script type="text/javascript"> <!-- start of Cytoscape Graph Data -->
             window.onload = function() {

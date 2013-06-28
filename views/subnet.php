@@ -1,4 +1,103 @@
+
 <?php
+        //import config file
+        include_once("../config.php");
+?>
+ <?php
+               
+        			// Get the indices of the ids to use
+                   $startId = $_GET['startId'];
+				   $endId = $_GET['endId'];
+				   $title = $_GET['title'];
+                                
+                                $simMatrix = array( array() );
+                                $names = array();
+                                
+                                $numElements = ($endId - $startId) + 1;
+                        
+                                $idList = range($startId, $endId, 1);
+                                        
+                                // generate the sql statement to fetch a 2d array of sim values.
+                                $sql = "SELECT ";
+                                $sqlNames = "SELECT collaboratum.investigator.first_name, collaboratum.investigator.last_name FROM collaboratum.investigator WHERE";
+                                foreach( $idList as $id ) {
+                                        if($id == end($idList)) {
+                                                $sql .= "parsingdata.doc_pairwise_cosine_matrix.col".$id;
+                                                $sqlNames .= " collaboratum.investigator.investigator_id=".$id;
+                                                
+                                        }
+                                        else {
+                                                $sql .= "parsingdata.doc_pairwise_cosine_matrix.col".$id.", ";
+                                                $sqlNames .= " collaboratum.investigator.investigator_id=".$id." OR ";
+                                        }
+                                }
+                                $sql .= " FROM parsingdata.doc_pairwise_cosine_matrix LIMIT ".$startId.", ".$endId;
+                                
+                                $con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+                                
+                                $sqlResult = mysql_query($sql);
+                                
+                                $threshold = 0;
+                                // fetch similarity matrix
+                                // for each row
+                                for( $i = 0; $i < $numElements; $i++ ) {
+                                        // fetch the row
+                                        $row = mysql_fetch_array($sqlResult);
+                                        // for each column
+                                        for( $j = 0; $j < $numElements; $j++ ) {
+                                        		
+                                                // Assign this to the appropriate 2d array slot
+                                                $simMatrix[$i][$j] = $row[$j];
+												if( $j > $i ) {
+                                        			$threshold += $simMatrix[$i][$j];
+                                        		}
+                                        }
+                                }
+                                // calculate threshold
+                                $threshold = 1.68 * ( $threshold / ( (($numElements*$numElements) - $numElements) / 2));
+								
+								
+                                // fetch names of investigaors
+                                $sqlResult = mysql_query($sqlNames);
+                                for( $i = 0; $i < $numElements; $i++ ) {
+                                        // fetch row and name of investigator
+                                        $row = mysql_fetch_array($sqlResult);
+                                        $names[$i] = $row[0]." ".$row[1];
+                                }
+                                
+                          
+                                
+                                // build graph data list.
+                                $nodeList = "nodes: [ ";
+                                foreach( $names as $name )
+                                {
+                                        if($name == end($names)) {
+                                                $nodeList .= " {id: \"".$name."\"}";
+                                        }
+                                        else {
+                                                $nodeList .= " {id: \"".$name."\"},";
+                                        }
+                                }
+                                $nodeList .= " ], ";
+                                $edgeList = "edges: [ ";
+                                // for each row in sim matrix
+                                for($i = 0; $i < $numElements; $i++) {
+                                        // for each relevant column in sim matrix
+                                        for($j = $i + 1; $j < $numElements; $j++) {
+                                        		if($simMatrix[$i][$j] >= $threshold){
+                                                	$edgeList .= "{id: \"".$i."\", target: \"".$names[$j]."\", source: \"".$names[$i]."\"}, ";
+                                        
+												}
+										}
+                                }
+                                $edgeList .= "]}};";
+                                
+                                $network_json = $nodeList.$edgeList;
+                          		 
+                                
+                            
+        ?>
+        <?php
 	//import config file
 	include_once("config.php");
 ?>
@@ -8,9 +107,73 @@
 		<title>Collaboratum Home</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- Bootstrap -->
-		<link href="res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
-		<link href="res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-		<link rel="stylesheet" href="res/css/index.css">
+		<link href="../res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+		<link rel="stylesheet" href="../res/css/index.css">
+		 <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="../res/css/cytoscape_web.css"/>
+        <script src="/Collaboratum/res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
+        <script src="/Collaboratum/res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
+        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
+        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
+
+		
+		<script type="text/javascript"> <!-- start of Cytoscape Graph Data -->
+            window.onload = function() {
+                // id of Cytoscape Web container div
+                var div_id = "cytoscapeweb";
+
+                var network_json = {
+                        // NOTE the parent attribute
+                        data: {<?php echo $network_json; ?>
+                            
+
+                // NOTE the "compound" prefix in some visual properties
+                var visual_style = {
+                    nodes: {
+                        shape: "ELLIPSE",
+                        label: { passthroughMapper: { attrName: "id" } } ,
+                        compoundLabel: { passthroughMapper: { attrName: "id" } } ,
+                        borderWidth: 2,
+                        compoundBorderWidth: 1,
+                        borderColor: "#83959d",
+                        compoundBorderColor: "#999999",
+                        size: 40,
+                        color: "#ffffff", // #ff6666
+                        compoundColor: "#eaeaea"
+                    }
+                };
+
+                // initialization options
+                var options = {
+                    swfPath: "/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
+                    flashInstallerPath: "/Collaboratum/res/cytoscape/swf/playerProductInstall"
+                };
+
+                var vis = new org.cytoscapeweb.Visualization(div_id, options);
+
+                vis.ready(function() {
+                    // set the style programmatically
+                    document.getElementById("layout").onclick = function(){
+                        vis.layout("CompoundSpringEmbedder");
+                    };
+                });
+
+                var draw_options = {
+                    // your data goes here
+                    network: network_json,
+                    // this is the best layout to use when the network has compound nodes 
+                    layout: "CompoundSpringEmbedder",
+                    // set the style at initialisation
+                    visualStyle: visual_style,
+                    // hide pan zoom
+                    panZoomControlVisible: true 
+                };
+
+                vis.draw(draw_options);
+            };
+         </script> <!-- End of Cytoscape graph data -->
 	</head>
 	<body>
 		
@@ -22,7 +185,7 @@
 					<div class="navbar-inner">
 						<a class="brand" href="#">Collaboratum</a>
 						<ul class="nav">
-							<li class="active">
+							<li class="">
 								<a href="/Collaboratum/index.php">Home</a>
 							</li>
 							<li class="divider-vertical"></li>
@@ -65,51 +228,18 @@
 				<!-- End Nav -->
 			</div>
   			<div class="span12 alpha">
-  				<div class="span8 center vspace-normal">
-  					<div class="span10 center text-center">
-  						<img src="/Collaboratum/res/images/collaboratum_logo_dark.png" alt="CollaboratUM">
-  					</div>
-  					<div class="span10 center text-center well vspace-small alpha">
-						<form class="form-inline" action="/Collaboratum/views/results.php">
-							<div class="span11">
-								<div class="input-prepend input-append text-left">
-									<div class="btn-group">
-								    	<button id="searchTypeButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-								      		Keyword
-								      		<span class="caret"></span>
-								    	</button>
-								    	<ul class="dropdown-menu">
-								   
-								      		<li><a tabindex="-1" href="#" onclick="selectSearch(0);" data-toggle="tooltip" data-placement="right" title="LSI is a more abstract search that provides results which are conceptually similar">LSI Search</a></li>
-								      		<li><a tabindex="-1" href="#" onclick="selectSearch(1);" data-toggle="tooltip" data-placement="right" title="Keyword search provides more 'concrete' results than LSI">Keyword Search(Default)</a></li>
-								      		
-								    	</ul>
-								    </div>
-								    
-									<input name="searchBox" type="text" class="input-xlarge" placeholder="Enter your Query..">
-									
-									<div class="btn-group">
-								    	<button id="filterButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-								      		Filter
-								      		<span class="caret"></span>
-								    	</button>
-								    	<ul class="dropdown-menu">
-								    		<li><a tabindex="-1" href="#" onclick="selectFilter(0);">Everything(Default)</a></li>
-								      		<li><a tabindex="-1" href="#" onclick="selectFilter(1);">Grants Only</a></li>
-								      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Collaborators Only</a></li>
-								      		<li><a tabindex="-1" href="#" onclick="selectFilter(3);">Classes Only</a></li>
-								      		<li class="divider"></li>
-								      		<li><a tabindex="-1" href="#" onclick="selectFilter(4);" data-toggle="modal" data-target="#customFilterModal">Build Custom Filter</a></li>
-								    	</ul>
-								    </div>
-									<input id="searchType" type="hidden" name="exactSearch" value="true"> Keyword Search
-	                    			<input id="filterType" type="hidden" name="searchType" value="0"> 
-	                    			<input id="isFlashEnabled" name="isFlashEnabled" type="hidden" value="">
-								</div>
-							    <button type="submit" class="btn btn-primary">Search!</button> 
+  				<div class="span10 well center vspace-normal">
+						<center>
+								<?php
+									if(isset($title))
+									{
+										echo "<h1>".$title." Network View </h1> computed threshold: ".$threshold;
+									}
+								?>
+							<div id="cytoscapeweb">
+								Cytoscape Web will replace the contents of this div with your graph.
 							</div>
-						</form>
-					</div>
+						</center>
   				</div>
   			</div>
 		</div>
@@ -242,24 +372,11 @@
 		
 		<!-- Begin load JS -->
 		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="res/bootstrap/js/bootstrap.min.js"></script>   
-		<script src="res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
-		<script src="res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
-		<script src="res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
+		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
+		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
 		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-		<script type="text/javascript" charset="utf-8">
-			$(function(){ $("label").inFieldLabels(); });
-			$(function(){
-				var availableTags = [
-					"cancer",
-					"breast",
-					"reelin"
-				];
-				$( "#searchBox" ).autocomplete({
-					source: availableTags
-				});
-			});
-		</script>
 		<script type="text/javascript">
 	        /*
 	        * This script determines if flash is installed
@@ -279,147 +396,6 @@
 	                $("#isFlashEnabled").val("false");
 	        }
         </script>
-        <script type="text/javascript">
-        	/*
-        	 * This script updates the search type to be used
-        	 */
-        	function selectSearch( searchType )
-        	{
-        		// Do LSI Search if search type is 0
-        		if(searchType == 0)
-        		{
-        			$("#searchType").val('false');
-        			$("#searchTypeButton").text("LSI");
-        		}
-        		//If search type is 1 do Keyword search
-        		else if(searchType == 1)
-        		{
-        			$("#searchType").val('true');
-        			$("#searchTypeButton").text("Keyword");
-        		}
-        	}
         
-        	/*
-        	 * This script updates the filter to be applied to the search.
-        	 * It does this by modifying a hidden input on the search <form>
-        	 * 
-        	 * filterType = 0 : Everything will be returned in search results
-        	 * filterType = 1 : Only grants will be returned in search results
-        	 * filterType = 2 : Only collaborators will be returned in search results
-        	 * filterType = 3 : Only classes will be returned in search results
-        	 * filterType = 4 : A custom search filter has been applied to search results
-        	 */
-        	function selectFilter( filterType )
-        	{
-        		if(filterType == 0)
-        		{
-        			
-        			$("#filterButton").text("Everything");
-        			$("#filterType").val('0');
-        		}
-        		if(filterType == 1)
-        		{
-        			
-        			$("#filterButton").text("Grants");
-        			$("#filterType").val('1');
-        		}
-        		if(filterType == 2)
-        		{
-        			
-        			$("#filterButton").text("Collaborators");
-        			$("#filterType").val('2');
-        		}
-        		if(filterType == 3)
-        		{
-        			
-        			$("#filterButton").text("Classes");
-        			$("#filterType").val('3');
-        		}
-        		if(filterType == 4)
-        		{
-        			
-        			$("#filterButton").text("Custom");
-				// Wipe the current filter and set all checkboxes to unchecked.
-				$("#filterType").val("");
-				// clear checboxes
-				clearCheckboxes();
-				// Show the modal to allow the client to build a new custom filter.				 
-        			$("#customFilterModal").modal({
-					show: true,
-					keyboard: true
-				});
-        		}
-			verifyFilter();
-        	}
-
-		function clearCheckboxes()
-		{
-			$("#customFilterGrant").prop("checked", false);
-			$("#customFilterCollaborator").prop("checked", false);
-			$("#customFilterClasses").prop("checked", false);
-		}
-
-		// create a customFilter
-		function customFilter( obj, additionalFilter )
-		{
-
-			// Initialize the current filter.
-			var curFilter = "";
-			// append each checkbox if checked
-			if( $("#customFilterGrant").is(":checked") )
-			{
-				curFilter = curFilter + '1';
-			}
-			if( $("#customFilterCollaborator").is(":checked") )
-			{
-				if(curFilter === "")
-				{
-					curFilter = curFilter + '2';
-				}
-				else
-				{
-					curFilter = curFilter + ',' + '2';
-				}
-			}
-			if( $("#customFilterClasses").is(":checked") )
-			{
-				if(curFilter === "")
-				{
-					curFilter = curFilter + '3';
-				}
-				else
-				{
-					curFilter = curFilter + ',' + '3';
-				}
-			}
-			$("#filterType").val(curFilter);
-		}
-
-		// verify that the current filter is valid, and if not attempt to fix it.
-		function verifyFilter()
-		{
-			// TODO do validation checking using a finite state machine.
-			var curFilter = $("#filterType").val();
-			
-			// the filter is not allowed to be empty, default to 0, update UI, and issue warning.
-			if( curFilter === "" )
-			{
-				$("#filterType").val("0");	
-				$("#filterButton").val("Everything");			
-				alert("An invalid search filter has been detected. This search has been reset to search Everything.");	
-			}
-			// do a basic check to see if there are any invalid characters present in the filter string
-			for( var i = 0; i < curFilter.length(); i++)
-			{
-				// if an error is detected default to everything and break out of loop.
-				if( curFilter.charat(i) != '0' || curFilter.charAt(i) != '1' || curFilter.charAt(i) != '2' || curFilter.charAt(i) != '3' || curFilter.charAt!= ',') 
-				{
-					$("#filterType").val("0");
-					$("#filterButton").val("Everything");
-					alert("An invalid search filter has been detected. This search has been reset to search Everything.");
-				}
-			}	
-		}
-        </script>
 	</body>
 </html>
