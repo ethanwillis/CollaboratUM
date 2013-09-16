@@ -1,7 +1,7 @@
 <?php
 
-    /*$dbHost = "127.0.0.1";
-	$dbUser = "collaboratum";
+    $dbHost = "127.0.0.1";
+	$dbUser = "root";
 	$dbPass = "baseg";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
@@ -12,11 +12,11 @@
 	$lsiQueryPort = "50005";
 	
 	$keywdQueryHost = "localhost";
-	$keywdQueryPort = "50004";*/
+	$keywdQueryPort = "50004";
 	
-	// binf1 settings
-	$dbUser = "collaboratum";
-	$dbPass = "collaboratum";
+	/*binf1 settings
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
@@ -27,5 +27,7 @@
 	
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
+	 * */
+	 
 	
 ?>

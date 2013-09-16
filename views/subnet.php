@@ -1,7 +1,19 @@
 
 <?php
         //import config file
-        include_once("../config.php");
+        //include_once("../config.php");
+        $dbUser = "root";
+$dbPass = "baseg";
+$dbNameGeneral = "collaboratum";
+$dbNameNetwork = "parsingdata";
+ $baseURL = "http://projects.codemelody.com/Collaboratum";
+
+$lsiQueryHost = "localhost";
+$lsiQueryPort = "50005";
+
+$keywdQueryHost = "localhost";
+$keywdQueryPort = "50004";
+
 ?>
  <?php
                
@@ -9,98 +21,9 @@
                    $startId = $_GET['startId'];
 				   $endId = $_GET['endId'];
 				   $title = $_GET['title'];
-                                
-                                $simMatrix = array( array() );
-                                $names = array();
-                                
-                                $numElements = ($endId - $startId) + 1;
-                        
-                                $idList = range($startId, $endId, 1);
-                                        
-                                // generate the sql statement to fetch a 2d array of sim values.
-                                $sql = "SELECT ";
-                                $sqlNames = "SELECT collaboratum.investigator.first_name, collaboratum.investigator.last_name FROM collaboratum.investigator WHERE";
-                                foreach( $idList as $id ) {
-                                        if($id == end($idList)) {
-                                                $sql .= "parsingdata.doc_pairwise_cosine_matrix.col".$id;
-                                                $sqlNames .= " collaboratum.investigator.investigator_id=".$id;
-                                                
-                                        }
-                                        else {
-                                                $sql .= "parsingdata.doc_pairwise_cosine_matrix.col".$id.", ";
-                                                $sqlNames .= " collaboratum.investigator.investigator_id=".$id." OR ";
-                                        }
-                                }
-                                $sql .= " FROM parsingdata.doc_pairwise_cosine_matrix LIMIT ".$startId.", ".$endId;
-                                
-                                $con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-                                
-                                $sqlResult = mysql_query($sql);
-                                
-                                $threshold = 0;
-                                // fetch similarity matrix
-                                // for each row
-                                for( $i = 0; $i < $numElements; $i++ ) {
-                                        // fetch the row
-                                        $row = mysql_fetch_array($sqlResult);
-                                        // for each column
-                                        for( $j = 0; $j < $numElements; $j++ ) {
-                                        		
-                                                // Assign this to the appropriate 2d array slot
-                                                $simMatrix[$i][$j] = $row[$j];
-												if( $j > $i ) {
-                                        			$threshold += $simMatrix[$i][$j];
-                                        		}
-                                        }
-                                }
-                                // calculate threshold
-                                $threshold = 1.68 * ( $threshold / ( (($numElements*$numElements) - $numElements) / 2));
-								
-								
-                                // fetch names of investigaors
-                                $sqlResult = mysql_query($sqlNames);
-                                for( $i = 0; $i < $numElements; $i++ ) {
-                                        // fetch row and name of investigator
-                                        $row = mysql_fetch_array($sqlResult);
-                                        $names[$i] = $row[0]." ".$row[1];
-                                }
-                                
-                          
-                                
-                                // build graph data list.
-                                $nodeList = "nodes: [ ";
-                                foreach( $names as $name )
-                                {
-                                        if($name == end($names)) {
-                                                $nodeList .= " {id: \"".$name."\"}";
-                                        }
-                                        else {
-                                                $nodeList .= " {id: \"".$name."\"},";
-                                        }
-                                }
-                                $nodeList .= " ], ";
-                                $edgeList = "edges: [ ";
-                                // for each row in sim matrix
-                                for($i = 0; $i < $numElements; $i++) {
-                                        // for each relevant column in sim matrix
-                                        for($j = $i + 1; $j < $numElements; $j++) {
-                                        		if($simMatrix[$i][$j] >= $threshold){
-                                                	$edgeList .= "{id: \"".$i."\", target: \"".$names[$j]."\", source: \"".$names[$i]."\"}, ";
-                                        
-												}
-										}
-                                }
-                                $edgeList .= "]}};";
-                                
-                                $network_json = $nodeList.$edgeList;
-                          		 
-                                
                             
         ?>
-        <?php
-	//import config file
-	include_once("config.php");
-?>
+       
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -109,10 +32,9 @@
 		<!-- Bootstrap -->
 		<link href="../res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-		<link rel="stylesheet" href="../res/css/index.css">
-		 <link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="../res/css/cytoscape_web.css"/>
-        <script src="/Collaboratum/res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="../res/css/index.css">
         <script src="/Collaboratum/res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
         <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
         <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
@@ -124,10 +46,21 @@
                 // id of Cytoscape Web container div
                 var div_id = "cytoscapeweb";
 
-                var network_json = {
-                        // NOTE the parent attribute
-                        data: {<?php echo $network_json; ?>
-                            
+                var network_json;
+				 $.ajax({
+					type: 'GET',
+					url: "http://projects.codemelody.com/Collaboratum/res/scripts/getSubnetGraph.php",
+					data: {<?php echo "startId: \"".$startId."\", endId: \"".$endId."\", title: \"".$title."\""; ?>}, 
+					dataType: "json",
+					async: false,
+					success: function(data) {
+						console.log(data);
+						network_json = data;
+					},
+					error: function() {
+						alert("Sorry, There was an error loading the graph");
+					}
+				});
 
                 // NOTE the "compound" prefix in some visual properties
                 var visual_style = {
@@ -147,8 +80,8 @@
 
                 // initialization options
                 var options = {
-                    swfPath: "/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
-                    flashInstallerPath: "/Collaboratum/res/cytoscape/swf/playerProductInstall"
+                    swfPath: "http://projects.codemelody.com/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
+                    flashInstallerPath: "http://projects.codemelody.com/Collaboratum/res/cytoscape/swf/playerProductInstall"
                 };
 
                 var vis = new org.cytoscapeweb.Visualization(div_id, options);
@@ -205,17 +138,17 @@
 							    </a>
 							    <ul class="dropdown-menu">
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
+							    		<a href="<?php echo $baseURL; ?>/views/subnet.php?startId=1&endId=28&title=Biology">
 							    			Biology 
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
+							    		<a href="<?php echo $baseURL; ?>/views/subnet.php?startId=38&endId=57&title=Chemistry">
 							    			Chemistry
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
+							    		<a href="<?php echo $baseURL; ?>/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
 							    			Biomedical Engineering
 							    		</a>
 							    	</li>
@@ -233,7 +166,7 @@
 								<?php
 									if(isset($title))
 									{
-										echo "<h1>".$title." Network View </h1> computed threshold: ".$threshold;
+										echo "<h1>".$title." Network View </h1>";
 									}
 								?>
 							<div id="cytoscapeweb">
@@ -256,20 +189,33 @@
 			<ul class="thumbnails">
   				<li class="span4 center vspace-small">
 			    	<a href="#" class="thumbnail">
-			    	<img data-src="holder.js/360x270" alt="360x270" style="width: 360px; height: 270px;" src="data:image/png;base64,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">
 			    	</a>
 				</li>
 			</ul>
 			<div class="modal-body">
-				<div class="media">
-                  <a class="pull-left" href="#">
-                  	<img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACDUlEQVR4Xu2Yz6/BQBDHpxoEcfTjVBVx4yjEv+/EQdwa14pTE04OBO+92WSavqoXOuFp+u1JY3d29rvfmQ9r7Xa7L8rxY0EAOAAlgB6Q4x5IaIKgACgACoACoECOFQAGgUFgEBgEBnMMAfwZAgaBQWAQGAQGgcEcK6DG4Pl8ptlsRpfLxcjYarVoOBz+knSz2dB6vU78Lkn7V8S8d8YqAa7XK83ncyoUCjQej2m5XNIPVmkwGFC73TZrypjD4fCQAK+I+ZfBVQLwZlerFXU6Her1eonreJ5HQRAQn2qj0TDukHm1Ws0Ix2O2260RrlQqpYqZtopVAoi1y+UyHY9Hk0O32w3FkI06jkO+74cC8Dh2y36/p8lkQovFgqrVqhFDEzONCCoB5OSk7qMl0Gw2w/Lo9/vmVMUBnGi0zi3Loul0SpVKJXRDmphvF0BOS049+n46nW5sHRVAXMAuiTZObcxnRVA5IN4DJHnXdU3dc+OLP/V63Vhd5haLRVM+0jg1MZ/dPI9XCZDUsbmuxc6SkGxKHCDzGJ2j0cj0A/7Mwti2fUOWR2Km2bxagHgt83sUgfcEkN4RLx0phfjvgEdi/psAaRf+lHmqEviUTWjygAC4EcKNEG6EcCOk6aJZnwsKgAKgACgACmS9k2vyBwVAAVAAFAAFNF0063NBAVAAFAAFQIGsd3JN/qBA3inwDTUHcp+19ttaAAAAAElFTkSuQmCC">
-                  </a>
-                  <div class="media-body">
-                    <h4 class="media-heading">Person's Name</h4>
-                    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-                  </div>
-                </div>
+                <p class="lead">
+					Collaboratum provides principal investigators with the tools they need to find suitable collaborators and funding relevant to their
+					research. 
+				</p>
+				<p>
+					<em>
+						We accomplish this through clever application of new and traditional information retrieval methods: A basic keyword search 
+						and Conceptual search via LSI. 
+						Typical keyword searches are provided to give you "directly associated" results relative to your queries. 
+						However, through conceptual search we provide you with the ability to find previously invisible implied associations.
+					</em>
+				</p>
+				
+				<h3>Who's Behind This?</h3>
+					<div class="media">
+						<a class="pull-left" href="#">
+							<img class="media-object" data-src="res/images/um.png">
+						</a>
+						<div class="media-body">
+							<h4 class="media-heading">University of Memphis</h4>
+						</div>
+					</div>
+</div>
 			</div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
@@ -375,7 +321,6 @@
 		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
-		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
 		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 		<script type="text/javascript">
 	        /*

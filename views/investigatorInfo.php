@@ -1,7 +1,18 @@
 <?php
 	//import config file
-	include_once("../config.php");
+    $dbHost = "127.0.0.1";
+	$dbUser = "root";
+	$dbPass = "baseg";
+	$dbNameGeneral = "collaboratum";
+	$dbNameNetwork = "parsingdata";
 	
+	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	
+	$lsiQueryHost = "localhost";
+	$lsiQueryPort = "50005";
+	
+	$keywdQueryHost = "localhost";
+	$keywdQueryPort = "50004";	
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
@@ -76,6 +87,34 @@
 		++$i;
 	}
 	
+	
+	// get grant suggestion data
+	
+	$query = "SELECT * FROM doc_pairwise_cosine_matrix WHERE col".intval($id)." = 1";
+	$result = mysql_query ( $query );
+	$grants = array(array());
+	
+	// grab all grants. 1177 is total number of records in investigators table. 289 is the column where grants begin.
+	for($i = 0; $i < 1177; $i++)
+	{
+		$row = mysql_fetch_array($result);
+		if($i >= 288)
+		{
+			// store sim score
+			$grants[$i-288][0] = $row['col0'];
+			// store the id
+			$grants[$i-288][1] = $i+1;
+		}
+	}
+	
+	// resolve all of the grant titles from their ids
+	mysql_select_db($dbNameGeneral, $con) or die(mysql_error());
+	for($i = 0; $i < count($grants); $i++){
+		$query = "SELECT first_name FROM investigator WHERE investigator_id = ".$grants[$i][1];
+		$result = mysql_query( $query );
+		$row = mysql_fetch_array($result);
+		$grants[$i][2] = $row['first_name'];
+	}
 ?>
 
 <!DOCTYPE html>
@@ -156,7 +195,13 @@
 									<a href="#Publications" data-toggle="tab">Publications</a>
 								</li>
 								<li>
-									<a href="#ResearchNetwork" data-toggle="tab">Research Network</a>
+									<!-- href="#ResearchNetwork" data-toggle="tab">Research Network</a -->
+								</li>
+								<li>
+									<a href="#TopCoAuthors" data-toggle="tab">Top Co-Authors</a>
+								</li>
+								<li>
+									<a href="#TopJournals" data-toggle="tab">Top Journals</a>
 								</li>
 								<li>
 									<a href="#GrantNetwork" data-toggle="tab">Grant Suggestions</a>
@@ -229,6 +274,86 @@
 								            </address>
 							            </div>
 						            </div>
+								</div>
+								<div class="tab-pane fade" id="TopCoAuthors">
+									<?php
+									$coauthors = array();
+									$num = array();
+									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
+									for($i = 0 ; $i < mysql_num_rows($result); $i++)
+									{
+											$row = mysql_fetch_array($result);
+											$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'AU' AND publication_id = ".$row['publication_id']);
+											for($j = 0; $j < mysql_num_rows($result2); $j++) {
+												$row2 = mysql_fetch_array($result2);
+												if( !in_array($row2['field_value'], $coauthors)) {
+													$coauthors[count($coauthors)] = $row2['field_value'];
+													$num[count($coauthors)] = 1;
+												}
+												else {
+													$index = array_search($row2['field_value'], $coauthors);
+													$num[$index] = $num[$index] + 1;
+												}
+										
+									}}
+									$sortArray = array(array());
+									for( $x = 0; $x < count($coauthors); $x++)
+									{
+											$sortArray[$x][0] = $coauthors[$x];
+											$sortArray[$x][1] = $num[$x];
+									}
+									
+ foreach ($sortArray as $key => $row) {
+     		$volume[$key]  = $row[1];
+         $edition[$key] = $row[0];
+        }
+array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
+         for($y = 1; $y<count($coauthors);$y++){
+						echo $y.".) ".$sortArray[$y][0]." <b>".$sortArray[$y][1]."</b><br>";
+					}
+
+									
+									?>
+								</div>
+								<div class="tab-pane fade" id="TopJournals">
+										<?php
+									$coauthors = array();
+									$num = array();
+									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
+									for($i = 0 ; $i < mysql_num_rows($result); $i++)
+									{
+											$row = mysql_fetch_array($result);
+											$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'SO' AND publication_id = ".$row['publication_id']);
+											for($j = 0; $j < mysql_num_rows($result2); $j++) {
+												$row2 = mysql_fetch_array($result2);
+												if( !in_array($row2['field_value'], $coauthors)) {
+													$coauthors[count($coauthors)] = $row2['field_value'];
+													$num[count($coauthors)] = 1;
+												}
+												else {
+													$index = array_search($row2['field_value'], $coauthors);
+													$num[$index] = $num[$index] + 1;
+												}
+										
+									}}
+									$sortArray = array(array());
+									for( $x = 0; $x < count($coauthors); $x++)
+									{
+											$sortArray[$x][0] = $coauthors[$x];
+											$sortArray[$x][1] = $num[$x];
+									}
+								$sortArray[0][1] = 1;	
+ foreach ($sortArray as $key => $row) {
+     		$volume[$key]  = $row[0];
+         $edition[$key] = $row[1];
+        }
+array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
+         for($y = 0; $y<count($coauthors);$y++){
+						echo ($y+1).".) ".$sortArray[$y][0]." <b>".$sortArray[$y][1]."</b><br>";
+					}
+
+									
+									?>
 								</div>
 								<div class="tab-pane fade" id="Publications">
 									<!-- TODO insert js for accordion in head -->
@@ -361,7 +486,39 @@
 									<h1> Research Network will be displayed here </h1>
 								</div>
 								<div class="tab-pane fade" id="GrantNetwork">
-									<h1> Grant Suggestions will be here</h1>
+									<table>
+										<thead>
+											<tr>
+												<th>
+													#
+												</th>
+												<th>
+													Grant Name
+												</th>
+												<th>
+													Similarity
+												</th>
+											</tr>
+										</thead>
+										<tbody>
+											<?php 
+											for($j = 0; $j < count($grants); $j++)
+											{
+												echo "<tr>
+													<td>
+														".($j+1)."
+													</td>
+													<td>
+														<a href='".$baseURL."/views/grantInfo.php?id=".$grants[$j][1]."'>".$grants[$j][2]."
+													</td>
+													<td>
+														".$grants[$j][0]."
+													</td>
+												</tr>";
+											}
+											?>
+										</tbody>
+									</table>
 								</div>
 								<div class="tab-pane fade" id="Histogram">
 									<script type="text/javascript" src="https://www.google.com/jsapi"></script>
@@ -398,7 +555,6 @@
 								          backgroundColor: {strokeWidth: 2, stroke: "#000"},
 								          hAxis: {title: 'Similarity',  titleTextStyle: {color: 'red'}}
 								        };
-								
 								        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 								        chart.draw(data, options);
 								      }
@@ -466,7 +622,7 @@
 															    	<ul class="dropdown-menu">
 															    		<li><a tabindex="-1" href="#" onclick="selectFilter(0);">Everything(Default)</a></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(1);">Grants Only</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Collaborators Only</a></li>
+															      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Researchers Only</a></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(3);">Classes Only</a></li>
 															      		<li class="divider"></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(4);" data-toggle="modal" data-target="#customFilterModal">Build Custom Filter</a></li>
@@ -566,7 +722,7 @@
 				
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface3.png"><br>
 				<p style="text-indent: 3em;">As well as several searching methods there are several "filters" that can be applied. Filters basically allow you to specify what datasets you would like to limit your search to. Our current datasets include a list of Grants automatically pulled from the NIH, Biology classes at the University of Memphis, and a set of 57 Investigators and Faculty at University of Memphis. </p>
-				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, or Collaborators, or Classes that are relevant to your query. </p>
+				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, Researchers, or Classes that are relevant to your query. </p>
 				<p style="text-indent: 3em;">While selecting a single dataset or all datasets would be preferable in most cases, sometimes it will be desired to search a "mix-and-match" of different datasets. </p>
 				<p style="text-indent: 3em;">By clicking "Build Custom Filter" you can select any and all datasets you wish to search within. </p>
 				<br>
@@ -603,7 +759,7 @@
 						</tr>
 						<tr>
 							<td>
-								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Collaborators
+								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Researchers
 							</td>
 						</tr>
 						<tr>
@@ -701,7 +857,7 @@
         		if(filterType == 2)
         		{
         			
-        			$("#filterButton").text("Collaborators");
+        			$("#filterButton").text("Researchers");
         			$("#filterType").val('2');
         		}
         		if(filterType == 3)

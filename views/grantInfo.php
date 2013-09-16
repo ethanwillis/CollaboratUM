@@ -1,7 +1,18 @@
 <?php
 	//import config file
-	include_once("../config.php");
-
+    $dbHost = "127.0.0.1";
+	$dbUser = "root";
+	$dbPass = "baseg";
+	$dbNameGeneral = "collaboratum";
+	$dbNameNetwork = "parsingdata";
+	
+	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	
+	$lsiQueryHost = "localhost";
+	$lsiQueryPort = "50005";
+	
+	$keywdQueryHost = "localhost";
+	$keywdQueryPort = "50004";
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
@@ -82,8 +93,8 @@
   						<div class="span12">
   							
   								<blockquote class="pull-left">
-  <h3 class="text-center"><a href="<?php echo $guidelink;?>">Grant #<?php echo $id; ?></a></h3>
-  <small><?php echo $title ?></small>
+  <h4 class="text-center"><a href="<?php echo $guidelink;?>"><?php echo $title; ?></a></h4>
+  <small>Grant #<?php echo $id ?></small>
 </blockquote>
   							
   						</div>

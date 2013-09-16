@@ -1,7 +1,18 @@
 <?php 
 	//import config file
-	include_once("../config.php");
+	$dbHost = "127.0.0.1";
+	$dbUser = "root";
+	$dbPass = "baseg";
+	$dbNameGeneral = "collaboratum";
+	$dbNameNetwork = "parsingdata";
 	
+	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	
+	$lsiQueryHost = "localhost";
+	$lsiQueryPort = "50005";
+	
+	$keywdQueryHost = "localhost";
+	$keywdQueryPort = "50004";	
     /*
 	 * Get the search query and the type of query.
 	 * 
@@ -16,8 +27,8 @@
 	 * 		'true'  - Use Keyword search
 	 * 		'false' - Use LSI search
 	 */ 
-    $query = $_GET['searchBox'];
-    $searchType = $_GET['searchType'];
+	$query = $_GET['searchBox'];
+	$searchType = $_GET['searchType'];
 	$largestSimilarity = 0;
 	$unresolved;
 	$histogram;
@@ -38,31 +49,31 @@
         if($exactSearch === "false")
         {
         	// connect to the LSI query service on port 50005 and query it.
-        	$queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
-        	$queryResult = explode("\n", $queryResult);  
-			$largestSimilarity = 1;
-			$unresolved = $queryResult;
-			$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
+					$queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
+			  	$queryResult = explode("\n", $queryResult);  
+					$largestSimilarity = 1;
+					$unresolved = $queryResult;
+					$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
         }
 		// TODO finish implementing histogram widget
 		// Otherwise we want to use Keyword search
         else
         {
         	// connect to the Keyword query service on port 50004 and query it.
-            $queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
-            $queryResult = explode("\n", $queryResult);
-			$largestSimilarity = findLargestSimilarity( $queryResult );
-			if($exactSearch === "true" )
-			{
-				// pass the largest similarity from the keyword search
-				$histogram = generateHistogramData($queryResult, 0, $largestSimilarity);
-			}
-			else {
-				// the range of similarity scores for LSI is -1 to 1.
-				$histogram = generateHistogramData($queryResult, -1, 1);
-			}
-			$unresolved = $queryResult;
-			$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
+					$queryResult = querySearchService($lsiQueryHost, $keywdQueryPort, $query, $searchType);
+          $queryResult = explode("\n", $queryResult);
+					$largestSimilarity = findLargestSimilarity( $queryResult );
+					if($exactSearch === "true" )
+					{
+						// pass the largest similarity from the keyword search
+						$histogram = generateHistogramData($queryResult, 0, $largestSimilarity);
+					}
+					else {
+						// the range of similarity scores for LSI is -1 to 1.
+						$histogram = generateHistogramData($queryResult, -1, 1);
+					}
+					$unresolved = $queryResult;
+					$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
         }
 		
 		
@@ -80,6 +91,26 @@
 	 */ 
 	function generateHistogramData( $data, $min, $max )
 	{
+		$histogram[0] = 0;
+		$histogram[1] = 0;
+		$histogram[2] = 0;
+		$histogram[3] = 0;
+		$histogram[4] = 0;
+		$histogram[5] = 0;
+		$histogram[6] = 0;
+		$histogram[7] = 0;
+		$histogram[8] = 0;
+		$histogram[9] = 0;
+		$histogram[10] = 0;
+		$histogram[11] = 0;
+		$histogram[12] = 0;
+		$histogram[13] = 0;
+		$histogram[14] = 0;
+		$histogram[15] = 0;
+		$histogram[16] = 0;
+		$histogram[17] = 0;
+		$histogram[18] = 0;
+		$histogram[19] = 0;
 		// for each similarity score.
 		for($i = 0; $i < count($data) - 1; $i++)
 	    {
@@ -90,8 +121,68 @@
 			$similarity = $entry[count($entry) - 1 ];
 			
 			// update the count depending on the range that $similarity falls into.
+			if($similarity >= -1 && $similarity <= -.9) {
+				$histogram[0] = $histogram[0] + 1;
+			}
+			else if($similarity > -.9 && $similarity <= -.8){
+				$histogram[1] = $histogram[1] + 1;
+			}
+			else if($similarity > -.8 && $similarity <= -.7){
+				$histogram[2] = $histogram[2] + 1;
+			}
+			else if($similarity > -.7 && $similarity <= -.6){
+				$histogram[3] = $histogram[3] + 1;
+			}
+			else if($similarity > -.6 && $similarity <= -.5){
+				$histogram[4] = $histogram[4] + 1;
+			}
+			else if($similarity > -.5 && $similarity <= -.4){
+				$histogram[5] = $histogram[5] + 1;
+			}
+			else if($similarity > -.4 && $similarity <= -.3){
+				$histogram[6] = $histogram[6] + 1;
+			}
+			else if($similarity > -.3 && $similarity <= -.2){
+				$histogram[7] = $histogram[7] + 1;
+			}
+			else if($similarity > -.2 && $similarity <= -.1){
+				$histogram[8] = $histogram[8] + 1;
+			}
+			else if($similarity > -.1 && $similarity <= 0){
+				$histogram[9] = $histogram[9] + 1;
+			}
+			else if($similarity > 0 && $similarity <= .1){
+				$histogram[10] = $histogram[10] + 1;
+			}
+			else if($similarity > .1 && $similarity <= .2){
+				$histogram[11] = $histogram[11] + 1;
+			}
+			else if($similarity > .2 && $similarity <= .3){
+				$histogram[12] = $histogram[12] + 1;
+			}
+			else if($similarity > .3 && $similarity <= .4){
+				$histogram[13] = $histogram[13] + 1;
+			}
+			else if($similarity > .4 && $similarity <= .5){
+				$histogram[14] = $histogram[14] + 1;
+			}
+			else if($similarity > .5 && $similarity <= .6){
+				$histogram[15] = $histogram[15] + 1;
+			}
+			else if($similarity > .6 && $similarity <= .7){
+				$histogram[16] = $histogram[16] + 1;
+			}
+			else if($similarity > .7 && $similarity <= .8){
+				$histogram[17] = $histogram[17] + 1;
+			}
+			else if($similarity > .8 && $similarity <= .9){
+				$histogram[18] = $histogram[18] + 1;
+			}
+			else if($similarity > .9 && $similarity <= 1){
+				$histogram[19] = $histogram[19] + 1;
+			}
 	    }
-		return $largest + 0.5;
+		return $histogram;
 	}
     
 	function findLargestSimilarity( $data )
@@ -202,7 +293,7 @@
         $sock = socket_create(AF_INET, SOCK_STREAM, 0);
         $message = $type." | ".$query;
         
-	if(!($sock = socket_create(AF_INET, SOCK_STREAM, 0)))
+		if(!($sock = socket_create(AF_INET, SOCK_STREAM, 0)))
         {
             $errorcode = socket_last_error();
             $errormsg = socket_strerror($errorcode);
@@ -254,7 +345,6 @@
 <html lang="en">
 	<head>
 		<?php
-			echo feof($sock);
 		?>
 		<title>Collaboratum Home</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -272,11 +362,11 @@
 		</style>
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 		<link rel="stylesheet" href="../res/css/index.css">
-		
+		<link rel="stylesheet" href="../res/css/bootstrap-switch.css">
 	</head>
 	<body>
 		<!-- Begin Body Scaffolding -->
-		<div class="row-fluid">
+	<div class="row-fluid">
 			<div class="span12">
 				<!-- Begin Nav -->
 				<div class="navbar navbar-fixed-top">
@@ -320,6 +410,13 @@
 							    </ul>
 						    </li>
 						    <li class="divider-vertical"></li>
+								<li>
+									<div id="mySwitch" class="make-switch" data-text-label="" data-animated="true" data-on-label="Concept" data-off-label="Keyword" data-on="success" data-off="success">
+										<input type="checkbox" <?php if($exactSearch === "false"){echo 'checked="checked"';}?>>
+									</div>
+								</li>
+								<li class="divider-vertical"></li>
+								</li>
 						</ul>
 					</div>
 				</div>
@@ -327,7 +424,7 @@
 			</div>
 			<!-- Main Content -->
 			<div class="span12">
-				<div class="span10 offset1 text-center">
+				<div class="span9 offset1 text-center">
                         <div id="cytoscapeweb" style="height: 475px;">
                             Cytoscape Web will replace the contents of this div with your graph.
                         </div>
@@ -337,6 +434,9 @@
 						</p>
 						<div id="slider-vertical" style="height: 20px;"></div>
             	</div>
+				<div class="span2">
+					<img src="http://i.imgur.com/z0pptVF.jpg">
+				</div>
 			</div>
 			<!-- End Main Content -->
 			<div class="row-fluid">
@@ -360,7 +460,7 @@
 												<a href="#results" data-toggle="tab">Results</a>
 											</li>
 											<li>
-												<a href="#statistics" data-toggle="tab">Statistics</a>
+												<!-- a href="#statistics" data-toggle="tab">Statistics</a -->
 											</li>
 										</ul>
 										<div id="explorerTabContent" class="tab-content">
@@ -378,8 +478,8 @@
 															    	</button>
 															    	<ul class="dropdown-menu">
 															   
-															      		<li><a tabindex="-1" href="#" onclick="selectSearch(0);" data-toggle="tooltip" data-placement="right" title="LSI is a more abstract search that provides results which are conceptually similar">LSI Search</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectSearch(1);" data-toggle="tooltip" data-placement="right" title="Keyword search provides more 'concrete' results than LSI">Keyword Search(Default)</a></li>
+															      		<li><a tabindex="-1" href="#" onclick="selectSearch(0);" data-toggle="tooltip" data-placement="right" title="Conceptual search is a more abstract search that provides results which are conceptually similar">Conceptual Search</a></li>
+															      		<li><a tabindex="-1" href="#" onclick="selectSearch(1);" data-toggle="tooltip" data-placement="right" title="Keyword search provides more 'concrete' results than Conceptual search">Keyword Search(Default)</a></li>
 															      		
 															    	</ul>
 															    </div>
@@ -394,7 +494,7 @@
 															    	<ul class="dropdown-menu">
 															    		<li><a tabindex="-1" href="#" onclick="selectFilter(0);">Everything(Default)</a></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(1);">Grants Only</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Collaborators Only</a></li>
+															      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Researchers Only</a></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(3);">Classes Only</a></li>
 															      		<li class="divider"></li>
 															      		<li><a tabindex="-1" href="#" onclick="selectFilter(4);" data-toggle="modal" data-target="#customFilterModal">Build Custom Filter</a></li>
@@ -510,16 +610,16 @@
 											          	// if we are using LSI. Use 20 columns from -1 to 1
 											          	if($exactSearch === "false")
 														{
-												          	echo "['>=-1',  ".$histogram[0].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
-														          ['>0.9',  ".$histogram[1].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
-														          ['>0.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
-														          ['>0.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
-														          ['>0.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
-														          ['>0.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
-														          ['>0.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
-														          ['>0.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
-														          ['>0.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
-														          ['>0.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
+												          	echo "['>=-1',  ".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
+														          ['>-.9',  ".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
+														          ['>-.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
+														          ['>-.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
+														          ['>-.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
+														          ['>-.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
+														          ['>-.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
+														          ['>-.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
+														          ['>-.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
+														          ['>-.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
 														          ['<0.1',  ".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
 														          ['<0.2',  ".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
 														          ['<0.3',  ".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
@@ -533,7 +633,26 @@
 														}
 														// Otherwise using Keyword, use 20 columns from 0 to max.
 														else {
-															
+															echo "['>=-1',  ".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
+														          ['>-.9',  ".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
+														          ['>-.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
+														          ['>-.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
+														          ['>-.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
+														          ['>-.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
+														          ['>-.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
+														          ['>-.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
+														          ['>-.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
+														          ['>-.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
+														          ['<0.1',  ".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
+														          ['<0.2',  ".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
+														          ['<0.3',  ".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
+														          ['<0.4',  ".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
+														          ['<0.5',  ".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
+														          ['<0.6',  ".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
+														          ['<0.7',  ".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
+														          ['<0.8',  ".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
+														          ['<0.9',  ".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
+														          ['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
 														}
 											          ?>
 											        ]);
@@ -575,21 +694,33 @@
 			</div>
 			<ul class="thumbnails">
   				<li class="span4 center vspace-small">
-			    	<a href="#" class="thumbnail">
-			    	<img data-src="holder.js/360x270" alt="360x270" style="width: 360px; height: 270px;" src="data:image/png;base64,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">
-			    	</a>
 				</li>
 			</ul>
 			<div class="modal-body">
 				<div class="media">
-                  <a class="pull-left" href="#">
-                  	<img class="media-object" data-src="holder.js/64x64" alt="64x64" style="width: 64px; height: 64px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACDUlEQVR4Xu2Yz6/BQBDHpxoEcfTjVBVx4yjEv+/EQdwa14pTE04OBO+92WSavqoXOuFp+u1JY3d29rvfmQ9r7Xa7L8rxY0EAOAAlgB6Q4x5IaIKgACgACoACoECOFQAGgUFgEBgEBnMMAfwZAgaBQWAQGAQGgcEcK6DG4Pl8ptlsRpfLxcjYarVoOBz+knSz2dB6vU78Lkn7V8S8d8YqAa7XK83ncyoUCjQej2m5XNIPVmkwGFC73TZrypjD4fCQAK+I+ZfBVQLwZlerFXU6Her1eonreJ5HQRAQn2qj0TDukHm1Ws0Ix2O2260RrlQqpYqZtopVAoi1y+UyHY9Hk0O32w3FkI06jkO+74cC8Dh2y36/p8lkQovFgqrVqhFDEzONCCoB5OSk7qMl0Gw2w/Lo9/vmVMUBnGi0zi3Loul0SpVKJXRDmphvF0BOS049+n46nW5sHRVAXMAuiTZObcxnRVA5IN4DJHnXdU3dc+OLP/V63Vhd5haLRVM+0jg1MZ/dPI9XCZDUsbmuxc6SkGxKHCDzGJ2j0cj0A/7Mwti2fUOWR2Km2bxagHgt83sUgfcEkN4RLx0phfjvgEdi/psAaRf+lHmqEviUTWjygAC4EcKNEG6EcCOk6aJZnwsKgAKgACgACmS9k2vyBwVAAVAAFAAFNF0063NBAVAAFAAFQIGsd3JN/qBA3inwDTUHcp+19ttaAAAAAElFTkSuQmCC">
-                  </a>
-                  <div class="media-body">
-                    <h4 class="media-heading">Person's Name</h4>
-                    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-                  </div>
-                </div>
+                <p class="lead">
+					Collaboratum provides principal investigators with the tools they need to find suitable collaborators and funding relevant to their
+					research. 
+				</p>
+				<p>
+					<em>
+						We accomplish this through clever application of new and traditional information retrieval methods: A basic keyword search 
+						and Conceptual search via LSI. 
+						Typical keyword searches are provided to give you "directly associated" results relative to your queries. 
+						However, through conceptual search we provide you with the ability to find previously invisible implied associations.
+					</em>
+				</p>
+				
+				<h3>Who's Behind This?</h3>
+					<div class="media">
+						<a class="pull-left" href="#">
+							<img class="media-object" data-src="res/images/um.png">
+						</a>
+						<div class="media-body">
+							<h4 class="media-heading">University of Memphis</h4>
+						</div>
+					</div>
+</div>
 			</div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
@@ -623,7 +754,7 @@
 				<p>The search methods available at this time are a keyword search algorithm, and an LSI search algorithm.  What’s the difference between the two?</p>
 				<ul>
 					<li>Keyword Search - A keyword search is what most users will be familiar with. It looks for direct associations between a datum and the given keywords. This is done by measuring how frequently a keyword is seen within that datum. </li>
-					<li>LSI Search - A LSI(Latent Semantic Indexing) search differs from keyword search in that it looks for implied associations in a dataset using the given keyword(s). </li>
+					<li>Conceptual Search - A LSI(Latent Semantic Indexing) search differs from keyword search in that it looks for implied associations in a dataset using the given keyword(s). </li>
 				</ul>
 
 
@@ -634,7 +765,7 @@
 				
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface3.png"><br>
 				<p style="text-indent: 3em;">As well as several searching methods there are several "filters" that can be applied. Filters basically allow you to specify what datasets you would like to limit your search to. Our current datasets include a list of Grants automatically pulled from the NIH, Biology classes at the University of Memphis, and a set of 57 Investigators and Faculty at University of Memphis. </p>
-				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, or Collaborators, or Classes that are relevant to your query. </p>
+				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, Researchers, or Classes that are relevant to your query. </p>
 				<p style="text-indent: 3em;">While selecting a single dataset or all datasets would be preferable in most cases, sometimes it will be desired to search a "mix-and-match" of different datasets. </p>
 				<p style="text-indent: 3em;">By clicking "Build Custom Filter" you can select any and all datasets you wish to search within. </p>
 				<br>
@@ -671,7 +802,7 @@
 						</tr>
 						<tr>
 							<td>
-								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Collaborators
+								<input type="checkbox" id="customFilterCollaborator" value="collaborators" onchange="customFilter(this, 2);"> Reseachers
 							</td>
 						</tr>
 						<tr>
@@ -698,6 +829,7 @@
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
 		<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+		<script src="../res/js/bootstrap-switch.min.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(function(){ $("label").inFieldLabels(); });
 			$(function(){
@@ -762,10 +894,13 @@
                   var visual_style = {
                       "nodes": {
                           "shape": "RECTANGLE",
-                          "label": "", // { "passthroughMapper": { "attrName": "label" } },
+                          "label": "",// { "passthroughMapper": { "attrName": "label" } },
                           "borderColor": "#83959d",
                           "color": { "discreteMapper": nodeColorMapper  },
-                      }
+                      },
+											"edges": {
+												"tooltipText": "Common Terms: "
+											}
                   };
 
                 // initialization options
@@ -775,7 +910,10 @@
                 };
 
                 var vis = new org.cytoscapeweb.Visualization(div_id, options);
-                
+                // 2. Add a context menu item any time after the network is ready:
+  							vis.ready(function () {
+ 							 });
+
 		vis.ready(function() {
                     // set the style programmatically
 			
@@ -787,7 +925,9 @@
                     // set the style at initialisation
                     visualStyle: visual_style,
                     // hide pan zoom
-                    panZoomControlVisible: true 
+                    panZoomControlVisible: true,
+										nodeTooltipsEnabled: true,
+										edgeTooltipsEnabled: true
                 };
 
                 vis.draw(draw_options);
@@ -840,6 +980,25 @@
 
 
 										var vis = new org.cytoscapeweb.Visualization(div_id, options);
+// 2. Add a context menu item any time after the network is ready:
+  vis.ready(function () {
+			vis.addContextMenuItem("View More Information", "nodes", 
+				function(evt) {
+					
+					var node = evt.target;
+					var id = node.data.id;
+					if(id <= 57) {
+						window.location.href = "http://projects.codemelody.com/Collaboratum/views/investigatorInfo.php?id="+id;
+					}
+					else if(id > 285) {
+						window.location.href = "http://projects.codemelody.com/Collaboratum/views/grantInfo.php?id="+id;
+					}
+					else {
+						alert("There is currently no extra information for classes available");
+					}
+
+					});
+ });
 
 
 										var draw_options = {
@@ -848,7 +1007,9 @@
 											// set the style at initialisation
 											visualStyle: visual_style,
 											// hide pan zoom
-											panZoomControlVisible: true 
+											panZoomControlVisible: true,
+											nodeTooltipsEnabled: true,
+											edgeTooltipsEnabled: true 
 										};
 
 										vis.draw(draw_options);
@@ -860,7 +1021,7 @@
 									}
 								},
 								error: function() {
-									alert("Sorry, There was an error loading the graph"); // + "<?php echo preg_replace('/\s+/', ' ', trim(implode("~", $queryResult))); ?>");
+									alert("2Sorry, There was an error loading the graph"); // + "<?php echo preg_replace('/\s+/', ' ', trim(implode("~", $queryResult))); ?>");
 								}
 							});
 				}
@@ -878,7 +1039,7 @@
         		if(searchType == 0)
         		{
         			$("#searchType").val('false');
-        			$("#searchTypeButton").text("LSI");
+        			$("#searchTypeButton").text("Conceptual");
         		}
         		//If search type is 1 do Keyword search
         		else if(searchType == 1)
@@ -904,7 +1065,7 @@
         		{
         			$("#filterButton").text("Everything");
         			$("#filterType").val('0');
-        		}
+				}
         		if(filterType == 1)
         		{
         			$("#filterButton").text("Grants");
@@ -912,7 +1073,7 @@
         		}
         		if(filterType == 2)
         		{
-        			$("#filterButton").text("Collaborators");
+        			$("#filterButton").text("Researchers");
         			$("#filterType").val('2');
         		}
         		if(filterType == 3)
@@ -937,7 +1098,7 @@
         		if(searchType == 0)
         		{
         			$("#searchType").val('false');
-        			$("#searchTypeButton").text("LSI");
+        			$("#searchTypeButton").text("Conceptual");
         		}
         		//If search type is 1 do Keyword search
         		else if(searchType == 1)
@@ -974,7 +1135,7 @@
         		if(filterType == 2)
         		{
         			
-        			$("#filterButton").text("Collaborators");
+        			$("#filterButton").text("Researchers");
         			$("#filterType").val('2');
         		}
         		if(filterType == 3)
@@ -1069,5 +1230,36 @@
 			}	
 		}
         </script>
+	<script type="text/javascript">
+		/*
+			This script handles the lsi/keyword switch toggle at the top
+			of the page
+		*/
+		$('#mySwitch').on('switch-change', function (e, data) {
+    	var value = data.value;
+			if(value == true) {
+				//Concept Search
+				window.location.href = "<?php echo "http://projects.codemelody.com/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=".$searchType; ?>";
+			}
+			else {
+				//Keyword Search
+				window.location.href = "<?php echo "http://projects.codemelody.com/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=true&searchType=".$searchType; ?>";
+			}
+		});
+
+		$('#nodeLabeling').on('switch-change', function(e, data) {
+			var value = data.value;
+			if(value == true) {
+				//enable labeling
+			
+			}
+			else {
+				//disable labeling
+				alert("2" + $('#amount').val());
+			}
+		});
+
+
+	</script>
 	</body>
 </html>
