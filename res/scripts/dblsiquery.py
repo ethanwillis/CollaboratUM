@@ -87,7 +87,7 @@ class LSA(object):
 
        
         #self.U =zeros([self.wordnum, self.A.shape[1]])
-        self.cursor.execute("SELECT * FROM U;")
+        self.cursor.execute("SELECT * FROM u;")
         for i in self.cursor:
          if linenum==0:
           rowlength=len(i)
@@ -105,7 +105,7 @@ class LSA(object):
 
        
         self.Vt =zeros([self.U.shape[1], self.U.shape[0]])
-        self.cursor.execute("SELECT * FROM Vt;")
+        self.cursor.execute("SELECT * FROM vt;")
         for i in self.cursor:
           colnum=0
           for j in i:
@@ -117,7 +117,7 @@ class LSA(object):
           linenum=linenum+1
         linenum=0
         self.Sarr =[]
-        self.cursor.execute("SELECT * FROM Sarr;")
+        self.cursor.execute("SELECT * FROM sarr;")
         for i in self.cursor:
           colnum=0
           for j in i:
@@ -298,15 +298,15 @@ def procthread(connection, lsiobj,addr):
   
 displaytype=0       
 opts, args=getopt.getopt(sys.argv[1:],"t:") 
-db =  MySQLdb.connect("localhost","root","baseg","parsingdata")
+db =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","parsingdata")
 cursor = db.cursor()
-db2 =  MySQLdb.connect("localhost","root","baseg","collaboratum")
+db2 =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","collaboratum")
 cursor2 = db2.cursor()
 
 for o,p in opts:
   if o in ['-t','--type']:
      displaytype=p
-#db2 =  MySQLdb.connect("localhost","root","123456","collaboratum")
+#db2 =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","collaboratum")
 #cursor2 = db2.cursor()
 #print str(displaytype)
 mylsa = LSA(stopwords, ignorechars,args,cursor,cursor2)

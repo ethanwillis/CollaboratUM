@@ -2,18 +2,18 @@
 <?php
         //import config file
         //include_once("../config.php");
-        $dbUser = "root";
-$dbPass = "baseg";
-$dbNameGeneral = "collaboratum";
-$dbNameNetwork = "parsingdata";
- $baseURL = "http://projects.codemelody.com/Collaboratum";
-
-$lsiQueryHost = "localhost";
-$lsiQueryPort = "50005";
-
-$keywdQueryHost = "localhost";
-$keywdQueryPort = "50004";
-
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
+	$dbNameGeneral = "collaboratum";
+	$dbNameNetwork = "parsingdata";
+	
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
+	
+	$lsiQueryHost = "localhost";
+	$lsiQueryPort = "50005";
+	
+	$keywdQueryHost = "localhost";
+	$keywdQueryPort = "50004";
 ?>
  <?php
                
@@ -49,7 +49,7 @@ $keywdQueryPort = "50004";
                 var network_json;
 				 $.ajax({
 					type: 'GET',
-					url: "http://projects.codemelody.com/Collaboratum/res/scripts/getSubnetGraph.php",
+					url: "http://binf1.memphis.edu/Collaboratum/res/scripts/getSubnetGraph.php",
 					data: {<?php echo "startId: \"".$startId."\", endId: \"".$endId."\", title: \"".$title."\""; ?>}, 
 					dataType: "json",
 					async: false,
@@ -80,17 +80,17 @@ $keywdQueryPort = "50004";
 
                 // initialization options
                 var options = {
-                    swfPath: "http://projects.codemelody.com/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
-                    flashInstallerPath: "http://projects.codemelody.com/Collaboratum/res/cytoscape/swf/playerProductInstall"
+                    swfPath: "http://binf1.memphis.edu/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
+                    flashInstallerPath: "http://binf1.memphis.edu/Collaboratum/res/cytoscape/swf/playerProductInstall"
                 };
 
                 var vis = new org.cytoscapeweb.Visualization(div_id, options);
 
                 vis.ready(function() {
                     // set the style programmatically
-                    document.getElementById("layout").onclick = function(){
-                        vis.layout("CompoundSpringEmbedder");
-                    };
+                    //document.getElementById("layout").onclick = function(){
+                       // vis.layout("CompoundSpringEmbedder");
+                    //};
                 });
 
                 var draw_options = {
@@ -216,11 +216,12 @@ $keywdQueryPort = "50004";
 						</div>
 					</div>
 </div>
-			</div>
+			
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 			</div>
-		</div>
+		</div>	
+	</div>
 		
 		<!-- Modal that provides help information for the current page -->
 		<div id="helpModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">

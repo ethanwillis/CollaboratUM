@@ -1,30 +1,31 @@
 <?php					     $dbHost = "127.0.0.1";
-	$dbUser = "root";
-	$dbPass = "baseg";
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
-	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	
 	$lsiQueryHost = "localhost";
 	$lsiQueryPort = "50005";
 	
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
-					 $startId = $_GET['startId'];
-				   $endId = $_GET['endId'];
-					 if($startId == -1 && $endId == -1 && isset($_GET['listId']) ) {
-
-						$idList = explode(",", $_GET['listId']);
-					}
-				   $title = $_GET['title'];
+				$startId = $_GET['startId'];
+				$endId = $_GET['endId'];
+				if($startId == -1 && $endId == -1 && isset($_GET['listId']) ) {
+					$idList = explode(",", $_GET['listId']);
+				}
+				else {
+					$idList = range($startId, $endId, 1);
+				}
+			        $title = $_GET['title'];
                                 
                                 $simMatrix = array( array() );
                                 $names = array();
                                 
-                                $numElements = ($endId - $startId) + 1;
+                                $numElements = count($idList);
                         
-                                $idList = range($startId, $endId, 1);
                                         
                                 // generate the sql statement to fetch a 2d array of sim values.
                                 $sql = "SELECT ";
@@ -81,10 +82,10 @@
                                 foreach( $names as $name )
                                 {
                                         if($name == end($names)) {
-                                                $nodeList .= " {\"id\": \"".$name."\"}";
+                                                $nodeList .= " {\"id\": \"".trim($name)."\", \"label\": \"".trim($name)."\"}";
                                         }
                                         else {
-                                                $nodeList .= " {\"id\": \"".$name."\"},";
+                                                $nodeList .= " {\"id\": \"".trim($name)."\", \"label\": \"".trim($name)."\"},";
                                         }
                                 }
                                 $nodeList .= " ], ";
@@ -94,7 +95,7 @@
                                         // for each relevant column in sim matrix
                                         for($j = $i + 1; $j < $numElements; $j++) {
                                         		if($simMatrix[$i][$j] >= $threshold){
-                                                	$edgeList .= "{\"id\": \"".$i."\", \"target\": \"".$names[$j]."\", \"source\": \"".$names[$i]."\"}, ";
+                                                	$edgeList .= "{\"id\": \"".$i."\", \"target\": \"".trim($names[$j])."\", \"source\": \"".trim($names[$i])."\"}, ";
                                         
 																					 }
 																				}
@@ -109,4 +110,8 @@
 																else {
                                 $network_json = $nodeList.$edgeList;
                           		 }
-                                echo $network_json;
+
+$network_json = "{\"dataSchema\":{\"nodes\":[{\"name\": \"id\", \"type\": \"string\"}, {\"name\": \"label\", \"type\": \"string\"}],\"edges\":[{\"name\": \"id\", \"type\": \"number\"}, {\"name\": \"target\", \"type\": \"string\"}, {\"name\": \"source\", \"type\": \"string\"}]}, \"data\":". $network_json. "}";
+                               
+
+ echo $network_json;

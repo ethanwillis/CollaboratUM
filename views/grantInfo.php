@@ -1,18 +1,18 @@
 <?php
 	//import config file
-    $dbHost = "127.0.0.1";
-	$dbUser = "root";
-	$dbPass = "baseg";
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
-	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	
 	$lsiQueryHost = "localhost";
 	$lsiQueryPort = "50005";
 	
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
+
 	// get the ID for this grant
 	$id = $_GET['id'];
 	

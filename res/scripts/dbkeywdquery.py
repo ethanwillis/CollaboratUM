@@ -225,9 +225,9 @@ def procthread(connection, lsiobj,addr):
             
        
 opts, args=getopt.getopt(sys.argv[1:],'h') 
-db =  MySQLdb.connect("localhost","root","baseg","parsingdata")
+db =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","parsingdata")
 cursor = db.cursor()
-db2 =  MySQLdb.connect("localhost","root","baseg","collaboratum")
+db2 =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","collaboratum")
 cursor2 = db2.cursor()
 mylsa = LSA(stopwords, ignorechars,args,cursor,cursor2)
 mylsa.getfaculty()

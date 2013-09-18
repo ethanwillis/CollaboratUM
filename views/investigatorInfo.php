@@ -1,18 +1,18 @@
 <?php
 	//import config file
-    $dbHost = "127.0.0.1";
-	$dbUser = "root";
-	$dbPass = "baseg";
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
-	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	
 	$lsiQueryHost = "localhost";
 	$lsiQueryPort = "50005";
 	
 	$keywdQueryHost = "localhost";
-	$keywdQueryPort = "50004";	
+	$keywdQueryPort = "50004";
+
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
@@ -126,6 +126,7 @@
 		<link href="../res/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
 		<link href="../res/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 		<link rel="stylesheet" href="../res/css/jquery-ui.css">
+		<script type='text/javascript' src='https://www.google.com/jsapi'></script>
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
@@ -136,15 +137,67 @@
 			#explorerTabContent {
 				height: 100% !important;
 			}
+	
+		.accordion-expand-holder {
+    			margin:10px 0;
+		}
+		.accordion-expand-holder .open, .accordion-expand-holder .close {
+    			margin:0 10px 0 0;
+		}
+
+
 		</style>
 		<link rel="stylesheet" href="../res/css/index.css">
 		<script>
+			// Accordion - Expand All #01
+$(function () {
+    $("#accordion").accordion({
+        collapsible:true,
+        active:false,
+	heightStyle: "content"
+    });
+    var icons = $( "#accordion" ).accordion( "option", "icons" );
+    $('.open').click(function () {
+        $('.ui-accordion-header').removeClass('ui-corner-all').addClass('ui-accordion-header-active ui-state-active ui-corner-top').attr({
+            'aria-selected': 'true',
+            'tabindex': '0'
+        });
+        $('.ui-accordion-header-icon').removeClass(icons.header).addClass(icons.headerSelected);
+        $('.ui-accordion-content').addClass('ui-accordion-content-active').attr({
+            'aria-expanded': 'true',
+            'aria-hidden': 'false'
+        }).show();
+        $(this).attr("disabled","disabled");
+        $('.close').removeAttr("disabled");
+    });
+    $('.close').click(function () {
+        $('.ui-accordion-header').removeClass('ui-accordion-header-active ui-state-active ui-corner-top').addClass('ui-corner-all').attr({
+            'aria-selected': 'false',
+            'tabindex': '-1'
+        });
+        $('.ui-accordion-header-icon').removeClass(icons.headerSelected).addClass(icons.header);
+        $('.ui-accordion-content').removeClass('ui-accordion-content-active').attr({
+            'aria-expanded': 'false',
+            'aria-hidden': 'true'
+        }).hide();
+        $(this).attr("disabled","disabled");
+        $('.open').removeAttr("disabled");
+    });
+    $('.ui-accordion-header').click(function () {
+        $('.open').removeAttr("disabled");
+        $('.close').removeAttr("disabled");
+        
+    });
+});
+
 		  $(function() {
 		    $( "#publication_list" ).accordion({
 		    	heightStyle: "content",
-		    	collapsilbe: true
+		    	collapsible: true
 		    });
 		  });
+
+
 		 </script>
 	</head>
 	<body>
@@ -297,27 +350,101 @@
 										
 									}}
 									$sortArray = array(array());
-									for( $x = 0; $x < count($coauthors); $x++)
+									$x = 0;
+									foreach($coauthors as $author)
 									{
-											$sortArray[$x][0] = $coauthors[$x];
+										//$inString = strpos($author, $first_name);
+										//$inString2 = strpos($author, $last_name);
+										if($inString === FALSE || $inString2 === FALSE) {
+											
+										}
+										else {
+											$sortArray[$x][0] = $author;
 											$sortArray[$x][1] = $num[$x];
+										}
+										$x = $x + 1;
 									}
+									/*for( $x = 0; $x < count($coauthors); $x++)
+									{
+
+										$sortArray[$x][0] = $coauthors[$x];
+										$sortArray[$x][1] = $num[$x];
+									}*/
 									
  foreach ($sortArray as $key => $row) {
      		$volume[$key]  = $row[1];
          $edition[$key] = $row[0];
         }
-array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
-         for($y = 1; $y<count($coauthors);$y++){
-						echo $y.".) ".$sortArray[$y][0]." <b>".$sortArray[$y][1]."</b><br>";
-					}
+?>
 
-									
-									?>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the piechart package.
+      google.load('visualization', '1.0', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'CoAuthor');
+        data.addColumn('number', '# Publications');
+        data.addRows([ 
+		<?php for($z = 0; $z < count($sortArray)-1; $z++) {
+			$author = $sortArray[$z]; 
+			echo "['".$author[0]."', ".$author[1]."],";
+			}
+			$author = $sortArray[count($sortArray)-1];
+			echo "['".$author[0]."', ".$author[1]."]";
+		?>
+]);
+
+        // Set chart options
+        var options = {'title':'Top CoAuthors',
+                       'width':700,
+                       'height':450,
+		       'sliceVisibilityThreshold': 1/90};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('coauthor_chart'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="coauthor_chart"></div>
+
+ <script type='text/javascript'>
+       google.load('visualization', '1', {packages:['table']});
+       google.setOnLoadCallback(drawTable);
+       function drawTable() {
+         var data = new google.visualization.DataTable();
+         data.addColumn('string', 'Co-Author');
+         data.addColumn('number', '# Publications');
+         data.addRows([
+          <?php
+                         for($z = 0; $z < count($sortArray)-1; $z++) {
+                                 $author = $sortArray[$z];
+                                echo "[\"".$author[0]."\", ".$author[1]."],";
+                         }
+                         $journal = $sortArray[count($sortArray)-1];
+                         echo "[\"".$author[0]."\", ".$author[1]."]";
+           ?>
+         ]);
+
+        var table = new google.visualization.Table(document.getElementById('coauthors_table'));
+         table.draw(data, {showRowNumber: true, sortColumn: 1, sortAscending: false, width: '700'});
+       }
+     </script>
+         <div id='coauthors_table'></div>
+
 								</div>
 								<div class="tab-pane fade" id="TopJournals">
 										<?php
-									$coauthors = array();
+									$journals = array();
 									$num = array();
 									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
 									for($i = 0 ; $i < mysql_num_rows($result); $i++)
@@ -326,20 +453,20 @@ array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
 											$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'SO' AND publication_id = ".$row['publication_id']);
 											for($j = 0; $j < mysql_num_rows($result2); $j++) {
 												$row2 = mysql_fetch_array($result2);
-												if( !in_array($row2['field_value'], $coauthors)) {
-													$coauthors[count($coauthors)] = $row2['field_value'];
-													$num[count($coauthors)] = 1;
+												if( !in_array($row2['field_value'], $journals)) {
+													$journals[count($journals)] = $row2['field_value'];
+													$num[count($journals)] = 1;
 												}
 												else {
-													$index = array_search($row2['field_value'], $coauthors);
+													$index = array_search($row2['field_value'], $journals);
 													$num[$index] = $num[$index] + 1;
 												}
 										
 									}}
 									$sortArray = array(array());
-									for( $x = 0; $x < count($coauthors); $x++)
+									for( $x = 0; $x < count($journals); $x++)
 									{
-											$sortArray[$x][0] = $coauthors[$x];
+											$sortArray[$x][0] = $journals[$x];
 											$sortArray[$x][1] = $num[$x];
 									}
 								$sortArray[0][1] = 1;	
@@ -347,17 +474,90 @@ array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
      		$volume[$key]  = $row[0];
          $edition[$key] = $row[1];
         }
-array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
-         for($y = 0; $y<count($coauthors);$y++){
-						echo ($y+1).".) ".$sortArray[$y][0]." <b>".$sortArray[$y][1]."</b><br>";
-					}
+?>
 
-									
-									?>
+
+<script type="text/javascript">
+
+       // Load the Visualization API and the piechart package.
+       google.load('visualization', '1.0', {'packages':['corechart']});
+
+       // Set a callback to run when the Google Visualization API is loaded.
+       google.setOnLoadCallback(drawChart);
+
+       // Callback that creates and populates a data table,
+       // instantiates the pie chart, passes in the data and
+       // draws it.
+        function drawChart() {
+
+         // Create the data table.
+         var data = new google.visualization.DataTable();
+         data.addColumn('string', 'Journal');
+         data.addColumn('number', '# Publications');
+         data.addRows([
+                 <?php for($z = 0; $z < count($sortArray)-1; $z++) {
+                         $journal = $sortArray[$z];
+                          echo "[\"".$journal[0]."\", ".$journal[1]."],";
+                         }
+                         $journal = $sortArray[count($sortArray)-1];
+                         echo "[\"".$journal[0]."\", ".$journal[1]."]";
+                 ?>
+ ]);
+
+         // Set chart options
+         var options = {'title':'Top Journals',
+                        'width':700,
+                        'height':450,
+                        'sliceVisibilityThreshold': 1/90};
+
+         // Instantiate and draw our chart, passing in some options.
+         var chart = new google.visualization.PieChart(document.getElementById('journal_chart'));
+         chart.draw(data, options);
+       }
+     </script>
+ <div id="journal_chart"></div>
+
+
+<script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      function drawTable() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Journal Name');
+        data.addColumn('number', '# Publications');
+        data.addRows([
+          <?php
+			for($z = 0; $z < count($sortArray)-1; $z++) {
+                         	$journal = $sortArray[$z];
+                         	echo "[\"".$journal[0]."\", ".$journal[1]."],";
+                        }
+                        $journal = $sortArray[count($sortArray)-1];
+                        echo "[\"".$journal[0]."\", ".$journal[1]."]";
+          ?>
+        ]);
+
+        var table = new google.visualization.Table(document.getElementById('journals_table'));
+        table.draw(data, {showRowNumber: true, sortColumn: 1, sortAscending: false});
+      }
+    </script>
+	<div id='journals_table'></div>
+
 								</div>
 								<div class="tab-pane fade" id="Publications">
 									<!-- TODO insert js for accordion in head -->
-									<div id="publication_list">
+
+<script type="text/javascript">
+$( document ).ready(function() {
+
+$("#expandAllPublications").trigger("click");
+});
+</script>									
+
+<div class="accordion-expand-holder">
+    <button id="expandAllPublications" type="button" class="open">Expand all</button>
+    <button type="button" class="close">Collapse all</button>
+</div>
+									<div id="accordion">
 									<?php
 										$result = mysql_query( "SELECT collaboratum.publication_information.publication_id FROM collaboratum.publication_information WHERE collaboratum.publication_information.investigator_id = ".$id." GROUP BY collaboratum.publication_information.publication_id") or die(mysql_error());
 
@@ -382,12 +582,16 @@ array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
 														<b><em>Journal: </em></b>
 															".$publicationInfo['JT']."
 													</tr>
-													<br>
+													<br>";
+											if(isset($publicationInfp['DI'])) {
+											$publication = $publication."
 													<tr>
 														<b><em>DOI Link: </em></b>
 															<a href=http://dx.doi.org/".$publicationInfo['DI'].">".$publicationInfo['DI']."<i class=\"icon-share-alt\"></i></a>
 													</tr>
-													<br>
+													<br>";
+}
+											$publication = $publication."
 													<tr>
 														<b><em>PMID: </em></b>
 															".$publicationInfo['PMID-']."
@@ -521,7 +725,6 @@ array_multisort($volume, SORT_DESC, $edition, SORT_ASC, $sortArray);
 									</table>
 								</div>
 								<div class="tab-pane fade" id="Histogram">
-									<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 									<script type="text/javascript">
 								      google.load("visualization", "1", {packages:["corechart"]});
 								      google.setOnLoadCallback(drawChart);

@@ -1,19 +1,19 @@
 <?php 
 	//import config file
-	$dbHost = "127.0.0.1";
-	$dbUser = "root";
-	$dbPass = "baseg";
+	$dbUser = "Collaboratum";
+	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
 	
-	$baseURL = "http://projects.codemelody.com/Collaboratum";
+	$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	
 	$lsiQueryHost = "localhost";
 	$lsiQueryPort = "50005";
 	
 	$keywdQueryHost = "localhost";
-	$keywdQueryPort = "50004";	
-    /*
+	$keywdQueryPort = "50004";    	
+
+	/*
 	 * Get the search query and the type of query.
 	 * 
 	 * $query: The search string to use against the database 
@@ -393,17 +393,17 @@
 							    </a>
 							    <ul class="dropdown-menu">
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
+							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
 							    			Biology 
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
+							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
 							    			Chemistry
 							    		</a>
 							    	</li>
 							    	<li>
-							    		<a href="http://projects.codemelody.com/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
+							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
 							    			Biomedical Engineering
 							    		</a>
 							    	</li>
@@ -894,7 +894,7 @@
                   var visual_style = {
                       "nodes": {
                           "shape": "RECTANGLE",
-                          "label": "",// { "passthroughMapper": { "attrName": "label" } },
+                          "label": "", //{ "passthroughMapper": { "attrName": "label" } },
                           "borderColor": "#83959d",
                           "color": { "discreteMapper": nodeColorMapper  },
                       },
@@ -988,10 +988,10 @@
 					var node = evt.target;
 					var id = node.data.id;
 					if(id <= 57) {
-						window.location.href = "http://projects.codemelody.com/Collaboratum/views/investigatorInfo.php?id="+id;
+						window.location.href = "http://binf1.memphis.edu/Collaboratum/views/investigatorInfo.php?id="+id;
 					}
 					else if(id > 285) {
-						window.location.href = "http://projects.codemelody.com/Collaboratum/views/grantInfo.php?id="+id;
+						window.location.href = "http://binf1.memphis.edu/Collaboratum/views/grantInfo.php?id="+id;
 					}
 					else {
 						alert("There is currently no extra information for classes available");
@@ -1239,11 +1239,11 @@
     	var value = data.value;
 			if(value == true) {
 				//Concept Search
-				window.location.href = "<?php echo "http://projects.codemelody.com/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=".$searchType; ?>";
+				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=".$searchType; ?>";
 			}
 			else {
 				//Keyword Search
-				window.location.href = "<?php echo "http://projects.codemelody.com/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=true&searchType=".$searchType; ?>";
+				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=true&searchType=".$searchType; ?>";
 			}
 		});
 
