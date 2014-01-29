@@ -122,11 +122,12 @@ class LSA(object):
                self.cursor.execute("SELECT col2, col1  FROM doc_term_frequency_matrix WHERE col0=%s ;",(self.wdict[w1][0],))
                for data1 in self.cursor:
                  
-                 #if self.cursor.rowcount>0:
+                 #if float(data1[0])>140:
                   #data1=self.cursor.fetchone()
-                 # print "rownum"+" "+str(self.wdict[w1][0])+ "rownum"+" "+str(k) 
+                  #print "rownum"+" "+str(data1[1]-1)
+                  #import pdb; pdb.set_trace()
                   #print "resutl num"+str(self.cursor.rowcount)
-                  self.resultarr[currlinum,data1[1]-1]=self.resultarr[currlinum,data1[1]-1]+float(data1[0]) 
+                 self.resultarr[currlinum,data1[1]-1]=self.resultarr[currlinum,data1[1]-1]+float(data1[0]) 
                  # change the global index into the one in its own category when filter is done at first 
                  
                  
@@ -134,12 +135,12 @@ class LSA(object):
           if self.validkeys[0,currlinum]>0:
            self.resultarr[currlinum,0:self.facultynum]=self.resultarr[currlinum,0:self.facultynum]/self.validkeys[0,currlinum]
         #f4=open("/var/www/html/Collaboratum/query/queryresults.txt","w+")
-        self.keptnum=0 
-        self.keptarr=[]
-        if  ',' in t1:
-          typekeptarr=t1.split(',')
+           self.keptnum=0 
+           self.keptarr=[]
+           if  ',' in t1:
+            typekeptarr=t1.split(',')
           #import pdb; pdb.set_trace()
-          for j in typekeptarr:
+            for j in typekeptarr:
              typekept=int(j)
              if typekept==2: 
                self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("investigator",))
@@ -153,40 +154,44 @@ class LSA(object):
              for i in self.cursor2:
                self.keptarr.append(int(i[0]))  
             #import pdb; pdb.set_trace() 
-        else:
-          typekept=int(t1)
-          
-          if typekept==2: 
-            self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("investigator",))
-          if typekept==1: 
-            self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("grant",))
-          if typekept==3: 
-            self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("class",))
-          if typekept==0: 
-            self.cursor2.execute("SELECT investigator_id FROM investigator ;")
-          self.keptnum=int (self.cursor2.rowcount)
-          for i in self.cursor2:
-            self.keptarr.append(int(i[0])) 
-        for i in range(self.linum):
-         if self.validkeys[0,i]>0:
-                 
-          currlist=[]
-          currnum=0
-          for j in range(self.facultynum):
-           if int(self.facultyarr[j]) in self.keptarr:
-            #print self.facultyarr[j]
-            #import pdb; pdb.set_trace()
+           else:
+            typekept=int(t1)
+            #import pdb; pdb.set_trace() 
+            if typekept==2: 
+             self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("investigator",))
+            if typekept==1: 
+             self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("grant",))
+            if typekept==3: 
+             self.cursor2.execute("SELECT investigator_id FROM investigator WHERE type=%s ;",("class",))
+            if typekept==0: 
+             self.cursor2.execute("SELECT investigator_id FROM investigator ;")
+            self.keptnum=int (self.cursor2.rowcount)
+            for i in self.cursor2:
+              self.keptarr.append(int(i[0]))
+              #print str(i[0])+ " kept here" 
+           for i in range(self.linum):
+             if self.validkeys[0,i]>0:
+              #import pdb; pdb.set_trace()   
+              currlist=[]
+              currnum=0
+              for j in range(self.facultynum):
+                #print str(self.facultyarr[j])+"num " +str(self.facultynum)+" here"+" j"+str(j)
+                if int(self.facultyarr[j]) in self.keptarr:
+	          #import pdb; pdb.set_trace() 
+                  gb=int(self.facultyarr[j])-1   
+                  print str(self.facultyarr[j])+ " "+ str(self.resultarr[i,gb])           #import pdb; pdb.set_trace()
             #currlist[currnum]=Faculty(str(self.facultyarr[j]),float(self.resultarr[i,j]))
-            currlist.append(Faculty(str(self.facultyarr[j]),float(self.resultarr[i,j]/self.validkeys[0,i])))
-            currnum=currnum+1
+            
+                  currlist.append(Faculty(str(self.facultyarr[j]),float(self.resultarr[i,gb]/self.validkeys[0,i])))
+                  currnum=currnum+1
            #currlist[j]=Faculty(self.facultyarr[j],self.resultarr[i,j]/self.validkeys[0,i])
            #currlist[j]=Faculty("sdf",self.resultarr[i,j])
-          print  currnum
-          sortfaculty=sorted(currlist, key=lambda Faculty: Faculty.matchingdegree,reverse=True)
-          for j in sortfaculty:
+           print  currnum
+           sortfaculty=sorted(currlist, key=lambda Faculty: Faculty.matchingdegree,reverse=True)
+           for j in sortfaculty:
             returnstr= returnstr+j.printfaculty()+"\n"
-           
-         else: 
+           returnstr= returnstr+"\0"
+          else: 
             returnstr= "no corresponding term in the dictionary"
           
         return returnstr
@@ -195,12 +200,37 @@ class LSA(object):
     
     def getfaculty(self):
         self.facultyarr=[]
+        self.facultynum=2000
+        tempint=0
+        f4=open("/var/www/html/Collaboratum/res/doc_name.txt","r")
+        while 1:
+          line2=f4.readline()
+          
+          if not line2: break
+          
+        
+          words = line2.split();
+          colnum=0 
+          #import pdb; pdb.set_trace()     
+          for w in words:
+            #self.facultynum=self.facultynum+1
+            w1 = w 
+            tempint=tempint+1     
+            self.facultyarr.append(w1)
+            #import pdb; pdb.set_trace()  
+          
+             
+        f4.close()
+        
+        for j in range(tempint,2001):
+             self.facultyarr.append(0)
+       
        # for j in self.Facultyind:
-        self.cursor.execute("SELECT col0 FROM doc_pairwise_cosine_matrix;")
+        #self.cursor.execute("SELECT col0 FROM doc_pairwise_cosine_matrix;")
         # specify the type to select  at first can further improve efficiency 
-        self.facultynum=int (self.cursor.rowcount)
-        for i in self.cursor:
-             self.facultyarr.append(i[0])
+        #self.facultynum=int (self.cursor.rowcount)
+        #for i in self.cursor:
+             #self.facultyarr.append(i[0])
 def procthread(connection, lsiobj,addr): 
       locallsi=lsiobj  
       loop=0 
@@ -216,8 +246,8 @@ def procthread(connection, lsiobj,addr):
             pack=content.split('|')
           
             resultstr=lsiobj.queryA(pack[1],pack[0])
-            connection.sendall(resultstr+"\0")
-            print "message sent" + resultstr
+            connection.sendall(resultstr)
+            print "message sent"
         except Exception,e:
            print "dropping connection"
            return
@@ -252,3 +282,4 @@ s.close()
 
 db.close()
 db2.close()
+

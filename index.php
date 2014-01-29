@@ -82,7 +82,7 @@ $dbUser = "Collaboratum";
   						<img src="/Collaboratum/res/images/collaboratum_logo_dark.png" alt="CollaboratUM">
   					</div>
   					<div class="span10 center text-center well vspace-small alpha">
-						<form class="form-inline" action="/Collaboratum/views/results.php">
+						<form class="form-inline" action="views/results.php" method="POST">
 							<div class="span11">
 								<div class="input-prepend input-append text-left">
 									<div class="btn-group">

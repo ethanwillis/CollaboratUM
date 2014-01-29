@@ -87,7 +87,7 @@ class LSA(object):
 
        
         #self.U =zeros([self.wordnum, self.A.shape[1]])
-        self.cursor.execute("SELECT * FROM u;")
+        self.cursor.execute("SELECT * FROM U;")
         for i in self.cursor:
          if linenum==0:
           rowlength=len(i)
@@ -105,7 +105,7 @@ class LSA(object):
 
        
         self.Vt =zeros([self.U.shape[1], self.U.shape[0]])
-        self.cursor.execute("SELECT * FROM vt;")
+        self.cursor.execute("SELECT * FROM Vt;")
         for i in self.cursor:
           colnum=0
           for j in i:
@@ -117,7 +117,7 @@ class LSA(object):
           linenum=linenum+1
         linenum=0
         self.Sarr =[]
-        self.cursor.execute("SELECT * FROM sarr;")
+        self.cursor.execute("SELECT * FROM Sarr;")
         for i in self.cursor:
           colnum=0
           for j in i:
@@ -255,7 +255,8 @@ class LSA(object):
           for j in sortfaculty:
            #f4.write(j.printfaculty())
             returnstr=returnstr+j.printfaculty()+"\n"
-           #f4.write('\n') 
+          returnstr=returnstr+"\0"
+ #f4.write('\n') 
          else: 
            returnstr= "no corresponding term in the dictionary"
 #f4.write("no corresponding term in the dictionary")
@@ -282,20 +283,25 @@ class LSA(object):
 def procthread(connection, lsiobj,addr): 
       locallsi=lsiobj  
       loop=0 
-      content="" 
+      content=""   
       while content!="ack":
         print str(addr)+"   working"
-        content= connection.recv(1024)
-        print "received   "+content
-        if not content:break
-        if  '|' in content:
-          pack=content.split('|')
+        try:
+          content= connection.recv(1024)
+          if not content:break
+          print "received   "+content
           
-          resultstr=lsiobj.queryA(pack[1],pack[0])
-          connection.sendall(resultstr+"\0")
-          print "message sent"
+          if  '|' in content:
+            pack=content.split('|')
+          
+            resultstr=lsiobj.queryA(pack[1],pack[0])
+            connection.sendall(resultstr)
+            print "message sent"
+        except Exception,e:
+           print "dropping connection"
+           return
       print str(addr)+"   quiting"    
-  
+        
 displaytype=0       
 opts, args=getopt.getopt(sys.argv[1:],"t:") 
 db =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","parsingdata")
@@ -306,7 +312,7 @@ cursor2 = db2.cursor()
 for o,p in opts:
   if o in ['-t','--type']:
      displaytype=p
-#db2 =  MySQLdb.connect("localhost","Collaboratum","Collaboratum","collaboratum")
+#db2 =  MySQLdb.connect("localhost","Colla","123456","collaboratum")
 #cursor2 = db2.cursor()
 #print str(displaytype)
 mylsa = LSA(stopwords, ignorechars,args,cursor,cursor2)
@@ -330,4 +336,5 @@ while 1:
  t.start() 
 s.close()  
 db.close()
+
 

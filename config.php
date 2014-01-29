@@ -13,9 +13,9 @@
 	
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
-	
-	/*binf1 settings
-	$dbUser = "Collaboratum";
+			
+
+      /*$dbUser = "Collaboratum";
 	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
@@ -27,7 +27,7 @@
 	
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
-	 * */
+           */	
 	 
 	
 ?>

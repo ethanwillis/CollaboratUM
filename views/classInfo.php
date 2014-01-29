@@ -1,15 +1,11 @@
 <?php
 	//import config file
- $dbHost = "127.0.0.1";
-$dbUser = "root";
-$dbPass = "baseg;"
+$dbHost = "127.0.0.1";
+$dbUser = "Collaboratum";
+$dbPass = "Collaboratum";
 $dbNameGeneral = "collaboratum";
 $dbNameNetwork = "parsingdata";
-$baseURL = "http://projects.codemelody.com/Collaboratum";
-$lsiQueryHost = "localhost";
-$lsiQueryPort = "50005";
-$keywdQueryHost = "localhost";
-$keywdQueryPort = "50004";
+$baseURL = "http://binf1.memphis.edu/Collaboratum";
 	// get the ID for this grant
 	$id = $_GET['id'];
 	
@@ -22,7 +18,7 @@ $keywdQueryPort = "50004";
 	        or die(mysql_error());  
 			
 	// Then we take the results from the database and store them in a row
-	$row = mysql_fetch_array( $resolvedID);
+	$row = mysql_fetch_array($resolvedID);
 	
 	$classNum = $row['first_name'];
 	$classTitle = $row['title'];
@@ -86,13 +82,13 @@ $keywdQueryPort = "50004";
   							
   								<blockquote class="pull-left">
   <h3 class="text-center"><?php echo $classNum; ?></h3>
-  <small><?php echo $classTitle ?></small>
+  <small><?php echo $classTitle; ?></small>
 </blockquote>
   							
   						</div>
   						<div class="span12 well text-left">
   							
-							<h5>Descrpiption: <?php echo $classDesc;?></h5>
+							<h5>Description: <?php echo $classDesc;?></h5>
 							<hr>
 							
   						</div>
@@ -131,10 +127,9 @@ $keywdQueryPort = "50004";
                     Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
                   </div>
                 </div>
-			</div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-			</div>
+			</div></div>
 		</div>
 		
 		<!-- Modal that provides help information for the current page -->
@@ -151,14 +146,12 @@ $keywdQueryPort = "50004";
 			    	</a>
 				</li>
 			</ul>
-			</div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-			</div>
-		</div>
+			</div></div>
 			<div class="modal-footer">
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-			</div>
+			</div></div>
 		</div>
 		<!-- End Modals -->
 		

@@ -101,7 +101,7 @@
 		if($i >= 288)
 		{
 			// store sim score
-			$grants[$i-288][0] = $row['col0'];
+			$grants[$i-288][0] = $row['col'.$id];
 			// store the id
 			$grants[$i-288][1] = $i+1;
 		}
@@ -330,7 +330,15 @@ $(function () {
 								</div>
 								<div class="tab-pane fade" id="TopCoAuthors">
 									<?php
-									$coauthors = array();
+								$names = explode(" ", $first_name);
+                                                                             if(isset($names[0])){
+                                                                                     $first_name = $names[0];
+                                                                             }
+                                                                             if(isset($names[1])){
+                                                                                     $last_name = $names[1];
+                                                                            }
+
+										$coauthors = array();
 									$num = array();
 									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
 									for($i = 0 ; $i < mysql_num_rows($result); $i++)
@@ -340,29 +348,41 @@ $(function () {
 											for($j = 0; $j < mysql_num_rows($result2); $j++) {
 												$row2 = mysql_fetch_array($result2);
 												if( !in_array($row2['field_value'], $coauthors)) {
-													$coauthors[count($coauthors)] = $row2['field_value'];
-													$num[count($coauthors)] = 1;
+													$inString = strpos($row2['field_value'], $first_name);
+													$inString2 = strpos($row2['field_value'], $last_name);
+													if($inString === FALSE && $inString2 === FALSE){
+														$coauthors[count($coauthors)] = $row2['field_value'];
+														$num[count($coauthors)] = 1;
+													}
 												}
 												else {
 													$index = array_search($row2['field_value'], $coauthors);
 													$num[$index] = $num[$index] + 1;
 												}
 										
-									}}
+										       }
+										
+									}
 									$sortArray = array(array());
 									$x = 0;
+									$names = explode(" ", $first_name);
+									if(isset($names[0])){
+										$first_name = $names[0];
+									}
+									if(isset($names[1])){
+										$last_name = $names[1];
+									}
 									foreach($coauthors as $author)
 									{
-										//$inString = strpos($author, $first_name);
-										//$inString2 = strpos($author, $last_name);
-										if($inString === FALSE || $inString2 === FALSE) {
-											
-										}
-										else {
+										$inString = strpos($author, $first_name);
+										$inString2 = strpos($author, $last_name);
+										if($inString === FALSE && $inString2 === FALSE) {
 											$sortArray[$x][0] = $author;
 											$sortArray[$x][1] = $num[$x];
+											$x = $x + 1;
 										}
-										$x = $x + 1;
+										else {
+										}
 									}
 									/*for( $x = 0; $x < count($coauthors); $x++)
 									{
@@ -396,7 +416,9 @@ $(function () {
         data.addColumn('number', '# Publications');
         data.addRows([ 
 		<?php for($z = 0; $z < count($sortArray)-1; $z++) {
-			$author = $sortArray[$z]; 
+			$author = $sortArray[$z];
+			$author[0] = str_replace(",", "", $author[0]);
+			if(!isset($author[1])) { $author[1] = 1; }
 			echo "['".$author[0]."', ".$author[1]."],";
 			}
 			$author = $sortArray[count($sortArray)-1];
@@ -408,7 +430,7 @@ $(function () {
         var options = {'title':'Top CoAuthors',
                        'width':700,
                        'height':450,
-		       'sliceVisibilityThreshold': 1/90};
+		       'sliceVisibilityThreshold': 1/1000};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('coauthor_chart'));
@@ -426,8 +448,9 @@ $(function () {
          data.addColumn('number', '# Publications');
          data.addRows([
           <?php
-                         for($z = 0; $z < count($sortArray)-1; $z++) {
+	                         for($z = 0; $z < count($sortArray)-1; $z++) {
                                  $author = $sortArray[$z];
+if(!isset($author[1])) { $author[1] = 1; }
                                 echo "[\"".$author[0]."\", ".$author[1]."],";
                          }
                          $journal = $sortArray[count($sortArray)-1];

@@ -27,13 +27,29 @@
 	 * 		'true'  - Use Keyword search
 	 * 		'false' - Use LSI search
 	 */ 
-	$query = $_GET['searchBox'];
-	$searchType = $_GET['searchType'];
+	$query = $_POST['searchBox'];
+	if( isset($_POST['searchBox']) ) {
+		$query = $_POST['searchBox'];
+	}
+	else if ( isset($_GET['searchBox']) ) {
+		$query = $_GET['searchBox'];
+	}
+	$searchType = $_POST['searchType'];
+	if( isset($_POST['searchType']) ) {
+		$searchType = $_POST['searchType'];
+	}
+	else if( isset($_GET['searchType']) ) {
+		$searchType = $_GET['searchType'];
+	}
 	$largestSimilarity = 0;
 	$unresolved;
 	$histogram;
 	
-	if( isset($_GET['exactSearch']) )
+	if( isset($_POST['exactSearch']) )
+	{
+		$exactSearch = $_POST['exactSearch'];
+	}
+	else if( isset($_GET['exactSearch']) ) 
 	{
 		$exactSearch = $_GET['exactSearch'];
 	}
@@ -63,6 +79,8 @@
 					$queryResult = querySearchService($lsiQueryHost, $keywdQueryPort, $query, $searchType);
           $queryResult = explode("\n", $queryResult);
 					$largestSimilarity = findLargestSimilarity( $queryResult );
+					
+					//echo "finish similar";
 					if($exactSearch === "true" )
 					{
 						// pass the largest similarity from the keyword search
@@ -289,7 +307,7 @@
 	 * 		2 - return results containing only investigators.
 	 */
     function querySearchService($hostname, $port, $query, $type)
-    {
+    {     //echo "enter";
         $sock = socket_create(AF_INET, SOCK_STREAM, 0);
         $message = $type." | ".$query;
         
@@ -299,7 +317,7 @@
             $errormsg = socket_strerror($errorcode);
             die("Couldn't create socket: [$errorcode] $errormsg \n");
         }
-        
+        //echo "creation";
         if(!socket_connect($sock , $hostname, $port))
         {
             $errorcode = socket_last_error();
@@ -319,10 +337,12 @@
 	$buffer = "";
 	$in = "";
 
-	while( ( $res = socket_recv($sock, $buffer, 1, MSG_PEEK) ) != FALSE && $buffer != "\0" )
+	//while( ( $res = socket_recv($sock, $buffer, 1, MSG_PEEK) ) != FALSE && $buffer != "\0" )
 	{
+		
+		socket_recv($sock, $buffer, 2048, MSG_WAITALL);
 		$in .= $buffer;
-		socket_recv($sock, $buffer, 1, MSG_WAITALL);
+		//echo $buffer . "  ";
 	}
 	$message = "ack";
         if( !socket_send( $sock, $message, strlen($message), 0 ) )
@@ -558,7 +578,7 @@
 																				</td>
 																				</tr>';
 																			}
-																			else
+																			else if( $id >= 289)
 																			{
 																				echo '<tr>
 																				<td>'.($numResults).'</td>
@@ -572,6 +592,10 @@
 																				</td>
 																				</tr>';
 																			}
+else {
+
+echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.php?id='.$id.'">'.$name.'</a></td><td>'.($score).'</td></tr>';
+}
 												 					   }
 							                                        }
 							                                    ?>
@@ -873,7 +897,7 @@
 				$.ajax({
 					type: 'POST',
 					url: "../res/scripts/getGraph.php",
-					data: <?php echo "{threshHold: \"0.1\", queryTerm: \"".$query."\", queryResult: \"".preg_replace('/\s+/', ' ', trim(implode("~", $queryResult)))."\"}"; ?>, 
+					data: <?php echo "{threshHold: \"0.4\", queryTerm: \"".$query."\", queryResult: \"".preg_replace('/\s+/', ' ', trim(implode("~", $queryResult)))."\"}"; ?>, 
 					dataType: "json",
 					async: false,
 					success: function(data) {
@@ -940,7 +964,7 @@
 				range: "min",
 				min: 0,
 				max: <?php echo $largestSimilarity; ?>, 
-				value: 0.1,
+				value: 10,
 				step: 0.05,
 				slide: function( event, ui ) {
 					$( "#amount" ).val( ui.value );
@@ -994,7 +1018,7 @@
 						window.location.href = "http://binf1.memphis.edu/Collaboratum/views/grantInfo.php?id="+id;
 					}
 					else {
-						alert("There is currently no extra information for classes available");
+						window.location.href = "http://binf1.memphis.edu/Collaboratum/views/classInfo.php?id="+id;
 					}
 
 					});
@@ -1239,11 +1263,11 @@
     	var value = data.value;
 			if(value == true) {
 				//Concept Search
-				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=".$searchType; ?>";
+				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=0"//.$searchType; ?>";
 			}
 			else {
 				//Keyword Search
-				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=true&searchType=".$searchType; ?>";
+				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=true&searchType=1"//.$searchType; ?>";
 			}
 		});
 
