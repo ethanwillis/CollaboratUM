@@ -1,6 +1,6 @@
 <?php
 	//import config file
-$dbUser = "Collaboratum";
+	$dbUser = "Collaboratum";
 	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
@@ -115,17 +115,16 @@ $dbUser = "Collaboratum";
 								    	</ul>
 								    </div>
 									<input id="searchType" type="hidden" name="exactSearch" value="true"> Keyword Search
-	                    			<input id="filterType" type="hidden" name="searchType" value="0"> 
-	                    			<input id="isFlashEnabled" name="isFlashEnabled" type="hidden" value="">
+	                <input id="filterType" type="hidden" name="searchType" value="0"> 
+	                <input id="isFlashEnabled" name="isFlashEnabled" type="hidden" value="">
 								</div>
 							    <button type="submit" class="btn btn-primary">Search!</button> 
 							</div>
 						</form>
 					</div>
-  				</div>
   			</div>
-					
-		</div>
+  		</div>
+	</div>
 </div>
 		<!-- End Body Scaffolding -->
 		
@@ -197,10 +196,6 @@ $dbUser = "Collaboratum";
 					<li>Conceptual Search - A conceptual search differs from keyword search in that it looks for implied associations in a dataset using the given keyword(s). </li>
 				</ul>
 
-
-
-
-
 				<h3><a name="help3">Search Interface (Filters):</a></h3>
 				
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface3.png"><br>
@@ -213,7 +208,6 @@ $dbUser = "Collaboratum";
 				<br>
 				<br>
 				<p style="text-indent: 3em;">Simply check the checkboxes next to the datasets you wish to include in your results and click "Close." The filter will then be applied and you can begin searching with it. </p>
-
 
 			</div>
 			<div class="modal-footer">

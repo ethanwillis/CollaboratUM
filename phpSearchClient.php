@@ -10,24 +10,23 @@
     $queryResult = explode("\r\n", $queryResult);
 
     echo "<div id='lsi' style='float: left; border-width: 1px;'>numResults: ".count($queryResult)."<br>";
-
     for($i = 0; $i < count($queryResult) - 1; $i++)
     {
-    	$entry = explode(" ", $queryResult[$i]);
+			$entry = explode(" ", $queryResult[$i]);
+			mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+			mysql_select_db($dbNameGeneral) or die(mysql_error());
 
-    	mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-		mysql_select_db($dbNameGeneral) or die(mysql_error());
+			// Retrieve all the data from the "example" table
+			$result = mysql_query("SELECT `investigator`.name FROM investigator WHERE `investigator`.investigator_id = ".$entry[0]."")
+								or die(mysql_error());  
 
-		// Retrieve all the data from the "example" table
-		$result = mysql_query("SELECT `investigator`.name FROM investigator WHERE `investigator`.investigator_id = ".$entry[0]."")
-		or die(mysql_error());  
+			// store the record of the "example" table into $row
+			$row = mysql_fetch_array( $result );
 
-		// store the record of the "example" table into $row
-		$row = mysql_fetch_array( $result );
-		// Print out the contents of the entry 
-		$entry[0] = $row['name'];
-		echo "Result ".$i.": ".$queryResult[$i]."<br>";
-		$queryResult[$i] = implode(" ", $entry);
+			// Print out the contents of the entry 
+			$entry[0] = $row['name'];
+			echo "Result ".$i.": ".$queryResult[$i]."<br>";
+			$queryResult[$i] = implode(" ", $entry);
     }
     echo "</div>";
 

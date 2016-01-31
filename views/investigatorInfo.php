@@ -329,39 +329,37 @@ $(function () {
 						            </div>
 								</div>
 								<div class="tab-pane fade" id="TopCoAuthors">
-									<?php
-								$names = explode(" ", $first_name);
-                                                                             if(isset($names[0])){
-                                                                                     $first_name = $names[0];
-                                                                             }
-                                                                             if(isset($names[1])){
-                                                                                     $last_name = $names[1];
-                                                                            }
+								<?php
+									$names = explode(" ", $first_name);
+									if(isset($names[0])) {
+										$first_name = $names[0];
+									}
+                  if(isset($names[1])) {
+										$last_name = $names[1];
+                  }
 
-										$coauthors = array();
+									$coauthors = array();
 									$num = array();
 									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
 									for($i = 0 ; $i < mysql_num_rows($result); $i++)
 									{
-											$row = mysql_fetch_array($result);
-											$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'AU' AND publication_id = ".$row['publication_id']);
-											for($j = 0; $j < mysql_num_rows($result2); $j++) {
-												$row2 = mysql_fetch_array($result2);
-												if( !in_array($row2['field_value'], $coauthors)) {
-													$inString = strpos($row2['field_value'], $first_name);
-													$inString2 = strpos($row2['field_value'], $last_name);
-													if($inString === FALSE && $inString2 === FALSE){
-														$coauthors[count($coauthors)] = $row2['field_value'];
-														$num[count($coauthors)] = 1;
-													}
+										$row = mysql_fetch_array($result);
+										$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'AU' AND publication_id = ".$row['publication_id']);
+										for($j = 0; $j < mysql_num_rows($result2); $j++) {
+											$row2 = mysql_fetch_array($result2);
+											if( !in_array($row2['field_value'], $coauthors)) {
+												$inString = strpos($row2['field_value'], $first_name);
+												$inString2 = strpos($row2['field_value'], $last_name);
+												if($inString === FALSE && $inString2 === FALSE) {
+													$coauthors[count($coauthors)] = $row2['field_value'];
+													$num[count($coauthors)] = 1;
 												}
-												else {
-													$index = array_search($row2['field_value'], $coauthors);
-													$num[$index] = $num[$index] + 1;
-												}
-										
-										       }
-										
+											}
+											else {
+												$index = array_search($row2['field_value'], $coauthors);
+												$num[$index] = $num[$index] + 1;
+											}
+									  }
 									}
 									$sortArray = array(array());
 									$x = 0;
@@ -391,11 +389,12 @@ $(function () {
 										$sortArray[$x][1] = $num[$x];
 									}*/
 									
- foreach ($sortArray as $key => $row) {
-     		$volume[$key]  = $row[1];
-         $edition[$key] = $row[0];
-        }
-?>
+									foreach ($sortArray as $key => $row) 
+									{
+										$volume[$key]  = $row[1];
+										$edition[$key] = $row[0];
+        					}
+							?>
 
     <script type="text/javascript">
 
@@ -448,13 +447,15 @@ $(function () {
          data.addColumn('number', '# Publications');
          data.addRows([
           <?php
-	                         for($z = 0; $z < count($sortArray)-1; $z++) {
-                                 $author = $sortArray[$z];
-if(!isset($author[1])) { $author[1] = 1; }
-                                echo "[\"".$author[0]."\", ".$author[1]."],";
-                         }
-                         $journal = $sortArray[count($sortArray)-1];
-                         echo "[\"".$author[0]."\", ".$author[1]."]";
+						for($z = 0; $z < count($sortArray)-1; $z++) {
+							$author = $sortArray[$z];
+							if(!isset($author[1])) { 
+								$author[1] = 1; 
+							}
+							echo "[\"".$author[0]."\", ".$author[1]."],";
+						}
+						$journal = $sortArray[count($sortArray)-1];
+						echo "[\"".$author[0]."\", ".$author[1]."]";
            ?>
          ]);
 
@@ -466,38 +467,38 @@ if(!isset($author[1])) { $author[1] = 1; }
 
 								</div>
 								<div class="tab-pane fade" id="TopJournals">
-										<?php
+								<?php
 									$journals = array();
 									$num = array();
 									$result = mysql_query("SELECT publication_id FROM publications where investigator_id = ".$id) or die(mysql_error());
 									for($i = 0 ; $i < mysql_num_rows($result); $i++)
 									{
-											$row = mysql_fetch_array($result);
-											$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'SO' AND publication_id = ".$row['publication_id']);
-											for($j = 0; $j < mysql_num_rows($result2); $j++) {
-												$row2 = mysql_fetch_array($result2);
-												if( !in_array($row2['field_value'], $journals)) {
-													$journals[count($journals)] = $row2['field_value'];
-													$num[count($journals)] = 1;
-												}
-												else {
-													$index = array_search($row2['field_value'], $journals);
-													$num[$index] = $num[$index] + 1;
-												}
-										
-									}}
+										$row = mysql_fetch_array($result);
+										$result2 = mysql_query("SELECT field_value FROM publication_data where medline_field = 'SO' AND publication_id = ".$row['publication_id']);
+										for($j = 0; $j < mysql_num_rows($result2); $j++) {
+											$row2 = mysql_fetch_array($result2);
+											if( !in_array($row2['field_value'], $journals)) {
+												$journals[count($journals)] = $row2['field_value'];
+												$num[count($journals)] = 1;
+											}
+											else {
+												$index = array_search($row2['field_value'], $journals);
+												$num[$index] = $num[$index] + 1;
+											}
+										}
+									}
 									$sortArray = array(array());
 									for( $x = 0; $x < count($journals); $x++)
 									{
-											$sortArray[$x][0] = $journals[$x];
-											$sortArray[$x][1] = $num[$x];
+										$sortArray[$x][0] = $journals[$x];
+										$sortArray[$x][1] = $num[$x];
 									}
-								$sortArray[0][1] = 1;	
- foreach ($sortArray as $key => $row) {
-     		$volume[$key]  = $row[0];
-         $edition[$key] = $row[1];
-        }
-?>
+									$sortArray[0][1] = 1;	
+									foreach ($sortArray as $key => $row) {
+										$volume[$key]  = $row[0];
+										$edition[$key] = $row[1];
+        					}
+								?>
 
 
 <script type="text/javascript">
@@ -518,13 +519,14 @@ if(!isset($author[1])) { $author[1] = 1; }
          data.addColumn('string', 'Journal');
          data.addColumn('number', '# Publications');
          data.addRows([
-                 <?php for($z = 0; $z < count($sortArray)-1; $z++) {
-                         $journal = $sortArray[$z];
-                          echo "[\"".$journal[0]."\", ".$journal[1]."],";
-                         }
-                         $journal = $sortArray[count($sortArray)-1];
-                         echo "[\"".$journal[0]."\", ".$journal[1]."]";
-                 ?>
+				<?php 
+					for($z = 0; $z < count($sortArray)-1; $z++) {
+						$journal = $sortArray[$z];
+						echo "[\"".$journal[0]."\", ".$journal[1]."],";
+					}
+					$journal = $sortArray[count($sortArray)-1];
+					echo "[\"".$journal[0]."\", ".$journal[1]."]";
+				?>
  ]);
 
          // Set chart options
@@ -550,12 +552,12 @@ if(!isset($author[1])) { $author[1] = 1; }
         data.addColumn('number', '# Publications');
         data.addRows([
           <?php
-			for($z = 0; $z < count($sortArray)-1; $z++) {
-                         	$journal = $sortArray[$z];
-                         	echo "[\"".$journal[0]."\", ".$journal[1]."],";
-                        }
-                        $journal = $sortArray[count($sortArray)-1];
-                        echo "[\"".$journal[0]."\", ".$journal[1]."]";
+						for($z = 0; $z < count($sortArray)-1; $z++) {
+							$journal = $sortArray[$z];
+							echo "[\"".$journal[0]."\", ".$journal[1]."],";
+						}
+						$journal = $sortArray[count($sortArray)-1];
+						echo "[\"".$journal[0]."\", ".$journal[1]."]";
           ?>
         ]);
 

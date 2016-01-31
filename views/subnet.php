@@ -15,14 +15,14 @@
 	$keywdQueryHost = "localhost";
 	$keywdQueryPort = "50004";
 ?>
- <?php
+<?php
                
-        			// Get the indices of the ids to use
-                   $startId = $_GET['startId'];
+        	 // Get the indices of the ids to use
+           $startId = $_GET['startId'];
 				   $endId = $_GET['endId'];
 				   $title = $_GET['title'];
                             
-        ?>
+?>
        
 <!DOCTYPE html>
 <html lang="en">

@@ -4,14 +4,14 @@
 	$dbPass = "Collaboratum";
 	$dbNameGeneral = "collaboratum";
 	$dbNameNetwork = "parsingdata";
-	
+
 	$baseURL = "http://binf1.memphis.edu/Collaboratum";
-	
+
 	$lsiQueryHost = "localhost";
 	$lsiQueryPort = "50005";
-	
+
 	$keywdQueryHost = "localhost";
-	$keywdQueryPort = "50004";    	
+	$keywdQueryPort = "50004";
 
 	/*
 	 * Get the search query and the type of query.
@@ -24,7 +24,7 @@
 	 * 		2 - Return only related investigators. 
 	 * $exactSearch: Whether or not we want to use Keyword search or LSI search.
 	 * 		exactSearch possible values
-	 * 		'true'  - Use Keyword search
+	 * 		'true'	- Use Keyword search
 	 * 		'false' - Use LSI search
 	 */ 
 	$query = $_POST['searchBox'];
@@ -44,7 +44,7 @@
 	$largestSimilarity = 0;
 	$unresolved;
 	$histogram;
-	
+
 	if( isset($_POST['exactSearch']) )
 	{
 		$exactSearch = $_POST['exactSearch'];
@@ -57,51 +57,50 @@
 	{
 		$exactSearch = "false";
 	}
-	
+
 	// if we have a search query to use
-    if(isset($query))
-    {
-    	// If we want to use LSI search
-        if($exactSearch === "false")
-        {
-        	// connect to the LSI query service on port 50005 and query it.
-					$queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
-			  	$queryResult = explode("\n", $queryResult);  
-					$largestSimilarity = 1;
-					$unresolved = $queryResult;
-					$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
-        }
+	if(isset($query))
+	{
+		// If we want to use LSI search
+		if($exactSearch === "false")
+		{
+			// connect to the LSI query service on port 50005 and query it.
+			$queryResult = querySearchService($lsiQueryHost, $lsiQueryPort, $query, $searchType);
+			$queryResult = explode("\n", $queryResult);
+			$largestSimilarity = 1;
+			$unresolved = $queryResult;
+			$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
+		}
 		// TODO finish implementing histogram widget
 		// Otherwise we want to use Keyword search
-        else
-        {
-        	// connect to the Keyword query service on port 50004 and query it.
-					$queryResult = querySearchService($lsiQueryHost, $keywdQueryPort, $query, $searchType);
-          $queryResult = explode("\n", $queryResult);
-					$largestSimilarity = findLargestSimilarity( $queryResult );
-					
-					//echo "finish similar";
-					if($exactSearch === "true" )
-					{
-						// pass the largest similarity from the keyword search
-						$histogram = generateHistogramData($queryResult, 0, $largestSimilarity);
-					}
-					else {
-						// the range of similarity scores for LSI is -1 to 1.
-						$histogram = generateHistogramData($queryResult, -1, 1);
-					}
-					$unresolved = $queryResult;
-					$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
-        }
-		
-		
-    }
+		else
+		{
+			// connect to the Keyword query service on port 50004 and query it.
+			$queryResult = querySearchService($lsiQueryHost, $keywdQueryPort, $query, $searchType);
+			$queryResult = explode("\n", $queryResult);
+			$largestSimilarity = findLargestSimilarity( $queryResult );
+
+				//echo "finish similar";
+				if($exactSearch === "true" )
+				{
+					// pass the largest similarity from the keyword search
+					$histogram = generateHistogramData($queryResult, 0, $largestSimilarity);
+				}
+				else {
+					// the range of similarity scores for LSI is -1 to 1.
+					$histogram = generateHistogramData($queryResult, -1, 1);
+				}
+				$unresolved = $queryResult;
+				$queryResult = resolveIDs( $queryResult, $dbHost, $dbUser, $dbPass );
+			}
+
+	}
 	// There was no search query to use.
-    else
-    {
-        echo "There was an error performing the search";
-    }
-	
+	else
+	{
+			echo "There was an error performing the search";
+	}
+
 	/*
 	 * $data is the array that contains scores.
 	 * $min is the minimum score that can be encountered.
@@ -131,13 +130,13 @@
 		$histogram[19] = 0;
 		// for each similarity score.
 		for($i = 0; $i < count($data) - 1; $i++)
-	    {
-	    	// get the similarity
+		{
+			// get the similarity
 			$entry = explode(" ", $data[$i]);
-		    $name = "";
+			$name = "";
 			$entry = explode(" ", $data[count($entry)]);
 			$similarity = $entry[count($entry) - 1 ];
-			
+
 			// update the count depending on the range that $similarity falls into.
 			if($similarity >= -1 && $similarity <= -.9) {
 				$histogram[0] = $histogram[0] + 1;
@@ -199,44 +198,43 @@
 			else if($similarity > .9 && $similarity <= 1){
 				$histogram[19] = $histogram[19] + 1;
 			}
-	    }
+		}
 		return $histogram;
 	}
-    
+
 	function findLargestSimilarity( $data )
 	{
 		$largest = 0;
 		for($i = 0; $i < count($data) - 1; $i++)
-	    {
-	    	/*
-			 *  convert the line into an array, where each index is a word separated by a space.
-			 *  For example say, $unresolvedIDs[0] = "1531 1.312"
-			 *  The string "1531 1.312" is composed of two parts. The first part is an ID that can 
-			 *  be resolved against the Collaboratum database. The second part is a similarity or 
+		{
+				/*
+			 *	convert the line into an array, where each index is a word separated by a space.
+			 *	For example say, $unresolvedIDs[0] = "1531 1.312"
+			 *	The string "1531 1.312" is composed of two parts. The first part is an ID that can 
+			 *	be resolved against the Collaboratum database. The second part is a similarity or 
 			 * 	ranking score used to determine how relevant this result is to the search query.
 			 * 
-			 *  When we explode(" ", "1531 1.312") we get an array $entry where
-			 *  $entry[0] = "1531"
-			 *  $entry[1] = "1.312"
+			 *	When we explode(" ", "1531 1.312") we get an array $entry where
+			 *	$entry[0] = "1531"
+			 *	$entry[1] = "1.312"
 			 */ 
 			 $entry = explode(" ", $data[$i]);
-		     $name = "";
+			 $name = "";
 			 $entry = explode(" ", $data[count($entry)]);
 			 
-			
-			$similarity = $entry[count($entry) - 1 ];
-			
-			if ($similarity > $largest)
-			{
-				$largest = $similarity;
-			}
-	    }
+			 $similarity = $entry[count($entry) - 1 ];
+
+			 if ($similarity > $largest)
+			 {
+					$largest = $similarity;
+			 }
+		}
 		return $largest + 0.5;
 	}
-	
+
 	/**
 	 * Description: This function takes IDs returned by query services from their database and resolves them
-	 * to an investigator or grant name.  
+	 * to an investigator or grant name.
 	 * 
 	 * Parameters:
 	 * $unresolvedIDs: This is an array that contains all of the IDs from the query service
@@ -245,53 +243,53 @@
 	function resolveIDs( $unresolvedIDs, $dbHost, $dbUser, $dbPass )
 	{
 		// Now we connect to the Collaboratum database
-		
-	    $con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
-			
+
+		$con = mysql_connect($dbHost, $dbUser, $dbPass) or die(mysql_error());
+
 		$resolvedIDs = array();
 		// for each line in $unresolvedIDs
-	    for($i = 0; $i < count($unresolvedIDs) - 1; $i++)
-	    {
-	    	/*
-			 *  convert the line into an array, where each index is a word separated by a space.
-			 *  For example say, $unresolvedIDs[0] = "1531 1.312"
-			 *  The string "1531 1.312" is composed of two parts. The first part is an ID that can 
-			 *  be resolved against the Collaboratum database. The second part is a similarity or 
+		for($i = 0; $i < count($unresolvedIDs) - 1; $i++)
+		{
+				/*
+			 *	convert the line into an array, where each index is a word separated by a space.
+			 *	For example say, $unresolvedIDs[0] = "1531 1.312"
+			 *	The string "1531 1.312" is composed of two parts. The first part is an ID that can 
+			 *	be resolved against the Collaboratum database. The second part is a similarity or 
 			 * 	ranking score used to determine how relevant this result is to the search query.
 			 * 
-			 *  When we explode(" ", "1531 1.312") we get an array $entry where
-			 *  $entry[0] = "1531"
-			 *  $entry[1] = "1.312"
+			 *	When we explode(" ", "1531 1.312") we get an array $entry where
+			 *	$entry[0] = "1531"
+			 *	$entry[1] = "1.312"
 			 */ 
-	        $entry = explode(" ", $unresolvedIDs[$i]);
-		// When we explode this tring there will be more array entries than we need. This is because the sever inserts multiple spaces
-		// to visually align the id and similiarity scores in output.
+			$entry = explode(" ", $unresolvedIDs[$i]);
+			// When we explode this tring there will be more array entries than we need. This is because the sever inserts multiple spaces
+			// to visually align the id and similiarity scores in output.
 
-		// TODO modify the lsi and keyword python servers to only have one space in between the id and sim score.	
-	        // Then we query the Collaboratum database with the ID($entry[0]) from our exploded array, $entry.
-		$entry[1] = $entry[count($entry)-1];
-		$size = count($entry);
-		for( $j = 4; $j < $size; $j++)
-		{
-			unset($entry[$j]);
-		}
-		$entry = array_values($entry);
+			// TODO modify the lsi and keyword python servers to only have one space in between the id and sim score.
+			// Then we query the Collaboratum database with the ID($entry[0]) from our exploded array, $entry.
+			$entry[1] = $entry[count($entry)-1];
+			$size = count($entry);
+			for( $j = 4; $j < $size; $j++)
+			{
+				unset($entry[$j]);
+			}
+			$entry = array_values($entry);
 
-	        $resolvedID = mysql_query("SELECT collaboratum.investigator.first_name, collaboratum.investigator.type FROM collaboratum.investigator WHERE collaboratum.investigator.investigator_id = ".$entry[0]."")
-	        or die(mysql_error());  
-	
+			$resolvedID = mysql_query("SELECT collaboratum.investigator.first_name, collaboratum.investigator.type FROM collaboratum.investigator WHERE collaboratum.investigator.investigator_id = ".$entry[0]."")
+					or die(mysql_error());
+
 			// Then we take the results from the database and store them in
-	        $row = mysql_fetch_array( $resolvedID);
-	        // Then we overwrite the id with the textual name from the database.
-		$entry[2] = $entry[0];  
-	        $entry[0] = $row['first_name'];
-		// also store the type
-		$entry[3] = $row['type'];
-	        $resolvedIDs[$i] = implode("`", $entry);
-	    }
+			$row = mysql_fetch_array( $resolvedID);
+			// Then we overwrite the id with the textual name from the database.
+			$entry[2] = $entry[0];
+			$entry[0] = $row['first_name'];
+			// also store the type
+			$entry[3] = $row['type'];
+			$resolvedIDs[$i] = implode("`", $entry);
+		}
 		return $resolvedIDs;
 	}
-	
+
 	/**
 	 * Description: This function connects to the given query service, queries it, and returns the results from 
 	 * the query service.
@@ -306,66 +304,60 @@
 	 * 		1 - return results containing only grants
 	 * 		2 - return results containing only investigators.
 	 */
-    function querySearchService($hostname, $port, $query, $type)
-    {     //echo "enter";
-        $sock = socket_create(AF_INET, SOCK_STREAM, 0);
-        $message = $type." | ".$query;
-        
-		if(!($sock = socket_create(AF_INET, SOCK_STREAM, 0)))
-        {
-            $errorcode = socket_last_error();
-            $errormsg = socket_strerror($errorcode);
-            die("Couldn't create socket: [$errorcode] $errormsg \n");
-        }
-        //echo "creation";
-        if(!socket_connect($sock , $hostname, $port))
-        {
-            $errorcode = socket_last_error();
-            $errormsg = socket_strerror($errorcode);
-            die("Could not connect: [$errorcode] $errormsg \n");
-        }
-                
-        //Send the message to the server
-        if( ! socket_send ( $sock , $message , strlen($message) , 0))
-        {
-            $errorcode = socket_last_error();
-            $errormsg = socket_strerror($errorcode);
-            die("Could not send data: [$errorcode] $errormsg \n");
-        }   
-         
-        //Now receive reply from server into 
-	$buffer = "";
-	$in = "";
+		function querySearchService($hostname, $port, $query, $type)
+		{		 //echo "enter";
+				$sock = socket_create(AF_INET, SOCK_STREAM, 0);
+				$message = $type." | ".$query;
 
-	//while( ( $res = socket_recv($sock, $buffer, 1, MSG_PEEK) ) != FALSE && $buffer != "\0" )
-	{
-		
-		socket_recv($sock, $buffer, 2048, MSG_WAITALL);
-		$in .= $buffer;
-		//echo $buffer . "  ";
-	}
-	$message = "ack";
-        if( !socket_send( $sock, $message, strlen($message), 0 ) )
-        {
-                $errorcode = socket_last_error();
-                $errormsg = socket_strerror($errorcode);
-                die("Could not send acknowledgement: [$errorcode] $errrormsg \n");
-        }
+				if(!($sock = socket_create(AF_INET, SOCK_STREAM, 0)))
+				{
+						$errorcode = socket_last_error();
+						$errormsg = socket_strerror($errorcode);
+						die("Couldn't create socket: [$errorcode] $errormsg \n");
+				}
+				//echo "creation";
+				if(!socket_connect($sock , $hostname, $port))
+				{
+						$errorcode = socket_last_error();
+						$errormsg = socket_strerror($errorcode);
+						die("Could not connect: [$errorcode] $errormsg \n");
+				}
 
-	
-        //return the search results
-        return $in;
+				//Send the message to the server
+				if( ! socket_send ( $sock , $message , strlen($message) , 0))
+				{
+						$errorcode = socket_last_error();
+						$errormsg = socket_strerror($errorcode);
+						die("Could not send data: [$errorcode] $errormsg \n");
+				}	 
+				 
+				//Now receive reply from server into 
+				$buffer = "";
+				$in = "";
 
-        
-    }
-    
+				//while( ( $res = socket_recv($sock, $buffer, 1, MSG_PEEK) ) != FALSE && $buffer != "\0" )
+				//{
+
+					socket_recv($sock, $buffer, 2048, MSG_WAITALL);
+					$in .= $buffer;
+					//echo $buffer . "	";
+				//}
+				$message = "ack";
+				if( !socket_send( $sock, $message, strlen($message), 0 ) )
+				{
+					$errorcode = socket_last_error();
+					$errormsg = socket_strerror($errorcode);
+							die("Could not send acknowledgement: [$errorcode] $errrormsg \n");
+				}
+
+				//return the search results
+				return $in;
+		}
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<?php
-		?>
 		<title>Collaboratum Home</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- Bootstrap -->
@@ -375,7 +367,7 @@
 			body {
 				padding: 40px;
 			}
-			
+
 			#explorerTabContent {
 				height: 100% !important;
 			}
@@ -406,30 +398,30 @@
 							</li>
 							<li class="divider-vertical"></li>
 							<li class="dropdown">
-							    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-							    	Browse Faculty Networks	
-							    	<i class="icon-share-alt"></i>
-							    	
-							    </a>
-							    <ul class="dropdown-menu">
-							    	<li>
-							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
-							    			Biology 
-							    		</a>
-							    	</li>
-							    	<li>
-							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
-							    			Chemistry
-							    		</a>
-							    	</li>
-							    	<li>
-							    		<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
-							    			Biomedical Engineering
-							    		</a>
-							    	</li>
-							    </ul>
-						    </li>
-						    <li class="divider-vertical"></li>
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+										Browse Faculty Networks
+										<i class="icon-share-alt"></i>
+
+									</a>
+									<ul class="dropdown-menu">
+										<li>
+											<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=1&endId=28&title=Biology">
+												Biology 
+											</a>
+										</li>
+										<li>
+											<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=38&endId=57&title=Chemistry">
+												Chemistry
+											</a>
+										</li>
+										<li>
+											<a href="http://binf1.memphis.edu/Collaboratum/views/subnet.php?startId=29&endId=38&title=Biomedical%20Engineering">
+												Biomedical Engineering
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li class="divider-vertical"></li>
 								<li>
 									<div id="mySwitch" class="make-switch" data-text-label="" data-animated="true" data-on-label="Concept" data-off-label="Keyword" data-on="success" data-off="success">
 										<input type="checkbox" <?php if($exactSearch === "false"){echo 'checked="checked"';}?>>
@@ -445,15 +437,15 @@
 			<!-- Main Content -->
 			<div class="span12">
 				<div class="span9 offset1 text-center">
-                        <div id="cytoscapeweb" style="height: 475px;">
-                            Cytoscape Web will replace the contents of this div with your graph.
-                        </div>
+												<div id="cytoscapeweb" style="height: 475px;">
+														Cytoscape Web will replace the contents of this div with your graph.
+												</div>
 						<p>
 							<label for="amount"> </label>
 							<input type="text" id="amount" style="border: 0; color: #f6931f; font-weight: bold;" />
 						</p>
 						<div id="slider-vertical" style="height: 20px;"></div>
-            	</div>
+							</div>
 				<div class="span2">
 					<img src="http://i.imgur.com/z0pptVF.jpg">
 				</div>
@@ -465,14 +457,14 @@
 					<div class="nav navbar-fixed-bottom">
 						<div class="explorerUI" id="explorer1">
 							<div class="explorer-group">
-						    	<div id="collapsibleDiv" class="explorer-heading navbar-inner"  data-toggle="collapse" data-parent="#explorer1" href="#collapseOne">
-						        	<a class="explorer-toggle offset6">
-						        		<i class="icon-chevron-up"></i>
-						        	</a>
-						    	</div>
-						    	<div id="collapseOne" class="explorer-body collapse in">
-						      		<div class="accordion-inner" style="background-color: #fff;">
-						        		<ul class="nav nav-tabs">
+									<div id="collapsibleDiv" class="explorer-heading navbar-inner"	data-toggle="collapse" data-parent="#explorer1" href="#collapseOne">
+											<a class="explorer-toggle offset6">
+												<i class="icon-chevron-up"></i>
+											</a>
+									</div>
+									<div id="collapseOne" class="explorer-body collapse in">
+											<div class="accordion-inner" style="background-color: #fff;">
+												<ul class="nav nav-tabs">
 											<li>
 												<a href="#search" data-toggle="tab">Search</a>
 											</li>
@@ -484,7 +476,7 @@
 											</li>
 										</ul>
 										<div id="explorerTabContent" class="tab-content">
-											
+
 											<div class="tab-pane fade" id="search">
 												<div class="span12 well">
 													<!-- Begin search widget -->
@@ -492,77 +484,76 @@
 														<div class="span11">
 															<div class="input-prepend input-append text-left">
 																<div class="btn-group">
-															    	<button id="searchTypeButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-															      		Keyword
-															      		<span class="caret"></span>
-															    	</button>
-															    	<ul class="dropdown-menu">
-															   
-															      		<li><a tabindex="-1" href="#" onclick="selectSearch(0);" data-toggle="tooltip" data-placement="right" title="Conceptual search is a more abstract search that provides results which are conceptually similar">Conceptual Search</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectSearch(1);" data-toggle="tooltip" data-placement="right" title="Keyword search provides more 'concrete' results than Conceptual search">Keyword Search(Default)</a></li>
-															      		
-															    	</ul>
-															    </div>
-															    
+																		<button id="searchTypeButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+																				Keyword
+																				<span class="caret"></span>
+																		</button>
+																		<ul class="dropdown-menu">
+																 
+																				<li><a tabindex="-1" href="#" onclick="selectSearch(0);" data-toggle="tooltip" data-placement="right" title="Conceptual search is a more abstract search that provides results which are conceptually similar">Conceptual Search</a></li>
+																				<li><a tabindex="-1" href="#" onclick="selectSearch(1);" data-toggle="tooltip" data-placement="right" title="Keyword search provides more 'concrete' results than Conceptual search">Keyword Search(Default)</a></li>
+
+																		</ul>
+																	</div>
+
 																<input name="searchBox" type="text" class="input-xlarge" placeholder="Enter your Query..">
-																
+
 																<div class="btn-group">
-															    	<button id="filterButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-															      		Filter
-															      		<span class="caret"></span>
-															    	</button>
-															    	<ul class="dropdown-menu">
-															    		<li><a tabindex="-1" href="#" onclick="selectFilter(0);">Everything(Default)</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(1);">Grants Only</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Researchers Only</a></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(3);">Classes Only</a></li>
-															      		<li class="divider"></li>
-															      		<li><a tabindex="-1" href="#" onclick="selectFilter(4);" data-toggle="modal" data-target="#customFilterModal">Build Custom Filter</a></li>
-															    	</ul>
-															    </div>
+																		<button id="filterButton" type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+																				Filter
+																				<span class="caret"></span>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li><a tabindex="-1" href="#" onclick="selectFilter(0);">Everything(Default)</a></li>
+																				<li><a tabindex="-1" href="#" onclick="selectFilter(1);">Grants Only</a></li>
+																				<li><a tabindex="-1" href="#" onclick="selectFilter(2);">Researchers Only</a></li>
+																				<li><a tabindex="-1" href="#" onclick="selectFilter(3);">Classes Only</a></li>
+																				<li class="divider"></li>
+																				<li><a tabindex="-1" href="#" onclick="selectFilter(4);" data-toggle="modal" data-target="#customFilterModal">Build Custom Filter</a></li>
+																		</ul>
+																	</div>
 																<input id="searchType" type="hidden" name="exactSearch" value="true"> Keyword Search
-								                    			<input id="filterType" type="hidden" name="searchType" value="0"> 
-								                    			<input id="isFlashEnabled" name="isFlashEnabled" type="hidden" value="">
+																					<input id="filterType" type="hidden" name="searchType" value="0"> 
+																					<input id="isFlashEnabled" name="isFlashEnabled" type="hidden" value="">
 															</div>
-														    <button type="submit" class="btn btn-primary">Search!</button> 
+																<button type="submit" class="btn btn-primary">Search!</button> 
 														</div>
 													</form>
 													<!-- End Search Widget -->
 												</div>
 											</div>
-											
+
 											<div class="tab-pane fade active in" id="results">
 												<div id="searchResults">
-							                        <table class="table table-striped table-hover table-condensed">
-							                            <thead>
-							                                <tr>
-							                                    <td>#</td>
-							                                    <td>Name</td>
-											    				<td>Similiarity</td>
-							                                </tr>
-							                            </thead>
-							                                <tbody>
-							                                    <?php
-													               // the number of results
-								                                   	$numResults = 0;
-																	$id = "";
-							                                        for($i = 0; $i < count($queryResult); $i++)
-							                                        {
-							                                           $id = "";
-							                                           $entry = explode("`", $queryResult[$i]);
-																	  
-																	   
-																	   $name = $entry[0];
-																	   $score = $entry[1]; 
-																	   $id = $entry[2];
-																	   $type = $entry[3];
-																	   $tempName = trim($name);
-																	   if($tempName == "")
-																	   {
-																	   	$name = "No Title Found";
-																	   }
-								                    				   if($score > 0)
-												     				   {
+																			<table class="table table-striped table-hover table-condensed">
+																					<thead>
+																							<tr>
+																									<td>#</td>
+																									<td>Name</td>
+																	<td>Similiarity</td>
+																							</tr>
+																					</thead>
+																							<tbody>
+																								<?php
+																				 					// the number of results
+																									$numResults = 0;
+																									$id = "";
+																									for($i = 0; $i < count($queryResult); $i++) {
+																											$id = "";
+																												 $entry = explode("`", $queryResult[$i]);
+
+																		 
+																		 $name = $entry[0];
+																		 $score = $entry[1]; 
+																		 $id = $entry[2];
+																		 $type = $entry[3];
+																		 $tempName = trim($name);
+																		 if($tempName == "")
+																		 {
+																		 	$name = "No Title Found";
+																		 }
+																							 if($score > 0)
+														 					 {
 																			$numResults++;
 																			if($id <= 57)
 																			{
@@ -592,124 +583,123 @@
 																				</td>
 																				</tr>';
 																			}
-else {
+																			else {
+																				echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.php?id='.$id.'">'.$name.'</a></td><td>'.($score).'</td></tr>';
+																			}
+																		}
+																	}
+																									?>
+																							</tbody>
+																							<tfoot>
+																									<tr>
+																											<td>
+																													<!-- Empty Column -->
+																											</td>
+																											<td>
+																															# results found:
+																											</td>
+																											<td>
+																															<?php echo $numResults; ?>
+																											</td>
+																									</tr>
+																							</tfoot>
+																					</table>
+																</div>
 
-echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.php?id='.$id.'">'.$name.'</a></td><td>'.($score).'</td></tr>';
-}
-												 					   }
-							                                        }
-							                                    ?>
-							                                </tbody>
-							                                <tfoot>
-							                                    <tr>
-							                                        <td>
-							                                            <!-- Empty Column -->
-							                                        </td>
-							                                        <td>
-							                                                # results found:
-							                                        </td>
-							                                        <td>
-							                                                <?php echo $numResults; ?>
-							                                        </td>
-							                                    </tr>
-							                                </tfoot>
-							                            </table>
-						                		</div>
-						
-						           			</div><!-- End results -->
+											 			</div><!-- End results -->
 											<div class="tab-pane fade" id="statistics">
 												<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 												<script type="text/javascript">
-											      google.load("visualization", "1", {packages:["corechart"]});
-											      google.setOnLoadCallback(drawChart);
-											      function drawChart() {
-											        var data = new google.visualization.DataTable();
-											        data.addColumn('string', 'Similarity Range'); // Implicit domain label col.
+														google.load("visualization", "1", {packages:["corechart"]});
+														google.setOnLoadCallback(drawChart);
+														function drawChart() {
+															var data = new google.visualization.DataTable();
+															data.addColumn('string', 'Similarity Range'); // Implicit domain label col.
 													data.addColumn('number', '# Entities');
 													data.addColumn({type: 'string', role: 'tooltip'});
-													
-													
-											        data.addRows([ 
-											          <?php
-											          	// if we are using LSI. Use 20 columns from -1 to 1
-											          	if($exactSearch === "false")
+
+
+															data.addRows([ 
+																<?php
+																	// if we are using LSI. Use 20 columns from -1 to 1
+																	if($exactSearch === "false")
 														{
-												          	echo "['>=-1',  ".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
-														          ['>-.9',  ".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
-														          ['>-.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
-														          ['>-.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
-														          ['>-.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
-														          ['>-.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
-														          ['>-.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
-														          ['>-.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
-														          ['>-.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
-														          ['>-.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
-														          ['<0.1',  ".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
-														          ['<0.2',  ".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
-														          ['<0.3',  ".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
-														          ['<0.4',  ".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
-														          ['<0.5',  ".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
-														          ['<0.6',  ".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
-														          ['<0.7',  ".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
-														          ['<0.8',  ".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
-														          ['<0.9',  ".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
-														          ['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
+																		echo "['>=-1',	".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
+																			['>-.9',	".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
+																			['>-.8',	".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
+																			['>-.7',	".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
+																			['>-.6',	".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
+																			['>-.5',	".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
+																			['>-.4',	".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
+																			['>-.3',	".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
+																			['>-.2',	".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
+																			['>-.1',	".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
+																			['<0.1',	".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
+																			['<0.2',	".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
+																			['<0.3',	".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
+																			['<0.4',	".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
+																			['<0.5',	".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
+																			['<0.6',	".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
+																			['<0.7',	".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
+																			['<0.8',	".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
+																			['<0.9',	".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
+																			['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
 														}
 														// Otherwise using Keyword, use 20 columns from 0 to max.
 														else {
-															echo "['>=-1',  ".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
-														          ['>-.9',  ".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
-														          ['>-.8',  ".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
-														          ['>-.7',  ".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
-														          ['>-.6',  ".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
-														          ['>-.5',  ".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
-														          ['>-.4',  ".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
-														          ['>-.3',  ".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
-														          ['>-.2',  ".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
-														          ['>-.1',  ".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
-														          ['<0.1',  ".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
-														          ['<0.2',  ".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
-														          ['<0.3',  ".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
-														          ['<0.4',  ".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
-														          ['<0.5',  ".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
-														          ['<0.6',  ".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
-														          ['<0.7',  ".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
-														          ['<0.8',  ".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
-														          ['<0.9',  ".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
-														          ['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
+															echo "['>=-1',	".$histogram[0].", '>= -1 Similarity \u000D\u000A Percent: %".($histogram[0]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[0]."'],
+																			['>-.9',	".$histogram[1].", '> -.9 Similarity \u000D\u000A Percent: %".($histogram[1]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[1]."'],
+																			['>-.8',	".$histogram[2].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[2]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[2]."'],
+																			['>-.7',	".$histogram[3].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[3]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[3]."'],
+																			['>-.6',	".$histogram[4].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[4]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[4]."'],
+																			['>-.5',	".$histogram[5].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[5]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[5]."'],
+																			['>-.4',	".$histogram[6].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[6]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[6]."'],
+																			['>-.3',	".$histogram[7].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[7]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[7]."'],
+																			['>-.2',	".$histogram[8].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[8]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[8]."'],
+																			['>-.1',	".$histogram[9].", '<0.1 Similarity \u000D\u000A Percent: %".($histogram[9]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[9]."'],
+																			['<0.1',	".$histogram[10].", '<0.2 Similarity \u000D\u000A Percent: %".($histogram[10]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[10]."'],
+																			['<0.2',	".$histogram[11].", '<0.3 Similarity \u000D\u000A Percent: %".($histogram[11]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[11]."'],
+																			['<0.3',	".$histogram[12].", '<0.4 Similarity \u000D\u000A Percent: %".($histogram[12]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[12]."'],
+																			['<0.4',	".$histogram[13].", '<0.5 Similarity \u000D\u000A Percent: %".($histogram[13]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[13]."'],
+																			['<0.5',	".$histogram[14].", '<0.6 Similarity \u000D\u000A Percent: %".($histogram[14]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[14]."'],
+																			['<0.6',	".$histogram[15].", '<0.7 Similarity \u000D\u000A Percent: %".($histogram[15]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[15]."'],
+																			['<0.7',	".$histogram[16].", '<0.8 Similarity \u000D\u000A Percent: %".($histogram[16]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[16]."'],
+																			['<0.8',	".$histogram[17].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[17]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[17]."'],
+																			['<0.9',	".$histogram[18].", '<0.9 Similarity \u000D\u000A Percent: %".($histogram[18]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[18]."'],
+																			['<=1', ".$histogram[19].", '<=1.0 Similarity \u000D\u000A Percent: %".($histogram[19]/$totalSimilarEntities)."\u000D\u000A # Entities: ".$histogram[19]."'],";
 														}
-											          ?>
-											        ]);
-											
-											        var options = {
-											          title: 'Distribution of Related Entities',
-											          bar:  {groupWidth: "100%"},
-											          width: 600,
-											          height: 450,
-											          backgroundColor: {strokeWidth: 2, stroke: "#000"},
-											          hAxis: {title: 'Similarity',  titleTextStyle: {color: 'red'}}
-											        };
-											
-											        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-											        chart.draw(data, options);
-											      }
-											    </script>
+																?>
+															]);
+
+															var options = {
+																title: 'Distribution of Related Entities',
+																bar:	{groupWidth: "100%"},
+																width: 600,
+																height: 450,
+																backgroundColor: {strokeWidth: 2, stroke: "#000"},
+																hAxis: {title: 'Similarity',	titleTextStyle: {color: 'red'}}
+															};
+
+															var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+															chart.draw(data, options);
+														}
+													</script>
 												<div id="chart_div" class="span11" style="width: 600px; height: 450px;"></div>
 											</div>
 										</div>
-						      		</div>
-						    	</div>
-						  	</div>
+											</div>
+									</div>
+								</div>
 						</div>
 					</div>
 					<!-- End Nav -->
 				</div>
-			</div>		
+			</div>
 		</div>
 		<!-- End Body Scaffolding -->
-		
+
 		<!-- Begin Modals -->
-		
+
 		<!-- Modal that provides information about Collaboratum --> 
 		<div id="aboutModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="aboutModalLabel" aria-hidden="true">
 			<div class="modal-header">
@@ -717,12 +707,12 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 				<h3 id="aboutModalLabel">About Collaboratum</h3>
 			</div>
 			<ul class="thumbnails">
-  				<li class="span4 center vspace-small">
+					<li class="span4 center vspace-small">
 				</li>
 			</ul>
 			<div class="modal-body">
 				<div class="media">
-                <p class="lead">
+								<p class="lead">
 					Collaboratum provides principal investigators with the tools they need to find suitable collaborators and funding relevant to their
 					research. 
 				</p>
@@ -734,7 +724,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 						However, through conceptual search we provide you with the ability to find previously invisible implied associations.
 					</em>
 				</p>
-				
+
 				<h3>Who's Behind This?</h3>
 					<div class="media">
 						<a class="pull-left" href="#">
@@ -750,7 +740,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 			</div>
 		</div>
-		
+
 		<!-- Modal that provides help information for the current page -->
 		<div id="helpModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">
 			<div class="modal-header">
@@ -766,16 +756,16 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 				</ul>
 				<br>
 				<br>
-				
+
 				<h3><a name="help1">Search Interface(Overview):</a></h3>
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface.png"><br>
-				
+
 				<p style="text-indent: 3em;">The search interface is the first way in which you'll interact with CollaboratUM. It has several components that allow you to specify what datasets you'd like to search and how you'd like to search them. The interface is composed of 2 drop down lists, a text input for entering queries, and a submit button. The first drop down list, labeled as "Keyword" by default, allows you to select your search method. The second drop down list, labeled as "Filter" by default, allows you to specify the datasets you'd like to search within. 
 				<br>
 				<br>
 				<h3><a name="help2">Search Interface (Search Methods):</a></h3>
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface2.png"><br>
-				<p>The search methods available at this time are a keyword search algorithm, and an LSI search algorithm.  What’s the difference between the two?</p>
+				<p>The search methods available at this time are a keyword search algorithm, and an LSI search algorithm.	What’s the difference between the two?</p>
 				<ul>
 					<li>Keyword Search - A keyword search is what most users will be familiar with. It looks for direct associations between a datum and the given keywords. This is done by measuring how frequently a keyword is seen within that datum. </li>
 					<li>Conceptual Search - A LSI(Latent Semantic Indexing) search differs from keyword search in that it looks for implied associations in a dataset using the given keyword(s). </li>
@@ -786,7 +776,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 
 
 				<h3><a name="help3">Search Interface (Filters):</a></h3>
-				
+
 				<img src="<?php echo $baseURL; ?>/res/images/tutorials/searchinterface3.png"><br>
 				<p style="text-indent: 3em;">As well as several searching methods there are several "filters" that can be applied. Filters basically allow you to specify what datasets you would like to limit your search to. Our current datasets include a list of Grants automatically pulled from the NIH, Biology classes at the University of Memphis, and a set of 57 Investigators and Faculty at University of Memphis. </p>
 				<p style="text-indent: 3em;">When clicking the filter button, you can elect to search all datasets by selecting "Everything." You can also select to search just for Grants, Researchers, or Classes that are relevant to your query. </p>
@@ -802,7 +792,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 				<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 			</div>
 		</div>
-		
+
 		<!-- Modal that provides an interface for building a custom filter -->
 		<div id="customFilterModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="customFilterModalLabel" aria-hidden="true">
 			<div class="modal-header">
@@ -842,13 +832,13 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 			</div>
 		</div>
 		<!-- End Modals -->
-		
+
 		<!-- Begin load JS -->
 		<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/json2.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
-        <script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
+				<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/AC_OETags.min.js"></script>
+				<script type="text/javascript" src="/Collaboratum/res/cytoscape/js/min/cytoscapeweb.min.js"></script>
 		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="../res/bootstrap/js/bootstrap.min.js"></script>   
+		<script src="../res/bootstrap/js/bootstrap.min.js"></script>	 
 		<script src="../res/js/jquery-1.8.2.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/flash_detect.js" type="text/javascript" charset="utf-8"></script>
 		<script src="../res/js/jquery.infieldlabel.min.js" type="text/javascript"></script>
@@ -868,32 +858,32 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 			});
 		</script>
 		<script type="text/javascript">
-	        /*
-	        * This script determines if flash is installed
-	        * if not it passes a hidden parameter instructing
-	        * the search page to generate a png image of the search's graph
-	        * and display that instead of the cytoscape web swf graph
-	        */
-	
-	        if(FlashDetect.installed)
-	        {
-	                // If flash is installed
-	                $("#isFlashEnabled").val("true");
-	        }
-	        else
-	        {
-	                // If flash isn't installed
-	                $("#isFlashEnabled").val("false");
-	        }
-        </script>
-        <!-- start of Cytoscape Graph Data -->
-        <script type="text/javascript"> 
-            window.onload = function() {
-         
-                // id of Cytoscape Web container div
-                var div_id = "cytoscapeweb";
-				
-                var network_json;
+					/*
+					* This script determines if flash is installed
+					* if not it passes a hidden parameter instructing
+					* the search page to generate a png image of the search's graph
+					* and display that instead of the cytoscape web swf graph
+					*/
+
+					if(FlashDetect.installed)
+					{
+									// If flash is installed
+									$("#isFlashEnabled").val("true");
+					}
+					else
+					{
+									// If flash isn't installed
+									$("#isFlashEnabled").val("false");
+					}
+				</script>
+				<!-- start of Cytoscape Graph Data -->
+				<script type="text/javascript"> 
+						window.onload = function() {
+				 
+								// id of Cytoscape Web container div
+								var div_id = "cytoscapeweb";
+
+								var network_json;
 				$.ajax({
 					type: 'POST',
 					url: "../res/scripts/getGraph.php",
@@ -909,55 +899,55 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 					}
 				});
 
-  var nodeColorMapper = {
-                          "attrName": "type",
-                          "entries": [ { "attrValue": "investigator", "value": "#0000ff" }, { "attrValue": "queryTerm", "value": "#ff0000"}, {"attrValue": "grant", "value":"#00ff00"} ]
-                  };
+	var nodeColorMapper = {
+													"attrName": "type",
+													"entries": [ { "attrValue": "investigator", "value": "#0000ff" }, { "attrValue": "queryTerm", "value": "#ff0000"}, {"attrValue": "grant", "value":"#00ff00"} ]
+									};
 
-                  // NOTE the "compound" prefix in some visual properties
-                  var visual_style = {
-                      "nodes": {
-                          "shape": "RECTANGLE",
-                          "label": "", //{ "passthroughMapper": { "attrName": "label" } },
-                          "borderColor": "#83959d",
-                          "color": { "discreteMapper": nodeColorMapper  },
-                      },
+									// NOTE the "compound" prefix in some visual properties
+									var visual_style = {
+											"nodes": {
+													"shape": "RECTANGLE",
+													"label": "", //{ "passthroughMapper": { "attrName": "label" } },
+													"borderColor": "#83959d",
+													"color": { "discreteMapper": nodeColorMapper	},
+											},
 											"edges": {
 												"tooltipText": "Common Terms: "
 											}
-                  };
+									};
 
-                // initialization options
-                var options = {
-                    swfPath: "/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
-                    flashInstallerPath: "/Collaboratum/res/cytoscape/swf/playerProductInstall"
-                };
+								// initialization options
+								var options = {
+										swfPath: "/Collaboratum/res/cytoscape/swf/CytoscapeWeb",
+										flashInstallerPath: "/Collaboratum/res/cytoscape/swf/playerProductInstall"
+								};
 
-                var vis = new org.cytoscapeweb.Visualization(div_id, options);
-                // 2. Add a context menu item any time after the network is ready:
-  							vis.ready(function () {
+								var vis = new org.cytoscapeweb.Visualization(div_id, options);
+								// 2. Add a context menu item any time after the network is ready:
+								vis.ready(function () {
  							 });
 
 		vis.ready(function() {
-                    // set the style programmatically
-			
-                });
+										// set the style programmatically
 
-                var draw_options = {
-                    // your data goes here
-                    network: network_json,
-                    // set the style at initialisation
-                    visualStyle: visual_style,
-                    // hide pan zoom
-                    panZoomControlVisible: true,
+								});
+
+								var draw_options = {
+										// your data goes here
+										network: network_json,
+										// set the style at initialisation
+										visualStyle: visual_style,
+										// hide pan zoom
+										panZoomControlVisible: true,
 										nodeTooltipsEnabled: true,
 										edgeTooltipsEnabled: true
-                };
+								};
 
-                vis.draw(draw_options);
-            };
-        </script> <!-- End of Cytoscape graph data -->
-        <script type="text/javascript"> <!-- start of scale bar script -->
+								vis.draw(draw_options);
+						};
+				</script> <!-- End of Cytoscape graph data -->
+				<script type="text/javascript"> <!-- start of scale bar script -->
 		$(function() {
 			$( "#slider-vertical" ).slider({
 				orienatation: "vertical",
@@ -988,27 +978,27 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 
 
  var nodeColorMapper = {
-                         "attrName": "type",
-                         "entries": [ { "attrValue": "investigator", "value": "#0000ff" }, { "attrValue": "queryTerm", "value": "#ff0000"}, {"attrValue": "grant", "value":"#00ff00"} ]
-                 };
+												 "attrName": "type",
+												 "entries": [ { "attrValue": "investigator", "value": "#0000ff" }, { "attrValue": "queryTerm", "value": "#ff0000"}, {"attrValue": "grant", "value":"#00ff00"} ]
+								 };
 
-                 // NOTE the "compound" prefix in some visual properties
-                 var visual_style = {
-                     "nodes": {
-                         "shape": "RECTANGLE",
-                         "label": { "passthroughMapper": { "attrName": "label" } },
-                         "borderColor": "#83959d",
-                         "color": { "discreteMapper": nodeColorMapper  },
-                     }
-                 };
+								 // NOTE the "compound" prefix in some visual properties
+								 var visual_style = {
+										 "nodes": {
+												 "shape": "RECTANGLE",
+												 "label": { "passthroughMapper": { "attrName": "label" } },
+												 "borderColor": "#83959d",
+												 "color": { "discreteMapper": nodeColorMapper	},
+										 }
+								 };
 
 
 										var vis = new org.cytoscapeweb.Visualization(div_id, options);
 // 2. Add a context menu item any time after the network is ready:
-  vis.ready(function () {
+	vis.ready(function () {
 			vis.addContextMenuItem("View More Information", "nodes", 
 				function(evt) {
-					
+
 					var node = evt.target;
 					var id = node.data.id;
 					if(id <= 57) {
@@ -1037,7 +1027,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 										};
 
 										vis.draw(draw_options);
-										
+
 									}
 									catch(err)
 									{
@@ -1052,138 +1042,138 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 			});
 			$( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
 		});
-	</script> <!-- End of scale bar script -->		
+	</script> <!-- End of scale bar script -->
 	<script type="text/javascript">
-        	/*
-        	 * This script updates the search type to be used
-        	 */
-        	function selectSearch( searchType )
-        	{
-        		// Do LSI Search if search type is 0
-        		if(searchType == 0)
-        		{
-        			$("#searchType").val('false');
-        			$("#searchTypeButton").text("Conceptual");
-        		}
-        		//If search type is 1 do Keyword search
-        		else if(searchType == 1)
-        		{
-        			$("#searchType").val('true');
-        			$("#searchTypeButton").text("Keyword");
-        		}
-        	}
-        
-        	/*
-        	 * This script updates the filter to be applied to the search.
-        	 * It does this by modifying a hidden input on the search <form>
-        	 * 
-        	 * filterType = 0 : Everything will be returned in search results
-        	 * filterType = 1 : Only grants will be returned in search results
-        	 * filterType = 2 : Only collaborators will be returned in search results
-        	 * filterType = 3 : Only classes will be returned in search results
-        	 * filterType = 4 : A custom search filter has been applied to search results
-        	 */
-        	function selectFilter( filterType )
-        	{
-        		if(filterType == 0)
-        		{
-        			$("#filterButton").text("Everything");
-        			$("#filterType").val('0');
+					/*
+					 * This script updates the search type to be used
+					 */
+					function selectSearch( searchType )
+					{
+						// Do LSI Search if search type is 0
+						if(searchType == 0)
+						{
+							$("#searchType").val('false');
+							$("#searchTypeButton").text("Conceptual");
+						}
+						//If search type is 1 do Keyword search
+						else if(searchType == 1)
+						{
+							$("#searchType").val('true');
+							$("#searchTypeButton").text("Keyword");
+						}
+					}
+
+					/*
+					 * This script updates the filter to be applied to the search.
+					 * It does this by modifying a hidden input on the search <form>
+					 * 
+					 * filterType = 0 : Everything will be returned in search results
+					 * filterType = 1 : Only grants will be returned in search results
+					 * filterType = 2 : Only collaborators will be returned in search results
+					 * filterType = 3 : Only classes will be returned in search results
+					 * filterType = 4 : A custom search filter has been applied to search results
+					 */
+					function selectFilter( filterType )
+					{
+						if(filterType == 0)
+						{
+							$("#filterButton").text("Everything");
+							$("#filterType").val('0');
 				}
-        		if(filterType == 1)
-        		{
-        			$("#filterButton").text("Grants");
-        			$("#filterType").val('1');
-        		}
-        		if(filterType == 2)
-        		{
-        			$("#filterButton").text("Researchers");
-        			$("#filterType").val('2');
-        		}
-        		if(filterType == 3)
-        		{
-        			$("#filterButton").text("Classes");
-        			$("#filterType").val('3');
-        		}
-        		if(filterType == 4)
-        		{
-        			$("#filterButton").text("Custom");
-        			$('#customFilterModal').modal('show');
-        		}
-        	}
-        </script>
-        <script type="text/javascript">
-        	/*
-        	 * This script updates the search type to be used
-        	 */
-        	function selectSearch( searchType )
-        	{
-        		// Do LSI Search if search type is 0
-        		if(searchType == 0)
-        		{
-        			$("#searchType").val('false');
-        			$("#searchTypeButton").text("Conceptual");
-        		}
-        		//If search type is 1 do Keyword search
-        		else if(searchType == 1)
-        		{
-        			$("#searchType").val('true');
-        			$("#searchTypeButton").text("Keyword");
-        		}
-        	}
-        
-        	/*
-        	 * This script updates the filter to be applied to the search.
-        	 * It does this by modifying a hidden input on the search <form>
-        	 * 
-        	 * filterType = 0 : Everything will be returned in search results
-        	 * filterType = 1 : Only grants will be returned in search results
-        	 * filterType = 2 : Only collaborators will be returned in search results
-        	 * filterType = 3 : Only classes will be returned in search results
-        	 * filterType = 4 : A custom search filter has been applied to search results
-        	 */
-        	function selectFilter( filterType )
-        	{
-        		if(filterType == 0)
-        		{
-        			
-        			$("#filterButton").text("Everything");
-        			$("#filterType").val('0');
-        		}
-        		if(filterType == 1)
-        		{
-        			
-        			$("#filterButton").text("Grants");
-        			$("#filterType").val('1');
-        		}
-        		if(filterType == 2)
-        		{
-        			
-        			$("#filterButton").text("Researchers");
-        			$("#filterType").val('2');
-        		}
-        		if(filterType == 3)
-        		{
-        			
-        			$("#filterButton").text("Classes");
-        			$("#filterType").val('3');
-        		}
-        		if(filterType == 4)
-        		{
-        			
-        			$("#filterButton").text("Custom");
+						if(filterType == 1)
+						{
+							$("#filterButton").text("Grants");
+							$("#filterType").val('1');
+						}
+						if(filterType == 2)
+						{
+							$("#filterButton").text("Researchers");
+							$("#filterType").val('2');
+						}
+						if(filterType == 3)
+						{
+							$("#filterButton").text("Classes");
+							$("#filterType").val('3');
+						}
+						if(filterType == 4)
+						{
+							$("#filterButton").text("Custom");
+							$('#customFilterModal').modal('show');
+						}
+					}
+				</script>
+				<script type="text/javascript">
+					/*
+					 * This script updates the search type to be used
+					 */
+					function selectSearch( searchType )
+					{
+						// Do LSI Search if search type is 0
+						if(searchType == 0)
+						{
+							$("#searchType").val('false');
+							$("#searchTypeButton").text("Conceptual");
+						}
+						//If search type is 1 do Keyword search
+						else if(searchType == 1)
+						{
+							$("#searchType").val('true');
+							$("#searchTypeButton").text("Keyword");
+						}
+					}
+
+					/*
+					 * This script updates the filter to be applied to the search.
+					 * It does this by modifying a hidden input on the search <form>
+					 * 
+					 * filterType = 0 : Everything will be returned in search results
+					 * filterType = 1 : Only grants will be returned in search results
+					 * filterType = 2 : Only collaborators will be returned in search results
+					 * filterType = 3 : Only classes will be returned in search results
+					 * filterType = 4 : A custom search filter has been applied to search results
+					 */
+					function selectFilter( filterType )
+					{
+						if(filterType == 0)
+						{
+
+							$("#filterButton").text("Everything");
+							$("#filterType").val('0');
+						}
+						if(filterType == 1)
+						{
+
+							$("#filterButton").text("Grants");
+							$("#filterType").val('1');
+						}
+						if(filterType == 2)
+						{
+
+							$("#filterButton").text("Researchers");
+							$("#filterType").val('2');
+						}
+						if(filterType == 3)
+						{
+
+							$("#filterButton").text("Classes");
+							$("#filterType").val('3');
+						}
+						if(filterType == 4)
+						{
+
+							$("#filterButton").text("Custom");
 					// Wipe the current filter and set all checkboxes to unchecked.
 					$("#filterType").val("");
 					// clear checboxes
 					clearCheckboxes();
 					// Show the modal to allow the client to build a new custom filter.				 
-        			$("#customFilterModal").modal({
+							$("#customFilterModal").modal({
 					show: true,
 					keyboard: true
 				});
-        		}
+						}
 			verifyFilter();
-        	}
+					}
 
 		function clearCheckboxes()
 		{
@@ -1233,13 +1223,13 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 		{
 			// TODO do validation checking using a finite state machine.
 			var curFilter = $("#filterType").val();
-			
+
 			// the filter is not allowed to be empty, default to 0, update UI, and issue warning.
 			if( curFilter === "" )
 			{
-				$("#filterType").val("0");	
-				$("#filterButton").val("Everything");			
-				alert("An invalid search filter has been detected. This search has been reset to search Everything.");	
+				$("#filterType").val("0");
+				$("#filterButton").val("Everything");
+				alert("An invalid search filter has been detected. This search has been reset to search Everything.");
 			}
 			// do a basic check to see if there are any invalid characters present in the filter string
 			for( var i = 0; i < curFilter.length(); i++)
@@ -1251,16 +1241,16 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 					$("#filterButton").val("Everything");
 					alert("An invalid search filter has been detected. This search has been reset to search Everything.");
 				}
-			}	
+			}
 		}
-        </script>
+				</script>
 	<script type="text/javascript">
 		/*
 			This script handles the lsi/keyword switch toggle at the top
 			of the page
 		*/
 		$('#mySwitch').on('switch-change', function (e, data) {
-    	var value = data.value;
+			var value = data.value;
 			if(value == true) {
 				//Concept Search
 				window.location.href = "<?php echo "http://binf1.memphis.edu/Collaboratum/views/results.php?searchBox=".$_GET['searchBox']."&exactSearch=false&searchType=0"//.$searchType; ?>";
@@ -1275,7 +1265,7 @@ echo '<tr><td>'.($numResults).'</td><td><a href="/Collaboratum/views/classInfo.p
 			var value = data.value;
 			if(value == true) {
 				//enable labeling
-			
+
 			}
 			else {
 				//disable labeling
